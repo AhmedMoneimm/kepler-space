@@ -16,7 +16,9 @@ const InteractiveQuizzes: React.FC = () => {
   const [isAnswerCorrect, setIsAnswerCorrect] = useState<boolean | null>(null);
   
   useEffect(() => {
-    setQuizzes(quizData); // Set quizzes state with imported data
+    // Shuffle the quiz data and select 3 random questions
+    const shuffledQuizzes = quizData.sort(() => 0.5 - Math.random()).slice(0, 3);
+    setQuizzes(shuffledQuizzes); // Set quizzes state with selected random questions
   }, []);
 
   const handleOptionClick = (option: string) => {

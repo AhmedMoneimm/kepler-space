@@ -13,6 +13,475 @@
       "question": "Which planet is famous for its rings?",
       "options": ["Earth", "Jupiter", "Saturn", "Uranus"],
       "answer": "Saturn"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Mercury", "Venus", "Earth", "Mars"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the name of the Red Planet?",
+      "options": ["Jupiter", "Saturn", "Mars", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Which planet has beautiful rings around it?",
+      "options": ["Earth", "Jupiter", "Saturn", "Uranus"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "How do scientists find planets around other stars?",
+      "options": ["Looking for small shadows when planets pass in front of stars", "Listening to space sounds", "Taking close-up pictures", "Flying there with spaceships"],
+      "answer": "Looking for small shadows when planets pass in front of stars"
+    },
+    {
+      "question": "What telescope discovered thousands of new planets?",
+      "options": ["Hubble Telescope", "Kepler Telescope", "James Webb Telescope", "Galileo Telescope"],
+      "answer": "Kepler Telescope"
+    },
+    {
+      "question": "What happens when a planet crosses in front of its star?",
+      "options": ["The star dims a little", "The planet gets brighter", "The star disappears", "The planet grows"],
+      "answer": "The star dims a little"
+    },
+    {
+      "question": "How do scientists know a planet is pulling on its star?",
+      "options": ["The star wobbles", "The star sings", "The planet talks", "The star spins faster"],
+      "answer": "The star wobbles"
+    },
+    {
+      "question": "Which special zone is just right for life, not too hot or cold?",
+      "options": ["The Goldilocks Zone", "The Ice Zone", "The Fire Zone", "The Space Zone"],
+      "answer": "The Goldilocks Zone"
+    },
+    {
+      "question": "What kind of planets are big and gassy, like Jupiter?",
+      "options": ["Gas Giants", "Rocky Planets", "Icy Worlds", "Super-Earths"],
+      "answer": "Gas Giants"
+    },
+    {
+      "question": "Which telescope will help us see exoplanet atmospheres?",
+      "options": ["James Webb Telescope", "Hubble Telescope", "Kepler Telescope", "Spitzer Telescope"],
+      "answer": "James Webb Telescope"
+    },
+    {
+      "question": "What are planets called that orbit two stars?",
+      "options": ["Circumbinary Planets", "Double Planets", "Twin Planets", "Shadow Planets"],
+      "answer": "Circumbinary Planets"
+    },
+    {
+      "question": "What type of light does the James Webb Telescope use to see faraway planets?",
+      "options": ["Infrared Light", "Rainbow Light", "Moonlight", "X-ray Light"],
+      "answer": "Infrared Light"
+    },
+    {
+      "question": "What was the first planet ever found around another sun-like star?",
+      "options": ["51 Pegasi b", "Proxima b", "Kepler-186f", "Jupiter"],
+      "answer": "51 Pegasi b"
+    },
+    {
+      "question": "How do scientists find out what planets' atmospheres are made of?",
+      "options": ["By studying the light passing through them", "By sending robots", "By collecting space dust", "By hearing echoes"],
+      "answer": "By studying the light passing through them"
+    },
+    {
+      "question": "What are 'hot Jupiters'?",
+      "options": ["Big gas planets that are very close to their stars", "Planets that are made of fire", "Moons of Jupiter", "Small icy planets"],
+      "answer": "Big gas planets that are very close to their stars"
+    },
+    {
+      "question": "What does it mean to take a picture of a planet directly?",
+      "options": ["Seeing the planet with a telescope", "Flying close to it", "Drawing it", "Listening to its sounds"],
+      "answer": "Seeing the planet with a telescope"
+    },
+    {
+      "question": "Why is it hard to take pictures of planets around other stars?",
+      "options": ["The stars are too bright", "The planets are invisible", "There are too many stars", "The planets move too fast"],
+      "answer": "The stars are too bright"
+    },
+    {
+      "question": "How can gravity help find planets far away?",
+      "options": ["By bending light from stars", "By shaking planets", "By making planets glow", "By pulling stars closer"],
+      "answer": "By bending light from stars"
+    },
+    {
+      "question": "What type of star is small and red, often with planets?",
+      "options": ["Red Dwarfs", "Blue Giants", "Yellow Dwarfs", "White Stars"],
+      "answer": "Red Dwarfs"
+    },
+    {
+      "question": "What is a 'Super-Earth'?",
+      "options": ["A planet bigger than Earth but smaller than Neptune", "A planet with superheroes", "A super fast planet", "A planet with super moons"],
+      "answer": "A planet bigger than Earth but smaller than Neptune"
+    },
+    {
+      "question": "How does the TESS telescope find planets?",
+      "options": ["By looking for tiny dips in stars' light", "By flying close to planets", "By hearing planets' sounds", "By drawing maps of stars"],
+      "answer": "By looking for tiny dips in stars' light"
+    },
+    {
+      "question": "What is the 'Goldilocks Zone'?",
+      "options": ["The area around a star where it’s not too hot or cold", "A place where stars grow", "A zone where planets disappear", "The part of space made of gold"],
+      "answer": "The area around a star where it’s not too hot or cold"
+    },
+    {
+      "question": "What makes an exoplanet special?",
+      "options": ["It orbits a star outside our solar system", "It’s a tiny planet", "It glows in the dark", "It has rings like Saturn"],
+      "answer": "It orbits a star outside our solar system"
+    },
+    {
+      "question": "How do we know a planet might have life?",
+      "options": ["It has the right temperature for water", "It’s very big", "It shines brightly", "It has lots of moons"],
+      "answer": "It has the right temperature for water"
+    },
+    {
+      "question": "How far is the closest planet outside our solar system?",
+      "options": ["4.2 light-years away", "A million miles", "Next to the Sun", "100 light-years away"],
+      "answer": "4.2 light-years away"
+    },
+    {
+      "question": "What do scientists hope to find in the air of faraway planets?",
+      "options": ["Oxygen", "Dust", "Stars", "Wind"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Which planet is known as Earth's twin because it's similar in size?",
+      "options": ["Venus", "Mars", "Jupiter", "Neptune"],
+      "answer": "Venus"
+    },
+    {
+      "question": "What kind of planet is easiest to find?",
+      "options": ["Big and close to its star", "Tiny and far away", "Invisible planets", "Planets that are cold"],
+      "answer": "Big and close to its star"
+    },
+    {
+      "question": "What do scientists call a planet that doesn’t orbit any star?",
+      "options": ["A rogue planet", "A lost planet", "A fast planet", "A dwarf planet"],
+      "answer": "A rogue planet"
+    },
+    {
+      "question": "Which planet in our solar system has the most moons?",
+      "options": ["Jupiter", "Mars", "Venus", "Earth"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "How are planets outside our solar system (exoplanets) found?",
+      "options": ["By seeing tiny dips in light from stars", "By astronauts", "By drawing them", "By hearing sounds"],
+      "answer": "By seeing tiny dips in light from stars"
+    },
+    {
+      "question": "Which planet is closest to Earth?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": "Venus"
+    },
+    {
+      "question": "What do scientists look for in space to find new planets?",
+      "options": ["Changes in starlight", "Loud noises", "Big spaceships", "Flying objects"],
+      "answer": "Changes in starlight"
+    },
+    {
+      "question": "What’s a telescope used for in space exploration?",
+      "options": ["To see faraway stars and planets", "To fly to planets", "To make noise", "To shine light"],
+      "answer": "To see faraway stars and planets"
+    },
+    {
+      "question": "What is the closest planet to the Sun?",
+      "options": ["Mercury", "Venus", "Earth", "Mars"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What planet is known as the Red Planet?",
+      "options": ["Jupiter", "Saturn", "Mars", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Which planet is famous for its rings?",
+      "options": ["Earth", "Jupiter", "Saturn", "Uranus"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "What method is most commonly used to discover exoplanets?",
+      "options": ["Transit method", "Direct imaging", "Gravitational lensing", "Radial velocity method"],
+      "answer": "Transit method"
+    },
+    {
+      "question": "Which space telescope has been most successful in discovering exoplanets?",
+      "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Kepler Space Telescope", "Spitzer Space Telescope"],
+      "answer": "Kepler Space Telescope"
+    },
+    {
+      "question": "What is the transit method in exoplanet detection?",
+      "options": ["Observing a planet pass in front of its star", "Directly imaging the planet", "Measuring a star's wobble", "Using gravitational lensing"],
+      "answer": "Observing a planet pass in front of its star"
+    },
+    {
+      "question": "How does the radial velocity method detect exoplanets?",
+      "options": ["By detecting the wobble of a star caused by orbiting planets", "By observing a planet's shadow", "By measuring radio signals from planets", "By direct imaging"],
+      "answer": "By detecting the wobble of a star caused by orbiting planets"
+    },
+    {
+      "question": "What characteristic of a star changes slightly when an exoplanet orbits around it, detectable by the radial velocity method?",
+      "options": ["Brightness", "Color", "Velocity", "Size"],
+      "answer": "Velocity"
+    },
+    {
+      "question": "Which space mission focused on finding Earth-like planets using the transit method?",
+      "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Kepler Space Telescope", "Voyager Mission"],
+      "answer": "Kepler Space Telescope"
+    },
+    {
+      "question": "What term describes an exoplanet located in the habitable zone of its star?",
+      "options": ["Goldilocks zone", "Red dwarf zone", "Dark zone", "Galactic habitable zone"],
+      "answer": "Goldilocks zone"
+    },
+    {
+      "question": "Which space telescope is the successor to Kepler, continuing the hunt for exoplanets?",
+      "options": ["James Webb Space Telescope", "TESS (Transiting Exoplanet Survey Satellite)", "Hubble Space Telescope", "Spitzer Space Telescope"],
+      "answer": "TESS (Transiting Exoplanet Survey Satellite)"
+    },
+    {
+      "question": "What is the term for an exoplanet that orbits two stars?",
+      "options": ["Circumbinary planet", "Binary planet", "Super-Earth", "Gas giant"],
+      "answer": "Circumbinary planet"
+    },
+    {
+      "question": "What is the purpose of the James Webb Space Telescope in relation to exoplanets?",
+      "options": ["To directly image exoplanets", "To map exoplanet atmospheres", "To detect planetary magnetic fields", "To discover new stars"],
+      "answer": "To map exoplanet atmospheres"
+    },
+    {
+      "question": "What kind of light does the James Webb Space Telescope use to study exoplanets?",
+      "options": ["Infrared light", "Visible light", "Ultraviolet light", "X-rays"],
+      "answer": "Infrared light"
+    },
+    {
+      "question": "What was the first confirmed exoplanet discovered?",
+      "options": ["PSR B1257+12 b", "51 Pegasi b", "Proxima Centauri b", "Gliese 581 d"],
+      "answer": "51 Pegasi b"
+    },
+    {
+      "question": "Which exoplanet detection method can measure a planet's atmosphere composition?",
+      "options": ["Direct imaging", "Transit spectroscopy", "Radial velocity", "Gravitational lensing"],
+      "answer": "Transit spectroscopy"
+    },
+    {
+      "question": "What are 'hot Jupiters'?",
+      "options": ["Large gas giants orbiting close to their star", "Small rocky planets with thick atmospheres", "Planets made entirely of gas", "Cold planets far from their star"],
+      "answer": "Large gas giants orbiting close to their star"
+    },
+    {
+      "question": "What does 'direct imaging' of exoplanets involve?",
+      "options": ["Photographing a planet with telescopes", "Measuring a star's dimming", "Calculating the distance of a planet", "Measuring star wobble"],
+      "answer": "Photographing a planet with telescopes"
+    },
+    {
+      "question": "What factor makes direct imaging of exoplanets difficult?",
+      "options": ["The distance of the planets", "The brightness of the host star", "The speed of planet orbits", "The composition of the planets"],
+      "answer": "The brightness of the host star"
+    },
+    {
+      "question": "Which exoplanet detection method uses Einstein's theory of general relativity?",
+      "options": ["Gravitational lensing", "Transit method", "Radial velocity", "Direct imaging"],
+      "answer": "Gravitational lensing"
+    },
+    {
+      "question": "Which type of star is most commonly associated with potentially habitable exoplanets?",
+      "options": ["Red dwarfs", "Blue giants", "Yellow dwarfs", "White dwarfs"],
+      "answer": "Red dwarfs"
+    },
+    {
+      "question": "What is the Kepler-452b often referred to as?",
+      "options": ["Earth's cousin", "A hot Jupiter", "A circumbinary planet", "A rogue planet"],
+      "answer": "Earth's cousin"
+    },
+    {
+      "question": "Which of these is NOT a method for discovering exoplanets?",
+      "options": ["Gravitational lensing", "Astrometry", "Stellar parallax", "Microlensing"],
+      "answer": "Stellar parallax"
+    },
+    {
+      "question": "Which mission was launched to discover exoplanets using microlensing?",
+      "options": ["Spitzer Space Telescope", "Kepler Space Telescope", "Roman Space Telescope", "James Webb Space Telescope"],
+      "answer": "Roman Space Telescope"
+    },
+    {
+      "question": "What is the significance of the habitable zone?",
+      "options": ["It’s where water can exist as a liquid", "It’s the closest zone to the star", "It’s where stars form", "It’s where planets are hottest"],
+      "answer": "It’s where water can exist as a liquid"
+    },
+    {
+      "question": "Which planet detection method looks for brightness dips in stars caused by planets crossing in front of them?",
+      "options": ["Transit method", "Direct imaging", "Astrometry", "Gravitational lensing"],
+      "answer": "Transit method"
+    },
+    {
+      "question": "What kind of stars are thought to host the most potentially habitable exoplanets?",
+      "options": ["Red dwarfs", "Yellow dwarfs", "Blue giants", "White dwarfs"],
+      "answer": "Red dwarfs"
+    },
+    {
+      "question": "How far is Proxima Centauri b from Earth?",
+      "options": ["4.2 light-years", "10 light-years", "25 light-years", "100 light-years"],
+      "answer": "4.2 light-years"
+    },
+    {
+      "question": "What instrument is used to detect exoplanet atmospheres?",
+      "options": ["Spectrometer", "Radar", "Telescope", "Microscope"],
+      "answer": "Spectrometer"
+    },
+    {
+      "question": "What is a 'rogue planet'?",
+      "options": ["A planet not orbiting a star", "A planet that changes orbits", "A planet with no atmosphere", "A planet orbiting two stars"],
+      "answer": "A planet not orbiting a star"
+    },
+    {
+      "question": "What do scientists hope to find in exoplanet atmospheres to indicate life?",
+      "options": ["Oxygen", "Carbon monoxide", "Helium", "Ammonia"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What type of exoplanet is easiest to detect?",
+      "options": ["Hot Jupiter", "Super-Earth", "Rogue planet", "Earth-like planet"],
+      "answer": "Hot Jupiter"
+    },
+    {
+      "question": "Which mission focuses on the discovery of Earth-like planets around nearby stars?",
+      "options": ["TESS", "Hubble Space Telescope", "Voyager", "Cassini"],
+      "answer": "TESS"
+    },
+    {
+      "question": "What are super-Earths?",
+      "options": ["Planets larger than Earth but smaller than ice giants", "Planets made mostly of gas", "Planets that orbit two stars", "Planets farther from their star"],
+      "answer": "Planets larger than Earth but smaller than ice giants"
+    },
+    {
+      "question": "What does the TESS mission specialize in?",
+      "options": ["Discovering nearby exoplanets", "Mapping distant galaxies", "Studying the Sun", "Analyzing black holes"],
+      "answer": "Discovering nearby exoplanets"
+    },
+    {
+      "question": "How does gravitational microlensing detect exoplanets?",
+      "options": ["By measuring light bent by gravity", "By observing transits", "By analyzing star wobble", "By detecting reflected light"],
+      "answer": "By measuring light bent by gravity"
+    },
+    {
+      "question": "Which exoplanet detection method is used by ground-based observatories the most?",
+      "options": ["Radial velocity", "Transit method", "Direct imaging", "Microlensing"],
+      "answer": "Radial velocity"
+    },
+    {
+      "question": "What makes exoplanets in the habitable zone potentially able to support life?",
+      "options": ["Moderate temperatures", "Proximity to their star", "Large size", "Dense atmospheres"],
+      "answer": "Moderate temperatures"
+    },
+    {
+      "question": "Which of the following is a method scientists use to confirm the existence of an exoplanet?",
+      "options": ["Transit photometry", "Spectral distortion", "Radio waves", "Cosmic microwave background"],
+      "answer": "Transit photometry"
+    },
+    {
+      "question": "Which planet in our solar system has the largest number of moons?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the closest exoplanet to Earth?",
+      "options": ["Proxima Centauri b", "Kepler-186f", "Gliese 667Cc", "HD 209458 b"],
+      "answer": "Proxima Centauri b"
+    },
+    {
+      "question": "How are exoplanet sizes measured?",
+      "options": ["By their radius compared to Earth", "By their mass", "By their density", "By their orbit speed"],
+      "answer": "By their radius compared to Earth"
+    },
+    {
+      "question": "What is the most common type of exoplanet discovered so far?",
+      "options": ["Hot Jupiters", "Super-Earths", "Gas giants", "Earth-sized planets"],
+      "answer": "Hot Jupiters"
+    },
+    {
+      "question": "How does the Kepler Space Telescope detect exoplanets?",
+      "options": ["By measuring brightness dips during transits", "By measuring star wobble", "By detecting gravitational microlensing", "By directly imaging the planets"],
+      "answer": "By measuring brightness dips during transits"
+    },
+    {
+      "question": "Which star system is the closest to the Solar System?",
+      "options": ["Alpha Centauri", "Sirius", "Betelgeuse", "Vega"],
+      "answer": "Alpha Centauri"
+    },
+    {
+      "question": "Which exoplanet has water vapor detected in its atmosphere?",
+      "options": ["K2-18b", "Kepler-452b", "Gliese 1214b", "Trappist-1e"],
+      "answer": "K2-18b"
+    },
+    {
+      "question": "Which exoplanetary system has the most known planets?",
+      "options": ["TRAPPIST-1", "Kepler-90", "Kepler-186", "Gliese 581"],
+      "answer": "TRAPPIST-1"
+    },
+    {
+      "question": "Which exoplanet discovery method works best for finding exoplanets around distant stars?",
+      "options": ["Gravitational microlensing", "Radial velocity", "Transit photometry", "Direct imaging"],
+      "answer": "Gravitational microlensing"
+    },
+    {
+      "question": "What is the significance of Kepler-186f?",
+      "options": ["First Earth-sized planet in the habitable zone", "Largest exoplanet discovered", "First exoplanet discovered", "Closest exoplanet to Earth"],
+      "answer": "First Earth-sized planet in the habitable zone"
+    },
+    {
+      "question": "Which exoplanet has the fastest orbital period, completing its orbit in less than one day?",
+      "options": ["51 Pegasi b", "WASP-12b", "HD 80606 b", "Kepler-10b"],
+      "answer": "Kepler-10b"
+    },
+    {
+      "question": "Which exoplanet discovery technique measures a star's slight shift in position?",
+      "options": ["Astrometry", "Radial velocity", "Transit method", "Direct imaging"],
+      "answer": "Astrometry"
+    },
+    {
+      "question": "Which of these is a potential biosignature gas in exoplanet atmospheres?",
+      "options": ["Methane", "Carbon dioxide", "Nitrogen", "Ozone"],
+      "answer": "Methane"
+    },
+    {
+      "question": "What is a 'Super-Earth'?",
+      "options": ["A planet larger than Earth but smaller than Neptune", "A giant gas planet", "A rocky planet with no atmosphere", "A planet orbiting two stars"],
+      "answer": "A planet larger than Earth but smaller than Neptune"
+    },
+    {
+      "question": "Which method has detected the most exoplanets?",
+      "options": ["Transit method", "Direct imaging", "Radial velocity", "Gravitational microlensing"],
+      "answer": "Transit method"
+    },
+    {
+      "question": "Which planet in the TRAPPIST-1 system is considered potentially habitable?",
+      "options": ["TRAPPIST-1e", "TRAPPIST-1b", "TRAPPIST-1g", "TRAPPIST-1h"],
+      "answer": "TRAPPIST-1e"
+    },
+    {
+      "question": "What is the name of the first exoplanet discovered orbiting a sun-like star?",
+      "options": ["51 Pegasi b", "Proxima Centauri b", "Kepler-186f", "HD 209458 b"],
+      "answer": "51 Pegasi b"
+    },
+    {
+      "question": "What kind of planet is Proxima Centauri b believed to be?",
+      "options": ["Rocky", "Gas giant", "Water world", "Ice giant"],
+      "answer": "Rocky"
+    },
+    {
+      "question": "What exoplanet was the first to have its atmosphere analyzed?",
+      "options": ["HD 209458 b", "Kepler-452b", "TRAPPIST-1e", "Proxima Centauri b"],
+      "answer": "HD 209458 b"
+    },
+    {
+      "question": "What does the habitable zone around a star represent?",
+      "options": ["Where liquid water could exist", "Where planets form", "Where stars are most active", "Where gas giants form"],
+      "answer": "Where liquid water could exist"
     }
+
+
+    
   ]
+  
   
