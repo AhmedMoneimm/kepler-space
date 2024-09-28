@@ -1,0 +1,15 @@
+/* src/components/InteractiveQuizzes.css */
+.quizzes-container {
+    padding: 20px;
+    background-color: #282c34; /* Background color */
+    color: white; /* Text color */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Shadow effect */
+    margin: 20px; /* Margin around the container */
+  }
+  
+  .quizzes-container h2 {
+    color: #ffcc00; /* Heading color */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  

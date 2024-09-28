@@ -1,0 +1,15 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px; /* Add padding to your layout */
+    background-color: #2e3b55; /* Background color, adjust as needed */
+    min-height: 100vh; /* Ensure the layout takes the full viewport height */
+  }
+  
+  main {
+    width: 100%; /* Make sure main content uses full width */
+    max-width: 1200px; /* Optional: limit the maximum width */
+    margin: 20px 0; /* Optional: add margin for spacing */
+  }
+  

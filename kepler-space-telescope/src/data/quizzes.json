@@ -1,0 +1,18 @@
+[
+    {
+      "question": "What is the closest planet to the Sun?",
+      "options": ["Mercury", "Venus", "Earth", "Mars"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What planet is known as the Red Planet?",
+      "options": ["Jupiter", "Saturn", "Mars", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Which planet is famous for its rings?",
+      "options": ["Earth", "Jupiter", "Saturn", "Uranus"],
+      "answer": "Saturn"
+    }
+  ]
+  

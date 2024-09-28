@@ -1,0 +1,29 @@
+.planet-animation {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto; 
+  background-color: transparent;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.7); 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+}
+
+#planet {
+  width: 150px; 
+  height: auto; 
+  animation: spin 20s infinite linear; 
+  display: block; 
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg); 
+  }
+  100% {
+    transform: rotate(360deg); 
+  }
+}

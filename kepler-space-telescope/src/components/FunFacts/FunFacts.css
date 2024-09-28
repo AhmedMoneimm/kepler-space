@@ -1,0 +1,18 @@
+#fun-facts h2 {
+    color: #ffcc00;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  #fun-facts ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #fun-facts ul li {
+    background: #ff9900;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    color: white;
+  }
+  

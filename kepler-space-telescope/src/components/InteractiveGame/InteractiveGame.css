@@ -1,0 +1,68 @@
+#interactive-game h2 {
+    color: #ffcc00;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  button {
+    background-color: #28a745;
+    color: white;
+    font-size: 1.2em;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  
+  #game-space {
+    margin-top: 20px;
+    height: 150px;
+    border: 2px dashed #ffcc00;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    color: #ffcc00;
+  }
+  
+  #star-system {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+  }
+  
+  #star {
+    width: 50px;
+    height: 50px;
+    background-color: #ffcc00;
+    border-radius: 50%;
+    position: absolute;
+    top: 75px;
+    left: 75px;
+  }
+  
+  #exoplanet {
+    width: 20px;
+    height: 20px;
+    background-color: #ff9900;
+    border-radius: 50%;
+    position: absolute;
+    animation: orbit 5s linear infinite;
+  }
+  
+  @keyframes orbit {
+    0% {
+      transform: rotate(0deg) translateX(80px) rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg) translateX(80px) rotate(-360deg);
+    }
+  }
+  

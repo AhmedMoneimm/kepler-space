@@ -1,0 +1,19 @@
+.about-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    color: white;
+    background-color: #1c2333;
+    border-radius: 10px;
+  }
+  
+  .about-container h1 {
+    color: #ffcc00;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .about-container p {
+    font-size: 1.2em;
+    line-height: 1.6;
+  }
+  

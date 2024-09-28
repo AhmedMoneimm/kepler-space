@@ -1,0 +1,51 @@
+.navbar {
+    background-color: #1c2333; /* Navbar background color */
+    padding: 10px;
+    position: absolute; /* Change to absolute positioning */
+    top: 0; /* Align to the top */
+    right: 0; /* Align to the right */
+    z-index: 100; /* Ensure it is above other elements */
+  }
+  
+  .navbar-toggle {
+    cursor: pointer;
+    z-index: 10; /* Ensure it is above other elements */
+  }
+  
+  .bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px 0;
+    background-color: #ffcc00; /* Color of the hamburger bars */
+    transition: 0.3s;
+  }
+  
+  .navbar-menu {
+    list-style-type: none;
+    display: none; /* Initially hide the menu */
+    flex-direction: column; /* Stack items vertically */
+    position: absolute;
+    top: 50px; /* Position below the navbar */
+    right: 0; /* Align to the right */
+    background-color: #1c2333; /* Match navbar background */
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .navbar-menu.open {
+    display: flex; /* Show the menu when open */
+  }
+  
+  .navbar a {
+    color: #ffcc00; /* Link color */
+    text-decoration: none; /* Remove underline */
+    padding: 10px; /* Space around links */
+    transition: background-color 0.3s;
+  }
+  
+  .navbar a:hover {
+    background-color: rgba(255, 204, 0, 0.2); /* Change background on hover */
+  }
+  
