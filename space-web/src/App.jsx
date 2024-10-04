@@ -15,7 +15,19 @@ import GasGiants from "./components/Exoplanet/GasGiants"; // Import Gas Giants C
 import Neptunian from "./components/Exoplanet/Neptunian"; // Import Neptunian Component
 import SuperEarth from "./components/Exoplanet/SuperEarth"; // Import Super Earth Component
 import Rocky from "./components/Exoplanet/Rocky"; // Import Rocky Component
-import Types from "./components/Exoplanet/Types.jsx";
+import Types from "./components/Exoplanet/Types";
+import MethodsOverview from "./components/Methods/MethodsOverview";
+import Transit from "./components/Methods/Transit.jsx";
+import RadialVelocity from "./components/Methods/Radial-Velocity.jsx";
+import Microlensing from "./components/Methods/Microlensing.jsx";
+import DirectImaging from "./components/Methods/DirectImaging.jsx";
+import Astrometry from "./components/Methods/Astrometry.jsx";
+import TelescopesOverview from "./components/Telescopes/TelescopesOverview.jsx";
+import Hubble from "./components/Telescopes/Hubble.jsx";
+import Kepler from "./components/Telescopes/Kepler.jsx";
+import JWST from "./components/Telescopes/JWST.jsx";
+import Spitzer from "./components/Telescopes/Spitzer.jsx";
+import TESS from "./components/Telescopes/TESS.jsx";
 
 const App = () => {
   React.useEffect(() => {
@@ -60,6 +72,19 @@ const App = () => {
           <Route path="/exoplanet/neptunian" element={<Neptunian />} />
           <Route path="/exoplanet/super-earth" element={<SuperEarth />} />
           <Route path="/exoplanet/rocky" element={<Rocky />} />
+          <Route path="/methods/overview" element={<MethodsOverview />} />
+          <Route path="/methods/transit" element={<Transit />} />
+          <Route path="/methods/radial-velocity" element={<RadialVelocity />} />
+          <Route path="/methods/microlensing" element={<Microlensing />} />
+          <Route path="/methods/direct-imaging" element={<DirectImaging />} />
+          <Route path="/methods/astrometry" element={<Astrometry />} />
+          <Route path="/telescope/overview" element={<TelescopesOverview />} />
+          <Route path="/telescope/hubble" element={<Hubble />} />
+          <Route path="/telescope/Kepler_K2" element={<Kepler />} />
+          <Route path="/telescope/james-webb" element={<JWST />} />
+          <Route path="/telescope/spitzer" element={<Spitzer />} />
+          <Route path="/telescope/Tess" element={<TESS />} />
+          
         </Routes>
 
         <Chatbot />
