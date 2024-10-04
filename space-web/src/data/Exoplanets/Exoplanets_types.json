@@ -1,0 +1,10 @@
+[
+    {
+        "Introduction": "Exoplanets come in all shapes and sizes. Some are gas giants even larger than Jupiter, while others are small and rocky, about the size of Earth or Mars. These distant worlds can have extreme environments—they can be so hot that metal would melt on the surface, or so cold that they're frozen solid. Some exoplanets orbit their stars so closely that a year lasts only a few days, while others orbit two suns at once, just like the planet Tatooine in Star Wars. There are even rogue planets that don’t orbit any star and wander through space in total darkness. Each exoplanet looks different, depending on what it’s made of, and no two are exactly alike!",
+        "Body": "Exoplanets are categorized into the following types based on their size and composition:",
+        "Gas Giants": "These are planets the size of Jupiter or Saturn, or even much larger.",
+        "Neptunian": "Similar in size to Neptune or Uranus, these planets have thick atmospheres made mostly of hydrogen and helium.",
+        "Super-Earth": "Planets that are larger than Earth but smaller than Neptune. They may be rocky or have thick atmospheres.",
+        "Terrestrial(Rocky)": "Rocky planets like Earth, Mars, Venus, and Mercury. These planets have solid surfaces and are usually found closer to their stars."
+    }
+]

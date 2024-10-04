@@ -1,0 +1,9 @@
+[
+    {
+        "Introduction": "The Transit Method (Search for Shadows) is one of the most effective ways to discover exoplanets, accounting for about 74.5% (~4200) of all planet discoveries. This method detects planets by observing the dip in a star's brightness when a planet passes in front of it, much like a solar eclipse. This temporary dimming creates a light curve (brightness vs. time) that signals the presence of a planet.",
+        "Size and Speed": "By analyzing the size and length of the dip in the light curve, astronomers can determine the size and speed of the planet. Larger, slower, and more distant planets block more light and for a longer period of time than smaller, faster, and closer planets.",
+        "Multiple Planets": "The transit method can also detect multiple planets in a single star system. If the light curve has mixed signals (irregular dips or multiple dips), it may indicate the presence of multiple planets orbiting the star. In such cases, further observations are required to differentiate the characteristics of each planet.",
+        "Atmospheric Composition": " During a transit, some of the star’s light passes through the planet’s atmosphere. By analyzing this light using transit spectroscopy, astronomers can study the planet’s atmosphere and detect the presence of specific gases. Different elements in the atmosphere allow certain wavelengths of light to pass through, which can reveal the composition of the atmosphere (e.g., water vapor, methane, oxygen).",
+        "Temperature and Habitability": "Follow-up observations in infrared wavelengths can provide information about the planet’s temperature, and help determine whether the planet lies within the star’s habitable zone (where conditions could support liquid water and potentially life). The transit method has been instrumental in discovering potentially habitable exoplanets, such as those in the TRAPPIST-1 system."
+    }
+]
