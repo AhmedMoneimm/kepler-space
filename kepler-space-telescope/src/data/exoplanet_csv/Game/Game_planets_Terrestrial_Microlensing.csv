@@ -1,0 +1,2 @@
+pl_name,hostname,pl_letter,sy_snum,sy_pnum,discoverymethod,disc_year,disc_locale,disc_facility,disc_telescope,disc_instrument,ra,dec,glat,glon,elat,elon,pl_orbper,pl_rade,pl_radj,pl_bmasse,pl_bmassj,pl_bmassprov,pl_dens,st_spectype,st_teff,st_rad,st_mass,st_lum,st_age,st_logg,st_dens,st_rotp,st_vsin,sy_dist,pl_type
+KMT-2020-BLG-0414L b,KMT-2020-BLG-0414L,b,1,2,Microlensing,2021,Ground,KMTNet,1.6 m wide-field telescope,18k Mosaic CCD camera,271.915,-28.4852222,-3.95413,2.81609,-5.05717,271.68968,,0.997,0.089,0.96,0.00302,Mass,5.32,,,,0.26,,,,,,,800.0,Terrestrial
