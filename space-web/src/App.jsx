@@ -10,7 +10,7 @@ import Footer5 from "./components/Footer/Footer5.jsx";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Chatbot from "./components/Chatbot/Chatbot"; // Import the Chatbot component
-import ExoplanetOverview from "./components/Exoplanet/Exoplanetoverview"; // Import Exoplanet Overview Component
+import ExoplanetOverview from "./components/Exoplanet/ExoplanetOverview"; // Import Exoplanet Overview Component
 import GasGiants from "./components/Exoplanet/GasGiants"; // Import Gas Giants Component
 import Neptunian from "./components/Exoplanet/Neptunian"; // Import Neptunian Component
 import SuperEarth from "./components/Exoplanet/SuperEarth"; // Import Super Earth Component
