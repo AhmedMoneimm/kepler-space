@@ -1,0 +1,7 @@
+[
+    {
+        "Body1": "The Transiting Exoplanet Survey Satellite (TESS), launched by NASA in 2018, builds on the success of the Kepler mission but with a different strategy. While Kepler focused on small sections of the sky, TESS conducts a more comprehensive all-sky survey, covering both hemispheres and aiming to observe around 85% of the sky. This allows TESS to detect exoplanets around nearby stars that are closer, brighter, and easier to study than those discovered by Kepler.",
+        "Body2": "TESS uses the transit method like Kepler, looking for dips in starlight caused by planets passing in front of their host stars. However, TESS targets stars within about 200 light-years of Earth, focusing on stars that are typically 30 to 100 times brighter than Kepler’s targets. This makes it easier for follow-up studies using ground-based telescopes, which can refine measurements of the planets' masses, sizes, and atmospheres, providing more detailed information about their potential habitability.",
+        "Body3": "TESS is expected to find thousands of exoplanets, ranging from small, rocky worlds to larger gas giants. Its broader survey also allows it to identify planets in a variety of stellar environments, giving scientists a more diverse sample to study. Importantly, TESS helps pave the way for future missions like the James Webb Space Telescope (JWST), which can further explore the atmospheres of some of these planets in search of signs of habitability or life."
+    }
+]
