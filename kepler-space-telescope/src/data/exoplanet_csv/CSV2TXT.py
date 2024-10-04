@@ -7,10 +7,10 @@ data = pd.read_csv(file_path)
 # Function to generate a text description for each row
 def generate_description(row):
     description = (
-        f"Exoplanet {row['pl_name']} (planet letter {row['pl_letter']}) orbits the host star {row['hostname']}. "
+        f"Exoplanet {row['pl_name']} (planet letter {row['pl_letter']}) of type {row['pl_type']} orbits the host star {row['hostname']}. "
         f"It is part of a system with {row['sy_snum']} stars and {row['sy_pnum']} planets. "
         f"It was discovered in {row['disc_year']} using the {row['discoverymethod']} method. "
-        f"The discovery took place at the {row['disc_facility']} facility on the {row['disc_locale']} using the {row['disc_telescope']} telescope and the {row['disc_instrument']} instrument."
+        f"The discovery took place at the {row['disc_facility']} facility from the {row['disc_locale']} using the {row['disc_telescope']} telescope and the {row['disc_instrument']} instrument."
     )
 
     # Add right ascension and declination
