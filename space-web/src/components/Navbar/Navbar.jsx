@@ -27,11 +27,65 @@ const Navbar = () => {
               <li>
                 <Link to="#">About</Link>
               </li>
-              <li>
-                <Link to="#">Telescope</Link>
-              </li>
-              <li>
-                <Link to="#">Articles</Link>
+              <li className="relative">
+                <button
+                  onClick={toggleDropdown}
+                  className="focus:outline-none"
+                >
+                  Telescope
+                </button>
+                {dropdownOpen && (
+                  <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
+                    <li>
+                      <Link
+                        to="/telescope/overview"
+                        className="block px-4 py-2 hover:bg-gray-200"
+                      >
+                        Telescope Overview
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/telescope/hubble"
+                        className="block px-4 py-2 hover:bg-gray-200"
+                      >
+                        Hubble Space Telescope
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/telescope/james-webb"
+                        className="block px-4 py-2 hover:bg-gray-200"
+                      >
+                        James Webb Space Telescope
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/telescope/Kepler_K2"
+                        className="block px-4 py-2 hover:bg-gray-200"
+                      >
+                        Kepler & K2
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/telescope/Spitzer"
+                        className="block px-4 py-2 hover:bg-gray-200"
+                      >
+                        Spitzer Space Telescope
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/telescope/Tess"
+                        className="block px-4 py-2 hover:bg-gray-200"
+                      >
+                        TESS
+                      </Link>
+                    </li>
+                  </ul>
+                )}
               </li>
               <li className="relative">
                 <button
@@ -80,6 +134,66 @@ const Navbar = () => {
                         className="block px-4 py-2 hover:bg-gray-200"
                       >
                         Rocky
+                      </Link>
+                    </li>
+                  </ul>
+                )}
+              </li>
+              <li className="relative">
+                <button
+                  onClick={toggleDropdown}
+                  className="focus:outline-none"
+                >
+                  Methods
+                </button>
+                {dropdownOpen && (
+                  <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
+                    <li>
+                      <Link
+                        to="/methods/overview"
+                        className="block px-4 py-2 hover:bg-gray-200"
+                      >
+                        Methods Overview
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/methods/transit"
+                        className="block px-4 py-2 hover:bg-gray-200"
+                      >
+                        Transit Method
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/methods/radial-velocity"
+                        className="block px-4 py-2 hover:bg-gray-200"
+                      >
+                        Radial Velocity Method
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/methods/direct-imaging"
+                        className="block px-4 py-2 hover:bg-gray-200"
+                      >
+                        Direct Imaging Method
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/methods/microlensing"
+                        className="block px-4 py-2 hover:bg-gray-200"
+                      >
+                        Microlensing Method
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/methods/astrometry"
+                        className="block px-4 py-2 hover:bg-gray-200"
+                      >
+                        Astrometry Method
                       </Link>
                     </li>
                   </ul>
