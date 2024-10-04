@@ -3,13 +3,12 @@ import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero.jsx";
 import HeroCard from "./components/HeroCard/HeroCard.jsx";
 import BgVideo from "./assets/exo.mp4";
-import wave from "./assets/wave Gif.gif";
 import Rapidscat from "./components/Rapidscat/Rapidscat.jsx";
 import Satelite from "./components/Satelite/Satelite.jsx";
-import Footer from "./components/Footer/Footer.jsx";
 import Footer5 from "./components/Footer/Footer5.jsx";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import Chatbot from "./components/Chatbot/Chatbot"; // Import the Chatbot component
 
 const App = () => {
   React.useEffect(() => {
@@ -18,6 +17,7 @@ const App = () => {
       easing: "ease-in-out",
     });
   });
+
   return (
     <div className="">
       <div className="h-[700px] relative">
@@ -35,8 +35,10 @@ const App = () => {
       <HeroCard />
       <Rapidscat />
       <Satelite />
-      {/* <Footer /> */}
       <Footer5 />
+
+      {/* Add the Chatbot component at the root level to make it globally available */}
+      <Chatbot />
     </div>
   );
 };
