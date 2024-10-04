@@ -15,6 +15,7 @@ import GasGiants from "./components/Exoplanet/GasGiants"; // Import Gas Giants C
 import Neptunian from "./components/Exoplanet/Neptunian"; // Import Neptunian Component
 import SuperEarth from "./components/Exoplanet/SuperEarth"; // Import Super Earth Component
 import Rocky from "./components/Exoplanet/Rocky"; // Import Rocky Component
+import Types from "./components/Exoplanet/Types.jsx";
 
 const App = () => {
   React.useEffect(() => {
@@ -54,6 +55,7 @@ const App = () => {
 
           {/* Exoplanet routes */}
           <Route path="/exoplanet/overview" element={<ExoplanetOverview />} />
+          <Route path="/exoplanet/types" element={<Types />} />
           <Route path="/exoplanet/gas-giants" element={<GasGiants />} />
           <Route path="/exoplanet/neptunian" element={<Neptunian />} />
           <Route path="/exoplanet/super-earth" element={<SuperEarth />} />

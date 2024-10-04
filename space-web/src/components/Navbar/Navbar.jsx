@@ -106,6 +106,14 @@ const Navbar = () => {
                     </li>
                     <li>
                       <Link
+                        to="/exoplanet/types"
+                        className="block px-4 py-2 hover:bg-gray-200"
+                      >
+                        Exoplanet Types
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
                         to="/exoplanet/gas-giants"
                         className="block px-4 py-2 hover:bg-gray-200"
                       >
