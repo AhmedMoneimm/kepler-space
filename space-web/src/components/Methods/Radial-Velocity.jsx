@@ -4,7 +4,7 @@ import ReusableDiv from "../ReusableDiv";
 const RadialVelocity = () => {
     return (
         <ReusableDiv
-            title="Radial Velocity Method"
+            title="The Radial Velocity Method: Detecting Planets by Watching for Wobble"
             dataPath="/data/Discovery/Discovery_Radial_Velocity.json"
             quizPath="/quiz"
             previousPath="/methods/transit"

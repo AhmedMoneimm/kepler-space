@@ -21,7 +21,7 @@ const Hero = () => {
               Join Space Eagles as an intern! Learn from NASA's top scientists about advanced telescopes and cutting-edge AI to discover exoplanets and unravel the universe's mysteries!
             </p>
             <p data-aos="fade-up" data-aos-delay="400">
-              Embark on an epic adventure exploring 5,000+ exoplanets aboard our spaceship! Enjoy stunning graphics, immersive gameplay, and a captivating story that will keep you on the edge of your seat!
+              Embark on an epic adventure exploring 5,600+ exoplanets aboard our spaceship! Enjoy stunning graphics, immersive gameplay, and a captivating story that will keep you on the edge of your seat!
             </p>
             <button
               onClick={handleDiscoverMore} // Handle button click

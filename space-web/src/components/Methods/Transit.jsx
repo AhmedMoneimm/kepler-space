@@ -4,7 +4,7 @@ import ReusableDiv from "../ReusableDiv";
 const Transit = () => {
     return (
         <ReusableDiv
-            title="Transit Method"
+            title="The Transit Method: Searching for Shadows in Space"
             dataPath="/data/Discovery/Discovery_Transit.json"
             quizPath="/quiz"
             previousPath="/methods/overview"

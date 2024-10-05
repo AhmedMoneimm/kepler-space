@@ -4,7 +4,7 @@ import ReusableDiv from "../ReusableDiv";
 const MethodsOverview = () => {
     return (
         <ReusableDiv
-            title="Methods Overview"
+            title="How Do Scientists Discover Exoplanets?"
             dataPath="/data/Discovery/Methods_overview.json"
             quizPath="/quiz"
             previousPath="/"

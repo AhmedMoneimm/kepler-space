@@ -1,13 +1,14 @@
 // src/components/Telescopes/TelescopesOverview.jsx
-import React from 'react';
 import ReusableDiv from '../ReusableDiv';
 
 const TelescopesOverview = () => {
   return (
     <ReusableDiv
-      title="Telescopes Overview"
+      title="Telescopes Overview: The Discovery of Strange New Worlds"
       dataPath="/data/Telescope/Telescope_overview.json"
       quizPath="/quiz" // Adjust the quiz path if necessary
+      previousPath="/telescope/hubble" // Previous page path
+      nextPath="/telescope/james-webb" // Next page path
     />
   );
 };

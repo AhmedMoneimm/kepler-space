@@ -5,7 +5,7 @@ import ReusableDiv from '../ReusableDiv';
 const Astrometry = () => {
     return (
         <ReusableDiv
-            title="Astrometry Method"
+            title="Astrometry: Unveiling Exoplanets Through Stellar Movements"
             dataPath="/data/Discovery/Discovery_Astrometry.json"
             quizPath="/quiz" // Assuming you might have a quiz path
             previousPath="/methods/microlensing" // Previous page path

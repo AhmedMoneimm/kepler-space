@@ -3,11 +3,11 @@ import ReusableDiv from "../ReusableDiv";
 const Types = () => {
   return (
     <ReusableDiv
-      title="Exoplanet Types"
+      title="Out-of-This-World: The Coolest Types of Exoplanets!"
       dataPath="/data/Exoplanets/Exoplanets_types.json"
       quizPath="/quiztyp "
-      nextPath="/exoplanet/naming" // Next page path
       previousPath="/exoplanet/overview" // Previous page path
+      nextPath="/exoplanet/naming" // Next page path
     />
   );
 };
