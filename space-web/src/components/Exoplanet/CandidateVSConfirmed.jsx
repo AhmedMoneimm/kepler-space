@@ -7,7 +7,7 @@ const CandidateVSConfirmed = () => {
       dataPath="/data/Exoplanets/Exoplanet_CandidateVSConfirmed.json"
       quizPath="/quiz"
       previousPath="/exoplanet/naming" // Previous page
-      nextPath="/exoplanet/types" // Next page
+      nextPath="/exoplanet/life" // Next page
     />
   );
 };

@@ -46,6 +46,114 @@ const Navbar = () => {
                   About
                 </Link>
               </li>
+              {/* Exoplanets Dropdown */}
+              <li className="relative">
+                <button
+                  onClick={() => toggleDropdown("exoplanets")}
+                  className="focus:outline-none hover:text-blue-500 transition-colors duration-200"
+                >
+                  Exoplanets
+                </button>
+                {openDropdown === "exoplanets" && (
+                  <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
+                    <li>
+                      <Link
+                        to="/exoplanet/overview"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Exoplanet Overview
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/exoplanet/naming"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Exoplanet Naming
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/exoplanet/CandidateVSConfirmed"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Candidate VS Confirmed
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/exoplanet/life"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Search for Life
+                      </Link>
+                    </li>
+
+                  </ul>
+                )}
+              </li>
+              {/* Exoplanets Dropdown */}
+              <li className="relative">
+                <button
+                  onClick={() => toggleDropdown("exoplanets types")}
+                  className="focus:outline-none hover:text-blue-500 transition-colors duration-200"
+                >
+                  Exoplanets types
+                </button>
+                {openDropdown === "exoplanets types" && (
+                  <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
+                    <li>
+                      <Link
+                        to="/exoplanet/types"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Exoplanet Types
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/exoplanet/gas-giants"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Gas Giants
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/exoplanet/neptunian"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Neptunian
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/exoplanet/super-earth"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Super Earth
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/exoplanet/rocky"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Rocky
+                      </Link>
+                    </li>
+                  </ul>
+                )}
+              </li>
               {/* Telescope Dropdown */}
               <li className="relative">
                 <button
@@ -108,91 +216,6 @@ const Navbar = () => {
                         onClick={closeDropdown}
                       >
                         TESS
-                      </Link>
-                    </li>
-                  </ul>
-                )}
-              </li>
-              {/* Exoplanets Dropdown */}
-              <li className="relative">
-                <button
-                  onClick={() => toggleDropdown("exoplanets")}
-                  className="focus:outline-none hover:text-blue-500 transition-colors duration-200"
-                >
-                  Exoplanets
-                </button>
-                {openDropdown === "exoplanets" && (
-                  <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
-                    <li>
-                      <Link
-                        to="/exoplanet/overview"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
-                        onClick={closeDropdown}
-                      >
-                        Exoplanet Overview
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        to="/exoplanet/naming"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
-                        onClick={closeDropdown}
-                      >
-                        Exoplanet Naming
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        to="/exoplanet/CandidateVSConfirmed"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
-                        onClick={closeDropdown}
-                      >
-                        CandidateVSConfirmed
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        to="/exoplanet/types"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
-                        onClick={closeDropdown}
-                      >
-                        Exoplanet Types
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        to="/exoplanet/gas-giants"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
-                        onClick={closeDropdown}
-                      >
-                        Gas Giants
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        to="/exoplanet/neptunian"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
-                        onClick={closeDropdown}
-                      >
-                        Neptunian
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        to="/exoplanet/super-earth"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
-                        onClick={closeDropdown}
-                      >
-                        Super Earth
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        to="/exoplanet/rocky"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
-                        onClick={closeDropdown}
-                      >
-                        Rocky
                       </Link>
                     </li>
                   </ul>

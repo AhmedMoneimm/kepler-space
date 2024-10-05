@@ -12,16 +12,16 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import Chatbot from "./components/Chatbot/Chatbot"; 
 import ExoplanetOverview from "./components/Exoplanet/ExoplanetOverview"; 
-import GasGiants from "./components/Exoplanet/GasGiants"; 
-import Neptunian from "./components/Exoplanet/Neptunian"; 
-import SuperEarth from "./components/Exoplanet/SuperEarth"; 
-import Rocky from "./components/Exoplanet/Rocky"; 
+import GasGiants from "./components/Exoplanet_types/GasGiants.jsx"; 
+import Neptunian from "./components/Exoplanet_types/Neptunian.jsx"; 
+import SuperEarth from "./components/Exoplanet_types/SuperEarth.jsx"; 
+import Rocky from "./components/Exoplanet_types/Rocky.jsx"; 
 import QuizPage from "./components/Quiz/QuizPage";
 import QuizGas from "./components/Quiz/QuizGas";
 import QuizNep from "./components/Quiz/QuizNep";
 import QuizRok from "./components/Quiz/QuizRok";
 import QuizSup from "./components/Quiz/QuizSup";
-import Types from "./components/Exoplanet/Types";
+import Types from "./components/Exoplanet_types/Types.jsx";
 import QuizTyp from "./components/Quiz/QuizTyp";
 import MethodsOverview from "./components/Methods/MethodsOverview";
 import Transit from "./components/Methods/Transit.jsx";
@@ -38,6 +38,7 @@ import TESS from "./components/Telescopes/TESS.jsx";
 import ExoplanetNaming from "./components/Exoplanet/Naming.jsx";
 import Game from "./components/game/game"; // Import the Game component
 import CandidateVSConfirmed from "./components/Exoplanet/CandidateVSConfirmed.jsx";
+import SearchForLife from "./components/Exoplanet/Search_for_life.jsx";
 
 const App = () => {
   React.useEffect(() => {
@@ -78,29 +79,35 @@ const App = () => {
           <Route path="/exoplanet/overview" element={<ExoplanetOverview />} />
           <Route path="/exoplanet/naming" element={<ExoplanetNaming />} />
           <Route path="/exoplanet/CandidateVSConfirmed" element={<CandidateVSConfirmed />} />
+          <Route path="/exoplanet/life" element={<SearchForLife />} />
+          {/* Add Exoplanet type routes */}
           <Route path="/exoplanet/types" element={<Types />} />
           <Route path="/exoplanet/gas-giants" element={<GasGiants />} />
           <Route path="/exoplanet/neptunian" element={<Neptunian />} />
           <Route path="/exoplanet/super-earth" element={<SuperEarth />} />
-          <Route path="/exoplanet/rocky" element={<Rocky />} />
+          <Route path="/exoplanet/rocky" element={<Rocky />} /> 
+          {/* Add Exoplanet Quiz routes */}
           <Route path="/quiz" element={<QuizPage />} /> 
           <Route path="/quizgas" element={<QuizGas />} /> 
           <Route path="/quiznep" element={<QuizNep />} /> 
           <Route path="/quizrok" element={<QuizRok />} /> 
           <Route path="/quizsup" element={<QuizSup />} /> 
-          <Route path="/quiztyp" element={<QuizTyp />} /> 
+          <Route path="/quiztyp" element={<QuizTyp />} />
+          {/* Add Methods routes */} 
           <Route path="/methods/overview" element={<MethodsOverview />} />
           <Route path="/methods/transit" element={<Transit />} />
           <Route path="/methods/radial-velocity" element={<RadialVelocity />} />
           <Route path="/methods/microlensing" element={<Microlensing />} />
           <Route path="/methods/direct-imaging" element={<DirectImaging />} />
           <Route path="/methods/astrometry" element={<Astrometry />} />
+          {/* Add Telescopes routes */}
           <Route path="/telescope/overview" element={<TelescopesOverview />} />
           <Route path="/telescope/hubble" element={<Hubble />} />
           <Route path="/telescope/Kepler_K2" element={<Kepler />} />
           <Route path="/telescope/james-webb" element={<JWST />} />
           <Route path="/telescope/spitzer" element={<Spitzer />} />
           <Route path="/telescope/Tess" element={<TESS />} />
+          {/* Add Game route */}
           <Route path="/game" element={<Game />} /> {/* Add Game route */}
         </Routes>
 

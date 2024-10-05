@@ -4,7 +4,7 @@ const GasGiants = () => {
   return (
     <ReusableDiv
       title="Gas Giants: The Majestic Behemoths of the Cosmos!"
-      dataPath="/data/Exoplanets/Exoplanet_Gas_Giants.json"
+      dataPath="/data/Exoplanets_type/Exoplanet_Gas_Giants.json"
       quizPath="/quizgas"
       previousPath="/exoplanet/types" // Previous page path
       nextPath="/exoplanet/neptunian" // Next page path
