@@ -15,7 +15,7 @@ const ServiceData = [
   },
   {
     title: "Exoplanets",
-    content: "Over 5,000 known exoplanets",
+    content: "Over 5,600 known exoplanets",
     icon: <img src={exoplanetImg} alt="Exoplanet" className="text-7xl" />,
     aosDelay: "500",
     path: "/exoplanet/overview", // Add path for routing
