@@ -23,30 +23,43 @@ const Navbar = () => {
       <div className="container">
         <div className="flex justify-between items-center">
           <div className="flex items-center gap-4 text-white font-bold text-2xl">
-            <img src={Logo} alt="" className="w-10" />
+            <img src={Logo} alt="Logo" className="w-10" />
             <span>MONEIM GAMADAN</span>
           </div>
           <div className="text-white hidden sm:block">
-            <ul className="flex items-center gap-6 text-xl py-4 ">
+            <ul className="flex items-center gap-6 text-xl py-4">
               <li>
-                <Link to="/" onClick={closeDropdown}>Home</Link>
+                <Link
+                  to="/"
+                  onClick={closeDropdown}
+                  className="hover:text-blue-500 transition-colors duration-200"
+                >
+                  Home
+                </Link>
               </li>
               <li>
-                <Link to="#" onClick={closeDropdown}>About</Link>
+                <Link
+                  to="#"
+                  onClick={closeDropdown}
+                  className="hover:text-blue-500 transition-colors duration-200"
+                >
+                  About
+                </Link>
               </li>
+              {/* Telescope Dropdown */}
               <li className="relative">
                 <button
                   onClick={() => toggleDropdown("telescope")}
-                  className="focus:outline-none"
+                  className="focus:outline-none hover:text-blue-500 transition-colors duration-200"
                 >
                   Telescope
                 </button>
-                {openDropdown === "telescope" && (  // Check if this dropdown should be open
+                {openDropdown === "telescope" && (
                   <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
                     <li>
                       <Link
                         to="/telescope/overview"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Telescope Overview
@@ -55,7 +68,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/telescope/hubble"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Hubble Space Telescope
@@ -64,7 +77,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/telescope/james-webb"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         James Webb Space Telescope
@@ -73,7 +86,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/telescope/Kepler_K2"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Kepler & K2
@@ -82,7 +95,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/telescope/Spitzer"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Spitzer Space Telescope
@@ -91,7 +104,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/telescope/Tess"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         TESS
@@ -100,19 +113,20 @@ const Navbar = () => {
                   </ul>
                 )}
               </li>
+              {/* Exoplanets Dropdown */}
               <li className="relative">
                 <button
-                  onClick={() => toggleDropdown("exoplanets")}  // Update to identify this dropdown
-                  className="focus:outline-none"
+                  onClick={() => toggleDropdown("exoplanets")}
+                  className="focus:outline-none hover:text-blue-500 transition-colors duration-200"
                 >
                   Exoplanets
                 </button>
-                {openDropdown === "exoplanets" && (  // Check if this dropdown should be open
+                {openDropdown === "exoplanets" && (
                   <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
                     <li>
                       <Link
                         to="/exoplanet/overview"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Exoplanet Overview
@@ -121,7 +135,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/exoplanet/types"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Exoplanet Types
@@ -130,7 +144,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/exoplanet/gas-giants"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Gas Giants
@@ -139,7 +153,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/exoplanet/neptunian"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Neptunian
@@ -148,7 +162,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/exoplanet/super-earth"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Super Earth
@@ -157,7 +171,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/exoplanet/rocky"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Rocky
@@ -166,19 +180,20 @@ const Navbar = () => {
                   </ul>
                 )}
               </li>
+              {/* Methods Dropdown */}
               <li className="relative">
                 <button
-                  onClick={() => toggleDropdown("methods")} // Update to identify this dropdown
-                  className="focus:outline-none"
+                  onClick={() => toggleDropdown("methods")}
+                  className="focus:outline-none hover:text-blue-500 transition-colors duration-200"
                 >
                   Methods
                 </button>
-                {openDropdown === "methods" && (  // Check if this dropdown should be open
+                {openDropdown === "methods" && (
                   <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
                     <li>
                       <Link
                         to="/methods/overview"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Methods Overview
@@ -187,7 +202,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/methods/transit"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Transit Method
@@ -196,7 +211,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/methods/radial-velocity"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Radial Velocity Method
@@ -205,7 +220,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/methods/direct-imaging"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Direct Imaging Method
@@ -214,7 +229,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/methods/microlensing"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Microlensing Method
@@ -223,7 +238,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/methods/astrometry"
-                        className="block px-4 py-2 hover:bg-gray-200"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Astrometry Method
@@ -231,6 +246,16 @@ const Navbar = () => {
                     </li>
                   </ul>
                 )}
+              </li>
+              {/* Game Button */}
+              <li>
+                <Link
+                  to="/game"
+                  onClick={closeDropdown}
+                  className="hover:text-blue-500 transition-colors duration-200"
+                >
+                  Game
+                </Link>
               </li>
             </ul>
           </div>
