@@ -1,5 +1,4 @@
 // src/components/Methods/MethodsOverview.jsx
-import React from "react";
 import ReusableDiv from "../ReusableDiv";
 
 const MethodsOverview = () => {
@@ -8,6 +7,8 @@ const MethodsOverview = () => {
             title="Methods Overview"
             dataPath="/data/Discovery/Methods_overview.json"
             quizPath="/quiz"
+            previousPath="/"
+            nextPath="/methods/transit"
         />
     );
 };

@@ -1,5 +1,4 @@
 // src/components/Methods/Radial-Velocity.jsx
-import React from "react";
 import ReusableDiv from "../ReusableDiv";
 
 const RadialVelocity = () => {
@@ -8,6 +7,8 @@ const RadialVelocity = () => {
             title="Radial Velocity Method"
             dataPath="/data/Discovery/Discovery_Radial_Velocity.json"
             quizPath="/quiz"
+            previousPath="/methods/transit"
+            nextPath="/methods/direct-imaging"
         />
     );
 };

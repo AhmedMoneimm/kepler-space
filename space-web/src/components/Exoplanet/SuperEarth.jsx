@@ -5,7 +5,7 @@ const SuperEarth = () => {
     <ReusableDiv
       title="SuperEarth"
       dataPath="/data/Exoplanets/Exoplanet_Super_Earth.json"
-      quizPath="/quiz"
+      quizPath="/quizsup"
       previousPath="/exoplanet/neptunian" // Previous page path
       nextPath="/exoplanet/rocky" // Next page path
     />

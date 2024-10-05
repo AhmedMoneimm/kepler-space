@@ -5,7 +5,7 @@ const Rocky = () => {
     <ReusableDiv
       title="Rocky Planets"
       dataPath="/data/Exoplanets/Exoplanet_Rocky.json"
-      quizPath="/quiz"
+      quizPath="/quizrok"
       previousPath="/exoplanet/super-earth" // Previous page path
       nextPath="/" // Next page path (home)
     />

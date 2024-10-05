@@ -8,6 +8,8 @@ const Astrometry = () => {
             title="Astrometry Method"
             dataPath="/data/Discovery/Discovery_Astrometry.json"
             quizPath="/quiz" // Assuming you might have a quiz path
+            previousPath="/methods/microlensing" // Previous page path
+            nextPath="/" // Next page home
         />
     );
 };

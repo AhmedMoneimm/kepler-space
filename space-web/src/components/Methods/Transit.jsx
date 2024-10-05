@@ -1,5 +1,4 @@
 // src/components/Methods/Transit.jsx
-import React from "react";
 import ReusableDiv from "../ReusableDiv";
 
 const Transit = () => {
@@ -8,6 +7,8 @@ const Transit = () => {
             title="Transit Method"
             dataPath="/data/Discovery/Discovery_Transit.json"
             quizPath="/quiz"
+            previousPath="/methods/overview"
+            nextPath="/methods/radial-velocity"
         />
     );
 };

@@ -5,7 +5,7 @@ const Types = () => {
     <ReusableDiv
       title="Exoplanet Types"
       dataPath="/data/Exoplanets/Exoplanets_types.json"
-      quizPath="/quiz"
+      quizPath="/quiztyp "
       nextPath="/exoplanet/naming" // Next page path
       previousPath="/exoplanet/overview" // Previous page path
     />

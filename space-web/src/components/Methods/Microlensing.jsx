@@ -8,6 +8,8 @@ const Microlensing = () => {
             title="Microlensing Method"
             dataPath="/data/Discovery/Discovery_Microlensing.json"
             quizPath="/quiz"
+            previousPath="/methods/direct-imaging"
+            nextPath="/methods/astrometry"
         />
     );
 };
