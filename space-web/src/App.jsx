@@ -62,7 +62,6 @@ const App = () => {
         <Navbar />
 
         <Routes>
-          {/* Home route displaying the main components */}
           <Route path="/" element={
             <>
               <div className="h-[700px] relative">
