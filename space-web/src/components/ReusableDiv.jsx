@@ -6,7 +6,7 @@ import Particles from "react-tsparticles";
 import quizAnimation from "../assets/quiz-animation.json"; // Replace with a fun quiz animation
 import spaceBackground from "../assets/space-background.jpg"; // Path to the space background image
 
-const ReusableDiv = ({ title, dataPath, quizPath }) => {
+const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath }) => {
   const navigate = useNavigate();
   const [data, setData] = useState(null);
 
@@ -19,6 +19,17 @@ const ReusableDiv = ({ title, dataPath, quizPath }) => {
 
   const handleQuizNavigation = () => {
     navigate(quizPath); // Navigate to the quiz page
+    window.scrollTo({ top: 0, behavior: "smooth" }); // Scroll to top
+  };
+
+  const handleNextNavigation = () => {
+    navigate(nextPath); // Navigate to the next page
+    window.scrollTo({ top: 0, behavior: "smooth" }); // Scroll to top
+  };
+
+  const handlePreviousNavigation = () => {
+    navigate(previousPath); // Navigate to the previous page
+    window.scrollTo({ top: 0, behavior: "smooth" }); // Scroll to top
   };
 
   return (
@@ -119,6 +130,28 @@ const ReusableDiv = ({ title, dataPath, quizPath }) => {
               transition={{ duration: 0.3 }}
             >
               Go to Quiz
+            </motion.button>
+          </div>
+
+          {/* Navigation Buttons */}
+          <div className="mt-8 flex space-x-4">
+            <motion.button
+              onClick={handlePreviousNavigation}
+              className="bg-gray-500 text-white px-4 py-2 rounded-md hover:bg-gray-600 transition duration-200"
+              initial={{ opacity: 0, y: 10 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.3 }}
+            >
+              Previous
+            </motion.button>
+            <motion.button
+              onClick={handleNextNavigation}
+              className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition duration-200"
+              initial={{ opacity: 0, y: 10 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.3 }}
+            >
+              Next
             </motion.button>
           </div>
         </motion.div>

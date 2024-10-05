@@ -1,39 +1,52 @@
 import React from "react";
-import MountainPng from "../../assets/moon-surface-hd.png";
+import { useNavigate } from "react-router-dom"; // Import useNavigate
+import MoonSurfacePng from "../../assets/moon-surface-hd.png"; // Updated asset name for clarity
 
 const Hero = () => {
+  const navigate = useNavigate(); // Initialize useNavigate
+
+  const handleDiscoverMore = () => {
+    navigate("/exoplanet/overview"); // Navigate to the desired path
+  };
+
   return (
-    <div className=" bg-black/20 h-full">
+    <div className="bg-black/20 h-full relative">
       <div className="h-full flex justify-center items-center p-4">
         <div className="container grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="text-white space-y-4 lg:pr-36">
             <h1 data-aos="fade-up" className="text-5xl font-bold">
-              ORBIT THE EARTH
+              Explore like a Space Eagle!
             </h1>
             <p data-aos="fade-up" data-aos-delay="300">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam ea
-              dolorem eius accusamus beatae. Nulla quis beatae quo, possimus
-              tempora similique dignissimos repellat aperiam veniam culpa
-              consequatur repudiandae asperiores saepe.
+              Embark on an incredible journey as an intern with Space Eagles! 
+              Learn from NASA's top scientists about advanced telescopes and groundbreaking 
+              methods for discovering exoplanets. With the help of cutting-edge AI, 
+              you'll uncover the mysteries of the universe like never before!
+            </p>
+            <p data-aos="fade-up" data-aos-delay="400">
+              Prepare for an epic adventure as you explore over 5,000 exoplanets aboard our state-of-the-art spaceship. 
+              Experience stunning graphics and immersive gameplay in a fascinating game filled with an intriguing story 
+              that will captivate your imagination and keep you on the edge of your seat!
             </p>
             <button
+              onClick={handleDiscoverMore} // Handle button click
               data-aos="fade-up"
               data-aos-delay="500"
-              className="bg-blue-400 text-white hover:bg-blue-500 px-4 py-1 rounded-md duration-200"
+              className="bg-blue-400 text-white hover:bg-blue-500 px-4 py-2 rounded-md duration-200"
             >
-              LEARN MORE
+              Discover More
             </button>
           </div>
-          <div></div>
+          <div className="hidden sm:block"></div>
         </div>
       </div>
       <img
-        src={MountainPng}
-        alt=""
+        src={MoonSurfacePng}
+        alt="Moon Surface"
         className="absolute right-0 bottom-0 w-full brightness-50 z-10"
       />
 
-      <div className="absolute bottom-0 z-30 right-0 w-full bg-gradient-to-b from-transparent from-10% to-primary to-90% h-[20px] sm:h-[50px] md:[60px]"></div>
+      <div className="absolute bottom-0 z-30 right-0 w-full bg-gradient-to-b from-transparent from-10% to-primary to-90% h-[20px] sm:h-[50px] md:h-[60px]"></div>
     </div>
   );
 };

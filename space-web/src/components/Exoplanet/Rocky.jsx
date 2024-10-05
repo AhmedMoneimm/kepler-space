@@ -6,9 +6,10 @@ const Rocky = () => {
       title="Rocky Planets"
       dataPath="/data/Exoplanets/Exoplanet_Rocky.json"
       quizPath="/quiz"
+      previousPath="/exoplanet/super-earth" // Previous page path
+      nextPath="/" // Next page path (home)
     />
   );
 };
 
 export default Rocky;
-// Done

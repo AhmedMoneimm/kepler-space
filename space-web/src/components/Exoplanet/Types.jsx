@@ -6,9 +6,10 @@ const Types = () => {
       title="Exoplanet Types"
       dataPath="/data/Exoplanets/Exoplanets_types.json"
       quizPath="/quiz"
+      nextPath="/exoplanet/naming" // Next page path
+      previousPath="/exoplanet/overview" // Previous page path
     />
   );
 };
 
 export default Types;
-// Done
