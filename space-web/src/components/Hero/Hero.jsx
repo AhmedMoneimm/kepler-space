@@ -11,7 +11,7 @@ const Hero = () => {
 
   return (
     <div className="bg-black/20 h-full relative">
-      <div className="h-full flex justify-center items-start p-4 pt-20">
+      <div className="h-full flex justify-center items-start p-4 pt-28"> {/* Increased padding from pt-20 to pt-28 */}
         <div className="container grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="text-white space-y-4 lg:pr-36">
             <h1 data-aos="fade-up" className="text-5xl font-bold">

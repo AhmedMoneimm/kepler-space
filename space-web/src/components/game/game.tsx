@@ -1,10 +1,15 @@
 // src/pages/game.tsx
-import React from "react";
+import React, { useEffect } from "react"; // Import useEffect
 import { motion } from "framer-motion";
 import Particles from "react-tsparticles"; // Ensure you have this library installed
 import spaceBackground from "../../assets/space-background.jpg"; // Ensure the file exists at this path
 
 const GamePage = () => {
+    // Scroll to the top of the page on component mount
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
+
     const handleDownload = () => {
         // Replace with your actual download link
         window.location.href = "/path/to/game.zip";
