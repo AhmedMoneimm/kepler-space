@@ -1,0 +1,667 @@
+[
+    {
+        "question": "What is a characteristic of rocky planets?",
+        "options": ["Gaseous atmosphere", "Solid surface", "Large size", "Low density"],
+        "answer": "Solid surface"
+    },
+    {
+        "question": "Which of the following is NOT considered a rocky planet?",
+        "options": ["Earth", "Mars", "Venus", "Jupiter"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the primary composition of rocky planets?",
+        "options": ["Gas and ice", "Ice and dust", "Rock and metal", "Water and gas"],
+        "answer": "Rock and metal"
+    },
+    {
+        "question": "Which rocky planet has the highest average surface temperature?",
+        "options": ["Earth", "Venus", "Mars", "Mercury"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the smallest rocky planet in our solar system?",
+        "options": ["Mercury", "Mars", "Venus", "Earth"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the primary reason for the greenhouse effect on Venus?",
+        "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Methane"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "Which rocky planet is known for having water in its polar ice caps?",
+        "options": ["Venus", "Earth", "Mars", "Mercury"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the main reason Mars appears red?",
+        "options": ["Oxygen", "Iron oxide (rust)", "Water", "Sand"],
+        "answer": "Iron oxide (rust)"
+    },
+    {
+        "question": "Which rocky planet has the most significant number of moons?",
+        "options": ["Earth", "Mars", "Venus", "Mercury"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the name of the largest volcano on Mars?",
+        "options": ["Olympus Mons", "Mount Everest", "Mauna Loa", "Kilimanjaro"],
+        "answer": "Olympus Mons"
+    },
+    {
+        "question": "What is the surface pressure like on Mars compared to Earth?",
+        "options": ["Higher", "Lower", "Similar", "None"],
+        "answer": "Lower"
+    },
+    {
+        "question": "Which rocky planet is known for its active plate tectonics?",
+        "options": ["Earth", "Venus", "Mars", "Mercury"],
+        "answer": "Earth"
+    },
+    {
+        "question": "What is the primary element found in the atmosphere of Venus?",
+        "options": ["Nitrogen", "Carbon Dioxide", "Oxygen", "Helium"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "Which rocky planet has the longest day?",
+        "options": ["Earth", "Venus", "Mars", "Mercury"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What type of surface features are prevalent on Mercury?",
+        "options": ["Ridges", "Craters", "Dunes", "Lakes"],
+        "answer": "Craters"
+    },
+    {
+        "question": "What is the primary reason for the temperature extremes on Mercury?",
+        "options": ["No atmosphere", "Thin atmosphere", "Thick atmosphere", "Distance from the Sun"],
+        "answer": "No atmosphere"
+    },
+    {
+        "question": "Which planet is sometimes referred to as Earth's twin?",
+        "options": ["Mars", "Venus", "Mercury", "Neptune"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the primary cause of Venus's high surface temperature?",
+        "options": ["Solar radiation", "Volcanic activity", "Greenhouse gases", "Atmospheric pressure"],
+        "answer": "Greenhouse gases"
+    },
+    {
+        "question": "What is the rotational period of Mercury?",
+        "options": ["59 Earth days", "88 Earth days", "365 Earth days", "1 Earth day"],
+        "answer": "59 Earth days"
+    },
+    {
+        "question": "Which rocky planet is known for its striking blue color when viewed from space?",
+        "options": ["Earth", "Venus", "Mars", "Mercury"],
+        "answer": "Earth"
+    },
+    {
+        "question": "Which rocky planet is home to the largest canyon in the solar system?",
+        "options": ["Venus", "Earth", "Mars", "Mercury"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What significant feature does Earth have that supports life?",
+        "options": ["Rings", "Atmosphere", "Moons", "Magnetic field"],
+        "answer": "Atmosphere"
+    },
+    {
+        "question": "What is the approximate age of the Moon?",
+        "options": ["4.5 billion years", "3 billion years", "2 billion years", "1 billion years"],
+        "answer": "4.5 billion years"
+    },
+    {
+        "question": "Which rocky planet has the most significant temperature difference between day and night?",
+        "options": ["Venus", "Mars", "Mercury", "Earth"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the main feature of Venus's surface?",
+        "options": ["Lava plains", "Craters", "Mountain ranges", "Ocean"],
+        "answer": "Lava plains"
+    },
+    {
+        "question": "What phenomenon causes Mars to have seasons?",
+        "options": ["Tilted axis", "Distance from the Sun", "Day length", "All of the above"],
+        "answer": "Tilted axis"
+    },
+    {
+        "question": "What is the primary gas in the atmosphere of Mars?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "What is the largest impact crater on Mars?",
+        "options": ["Hellas Planitia", "Valles Marineris", "Olympus Mons", "Phoenix"],
+        "answer": "Hellas Planitia"
+    },
+    {
+        "question": "What is the term used for the layer of gases surrounding a planet?",
+        "options": ["Atmosphere", "Biosphere", "Lithosphere", "Hydrosphere"],
+        "answer": "Atmosphere"
+    },
+    {
+        "question": "What is the primary component of Earth's atmosphere?",
+        "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "Which rocky planet has the most extreme temperature fluctuations?",
+        "options": ["Earth", "Mars", "Venus", "Mercury"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the average temperature on Venus?",
+        "options": ["-50°C", "0°C", "450°C", "300°C"],
+        "answer": "450°C"
+    },
+    {
+        "question": "What kind of surface does Mars have?",
+        "options": ["Rocky and dusty", "Icy", "Liquid", "Gaseous"],
+        "answer": "Rocky and dusty"
+    },
+    {
+        "question": "Which rocky planet is closest to the Sun?",
+        "options": ["Venus", "Earth", "Mercury", "Mars"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "options": ["Mars", "Venus", "Mercury", "Earth"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the main feature of Earth's geology?",
+        "options": ["Mountain ranges", "Volcanoes", "Rivers", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the predominant feature of Mercury's surface?",
+        "options": ["Craters", "Lakes", "Mountains", "Rivers"],
+        "answer": "Craters"
+    },
+    {
+        "question": "What gas makes up about 21% of Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "What kind of climate does Mars experience?",
+        "options": ["Tropical", "Desert", "Cold", "Temperate"],
+        "answer": "Cold"
+    },
+    {
+        "question": "Which rocky planet has the longest day?",
+        "options": ["Earth", "Venus", "Mercury", "Mars"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the primary factor that causes the greenhouse effect on Venus?",
+        "options": ["Carbon Dioxide", "Nitrogen", "Methane", "Oxygen"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "Which rocky planet has no moons?",
+        "options": ["Mars", "Earth", "Venus", "Mercury"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the main feature of the surface of Venus?",
+        "options": ["Ice caps", "Lava flows", "Dust storms", "Oceans"],
+        "answer": "Lava flows"
+    },
+    {
+        "question": "Which rocky planet is known for its volcanoes?",
+        "options": ["Mars", "Mercury", "Earth", "Venus"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the term for a planet's orbit around the Sun?",
+        "options": ["Revolution", "Rotation", "Circumference", "Equator"],
+        "answer": "Revolution"
+    },
+    {
+        "question": "Which planet has the most significant volcanic activity?",
+        "options": ["Earth", "Venus", "Mars", "Mercury"],
+        "answer": "Venus"
+    },
+    {
+        "question": "Which planet has a surface pressure about 92 times that of Earth?",
+        "options": ["Earth", "Mars", "Venus", "Mercury"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the main reason Mars is considered a candidate for past life?",
+        "options": ["Presence of water", "Solid surface", "Atmosphere", "Moons"],
+        "answer": "Presence of water"
+    },
+    {
+        "question": "What is the primary factor that affects surface temperatures on rocky planets?",
+        "options": ["Distance from the Sun", "Atmosphere", "Tilt of the axis", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is true about Mercury's atmosphere?",
+        "options": ["It is dense", "It is thin", "It is thick", "It has no atmosphere"],
+        "answer": "It is thin"
+    },
+    {
+        "question": "Which rocky planet experiences the most significant range of temperatures?",
+        "options": ["Mars", "Venus", "Mercury", "Earth"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "Which rocky planet has the largest volcano in the solar system?",
+        "options": ["Venus", "Mars", "Earth", "Mercury"],
+        "answer": "Mars"
+    },
+    {
+        "question": "Which planet's surface is primarily composed of basalt?",
+        "options": ["Mars", "Earth", "Mercury", "Venus"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the primary reason for Venus's high surface temperature?",
+        "options": ["Distance from the Sun", "Atmospheric pressure", "Solar radiation", "Solar wind"],
+        "answer": "Atmospheric pressure"
+    },
+    {
+        "question": "What is the main component of the Martian atmosphere?",
+        "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Methane"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "Which planet is the third from the Sun?",
+        "options": ["Earth", "Venus", "Mars", "Mercury"],
+        "answer": "Earth"
+    },
+    {
+        "question": "What is the primary composition of Earth's crust?",
+        "options": ["Rock", "Water", "Gas", "Ice"],
+        "answer": "Rock"
+    },
+    {
+        "question": "What is the orbital period of Mars?",
+        "options": ["687 Earth days", "365 Earth days", "225 Earth days", "480 Earth days"],
+        "answer": "687 Earth days"
+    },
+    {
+        "question": "Which rocky planet is closest to Earth?",
+        "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What type of surface features are found on Venus?",
+        "options": ["Mountain ranges", "Valleys", "Volcanoes", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which planet has a significant amount of water in the form of ice?",
+        "options": ["Earth", "Mars", "Venus", "Mercury"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the predominant feature of Earth's climate?",
+        "options": ["Cold", "Hot", "Temperate", "Stable"],
+        "answer": "Stable"
+    },
+    {
+        "question": "Which rocky planet is referred to as the 'Evening Star' or 'Morning Star'?",
+        "options": ["Earth", "Venus", "Mars", "Mercury"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the average surface temperature on Earth?",
+        "options": ["15°C", "20°C", "25°C", "30°C"],
+        "answer": "15°C"
+    },
+    {
+        "question": "What is the primary reason for the presence of craters on rocky planets?",
+        "options": ["Volcanic activity", "Erosion", "Asteroid impacts", "Tectonic activity"],
+        "answer": "Asteroid impacts"
+    },
+    {
+        "question": "What is the main reason Mars has a thin atmosphere?",
+        "options": ["Lack of gravity", "Solar winds", "Distance from the Sun", "Water loss"],
+        "answer": "Lack of gravity"
+    },
+    {
+        "question": "Which of the following statements is true regarding Venus's surface?",
+        "options": ["It is covered in oceans", "It has more volcanoes than Earth", "It has a solid surface", "All of the above"],
+        "answer": "It has more volcanoes than Earth"
+    },
+    {
+        "question": "What is the significance of studying rocky planets?",
+        "options": ["To find life", "To understand geology", "To learn about the solar system", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which rocky planet has an axial tilt similar to Earth?",
+        "options": ["Venus", "Mars", "Mercury", "Earth"],
+        "answer": "Earth"
+    },
+    {
+        "question": "What is the main reason Mars has seasons?",
+        "options": ["Axial tilt", "Distance from the Sun", "Solar activity", "Atmospheric pressure"],
+        "answer": "Axial tilt"
+    },
+    {
+        "question": "Which rocky planet is known for its large canyon systems?",
+        "options": ["Earth", "Mars", "Venus", "Mercury"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the primary reason Venus has a thick atmosphere?",
+        "options": ["Proximity to the Sun", "High pressure", "High gravity", "Carbon Dioxide"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "Which planet has the longest day compared to its year?",
+        "options": ["Mars", "Venus", "Earth", "Mercury"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the primary characteristic of rocky planets?",
+        "options": ["Presence of rings", "Solid surface", "Gaseous atmosphere", "All of the above"],
+        "answer": "Solid surface"
+    },
+    {
+        "question": "What is the main source of water on Earth?",
+        "options": ["Oceans", "Rivers", "Lakes", "Glaciers"],
+        "answer": "Oceans"
+    },
+    {
+        "question": "Which rocky planet has the most significant amount of volcanic activity?",
+        "options": ["Earth", "Venus", "Mars", "Mercury"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the reason for the differences in surface temperature on rocky planets?",
+        "options": ["Distance from the Sun", "Atmospheric composition", "Surface features", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following statements is true about Earth's atmosphere?",
+        "options": ["It is primarily nitrogen", "It is primarily carbon dioxide", "It is thick", "It lacks oxygen"],
+        "answer": "It is primarily nitrogen"
+    },
+    {
+        "question": "What is the average distance from the Earth to the Sun?",
+        "options": ["1 AU", "10 AU", "5 AU", "20 AU"],
+        "answer": "1 AU"
+    },
+    {
+        "question": "What is the geological activity of rocky planets primarily driven by?",
+        "options": ["Solar energy", "Internal heat", "Moon activity", "Wind"],
+        "answer": "Internal heat"
+    },
+    {
+        "question": "Which of the following features can be found on rocky planets?",
+        "options": ["Oceans", "Mountains", "Craters", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which planet is known for its blue oceans?",
+        "options": ["Mars", "Earth", "Venus", "Mercury"],
+        "answer": "Earth"
+    },
+    {
+        "question": "What is the significance of studying rocky planets?",
+        "options": ["To find life", "To understand geology", "To learn about the solar system", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which rocky planet has a core composed of iron and nickel?",
+        "options": ["Mercury", "Earth", "Mars", "Venus"],
+        "answer": "Earth"
+    },
+    {
+        "question": "What type of atmosphere does Mars have?",
+        "options": ["Dense", "Thin", "Similar to Earth", "None"],
+        "answer": "Thin"
+    },
+    {
+        "question": "Which planet is often referred to as the 'Red Planet'?",
+        "options": ["Earth", "Mars", "Venus", "Mercury"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the temperature on Venus typically?",
+        "options": ["-30°C", "0°C", "450°C", "100°C"],
+        "answer": "450°C"
+    },
+    {
+        "question": "Which rocky planet has a similar mass to Earth?",
+        "options": ["Mars", "Venus", "Mercury", "All of the above"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the primary component of the Martian surface?",
+        "options": ["Rocky", "Ice", "Liquid", "Gaseous"],
+        "answer": "Rocky"
+    },
+    {
+        "question": "What gas is most prevalent in Venus's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Methane"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "What causes the extreme greenhouse effect on Venus?",
+        "options": ["High pressure", "High temperature", "Water vapor", "Carbon Dioxide"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "Which planet has the largest solid surface area?",
+        "options": ["Earth", "Venus", "Mars", "Mercury"],
+        "answer": "Earth"
+    },
+    {
+        "question": "What is the primary reason for the existence of seasons on Earth?",
+        "options": ["Tilt of the axis", "Distance from the Sun", "Size", "Temperature"],
+        "answer": "Tilt of the axis"
+    },
+    {
+        "question": "What is the primary feature of Mars's surface?",
+        "options": ["Oceans", "Dust storms", "Rocks", "Mountains"],
+        "answer": "Dust storms"
+    },
+    {
+        "question": "Which rocky planet is known for its polar ice caps?",
+        "options": ["Earth", "Venus", "Mars", "Mercury"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the primary composition of Mercury's crust?",
+        "options": ["Rocky", "Icy", "Gaseous", "Liquid"],
+        "answer": "Rocky"
+    },
+    {
+        "question": "Which rocky planet has been the subject of numerous missions to find signs of past life?",
+        "options": ["Venus", "Mars", "Mercury", "Earth"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the primary reason for the existence of the greenhouse effect on Earth?",
+        "options": ["Oxygen", "Water vapor", "Carbon Dioxide", "Nitrogen"],
+        "answer": "Water vapor"
+    },
+    {
+        "question": "What is the main feature of Venus's surface?",
+        "options": ["Volcanoes", "Oceans", "Mountains", "Dust storms"],
+        "answer": "Volcanoes"
+    },
+    {
+        "question": "Which rocky planet is considered the most similar to Earth?",
+        "options": ["Mars", "Venus", "Mercury", "All of the above"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the average density of Earth compared to other rocky planets?",
+        "options": ["Higher", "Lower", "Similar", "None"],
+        "answer": "Higher"
+    },
+    {
+        "question": "Which planet has the most extensive canyon systems?",
+        "options": ["Earth", "Mars", "Venus", "Mercury"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the primary reason for the presence of liquid water on Earth?",
+        "options": ["Distance from the Sun", "Atmosphere", "Geological activity", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which planet has a surface composed mainly of basalt?",
+        "options": ["Earth", "Mars", "Venus", "Mercury"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the main geological activity on rocky planets?",
+        "options": ["Volcanism", "Tectonics", "Weathering", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the average density of Mars compared to Earth?",
+        "options": ["Higher", "Lower", "Similar", "None"],
+        "answer": "Lower"
+    },
+    {
+        "question": "Which of the following statements is true about rocky planets?",
+        "options": ["They have atmospheres", "They are far from the Sun", "They are small", "They have solid surfaces"],
+        "answer": "They have solid surfaces"
+    },
+    {
+        "question": "What do scientists hope to discover by studying Mars?",
+        "options": ["Water", "Life", "Geological history", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which planet is known as the 'Evening Star'?",
+        "options": ["Earth", "Venus", "Mars", "Mercury"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the surface temperature on Mercury like?",
+        "options": ["Stable", "Extreme fluctuations", "Moderate", "Cold"],
+        "answer": "Extreme fluctuations"
+    },
+    {
+        "question": "What is the main reason for Venus's lack of water?",
+        "options": ["High temperatures", "Strong winds", "Solar radiation", "Atmospheric pressure"],
+        "answer": "High temperatures"
+    },
+    {
+        "question": "What is the predominant feature of Mars's geology?",
+        "options": ["Craters", "Valleys", "Rocks", "Oceans"],
+        "answer": "Craters"
+    },
+    {
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "Which rocky planet has a longer rotation period?",
+        "options": ["Earth", "Venus", "Mars", "Mercury"],
+        "answer": "Venus"
+    },
+    {
+        "question": "Which of the following planets has a hot, toxic atmosphere?",
+        "options": ["Earth", "Mars", "Venus", "Mercury"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the average density of Venus compared to Earth?",
+        "options": ["Higher", "Lower", "Similar", "None"],
+        "answer": "Similar"
+    },
+    {
+        "question": "Which rocky planet has a significant tilt that affects its seasons?",
+        "options": ["Earth", "Mars", "Venus", "Mercury"],
+        "answer": "Earth"
+    },
+    {
+        "question": "Which rocky planet has surface features like canyons and valleys?",
+        "options": ["Venus", "Mars", "Mercury", "Earth"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What type of rocks are commonly found on Mars?",
+        "options": ["Igneous", "Metamorphic", "Sedimentary", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which rocky planet is known for having liquid water on its surface?",
+        "options": ["Venus", "Mars", "Mercury", "Earth"],
+        "answer": "Earth"
+    },
+    {
+        "question": "What is the average temperature on Mercury during the day?",
+        "options": ["200°C", "400°C", "100°C", "50°C"],
+        "answer": "400°C"
+    },
+    {
+        "question": "What is the main reason for the high surface temperatures on Venus?",
+        "options": ["Solar radiation", "Atmospheric pressure", "Proximity to the Sun", "Volcanism"],
+        "answer": "Atmospheric pressure"
+    },
+    {
+        "question": "Which planet is the second smallest in the solar system?",
+        "options": ["Mars", "Earth", "Venus", "Mercury"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the primary gas in Venus's atmosphere?",
+        "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "What do scientists believe about the presence of water on Mars?",
+        "options": ["It was always dry", "It had a significant amount in the past", "It has more water now", "It has no effect"],
+        "answer": "It had a significant amount in the past"
+    },
+    {
+        "question": "What is the main reason for the high levels of greenhouse gases on Venus?",
+        "options": ["Natural cycles", "Volcanic activity", "Human activity", "None"],
+        "answer": "Volcanic activity"
+    },
+    {
+        "question": "Which rocky planet is characterized by its heavily cratered surface?",
+        "options": ["Mars", "Mercury", "Venus", "Earth"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the term for the study of planets, including their atmospheres and surfaces?",
+        "options": ["Astronomy", "Geology", "Planetology", "Astrobiology"],
+        "answer": "Planetology"
+    },
+    {
+        "question": "Which rocky planet is known for its polar ice caps?",
+        "options": ["Earth", "Mars", "Venus", "Mercury"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the average density of Venus compared to Earth?",
+        "options": ["Higher", "Lower", "Similar", "None"],
+        "answer": "Similar"
+    },
+    {
+        "question": "What is the primary characteristic of Venus's surface?",
+        "options": ["Solid", "Gaseous", "Liquid", "Icy"],
+        "answer": "Solid"
+    },
+    {
+        "question": "What is the main component of Mars's atmosphere?",
+        "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Methane"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "Which planet has the most similar atmosphere to Earth?",
+        "options": ["Venus", "Mars", "Mercury", "None"],
+        "answer": "None"
+    }
+]

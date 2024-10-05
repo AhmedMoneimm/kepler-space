@@ -9,7 +9,6 @@ import os
 app = Flask(__name__)
 CORS(app, origins="http://localhost:5173")
 
-
 # Get the current directory of the script
 current_directory = os.path.dirname(__file__)
 
@@ -18,7 +17,8 @@ faiss_index_path = os.path.join(current_directory, 'exoplanet_index.faiss')
 
 # Load the FAISS index
 index = faiss.read_index(faiss_index_path)
-# Step 2: Load the Sentence Transformer model (you'll still need the model to generate embeddings for queries)
+
+# Load the Sentence Transformer model (you'll still need the model to generate embeddings for queries)
 model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
 
 # Construct the relative path to the Exoplanet.txt file
@@ -28,42 +28,54 @@ exoplanet_file_path = os.path.join(current_directory, 'Exoplanet.txt')
 with open(exoplanet_file_path, 'r', encoding='utf-8') as file:
     raw_text = file.read()
 
-# Split the text into sections
-split_keywords = [
-    "Exoplanet types", "How to find a Planet", "Radial Velocity Method",
-    "Transit Method", "Direct Imaging of Exoplanets", "Gravitational Microlensing",
-    "Astrometry", "Discovery Facility", "Stars", "Why exploring exoplanets"
-]
-documents = []
-current_section = []
+# Extract the questions and answers from the text
+qa_pairs = {}
+
+# Define markers for questions and answers
+current_question = None
+current_answer = []
+
 for line in raw_text.splitlines():
-    if any(keyword in line for keyword in split_keywords):
-        if current_section:
-            documents.append(' '.join(current_section))  # Join and save previous section
-        current_section = [line]  # Start a new section
+    if "What is" in line or "How" in line or "Do" in line or "Will" in line:
+        if current_question:
+            qa_pairs[current_question] = " ".join(current_answer).strip()
+        current_question = line.strip()  # New question
+        current_answer = []  # Reset answer collection
     else:
-        current_section.append(line)  # Keep adding to the current section
+        if current_question:
+            current_answer.append(line)
 
-if current_section:
-    documents.append(' '.join(current_section))
+# Add the last question-answer pair
+if current_question:
+    qa_pairs[current_question] = " ".join(current_answer).strip()
 
-documents = [doc.strip() for doc in documents if doc.strip()]
+# Prepare other document sections for FAISS
+documents = [doc.strip() for doc in qa_pairs.values() if doc.strip()]
 
-# Endpoint for querying the FAISS index
+# Endpoint for querying the FAISS index or fetching exact match from the file
 @app.route('/search', methods=['POST'])
 def search():
-    query = request.json.get('query', '')
+    query = request.json.get('query', '').strip()
     if not query:
         return jsonify({"error": "No query provided"}), 400
     
-    # Generate embedding for the query
+    # Check if the query exactly matches a known question
+    for question in qa_pairs:
+        if query.lower() == question.lower():  # Case-insensitive comparison
+            return jsonify({"results": [qa_pairs[question]]})
+    
+    # If no exact match, proceed with FAISS search
     query_embedding = model.encode([query])
 
     # Search the FAISS index for top results
     distances, indices = index.search(np.array(query_embedding), k=3)
 
-    # Get the top documents
-    top_documents = [documents[i] for i in indices[0]]
+    # Check if there are any valid indices returned from the FAISS search
+    if len(indices) == 0 or len(indices[0]) == 0:
+        return jsonify({"results": ["No relevant results found for your query."]})
+    
+    # Get the top documents if indices are valid
+    top_documents = [documents[i] for i in indices[0] if i < len(documents)]
 
     return jsonify({"results": top_documents})
 

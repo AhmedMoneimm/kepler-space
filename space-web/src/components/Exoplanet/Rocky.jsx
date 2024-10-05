@@ -1,8 +1,10 @@
 // src/components/Exoplanet/Rocky.jsx
 import React, { useEffect, useState } from "react";
-import { motion } from "framer-motion";
+import { motion } from "framer-motion"; // Import for animations
+import { useNavigate } from "react-router-dom"; // Import to navigate to the quiz page
 
 const Rocky = () => {
+  const navigate = useNavigate();
   const [data, setData] = useState(null);
 
   useEffect(() => {
@@ -11,6 +13,10 @@ const Rocky = () => {
       .then(data => setData(data[0])) // Assuming the data is an array with one object
       .catch(error => console.error('Error fetching data:', error));
   }, []);
+
+  const handleQuizNavigation = () => {
+    navigate("/quizrok"); // Navigate to the quiz page
+  };
 
   return (
     <div className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-r from-purple-900 via-black to-purple-900 text-white p-4">
@@ -50,6 +56,16 @@ const Rocky = () => {
           Loading...
         </motion.p>
       )}
+      {/* Quiz Time Section */}
+      <div className="mt-8">
+        <h2 className="text-2xl font-bold mb-4">It's Quiz Time!</h2>
+        <button
+          onClick={handleQuizNavigation}
+          className="bg-blue-500 text-white px-6 py-2 rounded-md hover:bg-blue-600 transition duration-200"
+        >
+          Go to Quiz
+        </button>
+      </div>
     </div>
   );
 };

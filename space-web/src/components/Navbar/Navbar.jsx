@@ -3,25 +3,11 @@ import { Link } from "react-router-dom"; // Import Link for routing
 import Logo from "../../assets/logo.png";
 
 const Navbar = () => {
-  const [telescopeDropdownOpen, setTelescopeDropdownOpen] = useState(false);
-  const [exoplanetsDropdownOpen, setExoplanetsDropdownOpen] = useState(false);
-  const [methodsDropdownOpen, setMethodsDropdownOpen] = useState(false);
+  const [openDropdown, setOpenDropdown] = useState(null); // State to track which dropdown is open
 
   // Toggle dropdown visibility
   const toggleDropdown = (dropdown) => {
-    if (dropdown === "telescope") {
-      setTelescopeDropdownOpen((prev) => !prev);
-      setExoplanetsDropdownOpen(false);
-      setMethodsDropdownOpen(false);
-    } else if (dropdown === "exoplanets") {
-      setExoplanetsDropdownOpen((prev) => !prev);
-      setTelescopeDropdownOpen(false);
-      setMethodsDropdownOpen(false);
-    } else if (dropdown === "methods") {
-      setMethodsDropdownOpen((prev) => !prev);
-      setTelescopeDropdownOpen(false);
-      setExoplanetsDropdownOpen(false);
-    }
+    setOpenDropdown((prev) => (prev === dropdown ? null : dropdown)); // Open the clicked dropdown or close it if it's already open
   };
 
   return (
@@ -33,12 +19,13 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center gap-4 text-white font-bold text-2xl">
             <img src={Logo} alt="" className="w-10" />
-            <Link to="/">
-              <span>MONEIM GAMADAN</span>
-            </Link>
+            <span>MONEIM GAMADAN</span>
           </div>
           <div className="text-white hidden sm:block">
             <ul className="flex items-center gap-6 text-xl py-4 ">
+            <li>
+                <Link to="/">Home</Link>
+              </li>
               <li>
                 <Link to="#">About</Link>
               </li>
@@ -49,7 +36,7 @@ const Navbar = () => {
                 >
                   Telescope
                 </button>
-                {telescopeDropdownOpen && (
+                {openDropdown === "telescope" && (  // Check if this dropdown should be open
                   <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
                     <li>
                       <Link
@@ -104,12 +91,12 @@ const Navbar = () => {
               </li>
               <li className="relative">
                 <button
-                  onClick={() => toggleDropdown("exoplanets")}
+                  onClick={() => toggleDropdown("exoplanets")}  // Update to identify this dropdown
                   className="focus:outline-none"
                 >
                   Exoplanets
                 </button>
-                {exoplanetsDropdownOpen && (
+                {openDropdown === "exoplanets" && (  // Check if this dropdown should be open
                   <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
                     <li>
                       <Link
@@ -164,12 +151,12 @@ const Navbar = () => {
               </li>
               <li className="relative">
                 <button
-                  onClick={() => toggleDropdown("methods")}
+                  onClick={() => toggleDropdown("methods")} // Update to identify this dropdown
                   className="focus:outline-none"
                 >
                   Methods
                 </button>
-                {methodsDropdownOpen && (
+                {openDropdown === "methods" && (  // Check if this dropdown should be open
                   <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
                     <li>
                       <Link

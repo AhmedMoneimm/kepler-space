@@ -1,0 +1,617 @@
+[
+  {
+      "question": "What is an exoplanet?",
+      "options": ["A planet within our solar system", "A planet outside our solar system", "A star", "A moon"],
+      "answer": "A planet outside our solar system"
+  },
+  {
+      "question": "How many confirmed exoplanets have been discovered as of 2023?",
+      "options": ["More than 1,000", "More than 5,500", "More than 10,000", "Less than 500"],
+      "answer": "More than 5,500"
+  },
+  {
+      "question": "Which telescope was primarily used to discover the most exoplanets?",
+      "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Kepler Space Telescope", "Spitzer Space Telescope"],
+      "answer": "Kepler Space Telescope"
+  },
+  {
+      "question": "What is the habitable zone?",
+      "options": ["The area around a star where planets cannot exist", "The region where conditions may be right for liquid water", "The region where planets are too hot for life", "The area where asteroids are found"],
+      "answer": "The region where conditions may be right for liquid water"
+  },
+  {
+      "question": "Which method uses the dimming of a star to detect exoplanets?",
+      "options": ["Radial Velocity Method", "Transit Method", "Direct Imaging", "Gravitational Microlensing"],
+      "answer": "Transit Method"
+  },
+  {
+      "question": "What type of star is most commonly associated with exoplanets?",
+      "options": ["Red Dwarfs", "Blue Giants", "Yellow Dwarfs", "Brown Dwarfs"],
+      "answer": "Red Dwarfs"
+  },
+  {
+      "question": "Which of the following is a gas giant exoplanet?",
+      "options": ["Proxima Centauri b", "WASP-17b", "Earth", "Mars"],
+      "answer": "WASP-17b"
+  },
+  {
+      "question": "What is the significance of the Kepler mission?",
+      "options": ["It was the first mission to Mars.", "It discovered the first exoplanet in the habitable zone.", "It studied the atmospheres of exoplanets.", "It discovered many Earth-sized exoplanets."],
+      "answer": "It discovered many Earth-sized exoplanets."
+  },
+  {
+      "question": "What does the term 'hot Jupiter' refer to?",
+      "options": ["A large gas giant orbiting close to its star", "A planet with oceans of liquid water", "A rocky planet similar to Earth", "A planet with extreme cold temperatures"],
+      "answer": "A large gas giant orbiting close to its star"
+  },
+  {
+      "question": "Which planet is known for having a very high eccentricity in its orbit?",
+      "options": ["Kepler-16b", "HD 189733b", "Earth", "HD 80606 b"],
+      "answer": "HD 80606 b"
+  },
+  {
+      "question": "What is the radial velocity method?",
+      "options": ["Detecting planets by observing their shadows", "Measuring the star's wobble caused by an orbiting planet", "Directly imaging the planet", "Detecting changes in brightness"],
+      "answer": "Measuring the star's wobble caused by an orbiting planet"
+  },
+  {
+      "question": "What is direct imaging?",
+      "options": ["Observing the effects of a planet on its star", "Capturing light directly from the planet", "Inferring the planet's presence from its gravitational effects", "Using radar to detect planets"],
+      "answer": "Capturing light directly from the planet"
+  },
+  {
+      "question": "What is gravitational microlensing?",
+      "options": ["A method to find distant galaxies", "Using a planet's gravity to focus light from a star", "Observing the motion of a planet using telescopes", "A technique to study the cosmic microwave background"],
+      "answer": "Using a planet's gravity to focus light from a star"
+  },
+  {
+      "question": "What role does the TESS mission play?",
+      "options": ["Searching for life on Mars", "Monitoring exoplanets around bright stars", "Studying black holes", "Mapping the cosmic microwave background"],
+      "answer": "Monitoring exoplanets around bright stars"
+  },
+  {
+      "question": "Which of the following methods can be used to detect small planets?",
+      "options": ["Direct Imaging", "Transit Method", "Radial Velocity Method", "Gravitational Microlensing"],
+      "answer": "Transit Method"
+  },
+  {
+      "question": "What is the significance of 'WASP' in exoplanet studies?",
+      "options": ["A type of telescope used to find exoplanets", "A project to find transiting exoplanets", "A type of gas giant planet", "A stellar classification"],
+      "answer": "A project to find transiting exoplanets"
+  },
+  {
+      "question": "What do astronomers measure to detect exoplanets using the radial velocity method?",
+      "options": ["Changes in a planet's atmosphere", "Dimming of light from a star", "Wobble in a star's motion", "Gravitational waves"],
+      "answer": "Wobble in a star's motion"
+  },
+  {
+      "question": "What is the purpose of the James Webb Space Telescope (JWST)?",
+      "options": ["To study Mars", "To look for exoplanets and their atmospheres", "To explore the Moon", "To map the surface of Jupiter"],
+      "answer": "To look for exoplanets and their atmospheres"
+  },
+  {
+      "question": "Which of the following methods can be used to detect Earth-like exoplanets?",
+      "options": ["Direct Imaging", "Transit Method", "Radial Velocity Method", "All of the above"],
+      "answer": "All of the above"
+  },
+  {
+      "question": "What defines the term 'super-Earth'?",
+      "options": ["A rocky planet larger than Earth", "A gas giant smaller than Neptune", "An Earth-like planet with more mass", "A planet orbiting two stars"],
+      "answer": "An Earth-like planet with more mass"
+  },
+  {
+      "question": "What is an exoplanet's atmosphere primarily composed of?",
+      "options": ["Water vapor", "Hydrogen", "Carbon dioxide", "All of the above"],
+      "answer": "All of the above"
+  },
+  {
+      "question": "Which exoplanet is known for having extreme weather conditions?",
+      "options": ["HD 189733b", "Proxima Centauri b", "Kepler-186f", "55 Cancri e"],
+      "answer": "HD 189733b"
+  },
+  {
+      "question": "What do scientists look for in the atmosphere of exoplanets to suggest the presence of life?",
+      "options": ["Methane", "Oxygen", "Water vapor", "All of the above"],
+      "answer": "All of the above"
+  },
+  {
+      "question": "What is the main factor that makes a planet potentially habitable?",
+      "options": ["Its size", "Its distance from its star", "Its atmospheric composition", "Its gravity"],
+      "answer": "Its distance from its star"
+  },
+  {
+      "question": "Which exoplanet is known to have water vapor in its atmosphere?",
+      "options": ["TRAPPIST-1d", "WASP-121b", "HAT-P-11b", "Kepler-22b"],
+      "answer": "HAT-P-11b"
+  },
+  {
+      "question": "What can the study of an exoplanet's light spectrum tell us?",
+      "options": ["Its distance from Earth", "The presence of specific gases in its atmosphere", "Its size", "Its temperature"],
+      "answer": "The presence of specific gases in its atmosphere"
+  },
+  {
+      "question": "What is the primary characteristic of a 'brown dwarf'?",
+      "options": ["It is a fully-fledged star", "It is too small to sustain nuclear fusion", "It is a type of exoplanet", "It is a planet with rings"],
+      "answer": "It is too small to sustain nuclear fusion"
+  },
+  {
+      "question": "Which of the following is a characteristic of 'hot Jupiters'?",
+      "options": ["They are found far from their stars", "They have a thick atmosphere", "They are gaseous and have high temperatures", "They are smaller than Earth"],
+      "answer": "They are gaseous and have high temperatures"
+  },
+  {
+      "question": "What is the term used to describe the light from a star that passes through an exoplanet's atmosphere?",
+      "options": ["Spectroscopy", "Refraction", "Reflection", "Absorption"],
+      "answer": "Spectroscopy"
+  },
+  {
+      "question": "Which exoplanet is known for its retrograde rotation?",
+      "options": ["Venus", "Neptune", "Uranus", "Earth"],
+      "answer": "Venus"
+  },
+  {
+      "question": "What is the primary goal of the European Space Agency's CHEOPS mission?",
+      "options": ["To search for Earth-like exoplanets", "To study exoplanet atmospheres", "To characterize known exoplanets", "To directly image exoplanets"],
+      "answer": "To characterize known exoplanets"
+  },
+  {
+      "question": "What defines the term 'mini-Neptune'?",
+      "options": ["A rocky planet smaller than Earth", "A gas planet larger than Earth but smaller than Neptune", "A gas planet smaller than Jupiter", "A planet with rings"],
+      "answer": "A gas planet larger than Earth but smaller than Neptune"
+  },
+  {
+      "question": "What is the primary factor that limits the direct imaging of exoplanets?",
+      "options": ["Their distance from Earth", "Their size", "The brightness of their host stars", "The number of exoplanets discovered"],
+      "answer": "The brightness of their host stars"
+  },
+  {
+      "question": "Which exoplanet was the first to have its atmosphere characterized?",
+      "options": ["WASP-121b", "HD 189733b", "TRAPPIST-1d", "Kepler-186f"],
+      "answer": "HD 189733b"
+  },
+  {
+      "question": "What is the effect of a star's gravity on an orbiting exoplanet?",
+      "options": ["It pulls the planet away", "It helps the planet maintain a stable orbit", "It causes the planet to rotate", "It has no effect"],
+      "answer": "It helps the planet maintain a stable orbit"
+  },
+  {
+      "question": "What does the term 'eccentricity' refer to in an orbit?",
+      "options": ["The shape of the orbit", "The speed of the orbit", "The distance from the star", "The temperature of the planet"],
+      "answer": "The shape of the orbit"
+  },
+  {
+      "question": "Which of the following is true about exoplanets in the Kepler-90 system?",
+      "options": ["It has the most planets discovered around a single star", "It has no planets", "It has only rocky planets", "It has no gas giants"],
+      "answer": "It has the most planets discovered around a single star"
+  },
+  {
+      "question": "What is the primary composition of gas giants?",
+      "options": ["Rock", "Ice", "Gas", "Liquid"],
+      "answer": "Gas"
+  },
+  {
+      "question": "Which planet is often referred to as the 'second Earth'?",
+      "options": ["Proxima Centauri b", "Kepler-186f", "TRAPPIST-1e", "Kepler-452b"],
+      "answer": "Kepler-452b"
+  },
+  {
+      "question": "Which method is most successful for finding smaller exoplanets?",
+      "options": ["Transit Method", "Radial Velocity Method", "Direct Imaging", "Microlensing"],
+      "answer": "Transit Method"
+  },
+  {
+      "question": "What kind of planets are often found in multi-planet systems?",
+      "options": ["Super-Earths", "Gas giants", "Rocky planets", "All of the above"],
+      "answer": "All of the above"
+  },
+  {
+      "question": "What is the primary advantage of the TESS mission?",
+      "options": ["To find planets around the nearest stars", "To search for moons around planets", "To study star formation", "To monitor black holes"],
+      "answer": "To find planets around the nearest stars"
+  },
+  {
+      "question": "What do astronomers hope to find in the atmospheres of exoplanets?",
+      "options": ["Methane and Oxygen", "Water vapor", "Carbon Dioxide", "All of the above"],
+      "answer": "All of the above"
+  },
+  {
+      "question": "What is the largest known exoplanet?",
+      "options": ["WASP-12b", "HD 100546 b", "HD 189733 b", "HAT-P-32b"],
+      "answer": "HD 100546 b"
+  },
+  {
+      "question": "Which star is the closest to Earth after the Sun?",
+      "options": ["Sirius", "Proxima Centauri", "Alpha Centauri A", "Barnard's Star"],
+      "answer": "Proxima Centauri"
+  },
+  {
+      "question": "What is the significance of the TRAPPIST-1 system?",
+      "options": ["It has the most rocky planets discovered", "It has no planets", "It has only gas giants", "It is the farthest known star system"],
+      "answer": "It has the most rocky planets discovered"
+  },
+  {
+      "question": "What is the primary aim of the James Webb Space Telescope?",
+      "options": ["To study black holes", "To look for water on Mars", "To characterize exoplanet atmospheres", "To map the universe"],
+      "answer": "To characterize exoplanet atmospheres"
+  },
+  {
+      "question": "Which of the following is a characteristic of exoplanets that are too close to their stars?",
+      "options": ["They are cooler than Earth", "They may have lost their atmospheres", "They have rings", "They are always gaseous"],
+      "answer": "They may have lost their atmospheres"
+  },
+  {
+      "question": "What is the significance of studying exoplanet atmospheres?",
+      "options": ["To find out if they are habitable", "To learn about their composition", "To understand their weather patterns", "All of the above"],
+      "answer": "All of the above"
+  },
+  {
+      "question": "What type of planet is considered a 'failed star'?",
+      "options": ["Gas giant", "Brown dwarf", "Ice giant", "Rocky planet"],
+      "answer": "Brown dwarf"
+  },
+  {
+      "question": "Which planet is known for having a retrograde rotation?",
+      "options": ["Venus", "Neptune", "Uranus", "Earth"],
+      "answer": "Venus"
+  },
+  {
+      "question": "What does the term 'exoplanet migration' refer to?",
+      "options": ["The movement of exoplanets to other galaxies", "The movement of a planet from its original orbit", "The discovery of new exoplanets", "The observation of exoplanets by telescopes"],
+      "answer": "The movement of a planet from its original orbit"
+  },
+  {
+      "question": "What is the effect of a star's gravity on an orbiting exoplanet?",
+      "options": ["It pulls the planet away", "It helps the planet maintain a stable orbit", "It causes the planet to rotate", "It has no effect"],
+      "answer": "It helps the planet maintain a stable orbit"
+  },
+  {
+      "question": "Which exoplanet was the first to have its atmosphere characterized?",
+      "options": ["WASP-121b", "HD 189733b", "TRAPPIST-1d", "Kepler-186f"],
+      "answer": "HD 189733b"
+  },
+  {
+      "question": "What is the primary factor that limits the direct imaging of exoplanets?",
+      "options": ["Their distance from Earth", "Their size", "The brightness of their host stars", "The number of exoplanets discovered"],
+      "answer": "The brightness of their host stars"
+  },
+  {
+      "question": "Which exoplanet is known for its extreme temperature fluctuations?",
+      "options": ["HD 189733b", "Proxima Centauri b", "TRAPPIST-1d", "WASP-121b"],
+      "answer": "WASP-121b"
+  },
+  {
+      "question": "What is the significance of the exoplanet 55 Cancri e?",
+      "options": ["It is a water world", "It is a diamond planet", "It has a similar atmosphere to Earth", "It has moons"],
+      "answer": "It is a diamond planet"
+  },
+  {
+      "question": "What is the main characteristic of a 'terrestrial planet'?",
+      "options": ["It is gaseous", "It is rocky", "It has rings", "It is larger than Jupiter"],
+      "answer": "It is rocky"
+  },
+  {
+      "question": "Which method has detected the most exoplanets?",
+      "options": ["Direct Imaging", "Gravitational Microlensing", "Radial Velocity Method", "Transit Method"],
+      "answer": "Transit Method"
+  },
+  {
+      "question": "What does the term 'planetary nebula' refer to?",
+      "options": ["The remnants of a star that has exploded", "The disk from which planets form", "A type of exoplanet", "The area around a black hole"],
+      "answer": "The disk from which planets form"
+  },
+  {
+      "question": "What is the purpose of the European Space Agency's CHEOPS mission?",
+      "options": ["To search for Earth-like exoplanets", "To study exoplanet atmospheres", "To characterize known exoplanets", "To directly image exoplanets"],
+      "answer": "To characterize known exoplanets"
+  },
+  {
+      "question": "What is the primary composition of gas giants?",
+      "options": ["Rock", "Ice", "Gas", "Liquid"],
+      "answer": "Gas"
+  },
+  {
+      "question": "What is the primary goal of the TESS mission?",
+      "options": ["To study Mars", "To find planets around the nearest stars", "To search for moons around planets", "To study black holes"],
+      "answer": "To find planets around the nearest stars"
+  },
+  {
+      "question": "Which of the following is true about exoplanets in the Kepler-90 system?",
+      "options": ["It has the most planets discovered around a single star", "It has no planets", "It has only rocky planets", "It has no gas giants"],
+      "answer": "It has the most planets discovered around a single star"
+  },
+  {
+      "question": "Which of the following exoplanets is known for its extremely high temperatures?",
+      "options": ["55 Cancri e", "TRAPPIST-1e", "Proxima Centauri b", "Kepler-186f"],
+      "answer": "55 Cancri e"
+  },
+  {
+      "question": "What is the main source of energy for a planet's atmosphere?",
+      "options": ["The planet itself", "The host star", "Cosmic rays", "Nuclear fusion"],
+      "answer": "The host star"
+  },
+  {
+      "question": "What does the term 'eccentricity' refer to in an orbit?",
+      "options": ["The shape of the orbit", "The speed of the orbit", "The distance from the star", "The temperature of the planet"],
+      "answer": "The shape of the orbit"
+  },
+  {
+      "question": "Which star is the closest to Earth after the Sun?",
+      "options": ["Sirius", "Proxima Centauri", "Alpha Centauri A", "Barnard's Star"],
+      "answer": "Proxima Centauri"
+  },
+  {
+      "question": "What is the significance of the TRAPPIST-1 system?",
+      "options": ["It has the most rocky planets discovered", "It has no planets", "It has only gas giants", "It is the farthest known star system"],
+      "answer": "It has the most rocky planets discovered"
+  },
+  {
+      "question": "Which of the following planets is often referred to as a 'super-Earth'?",
+      "options": ["Earth", "Mars", "Kepler-452b", "WASP-17b"],
+      "answer": "Kepler-452b"
+  },
+  {
+      "question": "What is the primary aim of the James Webb Space Telescope?",
+      "options": ["To study black holes", "To look for water on Mars", "To characterize exoplanet atmospheres", "To map the universe"],
+      "answer": "To characterize exoplanet atmospheres"
+  },
+  {
+      "question": "What is the main goal of the ESA's ARIEL mission?",
+      "options": ["To study exoplanet interiors", "To investigate exoplanet atmospheres", "To search for habitable exoplanets", "To directly image exoplanets"],
+      "answer": "To investigate exoplanet atmospheres"
+  },
+  {
+      "question": "What phenomenon is caused by the gravitational pull of a planet on its star?",
+      "options": ["Doppler Effect", "Redshift", "Transit", "Gravitational lensing"],
+      "answer": "Doppler Effect"
+  },
+  {
+      "question": "What is the significance of studying the atmospheres of exoplanets?",
+      "options": ["To find out if they are habitable", "To learn about their composition", "To understand their weather patterns", "All of the above"],
+      "answer": "All of the above"
+  },
+  {
+      "question": "Which of the following exoplanets has been directly imaged?",
+      "options": ["HD 189733b", "WASP-121b", "Fomalhaut b", "Kepler-186f"],
+      "answer": "Fomalhaut b"
+  },
+  {
+      "question": "What does the term 'exoplanet migration' refer to?",
+      "options": ["The movement of exoplanets to other galaxies", "The movement of a planet from its original orbit", "The discovery of new exoplanets", "The observation of exoplanets by telescopes"],
+      "answer": "The movement of a planet from its original orbit"
+  },
+  {
+      "question": "What is the term for the potential for life-sustaining conditions on a planet?",
+      "options": ["Astrobiology", "Habitability", "Biosignatures", "Terraforming"],
+      "answer": "Habitability"
+  },
+  {
+      "question": "What is the main characteristic of a 'terrestrial planet'?",
+      "options": ["It is gaseous", "It is rocky", "It has rings", "It is larger than Jupiter"],
+      "answer": "It is rocky"
+  },
+  {
+      "question": "Which of the following is a characteristic of exoplanets that are too close to their stars?",
+      "options": ["They are cooler than Earth", "They may have lost their atmospheres", "They have rings", "They are always gaseous"],
+      "answer": "They may have lost their atmospheres"
+  },
+  {
+      "question": "Which exoplanet is known for its extreme temperature fluctuations?",
+      "options": ["HD 189733b", "Proxima Centauri b", "TRAPPIST-1d", "WASP-121b"],
+      "answer": "WASP-121b"
+  },
+  {
+      "question": "Which of the following is a method used to detect exoplanets by observing the light from a star?",
+      "options": ["Doppler spectroscopy", "Gravitational lensing", "Direct imaging", "All of the above"],
+      "answer": "All of the above"
+  },
+  {
+      "question": "What is the primary characteristic of a 'hot Jupiter'?",
+      "options": ["It is rocky and small", "It is gas giant and orbits very close to its star", "It has rings", "It is in the habitable zone"],
+      "answer": "It is gas giant and orbits very close to its star"
+  },
+  {
+      "question": "What do scientists look for in the atmospheres of exoplanets to suggest the presence of life?",
+      "options": ["Oxygen and methane", "Water vapor", "Carbon dioxide", "All of the above"],
+      "answer": "All of the above"
+  },
+  {
+      "question": "Which telescope is primarily dedicated to studying exoplanets?",
+      "options": ["Chandra", "Hubble", "Kepler", "James Webb"],
+      "answer": "Kepler"
+  },
+  {
+      "question": "Which of the following exoplanets has a highly elliptical orbit?",
+      "options": ["HD 80606 b", "Kepler-16b", "WASP-12b", "Proxima Centauri b"],
+      "answer": "HD 80606 b"
+  },
+  {
+      "question": "What can the study of an exoplanet's light spectrum tell us?",
+      "options": ["Its distance from Earth", "The presence of specific gases in its atmosphere", "Its size", "Its temperature"],
+      "answer": "The presence of specific gases in its atmosphere"
+  },
+  {
+      "question": "Which exoplanet is known for its potential to have liquid water?",
+      "options": ["Proxima Centauri b", "WASP-12b", "TRAPPIST-1e", "Kepler-186f"],
+      "answer": "Kepler-186f"
+  },
+  {
+      "question": "What is the main source of energy for a planet's atmosphere?",
+      "options": ["The planet itself", "The host star", "Cosmic rays", "Nuclear fusion"],
+      "answer": "The host star"
+  },
+  {
+      "question": "What is the effect of a star's gravity on an orbiting exoplanet?",
+      "options": ["It pulls the planet away", "It helps the planet maintain a stable orbit", "It causes the planet to rotate", "It has no effect"],
+      "answer": "It helps the planet maintain a stable orbit"
+  },
+  {
+      "question": "Which exoplanet is known for having a thick atmosphere rich in hydrogen?",
+      "options": ["HD 189733b", "GJ 1214 b", "WASP-17b", "Proxima Centauri b"],
+      "answer": "WASP-17b"
+  },
+  {
+      "question": "What is the main challenge in studying the atmospheres of exoplanets?",
+      "options": ["Their distance from Earth", "Their small size", "The brightness of their host stars", "Their composition"],
+      "answer": "The brightness of their host stars"
+  },
+  {
+      "question": "What is the significance of studying exoplanet atmospheres?",
+      "options": ["To find out if they are habitable", "To learn about their composition", "To understand their weather patterns", "All of the above"],
+      "answer": "All of the above"
+  },
+  {
+      "question": "Which exoplanet was the first to be discovered around a Sun-like star?",
+      "options": ["51 Pegasi b", "Proxima Centauri b", "TRAPPIST-1d", "HD 189733b"],
+      "answer": "51 Pegasi b"
+  },
+  {
+      "question": "What is the main goal of the CHEOPS mission?",
+      "options": ["To search for life on other planets", "To study exoplanet atmospheres", "To characterize known exoplanets", "To find new stars"],
+      "answer": "To characterize known exoplanets"
+  },
+  {
+      "question": "Which of the following methods is least effective for detecting small planets?",
+      "options": ["Transit Method", "Radial Velocity Method", "Direct Imaging", "Gravitational Microlensing"],
+      "answer": "Direct Imaging"
+  },
+  {
+      "question": "What type of planet is often found in multi-planet systems?",
+      "options": ["Super-Earths", "Gas giants", "Rocky planets", "All of the above"],
+      "answer": "All of the above"
+  },
+  {
+      "question": "What is the main characteristic of an exoplanet's orbit?",
+      "options": ["Circular", "Elliptical", "Stable", "All of the above"],
+      "answer": "Elliptical"
+  },
+  {
+      "question": "Which exoplanet is often studied for its potential to have moons?",
+      "options": ["Jupiter", "Saturn", "TRAPPIST-1e", "Kepler-186f"],
+      "answer": "TRAPPIST-1e"
+  },
+  {
+      "question": "What do scientists hope to find in the atmospheres of exoplanets?",
+      "options": ["Oxygen and methane", "Carbon dioxide", "Water vapor", "All of the above"],
+      "answer": "All of the above"
+  },
+  {
+      "question": "What is the significance of finding water vapor in an exoplanet's atmosphere?",
+      "options": ["It indicates the potential for life", "It means the planet is habitable", "It is irrelevant", "It is a sign of a gas giant"],
+      "answer": "It indicates the potential for life"
+  },
+  {
+      "question": "What method is primarily used to find Earth-like exoplanets?",
+      "options": ["Direct Imaging", "Radial Velocity", "Transit Method", "Microlensing"],
+      "answer": "Transit Method"
+  },
+  {
+      "question": "What does the term 'light-year' measure?",
+      "options": ["Time", "Distance", "Mass", "Temperature"],
+      "answer": "Distance"
+  },
+  {
+      "question": "What is the definition of a 'planetary system'?",
+      "options": ["A star with no planets", "A collection of planets orbiting a star", "A collection of stars", "A single planet"],
+      "answer": "A collection of planets orbiting a star"
+  },
+  {
+      "question": "What is an 'ice giant'?",
+      "options": ["A gas giant with no solid surface", "A planet with a rocky surface", "A planet that is mostly composed of ices", "A planet with rings"],
+      "answer": "A planet that is mostly composed of ices"
+  },
+  {
+      "question": "Which exoplanet is located in the habitable zone of its star?",
+      "options": ["WASP-12b", "Proxima Centauri b", "55 Cancri e", "HD 189733b"],
+      "answer": "Proxima Centauri b"
+  },
+  {
+      "question": "What is the effect of an exoplanet's distance from its star on its temperature?",
+      "options": ["Closer means hotter", "Farther means hotter", "Distance has no effect", "It depends on the atmosphere"],
+      "answer": "Closer means hotter"
+  },
+  {
+      "question": "What is the main focus of astrobiology?",
+      "options": ["Studying black holes", "Searching for life on other planets", "Studying the cosmic microwave background", "Mapping stars"],
+      "answer": "Searching for life on other planets"
+  },
+  {
+      "question": "What is a significant characteristic of the TRAPPIST-1 system?",
+      "options": ["It has seven Earth-sized planets", "It has no planets", "It has a gas giant", "It has one habitable planet"],
+      "answer": "It has seven Earth-sized planets"
+  },
+  {
+      "question": "Which of the following methods cannot directly observe exoplanets?",
+      "options": ["Direct Imaging", "Radial Velocity", "Transit Method", "Spectroscopy"],
+      "answer": "Radial Velocity"
+  },
+  {
+      "question": "Which exoplanet is known for having a retrograde orbit?",
+      "options": ["Venus", "Uranus", "HD 80606 b", "Kepler-16b"],
+      "answer": "HD 80606 b"
+  },
+  {
+      "question": "What are the primary elements that make up gas giants?",
+      "options": ["Iron and nickel", "Hydrogen and helium", "Rock and metal", "Ice and rock"],
+      "answer": "Hydrogen and helium"
+  },
+  {
+      "question": "What is the purpose of the mission CHEOPS?",
+      "options": ["To study Mars", "To find exoplanets", "To study the Moon", "To measure the size of known exoplanets"],
+      "answer": "To measure the size of known exoplanets"
+  },
+  {
+      "question": "Which of the following planets is known as the 'Earth's twin'?",
+      "options": ["Mars", "Kepler-452b", "Venus", "TRAPPIST-1d"],
+      "answer": "Venus"
+  },
+  {
+      "question": "What is the main objective of studying exoplanets?",
+      "options": ["To understand their atmospheres", "To find life beyond Earth", "To learn about their formation", "All of the above"],
+      "answer": "All of the above"
+  },
+  {
+      "question": "What are the 'exoplanet types' based on size and composition?",
+      "options": ["Rocky, gaseous, icy", "Small, medium, large", "Solid, liquid, gas", "Dwarf, giant, super"],
+      "answer": "Rocky, gaseous, icy"
+  },
+  {
+      "question": "What is the significance of the planet Proxima Centauri b?",
+      "options": ["It is the closest known exoplanet to Earth", "It has a thick atmosphere", "It is a gas giant", "It has been confirmed to have water"],
+      "answer": "It is the closest known exoplanet to Earth"
+  },
+  {
+      "question": "What is the role of spectroscopy in exoplanet research?",
+      "options": ["To measure distance", "To study the light spectrum from a star", "To observe the planet's surface", "To analyze gravity"],
+      "answer": "To study the light spectrum from a star"
+  },
+  {
+      "question": "Which planet is often referred to as the 'most Earth-like'?",
+      "options": ["Mars", "Venus", "Kepler-186f", "TRAPPIST-1e"],
+      "answer": "Kepler-186f"
+  },
+  {
+      "question": "What is the effect of a planet's tilt on its climate?",
+      "options": ["It has no effect", "It causes seasons", "It makes the planet cooler", "It affects atmospheric pressure"],
+      "answer": "It causes seasons"
+  },
+  {
+      "question": "What is the goal of studying exoplanet geology?",
+      "options": ["To determine the planet's temperature", "To understand surface processes", "To measure atmospheric pressure", "To find liquid water"],
+      "answer": "To understand surface processes"
+  },
+  {
+      "question": "What is a key challenge in finding Earth-like exoplanets?",
+      "options": ["Their brightness", "Their distance", "The distance from their stars", "The size of their atmospheres"],
+      "answer": "Their distance"
+  },
+  {
+      "question": "Which telescope was launched to discover Earth-like exoplanets?",
+      "options": ["Hubble Space Telescope", "Kepler Space Telescope", "James Webb Space Telescope", "TESS"],
+      "answer": "Kepler Space Telescope"
+  },
+  {
+      "question": "Which exoplanet is known for having a retrograde orbit?",
+      "options": ["Venus", "Uranus", "HD 80606 b", "Kepler-16b"],
+      "answer": "HD 80606 b"
+  }
+]

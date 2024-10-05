@@ -15,7 +15,13 @@ import GasGiants from "./components/Exoplanet/GasGiants"; // Import Gas Giants C
 import Neptunian from "./components/Exoplanet/Neptunian"; // Import Neptunian Component
 import SuperEarth from "./components/Exoplanet/SuperEarth"; // Import Super Earth Component
 import Rocky from "./components/Exoplanet/Rocky"; // Import Rocky Component
+import QuizPage from "./components/Quiz/QuizPage";
+import QuizGas from "./components/Quiz/QuizGas";
+import QuizNep from "./components/Quiz/QuizNep";
+import QuizRok from "./components/Quiz/QuizRok";
+import QuizSup from "./components/Quiz/QuizSup";
 import Types from "./components/Exoplanet/Types";
+import QuizTyp from "./components/Quiz/QuizTyp";
 import MethodsOverview from "./components/Methods/MethodsOverview";
 import Transit from "./components/Methods/Transit.jsx";
 import RadialVelocity from "./components/Methods/Radial-Velocity.jsx";
@@ -66,12 +72,19 @@ const App = () => {
           } />
 
           {/* Exoplanet routes */}
+          
           <Route path="/exoplanet/overview" element={<ExoplanetOverview />} />
           <Route path="/exoplanet/types" element={<Types />} />
           <Route path="/exoplanet/gas-giants" element={<GasGiants />} />
           <Route path="/exoplanet/neptunian" element={<Neptunian />} />
           <Route path="/exoplanet/super-earth" element={<SuperEarth />} />
           <Route path="/exoplanet/rocky" element={<Rocky />} />
+          <Route path="/quiz" element={<QuizPage />} /> {/* Add Quiz route */}
+          <Route path="/quizgas" element={<QuizGas />} /> {/* Add Quiz route */}
+          <Route path="/quiznep" element={<QuizNep />} /> {/* Add Quiz route */}
+          <Route path="/quizrok" element={<QuizRok />} /> {/* Add Quiz route */}
+          <Route path="/quizsup" element={<QuizSup />} /> {/* Add Quiz route */}
+          <Route path="/quiztyp" element={<QuizTyp />} /> {/* Add Quiz route */}
           <Route path="/methods/overview" element={<MethodsOverview />} />
           <Route path="/methods/transit" element={<Transit />} />
           <Route path="/methods/radial-velocity" element={<RadialVelocity />} />
@@ -84,7 +97,6 @@ const App = () => {
           <Route path="/telescope/james-webb" element={<JWST />} />
           <Route path="/telescope/spitzer" element={<Spitzer />} />
           <Route path="/telescope/Tess" element={<TESS />} />
-          
         </Routes>
 
         <Chatbot />

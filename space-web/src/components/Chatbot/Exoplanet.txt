@@ -180,3 +180,98 @@ Spitzer: NASA's Spitzer Space Telescope explored the universe in infrared light,
 TESS: The Transiting Exoplanet Survey Satellite (TESS) continues the work started by Kepler, but instead of focusing deeply on small sections of the sky, TESS conducts an all-sky survey, studying both hemispheres. It searches for exoplanets around nearby stars, which are brighter and easier to observe than those studied by Kepler. TESS's broader approach aims to cover 85% of the sky, finding planets around stars within 200 light-years. These planets are easier to follow up with ground-based observations, helping scientists refine their understanding of their masses, sizes, and atmospheres.
 James Webb Space Telescope: In 2021, the James Webb Space Telescope (JWST) launched, marking a groundbreaking step in space science. With its sunshield the size of a tennis court and a 6.5-meter primary mirror, it's the largest and most advanced observatory sent into space. Operating in the infrared spectrum, JWST will study the universe's early history, potentially revealing key details about the formation of planetary systems and analyzing exoplanet atmospheres. JWST is expected to be the premier observatory of the next decade, building on the discoveries of previous missions.
 Ground-based telescope: NASA collaborates globally to study exoplanets, using both space-based and ground-based telescopes. Ground telescopes, such as Magellan II, NEID, and Keck, complement space missions like TESS by confirming exoplanet discoveries and measuring their mass. These observations help scientists determine exoplanet characteristics, like whether a planet is rocky or gaseous. Future space telescopes, including the James Webb Space Telescope, will work with ground observatories to analyze exoplanet atmospheres and compositions, providing a deeper understanding of these distant worlds.
+
+
+
+
+What is an exoplanet?
+The worlds orbiting other stars are called “exoplanets,” and they come in a wide variety of sizes, from gas giants larger than Jupiter to small, rocky planets about as big around as Earth or Mars. They can be hot enough to boil metal or locked in deep freeze. They can orbit their stars so tightly that a “year” lasts only a few days; they can orbit two suns at once. Some exoplanets are sunless rogues, wandering through the galaxy in permanent darkness.
+
+Our galaxy, the Milky Way, is the thick stream of stars that cuts across the sky on the darkest, clearest nights. Its spiraling expanse probably contains about 400 billion stars, our Sun among them. And if each of those stars has not just one planet, but, like ours, a whole system of them, then the number of planets in the galaxy is truly astronomical: We’re already heading into the trillions.
+
+Is there life on other planets?
+The ultimate goal of NASA's exoplanet program is to find unmistakable signs of current life on a planet beyond Earth. How soon that can happen depends on two unknowns: the prevalence of life in the galaxy and how lucky we get as we take those first, tentative, exploratory steps.
+
+Our early planet finding missions, such as NASA’s Kepler and its extended incarnation, K2, or the James Webb Space Telescope, could yield bare bones evidence of the potentially habitable worlds. James Webb, designed in part to investigate gas giants and super-Earths, might find an outsized version of our planet. NASA's Nancy Grace Roman Space Telescope or the Wide-Field Infrared Survey Telescope, could zero in on a distant planet’s reflected light to detect the signatures of oxygen, water vapor, or some other powerful indication of possible life.
+But unless we get lucky, the search for signs of life could take decades. Discovering another blue-white marble hidden in the star field, like a sand grain on the beach, will probably require an even larger imaging telescope. Designs are already underway for that next-generation planet finder, to be sent aloft in the 2030s or 2040s.
+
+MIT physics professor Sara Seager looks for possible chemical combinations that could signal the presence of alien life. She and her biochemistry colleagues first focused on the six main elements associated with life on Earth: carbon, nitrogen, oxygen, phosphorous, sulfur and hydrogen.
+
+“We’re going to have so few planets, we have to get lucky,” Seager said. “I don’t want to miss anything. I don’t want to miss it because we weren’t smart enough to think of some molecule.”
+
+How many exoplanets are there?
+To date, more than 5,000 exoplanets have been discovered and are considered "confirmed" out of the billions in our galaxy alone. There are thousands of other "candidate" exoplanet detections that require further observations in order to say for sure whether or not the exoplanet is real.
+
+Remarkably, the first exoplanets were just discovered in the 1990s. We live in an extraordinary time where in the span of a single generation, the centuries-old question "Are there planets orbiting other stars?" has been answered with a resounding "Yes!"
+
+Where are exoplanets?
+n a lot of places! Most of the exoplanets discovered so far are in a relatively small region of our galaxy, the Milky Way. ("Small" meaning within thousands of light years of the solar system). That is as far as current telescopes have been able to probe.
+
+Astronomers think that nearly every star in the universe could have at least one planet. That’s trillions of planets, waiting to be found. If you go outside on a clear night and look up at the stars, virtually every star you can see has at least one planet in orbit around it, and most likely, several.
+
+What is the closest exoplanet to Earth?
+Proxima Centauri b, which is about four light-years away. Its mass is consistent with it being slightly larger than Earth. Based on what we know about exoplanets, and planets in our solar system similar in mass to Earth, it is most likely a rocky planet. Proxima Centauri b orbits in the "habitable zone" of its star, which means it could have liquid water on its surface – if it has an atmosphere which could support it. Calculations suggest that the one side of the exoplanet Proxima b faces its star all the time, which would make for a very different atmosphere and weather than we have on Earth. Its parent star, Proxima Centauri, is a dim red dwarf star that gives off about 600 times less light than our Sun. Proxima Centauri is the closest star to the Earth after our Sun, but it is still about 9,000 times farther than planet Neptune.
+
+How do we find exoplanets?
+The successes of discovering exoplanets in recent decades seem to be telling us that the galaxy is teeming with trillions of exoplanets, but finding them isn't easy. Planets are typically billions of times fainter than the stars they orbit, and they are incredibly distant. The challenges of observing extrasolar planets stem from four basic facts: Planets don't produce any light of their own, except when they’re recently formed (i.e. young). They are an enormous distance from us. They are lost in the blinding glare of their parent stars. Their sizes and masses are typically much, much smaller than that of the stars they orbit.It’s pretty rare for astronomers to see an exoplanet through their telescopes the way you might see Mars through a telescope from Earth. That’s called direct imaging, and only a handful of exoplanets have been found this way (and these tend to be young gas giant planets orbiting very far from their stars).Most exoplanets are found through indirect methods: measuring the dimming of a star that happens to have a planet pass in front of it, or monitoring the spectrum of a star for the tell-tale signs of a planet pulling on its star and causing its light to subtly Doppler shift. NASA’s Kepler Space Telescope finds thousands of planets by observing “transits,” the slight dimming of light from a star when its tiny planet passes between it and our telescopes. Other methods include gravitational lensing, the “wobble method,” and direct imaging.
+
+Will a person ever go to an exoplanet?
+Not anytime soon, given the enormous distances between the stars and the time it would take to travel between them with our current technology. Perhaps one day a robot will visit an exoplanet like the rovers on Mars. But that day too is still very far in the future. First, we have to learn how to travel much faster and further in space than we’ve ever gone before. Keeping humans alive to complete such a long journey is probably the biggest challenge. Today, NASA is concentrating on the steps to get humans to Mars, which is our next-door neighbor. In the meantime, you can “stand” on an illustration of an exoplanet surface with our virtual reality.
+
+Will we ever take real images of exoplanets?
+Yes! In recent years, NASA has taken images, called direct imaging, of exoplanets that are light-years away. In the images, the planets sometimes look like faint spots next to blotted out regions (where the bright light of the planet's star has been subtracted). Examples of imaged planets orbit the bright stars Fomalhaut, HR 8799, and Beta Pictoris. The James Webb Space Telescope and upcoming Nancy Grace Roman Space Telescope will image more exoplanets around nearby stars. The big challenge for NASA is to image Earth-like planets orbiting nearby stars, which tend to be about 10 billion times fainter than their stars,
+
+How many telescopes are looking for exoplanets?
+There are telescopes in space, on the ground and even in the air that are being used to hunt exoplanets. NASA has telescopes in space currently studying exoplanets – one observatory dedicated to discovering exoplanets (the Transiting Exoplanet Survey Satellite), and Hubble, a powerful, general-purpose observatory that conduct a wide range of astronomical observations, including exoplanet science. The James Webb Space Telescope is exploring exoplanet atmospheres. More than two dozen telescopes on the ground are being used to discover and characterize exoplanets, ranging from small robotic observatories to large telescopes like the Keck Observatories in Hawaii. Even SOFIA, NASA's infrared observatory built into a Boeing 747-SP airplane, conducted some exoplanet observations.
+
+Do any exoplanets have rings?
+Rings orbit all of the gas giant planets in our solar system. They range from being very dusty (Jupiter), to very icy (Saturn), to very carbon-rich (Uranus and Neptune). This hints that rings may be common around cold gas giant exoplanets orbiting other stars too. A very large ring system has been detected around one candidate exoplanet, J1407 b; however the rings cover tens of millions of miles. It may be a disk of material forming exomoons rather than ring system similar to Saturn's.
+
+Do exoplanets have water on them?
+Scientists have found water molecules in the atmospheres of several exoplanets, but some of those planets are very hot and probably not suitable for life as we know it. Scientists have yet to discover liquid water, like oceans or lakes. They are looking for exoplanets with liquid water in an area called the “habitable zone” around stars.
+
+What is the habitable zone or “Goldilocks zone”?
+The habitable zone is the area around a star where it is not too hot and not too cold for liquid water to exist on the surface of surrounding planets.
+
+What are exoplanets made of?
+The exoplanets for which astronomers are able to measure both their sizes (diameters) and masses, have densities that are suggestive of compositions ranging from very rocky (like Earth and Venus) to very gas-rich (like Jupiter and Saturn). Exoplanets are made up of elements similar to that of the planets in our solar system, but their mixes of those elements may differ. Some planets may be dominated by water or ice, while others are dominated by iron or carbon.
+
+Are there any exoplanets like Earth?
+Not yet. We haven’t found a planet that can support life like Earth. So far, our home is unique in the universe. We have found many Earth-sized rocky exoplanets, some of which are in the habitable zones of their stars. The next step in studying them is to analyze their atmospheres for “biosignature" molecules, which may be a sign of life.
+
+Are other solar systems like ours?
+Other solar systems, called planetary systems, come in many shapes and sizes. When scientists first started searching for planetary systems, they expected them to look like our solar system, with inner rocky planets and outer cold gas giants and ice planets. But some solar systems pack many planets into very compact orbits with short orbital periods, while others have only a few planets with orbits that last hundreds of years. Some planetary systems have Jupiter-like giants that orbit their star in a few hours, and are hot enough to melt metal. Some exoplanets even orbit multiple stars. So far astronomers have detected relatively few planetary systems with architectures like our solar system.
+
+Do exoplanets have stars like our Sun?
+Yes, some do. Kepler-452b is an example of a planet that orbits a star like our sun. Both our sun and Kepler-452 are G dwarf stars, which make up only 3 percent of the stars in the universe. More common are M dwarf stars– small red stars that make up 75 percent of all the stars we know.Other stars in our universe range from massive and hot O-type stars to the small and cool M dwarf stars like TRAPPIST-1 and Proxima Centauri. Scientists have found planets around five star types that range from red, to orange, to bluish-white. Some planets even orbit two or three stars at a time.(Note: “Dwarf” is actually the name for a regular-sized adult star, distinguishing them from giant stars. An example of a giant star is Rigel, the blue supergiant found in the constellation Orion).
+
+How do exoplanets get their names?
+Exoplanet names can look long and complicated at first, but they have a logic behind them that is important to scientists cataloging thousands of planets. Let’s use HD 189733 b (a blue-ish planet where it may rain glass sideways) as an example. The first part of the name is usually the telescope or survey that found it. In this case "HD" stands for the "Henry Draper Catalogue,” a widely-used star catalog. The number 189733 is the order in which the star was catalogued by position (the 189,733rd star added to the catalog). The lowercase letter "b" stands for the planet, in the order in which the planet was found. The first planet found is always named b, with ensuing planets named c, d, e, f and so on.
+
+What is a light-year?
+The distance light travels in one year. Light zips through space at 186,000 miles (300,000 kilometers) per second, or 5.88 trillion miles (9.46 trillion kilometers) a year.
+
+What is a Planet?
+A planet is a celestial body that is in orbit around a star; it has enough mass for its gravity to create a round shape; and it has cleared its neighborhood of smaller objects.
+
+Once planets form in disks, they are not going to stay in place. It is impossible to know what a system will look like once it matures just from looking at the baby planets.
+
+As planets grow and accrete mass, and the gas from the disk is absorbed by larger planets or dissipates into space, they move around and interact with other planets in the disk.
+
+Newly formed planets may orbit on collision courses with each other as the absence of gas makes moving around the star easier.
+
+Bigger planets may kick smaller bodies into the star or even out of the system. This is one possible explanation for how “rogue planets," or planets that do not orbit stars, come to exist.
+
+Nothing stays young forever; every planetary system eventually hits middle age, just like our own. In our own system we have defined what it means to be a planet. A planet is defined as a celestial body that (a) is in orbit around a star, (b) has enough mass for its gravity to create a round shape, and (c) has cleared its neighborhood of smaller objects.
+
+How do planets form?
+The dust around a star is critical to forming celestial objects around it. Dust around stars contains elements such as carbon and iron which can help form planetary systems.
+
+When a star is in its forming disk, otherwise known as the T Tauri phase, it is ejecting extremely hot winds dominated by positively charged particles called protons and neutral helium atoms. Although much of the material from the disk is still falling on the star, small groups of lucky dust particles are crashing into one another, clumping into larger objects.
+
+Dust clumps become pebbles, pebbles become larger rocks that grind together to expand. The presence of gas helps particles of solid material stick together. Some break apart, but others hold on. These are the building blocks of planets, sometimes called "planetesimals."
+Where the disk is colder, far enough from the star that water can freeze, tiny fragments of ice hitch a ride with dust. Dirty snowballs can amass into giant planetary cores. These colder regions also allow gas molecules to slow down enough to be drawn onto a planet. This is how Jupiter, Saturn, Uranus and Neptune, the gas giants of our solar system, are thought to have formed. Jupiter and Saturn are thought to have formed first and quickly within the first 10 million years of the solar system.
+
+In the warmer parts of the disk, closer to the star, rocky planets begin to form. After the icy giants form there’s not a lot of gas left for the terrestrial planets to accrete. Planets that are rocky like Mercury, Venus, Earth and Mars may take tens of millions of years to form after the birth of the star. The details of exactly where planets prefer to form in disks is still a mystery and an ongoing area of research.
+
+Once planets form around a star they are referred to as planetary systems, which are defined as sets of gravitationally bound objects that orbit a star. They can consist of one or more planets, but may also include dwarf planets, asteroids, natural satellites, meteoroids, and comets. The Sun and its planets, including Earth, is known as the solar system. The term "extrasolar" system and "exoplanet" system refer to planetary systems other than our own.
