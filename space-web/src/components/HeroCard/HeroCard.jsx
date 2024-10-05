@@ -5,26 +5,26 @@ import { FaShuttleSpace, FaSpaceAwesome } from "react-icons/fa6";
 
 const ServiceData = [
   {
-    title: "HST",
-    content: "300-1500km",
-    description:
-      "Used for astronomical observations, capturing stunning images of the universe.",
+    title: "Telescopes",
+    content: "Instruments for exploring the cosmos",
+    // description:
+      // "Telescopes reveal the universe's wonders, capturing breathtaking images and transforming our cosmic understanding",
     icon: <FaReact className="text-7xl" />,
     aosDelay: "300",
   },
   {
-    title: "ISS",
-    content: "500-1500km",
-    description:
-      ", it's a habitable artificial satellite orbiting Earth and serves as a space environment research laboratory",
+    title: "Exoplanets",
+    content: "Over 5,000 known exoplanets",
+    // description:
+      // "Exoplanets, over 5,000 strong, ignite our quest for life beyond Earth, thrilling scientists and sparking curiosity about distant worlds",
     icon: <FaShuttleSpace className="text-7xl" />,
     aosDelay: "500",
   },
   {
-    title: "GPS",
-    content: "300-1500km",
-    description:
-      "Part of the Global Positioning System (GPS) used for navigation.",
+    title: "Discovering Exoplanets Methods",
+    content: "Identify distant worlds",
+    // description:
+      // "Using techniques like transit and radial velocity, scientists reveal exoplanets' atmospheres and habitability, deepening our cosmic understanding",
     icon: <FaSpaceAwesome className="text-7xl" />,
     aosDelay: "700",
   },

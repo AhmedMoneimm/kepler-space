@@ -11,28 +11,23 @@ const Hero = () => {
 
   return (
     <div className="bg-black/20 h-full relative">
-      <div className="h-full flex justify-center items-center p-4">
+      <div className="h-full flex justify-center items-start p-4 pt-20">
         <div className="container grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="text-white space-y-4 lg:pr-36">
             <h1 data-aos="fade-up" className="text-5xl font-bold">
               Explore like a Space Eagle!
             </h1>
             <p data-aos="fade-up" data-aos-delay="300">
-              Embark on an incredible journey as an intern with Space Eagles! 
-              Learn from NASA's top scientists about advanced telescopes and groundbreaking 
-              methods for discovering exoplanets. With the help of cutting-edge AI, 
-              you'll uncover the mysteries of the universe like never before!
+              Join Space Eagles as an intern! Learn from NASA's top scientists about advanced telescopes and cutting-edge AI to discover exoplanets and unravel the universe's mysteries!
             </p>
             <p data-aos="fade-up" data-aos-delay="400">
-              Prepare for an epic adventure as you explore over 5,000 exoplanets aboard our state-of-the-art spaceship. 
-              Experience stunning graphics and immersive gameplay in a fascinating game filled with an intriguing story 
-              that will captivate your imagination and keep you on the edge of your seat!
+              Embark on an epic adventure exploring 5,000+ exoplanets aboard our spaceship! Enjoy stunning graphics, immersive gameplay, and a captivating story that will keep you on the edge of your seat!
             </p>
             <button
               onClick={handleDiscoverMore} // Handle button click
               data-aos="fade-up"
               data-aos-delay="500"
-              className="bg-blue-400 text-white hover:bg-blue-500 px-4 py-2 rounded-md duration-200"
+              className="bg-blue-400 text-white hover:bg-blue-500 px-4 py-2 rounded-md duration-200 z-20 relative" // Added z-index and relative position
             >
               Discover More
             </button>

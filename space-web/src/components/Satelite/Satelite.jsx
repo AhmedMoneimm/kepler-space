@@ -23,7 +23,7 @@ const Rapidscat = () => {
                 Rapidscat
               </h1>
               <p data-aos="fade-up" data-aos-delay="700">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos
+                bbbbbbbbb ipsum dolor sit amet consectetur adipisicing elit. Eos
                 molestiae reprehenderit expedita corporis, non doloremque.
                 Consequatur consectetur quisquam qui sunt. Lorem ipsum dolor sit
                 amet consectetur adipisicing elit. Eos molestiae reprehenderit
