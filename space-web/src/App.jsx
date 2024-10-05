@@ -34,6 +34,7 @@ import Kepler from "./components/Telescopes/Kepler.jsx";
 import JWST from "./components/Telescopes/JWST.jsx";
 import Spitzer from "./components/Telescopes/Spitzer.jsx";
 import TESS from "./components/Telescopes/TESS.jsx";
+import ExoplanetNaming from "./components/Exoplanet/Naming.jsx";
 
 const App = () => {
   React.useEffect(() => {
@@ -75,6 +76,7 @@ const App = () => {
           
           <Route path="/exoplanet/overview" element={<ExoplanetOverview />} />
           <Route path="/exoplanet/types" element={<Types />} />
+          <Route path="/exoplanet/naming" element={<ExoplanetNaming />} />
           <Route path="/exoplanet/gas-giants" element={<GasGiants />} />
           <Route path="/exoplanet/neptunian" element={<Neptunian />} />
           <Route path="/exoplanet/super-earth" element={<SuperEarth />} />

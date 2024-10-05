@@ -1,6 +1,10 @@
 [
     {
-        "Body1": "Gas Giants are planets that are as large as, or even bigger than, Jupiter or Saturn. They are mostly made of hydrogen and helium, similar to the Sun. Out of the 5,600 exoplanets we’ve discovered so far, around 1,800 of them are classified as gas giants. Unlike Earth, gas giants don’t have a solid surface. Instead, they have thick, swirling layers of gas above a solid core buried deep inside.",
-        "Body2": "A special type of gas giant is called a Hot Jupiter. These are gas giants that orbit very close to their stars. Because they are so close, they get extremely hot—sometimes so hot that their atmospheres get blown away by their star’s intense radiation, leaving behind a rocky core. This leads to intense weather like supersonic winds. These planets orbit their stars so tightly that they make their stars wobble, which scientists can detect by studying the light the star emits."
+        "Gas Giants: The Giants of Space": "Gas giants are huge planets—so big that they can be even larger than Jupiter or Saturn! These massive planets are mostly made of hydrogen and helium, the same gases that make up the Sun.",
+        "How Many Gas Giants Have We Found?": "Out of the 5,600 exoplanets discovered so far, around 1,800 are classified as gas giants. That's almost one-third!",
+        "No Solid Ground": "Unlike Earth, gas giants don’t have a solid surface. If you tried to land on one, you would sink through thick, swirling clouds of gas. However, deep inside these giants, there’s a solid core buried beneath all that gas.",
+        "Hot Jupiters: Gas Giants Gone Extreme": "A special type of gas giant is called a Hot Jupiter. These planets are similar to Jupiter, but they orbit much closer to their stars, making them extremely hot.",
+        "Blown Away by Radiation": "Because Hot Jupiters are so close to their stars, they face intense radiation. Sometimes, this radiation is so strong that it blows away parts of their atmosphere, leaving behind a rocky core!",
+        "Wild Weather": "Hot Jupiters also have wild weather, like supersonic winds—winds that travel faster than the speed of sound! Their close orbits also cause their stars to wobble, which scientists can detect by studying the star's light."
     }
 ]
