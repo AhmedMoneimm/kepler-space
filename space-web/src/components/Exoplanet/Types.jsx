@@ -7,7 +7,7 @@ const Types = () => {
       dataPath="/data/Exoplanets/Exoplanets_types.json"
       quizPath="/quiztyp "
       previousPath="/exoplanet/overview" // Previous page path
-      nextPath="/exoplanet/naming" // Next page path
+      nextPath="/exoplanet/gas-giants" // Next page path
     />
   );
 };

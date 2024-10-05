@@ -134,20 +134,29 @@ const Navbar = () => {
                     </li>
                     <li>
                       <Link
-                        to="/exoplanet/types"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
-                        onClick={closeDropdown}
-                      >
-                        Exoplanet Types
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
                         to="/exoplanet/naming"
                         className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Exoplanet Naming
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/exoplanet/CandidateVSConfirmed"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        CandidateVSConfirmed
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/exoplanet/types"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Exoplanet Types
                       </Link>
                     </li>
                     <li>

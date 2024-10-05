@@ -6,8 +6,8 @@ const ExoplanetNaming = () => {
       title="Cosmic Names: The Art of Exoplanet Naming!"
       dataPath="/data/Exoplanets/Exoplanet_Naming.json"
       quizPath="/quiz"
-      previousPath="/exoplanet/types" // Previous page path
-      nextPath="/exoplanet/gas-giants" // Next page path
+      previousPath="/exoplanet/overview" // Previous page path
+      nextPath="/exoplanet/CandidateVSConfirmed" // Next page path
     />
   );
 };
