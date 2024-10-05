@@ -19,7 +19,7 @@ const Rocky = () => {
   };
 
   return (
-    <div className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-r from-purple-900 via-black to-purple-900 text-white p-4">
+    <div className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-r from-blue-900 via-black to-blue-900 text-white p-4">
       <motion.h1 
         className="text-5xl font-extrabold mb-8"
         initial={{ opacity: 0, y: -50 }}

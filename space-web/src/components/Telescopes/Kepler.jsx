@@ -1,5 +1,6 @@
 // src/components/Telescopes/Kepler.jsx
 import React, { useEffect, useState } from 'react';
+import { motion } from 'framer-motion';
 
 const Kepler = () => {
     const [keplerData, setKeplerData] = useState(null);
@@ -12,22 +13,82 @@ const Kepler = () => {
     }, []);
 
     return (
-        <div className="min-h-screen flex flex-col justify-center items-center bg-gray-900 text-white p-4">
-            <h1 className="text-4xl font-bold mb-4">Kepler Space Telescope</h1>
+        <div className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-r from-blue-900 via-black to-blue-900 text-white p-4">
+            <motion.h1 
+                className="text-5xl font-extrabold mb-8"
+                initial={{ opacity: 0, y: -50 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.5 }}
+            >
+                Kepler Space Telescope
+            </motion.h1>
             {keplerData ? (
-                <div className="flex flex-col justify-center items-center">
+                <motion.div
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    transition={{ duration: 0.5, delay: 0.5 }}
+                    className="bg-gray-800 p-6 rounded-lg shadow-lg"
+                >
                     <div className="mt-8">
-                        <h2 className="text-2xl font-semibold mb-2">Introduction</h2>
-                        <p className="mb-4">{keplerData.Introduction}</p>
+                        <motion.h2 
+                            className="text-2xl font-semibold mb-2"
+                            initial={{ opacity: 0, y: -20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.3 }}
+                        >
+                            Introduction
+                        </motion.h2>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5 }}
+                        >
+                            {keplerData.Introduction}
+                        </motion.p>
                         
-                        <h2 className="text-2xl font-semibold mb-2">Details</h2>
-                        <p className="mb-4">{keplerData.Body1}</p>
-                        <p className="mb-4">{keplerData.Body2}</p>
-                        <p className="mb-4">{keplerData.Body3}</p>
+                        <motion.h2 
+                            className="text-2xl font-semibold mb-2"
+                            initial={{ opacity: 0, y: -20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.3 }}
+                        >
+                            Details
+                        </motion.h2>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5 }}
+                        >
+                            {keplerData.Body1}
+                        </motion.p>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5 }}
+                        >
+                            {keplerData.Body2}
+                        </motion.p>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5 }}
+                        >
+                            {keplerData.Body3}
+                        </motion.p>
                     </div>
-                </div>
+                </motion.div>
             ) : (
-                <p>Loading Kepler data...</p>
+                <motion.p
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    transition={{ duration: 0.5 }}
+                >
+                    Loading Kepler data...
+                </motion.p>
             )}
         </div>
     );

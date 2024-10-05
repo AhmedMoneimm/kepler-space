@@ -1,38 +1,70 @@
 // src/components/Exoplanet/SuperEarth.jsx
-import React from "react";
+import React, { useEffect, useState } from "react"; // Remove duplicate imports
 import { useNavigate } from "react-router-dom";
-import { useEffect, useState } from "react";
- 
-const SuperEarth = () => {
-    const navigate = useNavigate();
-    const [data, setData] = useState(null);
+import { motion } from "framer-motion";
 
-    useEffect(() => {
-      fetch('/data/Exoplanets/Exoplanet_Super_Earth.json')
-        .then(response => response.json())
-        .then(data => setData(data))
-        .catch(error => console.error('Error fetching data:', error));
-    }, []);
+const SuperEarth = () => {
+  const navigate = useNavigate();
+  const [data, setData] = useState(null);
+
+  useEffect(() => {
+    fetch('/data/Exoplanets/Exoplanet_Super_Earth.json')
+      .then(response => response.json())
+      .then(data => setData(data))
+      .catch(error => console.error('Error fetching data:', error));
+  }, []);
+
   const handleQuizNavigation = () => {
     navigate("/quizsup"); 
-   };
-   return (
-    <div className="min-h-screen flex flex-col justify-center items-center bg-gray-900 text-white p-4">
-      <h1 className="text-4xl font-bold mb-4">Super Earth</h1>
+  };
+
+  return (
+    <div className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-r from-blue-900 via-black to-blue-900 text-white p-4">
+      <motion.h1 
+        className="text-5xl font-extrabold mb-8"
+        initial={{ opacity: 0, y: -50 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.5 }}
+      >
+        Super Earth
+      </motion.h1>
       {data ? (
-        <div>
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ duration: 0.5, delay: 0.5 }}
+          className="bg-gray-800 p-6 rounded-lg shadow-lg"
+        >
           {data.map((item, index) => (
-            <div key={index} className="mb-4">
-              <p>{item.Body1}</p>
-              <p>{item.Body2}</p>
-              <p>{item.Body3}</p>
-            </div>
+            <motion.div
+              key={index}
+              className="mb-4"
+              initial={{ opacity: 0, x: -20 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ duration: 0.3, delay: index * 0.1 }}
+            >
+              <p className="text-lg mb-2">
+                <span className="font-semibold">Body1:</span> {item.Body1}
+              </p>
+              <p className="text-lg mb-2">
+                <span className="font-semibold">Body2:</span> {item.Body2}
+              </p>
+              <p className="text-lg mb-2">
+                <span className="font-semibold">Body3:</span> {item.Body3}
+              </p>
+            </motion.div>
           ))}
-        </div>
+        </motion.div>
       ) : (
-        <p>Loading...</p>
+        <motion.p
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ duration: 0.5 }}
+        >
+          Loading...
+        </motion.p>
       )}
-        {/* Quiz Time Section */}
+      {/* Quiz Time Section */}
       <div className="mt-8">
         <h2 className="text-2xl font-bold mb-4">It's Quiz Time!</h2>
         <button
@@ -43,8 +75,7 @@ const SuperEarth = () => {
         </button>
       </div>
     </div>
-
-      );
-    };
+  );
+};
 
 export default SuperEarth;

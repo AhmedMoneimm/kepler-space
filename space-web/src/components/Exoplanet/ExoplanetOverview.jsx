@@ -2,7 +2,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";  // Import to navigate to the quiz page
 import { useEffect, useState } from "react";
- 
+ import { motion } from "framer-motion";
 
 const ExoplanetOverview = () => {
   const navigate = useNavigate();
@@ -19,19 +19,62 @@ const ExoplanetOverview = () => {
   };
 
   return (
-    <div className="min-h-screen flex flex-col justify-center items-center bg-gray-900 text-white p-4">
-      <h1 className="text-4xl font-bold mb-4">Exoplanet Overview</h1>
+    <div className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-r from-blue-900 via-black to-blue-900 text-white p-4">
+      <motion.h1 
+        className="text-5xl font-extrabold mb-8"
+        initial={{ opacity: 0, y: -50 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.5 }}
+      >
+        Exoplanet Overview
+      </motion.h1>
       {exoplanetData ? (
-        <div className="flex flex-col justify-center items-center">
-          <div>
-            <h2 className="text-2xl font-semibold mb-2">Introduction</h2>
-            <p className="mb-4">{exoplanetData.Introduction}</p>
-            <h2 className="text-2xl font-semibold mb-2">Body</h2>
-            <p>{exoplanetData.Body}</p>
-          </div>
-        </div>
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ duration: 0.5, delay: 0.5 }}
+          className="flex flex-col justify-center items-center bg-gray-800 p-6 rounded-lg shadow-lg"
+        >
+          <motion.h2 
+            className="text-2xl font-semibold mb-2"
+            initial={{ opacity: 0, y: -20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.3 }}
+          >
+            Introduction
+          </motion.h2>
+          <motion.p 
+            className="mb-4"
+            initial={{ opacity: 0, y: -20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.3, delay: 0.1 }}
+          >
+            {exoplanetData.Introduction}
+          </motion.p>
+          <motion.h2 
+            className="text-2xl font-semibold mb-2"
+            initial={{ opacity: 0, y: -20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.3, delay: 0.2 }}
+          >
+            Body
+          </motion.h2>
+          <motion.p 
+            initial={{ opacity: 0, y: -20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.3, delay: 0.3 }}
+          >
+            {exoplanetData.Body}
+          </motion.p>
+        </motion.div>
       ) : (
-        <p>Loading exoplanet data...</p>
+        <motion.p
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ duration: 0.5 }}
+        >
+          Loading exoplanet data...
+        </motion.p>
       )}
 
       {/* Quiz Time Section */}

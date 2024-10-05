@@ -1,5 +1,6 @@
 // src/components/Methods/Microlensing.jsx
 import React, { useEffect, useState } from 'react';
+import { motion } from 'framer-motion';
 
 const Microlensing = () => {
     const [microlensingData, setMicrolensingData] = useState(null);
@@ -12,26 +13,100 @@ const Microlensing = () => {
     }, []);
 
     return (
-        <div className="min-h-screen flex flex-col justify-center items-center bg-gray-900 text-white p-4">
-            <h1 className="text-4xl font-bold mb-4">Microlensing Method</h1>
+        <div className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-r from-gray-900 to-black text-white p-4">
+            <motion.h1 
+                className="text-5xl font-extrabold mb-8"
+                initial={{ opacity: 0, y: -50 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.5 }}
+            >
+                Microlensing Method
+            </motion.h1>
             {microlensingData ? (
-                <div className="flex flex-col justify-center items-center">
+                <motion.div
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    transition={{ duration: 0.5, delay: 0.5 }}
+                    className="bg-gray-800 p-6 rounded-lg shadow-lg"
+                >
                     <div className="mt-8">
-                        <h2 className="text-2xl font-semibold mb-2">Introduction</h2>
-                        <p className="mb-4">{microlensingData.Introduction}</p>
-                        
-                        <h2 className="text-2xl font-semibold mb-2">Detection</h2>
-                        <p className="mb-4">{microlensingData.Detection}</p>
-                        
-                        <h2 className="text-2xl font-semibold mb-2">Advantages</h2>
-                        <p className="mb-4">{microlensingData.Advantages}</p>
-                        
-                        <h2 className="text-2xl font-semibold mb-2">Limitation</h2>
-                        <p className="mb-4">{microlensingData.Limitation}</p>
+                        <motion.h2 
+                            className="text-2xl font-semibold mb-2"
+                            initial={{ opacity: 0, y: -20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.3 }}
+                        >
+                            Introduction
+                        </motion.h2>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5 }}
+                        >
+                            {microlensingData.Introduction}
+                        </motion.p>
+
+                        <motion.h2 
+                            className="text-2xl font-semibold mb-2"
+                            initial={{ opacity: 0, y: -20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.3, delay: 0.1 }}
+                        >
+                            Detection
+                        </motion.h2>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5, delay: 0.2 }}
+                        >
+                            {microlensingData.Detection}
+                        </motion.p>
+
+                        <motion.h2 
+                            className="text-2xl font-semibold mb-2"
+                            initial={{ opacity: 0, y: -20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.3, delay: 0.3 }}
+                        >
+                            Advantages
+                        </motion.h2>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5, delay: 0.4 }}
+                        >
+                            {microlensingData.Advantages}
+                        </motion.p>
+
+                        <motion.h2 
+                            className="text-2xl font-semibold mb-2"
+                            initial={{ opacity: 0, y: -20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.3, delay: 0.5 }}
+                        >
+                            Limitation
+                        </motion.h2>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5, delay: 0.6 }}
+                        >
+                            {microlensingData.Limitation}
+                        </motion.p>
                     </div>
-                </div>
+                </motion.div>
             ) : (
-                <p>Loading microlensing data...</p>
+                <motion.p
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    transition={{ duration: 0.5 }}
+                >
+                    Loading microlensing data...
+                </motion.p>
             )}
         </div>
     );

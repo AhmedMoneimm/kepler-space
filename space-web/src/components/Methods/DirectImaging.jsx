@@ -1,5 +1,6 @@
 // src/components/Methods/DirectImaging.jsx
 import React, { useEffect, useState } from 'react';
+import { motion } from 'framer-motion';
 
 const DirectImaging = () => {
     const [directImagingData, setDirectImagingData] = useState(null);
@@ -12,29 +13,117 @@ const DirectImaging = () => {
     }, []);
 
     return (
-        <div className="min-h-screen flex flex-col justify-center items-center bg-gray-900 text-white p-4">
-            <h1 className="text-4xl font-bold mb-4">Direct Imaging Method</h1>
+        <div className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-r from-gray-900 to-black text-white p-4">
+            <motion.h1 
+                className="text-5xl font-extrabold mb-8"
+                initial={{ opacity: 0, y: -50 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.5 }}
+            >
+                Direct Imaging Method
+            </motion.h1>
             {directImagingData ? (
-                <div className="flex flex-col justify-center items-center">
+                <motion.div
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    transition={{ duration: 0.5, delay: 0.5 }}
+                    className="bg-gray-800 p-6 rounded-lg shadow-lg"
+                >
                     <div className="mt-8">
-                        <h2 className="text-2xl font-semibold mb-2">Introduction</h2>
-                        <p className="mb-4">{directImagingData.Introduction}</p>
-                        
-                        <h2 className="text-2xl font-semibold mb-2">Challenges</h2>
-                        <p className="mb-4">{directImagingData.challenges}</p>
-                        
-                        <h2 className="text-2xl font-semibold mb-2">Shine Blockers</h2>
-                        <p className="mb-4">{directImagingData.ShineBlockers}</p>
-                        
-                        <h2 className="text-2xl font-semibold mb-2">Techniques</h2>
-                        <p className="mb-4">{directImagingData.Techniques}</p>
-                        
-                        <h2 className="text-2xl font-semibold mb-2">Future</h2>
-                        <p className="mb-4">{directImagingData.future}</p>
+                        <motion.h2 
+                            className="text-2xl font-semibold mb-2"
+                            initial={{ opacity: 0, y: -20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.3 }}
+                        >
+                            Introduction
+                        </motion.h2>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5 }}
+                        >
+                            {directImagingData.Introduction}
+                        </motion.p>
+
+                        <motion.h2 
+                            className="text-2xl font-semibold mb-2"
+                            initial={{ opacity: 0, y: -20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.3, delay: 0.1 }}
+                        >
+                            Challenges
+                        </motion.h2>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5, delay: 0.2 }}
+                        >
+                            {directImagingData.challenges}
+                        </motion.p>
+
+                        <motion.h2 
+                            className="text-2xl font-semibold mb-2"
+                            initial={{ opacity: 0, y: -20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.3, delay: 0.3 }}
+                        >
+                            Shine Blockers
+                        </motion.h2>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5, delay: 0.4 }}
+                        >
+                            {directImagingData.ShineBlockers}
+                        </motion.p>
+
+                        <motion.h2 
+                            className="text-2xl font-semibold mb-2"
+                            initial={{ opacity: 0, y: -20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.3, delay: 0.5 }}
+                        >
+                            Techniques
+                        </motion.h2>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5, delay: 0.6 }}
+                        >
+                            {directImagingData.Techniques}
+                        </motion.p>
+
+                        <motion.h2 
+                            className="text-2xl font-semibold mb-2"
+                            initial={{ opacity: 0, y: -20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.3, delay: 0.7 }}
+                        >
+                            Future
+                        </motion.h2>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5, delay: 0.8 }}
+                        >
+                            {directImagingData.future}
+                        </motion.p>
                     </div>
-                </div>
+                </motion.div>
             ) : (
-                <p>Loading direct imaging data...</p>
+                <motion.p
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    transition={{ duration: 0.5 }}
+                >
+                    Loading direct imaging data...
+                </motion.p>
             )}
         </div>
     );

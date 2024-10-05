@@ -10,6 +10,11 @@ const Navbar = () => {
     setOpenDropdown((prev) => (prev === dropdown ? null : dropdown)); // Open the clicked dropdown or close it if it's already open
   };
 
+  // Close dropdown
+  const closeDropdown = () => {
+    setOpenDropdown(null);
+  };
+
   return (
     <nav
       data-aos="fade-down"
@@ -23,11 +28,11 @@ const Navbar = () => {
           </div>
           <div className="text-white hidden sm:block">
             <ul className="flex items-center gap-6 text-xl py-4 ">
-            <li>
-                <Link to="/">Home</Link>
+              <li>
+                <Link to="/" onClick={closeDropdown}>Home</Link>
               </li>
               <li>
-                <Link to="#">About</Link>
+                <Link to="#" onClick={closeDropdown}>About</Link>
               </li>
               <li className="relative">
                 <button
@@ -42,6 +47,7 @@ const Navbar = () => {
                       <Link
                         to="/telescope/overview"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Telescope Overview
                       </Link>
@@ -50,6 +56,7 @@ const Navbar = () => {
                       <Link
                         to="/telescope/hubble"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Hubble Space Telescope
                       </Link>
@@ -58,6 +65,7 @@ const Navbar = () => {
                       <Link
                         to="/telescope/james-webb"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         James Webb Space Telescope
                       </Link>
@@ -66,6 +74,7 @@ const Navbar = () => {
                       <Link
                         to="/telescope/Kepler_K2"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Kepler & K2
                       </Link>
@@ -74,6 +83,7 @@ const Navbar = () => {
                       <Link
                         to="/telescope/Spitzer"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Spitzer Space Telescope
                       </Link>
@@ -82,6 +92,7 @@ const Navbar = () => {
                       <Link
                         to="/telescope/Tess"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         TESS
                       </Link>
@@ -102,6 +113,7 @@ const Navbar = () => {
                       <Link
                         to="/exoplanet/overview"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Exoplanet Overview
                       </Link>
@@ -110,6 +122,7 @@ const Navbar = () => {
                       <Link
                         to="/exoplanet/types"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Exoplanet Types
                       </Link>
@@ -118,6 +131,7 @@ const Navbar = () => {
                       <Link
                         to="/exoplanet/gas-giants"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Gas Giants
                       </Link>
@@ -126,6 +140,7 @@ const Navbar = () => {
                       <Link
                         to="/exoplanet/neptunian"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Neptunian
                       </Link>
@@ -134,6 +149,7 @@ const Navbar = () => {
                       <Link
                         to="/exoplanet/super-earth"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Super Earth
                       </Link>
@@ -142,6 +158,7 @@ const Navbar = () => {
                       <Link
                         to="/exoplanet/rocky"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Rocky
                       </Link>
@@ -162,6 +179,7 @@ const Navbar = () => {
                       <Link
                         to="/methods/overview"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Methods Overview
                       </Link>
@@ -170,6 +188,7 @@ const Navbar = () => {
                       <Link
                         to="/methods/transit"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Transit Method
                       </Link>
@@ -178,6 +197,7 @@ const Navbar = () => {
                       <Link
                         to="/methods/radial-velocity"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Radial Velocity Method
                       </Link>
@@ -186,6 +206,7 @@ const Navbar = () => {
                       <Link
                         to="/methods/direct-imaging"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Direct Imaging Method
                       </Link>
@@ -194,6 +215,7 @@ const Navbar = () => {
                       <Link
                         to="/methods/microlensing"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Microlensing Method
                       </Link>
@@ -202,6 +224,7 @@ const Navbar = () => {
                       <Link
                         to="/methods/astrometry"
                         className="block px-4 py-2 hover:bg-gray-200"
+                        onClick={closeDropdown}
                       >
                         Astrometry Method
                       </Link>

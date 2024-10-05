@@ -1,5 +1,6 @@
 // src/components/Methods/MethodsOverview.jsx
 import React, { useEffect, useState } from "react";
+import { motion } from "framer-motion";
 
 const MethodsOverview = () => {
     const [methodsData, setMethodsData] = useState(null);
@@ -12,21 +13,83 @@ const MethodsOverview = () => {
     }, []);
 
     return (
-        <div className="min-h-screen flex flex-col justify-center items-center bg-gray-900 text-white p-4">
-            <h1 className="text-4xl font-bold mb-4">Methods Overview</h1>
+        <div className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-r from-gray-900 to-black text-white p-4">
+            <motion.h1 
+                className="text-5xl font-extrabold mb-8"
+                initial={{ opacity: 0, y: -50 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.5 }}
+            >
+                Methods Overview
+            </motion.h1>
             {methodsData ? (
-                <div className="flex flex-col justify-center items-center">
-                    <div>
-                        <h2 className="text-2xl font-semibold mb-2">Introduction</h2>
-                        <p className="mb-4">{methodsData.Introduction}</p>
-                        <h2 className="text-2xl font-semibold mb-2">Methods</h2>
-                        <p className="mb-4">{methodsData.Methods}</p>
-                        <h2 className="text-2xl font-semibold mb-2">Main</h2>
-                        <p>{methodsData.Main}</p>
+                <motion.div
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    transition={{ duration: 0.5, delay: 0.5 }}
+                    className="bg-gray-800 p-6 rounded-lg shadow-lg"
+                >
+                    <div className="mt-8">
+                        <motion.h2 
+                            className="text-2xl font-semibold mb-2"
+                            initial={{ opacity: 0, y: -20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.3 }}
+                        >
+                            Introduction
+                        </motion.h2>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5 }}
+                        >
+                            {methodsData.Introduction}
+                        </motion.p>
+
+                        <motion.h2 
+                            className="text-2xl font-semibold mb-2"
+                            initial={{ opacity: 0, y: -20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.3, delay: 0.1 }}
+                        >
+                            Methods
+                        </motion.h2>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5, delay: 0.2 }}
+                        >
+                            {methodsData.Methods}
+                        </motion.p>
+
+                        <motion.h2 
+                            className="text-2xl font-semibold mb-2"
+                            initial={{ opacity: 0, y: -20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.3, delay: 0.3 }}
+                        >
+                            Main
+                        </motion.h2>
+                        <motion.p 
+                            className="mb-4"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 0.5, delay: 0.4 }}
+                        >
+                            {methodsData.Main}
+                        </motion.p>
                     </div>
-                </div>
+                </motion.div>
             ) : (
-                <p>Loading methods data...</p>
+                <motion.p
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    transition={{ duration: 0.5 }}
+                >
+                    Loading methods data...
+                </motion.p>
             )}
         </div>
     );
