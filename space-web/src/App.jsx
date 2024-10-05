@@ -1,3 +1,4 @@
+// src/App.tsx
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
@@ -9,12 +10,12 @@ import Satelite from "./components/Satelite/Satelite.jsx";
 import Footer5 from "./components/Footer/Footer5.jsx";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import Chatbot from "./components/Chatbot/Chatbot"; // Import the Chatbot component
-import ExoplanetOverview from "./components/Exoplanet/ExoplanetOverview"; // Import Exoplanet Overview Component
-import GasGiants from "./components/Exoplanet/GasGiants"; // Import Gas Giants Component
-import Neptunian from "./components/Exoplanet/Neptunian"; // Import Neptunian Component
-import SuperEarth from "./components/Exoplanet/SuperEarth"; // Import Super Earth Component
-import Rocky from "./components/Exoplanet/Rocky"; // Import Rocky Component
+import Chatbot from "./components/Chatbot/Chatbot"; 
+import ExoplanetOverview from "./components/Exoplanet/ExoplanetOverview"; 
+import GasGiants from "./components/Exoplanet/GasGiants"; 
+import Neptunian from "./components/Exoplanet/Neptunian"; 
+import SuperEarth from "./components/Exoplanet/SuperEarth"; 
+import Rocky from "./components/Exoplanet/Rocky"; 
 import QuizPage from "./components/Quiz/QuizPage";
 import QuizGas from "./components/Quiz/QuizGas";
 import QuizNep from "./components/Quiz/QuizNep";
@@ -35,6 +36,7 @@ import JWST from "./components/Telescopes/JWST.jsx";
 import Spitzer from "./components/Telescopes/Spitzer.jsx";
 import TESS from "./components/Telescopes/TESS.jsx";
 import ExoplanetNaming from "./components/Exoplanet/Naming.jsx";
+import Game from "./components/game/game"; // Import the Game component
 
 const App = () => {
   React.useEffect(() => {
@@ -73,7 +75,6 @@ const App = () => {
           } />
 
           {/* Exoplanet routes */}
-          
           <Route path="/exoplanet/overview" element={<ExoplanetOverview />} />
           <Route path="/exoplanet/types" element={<Types />} />
           <Route path="/exoplanet/naming" element={<ExoplanetNaming />} />
@@ -81,12 +82,12 @@ const App = () => {
           <Route path="/exoplanet/neptunian" element={<Neptunian />} />
           <Route path="/exoplanet/super-earth" element={<SuperEarth />} />
           <Route path="/exoplanet/rocky" element={<Rocky />} />
-          <Route path="/quiz" element={<QuizPage />} /> {/* Add Quiz route */}
-          <Route path="/quizgas" element={<QuizGas />} /> {/* Add Quiz route */}
-          <Route path="/quiznep" element={<QuizNep />} /> {/* Add Quiz route */}
-          <Route path="/quizrok" element={<QuizRok />} /> {/* Add Quiz route */}
-          <Route path="/quizsup" element={<QuizSup />} /> {/* Add Quiz route */}
-          <Route path="/quiztyp" element={<QuizTyp />} /> {/* Add Quiz route */}
+          <Route path="/quiz" element={<QuizPage />} /> 
+          <Route path="/quizgas" element={<QuizGas />} /> 
+          <Route path="/quiznep" element={<QuizNep />} /> 
+          <Route path="/quizrok" element={<QuizRok />} /> 
+          <Route path="/quizsup" element={<QuizSup />} /> 
+          <Route path="/quiztyp" element={<QuizTyp />} /> 
           <Route path="/methods/overview" element={<MethodsOverview />} />
           <Route path="/methods/transit" element={<Transit />} />
           <Route path="/methods/radial-velocity" element={<RadialVelocity />} />
@@ -99,6 +100,7 @@ const App = () => {
           <Route path="/telescope/james-webb" element={<JWST />} />
           <Route path="/telescope/spitzer" element={<Spitzer />} />
           <Route path="/telescope/Tess" element={<TESS />} />
+          <Route path="/game" element={<Game />} /> {/* Add Game route */}
         </Routes>
 
         <Chatbot />

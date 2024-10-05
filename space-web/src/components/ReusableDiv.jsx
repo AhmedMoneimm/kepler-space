@@ -1,6 +1,10 @@
 import React, { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
+import Lottie from "lottie-react";
+import Particles from "react-tsparticles";
+import quizAnimation from "../assets/quiz-animation.json"; // Replace with a fun quiz animation
+import spaceBackground from "../assets/space-background.jpg"; // Path to the space background image
 
 const ReusableDiv = ({ title, dataPath, quizPath }) => {
   const navigate = useNavigate();
@@ -18,9 +22,37 @@ const ReusableDiv = ({ title, dataPath, quizPath }) => {
   };
 
   return (
-    <div className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-r from-blue-900 via-black to-blue-900 text-white p-4">
+    <div
+      className="min-h-screen flex flex-col justify-center items-center relative overflow-hidden w-full"
+      style={{
+        backgroundImage: `url(${spaceBackground})`,
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        backgroundRepeat: "no-repeat",
+        padding: "4rem 1rem", // Adjust padding to reduce side spaces
+      }}
+    >
+      {/* Background particle animation */}
+      <Particles
+        id="tsparticles"
+        options={{
+          background: { color: "transparent" },
+          fpsLimit: 60,
+          particles: {
+            number: { value: 60 },
+            color: { value: "#ffffff" },
+            shape: { type: "circle" },
+            opacity: { value: 0.8 },
+            size: { value: 2 },
+            move: { speed: 1 },
+          },
+        }}
+        style={{ position: "absolute", width: "100%", height: "100%", top: 0, left: 0 }} // Ensure particles fill the container
+      />
+
+      {/* Title Section */}
       <motion.h1
-        className="text-5xl font-extrabold mb-8"
+        className="text-5xl font-extrabold text-blue-300 mb-8 z-10"
         initial={{ opacity: 0, y: -50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
@@ -33,29 +65,29 @@ const ReusableDiv = ({ title, dataPath, quizPath }) => {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.5, delay: 0.5 }}
-          className="bg-gray-800 p-6 rounded-lg shadow-lg flex flex-col justify-center items-center"
+          className="bg-gray-900 bg-opacity-80 p-8 rounded-lg shadow-lg flex flex-col items-center z-10 w-full max-w-2xl"
         >
           {Object.entries(data).map(([key, value], index) => (
             <motion.div
               initial={{ opacity: 0, x: -20 }}
               animate={{ opacity: 1, x: 0 }}
-              transition={{ duration: 0.3, delay: index * 1 }}
+              transition={{ duration: 0.3, delay: index * 0.3 }}
               key={key}
-              className="bg-gray-800 p-6 rounded-lg shadow-lg w-full mb-4"
+              className="w-full bg-gray-700 bg-opacity-80 p-6 rounded-lg mb-6 hover:shadow-lg transform transition-all duration-300 hover:scale-105"
             >
               <motion.h2
-                className="text-2xl font-semibold mb-2 text-center"
+                className="text-2xl font-semibold mb-2 text-center text-white"
                 initial={{ opacity: 0, y: -20 }}
                 animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.3, delay: 0.4 + index * 0.2 }}
+                transition={{ duration: 0.3, delay: 0.2 + index * 0.2 }}
               >
                 {key}
               </motion.h2>
               <motion.p
-                className="mb-4 text-center"
+                className="text-lg text-center text-gray-300"
                 initial={{ opacity: 0, y: -20 }}
                 animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.3, delay: 0.5 + index * 0.1 }}
+                transition={{ duration: 0.3, delay: 0.3 + index * 0.2 }}
               >
                 {value}
               </motion.p>
@@ -65,16 +97,23 @@ const ReusableDiv = ({ title, dataPath, quizPath }) => {
           {/* Quiz Time Section */}
           <div className="mt-8 flex flex-col justify-center items-center">
             <motion.h2
-              className="text-2xl font-bold mb-4 text-center"
+              className="text-2xl font-bold mb-4 text-center text-blue-400"
               initial={{ opacity: 0, y: -20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.3 }}
             >
               It&apos;s Quiz Time!
             </motion.h2>
+
+            {/* Fun quiz animation */}
+            <Lottie
+              animationData={quizAnimation}
+              style={{ height: 150, marginBottom: "1rem" }}
+            />
+
             <motion.button
               onClick={handleQuizNavigation}
-              className="bg-blue-500 text-white px-6 py-2 rounded-md hover:bg-blue-600 transition duration-200"
+              className="bg-blue-500 text-white px-6 py-2 rounded-md hover:bg-blue-600 transition duration-200 z-10"
               initial={{ opacity: 0, y: 10 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.3 }}
@@ -88,6 +127,7 @@ const ReusableDiv = ({ title, dataPath, quizPath }) => {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.5 }}
+          className="text-white text-lg z-10"
         >
           Loading data...
         </motion.p>
