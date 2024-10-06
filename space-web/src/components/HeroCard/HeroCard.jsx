@@ -4,27 +4,35 @@ import wave from "../../assets/wave Gif.gif";
 import telescopeImg from "../../assets/telescope.png"; // Replace with the correct path to your image
 import exoplanetImg from "../../assets/exoplanet.png"; // Replace with the correct path to your image
 import discoveryImg from "../../assets/scientist.png"; // Replace with the correct path to your image
+import starsImg from "../../assets/stars.png"; // New image for Stars
 
 const ServiceData = [
-  {
-    title: "Telescopes",
-    content: "Instruments for exploring the cosmos",
-    icon: <img src={telescopeImg} alt="Telescope" className="text-7xl" />,
-    aosDelay: "300",
-    path: "/telescope/overview", // Add path for routing
-  },
   {
     title: "Exoplanets",
     content: "Over 5,600 known exoplanets",
     icon: <img src={exoplanetImg} alt="Exoplanet" className="text-7xl" />,
-    aosDelay: "500",
+    aosDelay: "300",
     path: "/exoplanet/overview", // Add path for routing
+  },
+  {
+    title: "Stars",
+    content: "Learn about the stars that light the universe",
+    icon: <img src={starsImg} alt="Stars" className="text-7xl" />,
+    aosDelay: "500",
+    path: "/stars/overview", // Add path for routing
+  },
+  {
+    title: "Telescopes",
+    content: "Instruments for exploring the cosmos",
+    icon: <img src={telescopeImg} alt="Telescope" className="text-7xl" />,
+    aosDelay: "700",
+    path: "/telescope/overview", // Add path for routing
   },
   {
     title: "Discovering Exoplanets Methods",
     content: "Identify distant worlds",
     icon: <img src={discoveryImg} alt="Discovery Methods" className="text-7xl" />,
-    aosDelay: "700",
+    aosDelay: "900",
     path: "/methods/overview", // Add path for routing
   },
 ];
@@ -36,7 +44,7 @@ const HeroCard = () => {
         <div className="container">
           <div className="min-h-[400px]">
             <div>
-              <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 relative z-10">
+              <div className="grid grid-cols-1 sm:grid-cols-4 gap-6 relative z-10"> {/* Ensure 4 columns in one row */}
                 {ServiceData.map((data, index) => {
                   return (
                     <Link
@@ -44,13 +52,11 @@ const HeroCard = () => {
                       key={index}
                       data-aos="fade-up"
                       data-aos-delay={data.aosDelay}
-                      className="min-h-[180px] flex flex-col justify-center items-center rounded-xl gap-2 bg-sky-900/60 backdrop-blur-sm text-white text-center text-2xl py-8 px-3 w-full lg:w-[300px] mx-auto transition-transform duration-200 hover:scale-105" // Add hover effect for better UX
+                      className="min-h-[180px] flex flex-col justify-center items-center rounded-xl gap-2 bg-sky-900/60 backdrop-blur-sm text-white text-center text-2xl py-8 px-3 w-full transition-transform duration-200 hover:scale-105" // Add hover effect for better UX
                     >
                       {data.icon}
                       <h1><strong>{data.title}</strong></h1>
                       <p>{data.content}</p>
-                      {/* You can uncomment the following line if you have a description */}
-                      {/* <p className="text-sm">{data.description}</p> */}
                     </Link>
                   );
                 })}
