@@ -8,6 +8,7 @@ const SearchForLife = () => {
       quizPath="/quiz"
       previousPath="/exoplanet/CandidateVSConfirmed" // Previous page
       nextPath="/" // Next page
+      imageUrls={["../src/assets/Exoplanets/habzone.png"]}
     />
   );
 };

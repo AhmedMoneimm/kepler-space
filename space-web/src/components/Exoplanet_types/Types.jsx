@@ -9,6 +9,7 @@ const Types = () => {
       quizPath="/quiztyp "
       nextPath="/exoplanet/gas-giants" // Next page path
       previousPath="/exoplanet/overview" // Previous page path
+      imageUrls={["../src/assets/Exoplanets/exoplanetstypes.png"]}
     />
   );
 };

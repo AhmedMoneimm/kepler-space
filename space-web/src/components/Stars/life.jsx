@@ -8,6 +8,7 @@ const StarsLife = () => {
       quizPath="/quiz"
       previousPath="/stars/color" // Previous page path
       nextPath="/stars/planetary-systems" // Next page path
+      imageUrls={["../src/assets/Stars/life.png", "../src/assets/Stars/redgiant.png", "../src/assets/Stars/whitedwarf.png", "../src/assets/Stars/supernova.png", "../src/assets/Stars/neutron.png", "../src/assets/Stars/blackhole.png"]}
     />
   );
 };
