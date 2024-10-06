@@ -5,7 +5,7 @@ const StarsPlanets = () => {
     <ReusableDiv
       title="Stars and planets Relationship!"
       dataPath="/data/Stars/Stars_overview.json"
-      quizPath="/quiz"
+      quizPath="/quizpla"
       previousPath="/stars/life" // Previous page path
       nextPath="/" // Next page path
     />

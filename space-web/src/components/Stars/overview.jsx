@@ -5,7 +5,7 @@ const StarsOverview = () => {
     <ReusableDiv
       title="Stars: The Shiny dots in a black space!"
       dataPath="/data/Stars/Stars_overview.json"
-      quizPath="/quiz"
+      quizPath="/quizovee"
       previousPath="/" // Previous page path
       nextPath="/stars/color" // Next page path
     />

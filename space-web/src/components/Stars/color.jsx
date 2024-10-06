@@ -5,7 +5,7 @@ const StarsColor = () => {
     <ReusableDiv
       title="Unlocking the Rainbow: What Star Colors Reveal About Their Secrets!"
       dataPath="/data/Stars/Stars_colors.json"
-      quizPath="/quiz"
+      quizPath="/quizcol"
       previousPath="/stars/overview" // Previous page path
       nextPath="/stars/life" // Next page path
       imageUrls={["../src/assets/Stars/colors.png"]}

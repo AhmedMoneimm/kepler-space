@@ -1,0 +1,312 @@
+[
+    {
+        "question": "What happens to stars as they exhaust their hydrogen fuel?",
+        "options": ["They become white dwarfs", "They become red giants", "They explode as supernovae", "They turn into neutron stars"],
+        "answer": "They become red giants"
+    },
+    {
+        "question": "What is a red giant?",
+        "options": ["A very small star", "A massive star that has expanded", "A star that has cooled down", "A type of brown dwarf"],
+        "answer": "A massive star that has expanded"
+    },
+    {
+        "question": "What is a white dwarf?",
+        "options": ["A remnant of a star after it has shed its outer layers", "A young star", "A supernova remnant", "A red giant"],
+        "answer": "A remnant of a star after it has shed its outer layers"
+    },
+    {
+        "question": "What triggers a supernova in massive stars?",
+        "options": ["Loss of hydrogen fuel", "Core collapse due to gravitational forces", "Expansion of the outer layers", "Formation of a neutron star"],
+        "answer": "Core collapse due to gravitational forces"
+    },
+    {
+        "question": "What is the fate of a star more than eight times the mass of the Sun?",
+        "options": ["It becomes a white dwarf", "It undergoes a supernova", "It turns into a red giant", "It becomes a brown dwarf"],
+        "answer": "It undergoes a supernova"
+    },
+    {
+        "question": "What is a neutron star?",
+        "options": ["A type of black hole", "A remnant of a supernova made mostly of neutrons", "A small star", "A red giant"],
+        "answer": "A remnant of a supernova made mostly of neutrons"
+    },
+    {
+        "question": "What do pulsars emit?",
+        "options": ["X-rays", "Infrared radiation", "Beams of radiation", "Gamma rays"],
+        "answer": "Beams of radiation"
+    },
+    {
+        "question": "What creates a black hole?",
+        "options": ["A star collapsing with core mass exceeding three times that of the Sun", "A star turning into a red giant", "A white dwarf gaining mass", "A neutron star collapsing"],
+        "answer": "A star collapsing with core mass exceeding three times that of the Sun"
+    },
+    {
+        "question": "How do stars affect the universe after they die?",
+        "options": ["They disappear completely", "They leave behind clouds of dust and gas", "They become black holes", "They turn into neutron stars"],
+        "answer": "They leave behind clouds of dust and gas"
+    },
+    {
+        "question": "What are red dwarfs?",
+        "options": ["The largest stars", "The smallest and coolest stars", "Stars that burn out quickly", "Stars with high temperatures"],
+        "answer": "The smallest and coolest stars"
+    },
+    {
+        "question": "What are brown dwarfs?",
+        "options": ["Failed stars that never achieve hydrogen fusion", "Massive stars that explode", "The remnants of supernovae", "Stars that become red giants"],
+        "answer": "Failed stars that never achieve hydrogen fusion"
+    },
+    {
+        "question": "How long can red dwarfs live?",
+        "options": ["A few million years", "A billion years", "Trillions of years", "They have a short lifespan"],
+        "answer": "Trillions of years"
+    },
+    {
+        "question": "What elements do stars produce that are essential for life?",
+        "options": ["Helium and hydrogen", "Carbon, oxygen, and nitrogen", "Iron and magnesium", "Gold and silver"],
+        "answer": "Carbon, oxygen, and nitrogen"
+    },
+    {
+        "question": "What do stars leave behind after they explode as supernovae?",
+        "options": ["Nothing", "Nebulae and cosmic dust", "Planets", "Comets"],
+        "answer": "Nebulae and cosmic dust"
+    },
+    {
+        "question": "What is the life cycle of a star like our Sun?",
+        "options": ["Red giant -> white dwarf", "Supernova -> black hole", "Neutron star -> pulsar", "Brown dwarf -> red giant"],
+        "answer": "Red giant -> white dwarf"
+    },
+    {
+        "question": "What are the building blocks of galaxies?",
+        "options": ["Planets", "Black holes", "Stars", "Nebulae"],
+        "answer": "Stars"
+    },
+    {
+        "question": "What happens to a massive star after it goes supernova?",
+        "options": ["It becomes a red giant", "It collapses into a neutron star or black hole", "It forms a planetary nebula", "It becomes a brown dwarf"],
+        "answer": "It collapses into a neutron star or black hole"
+    },
+    {
+        "question": "How do astronomers learn about a star's lifecycle?",
+        "options": ["By studying its brightness and color", "By observing its distance", "By analyzing its heat", "By counting its planets"],
+        "answer": "By studying its brightness and color"
+    },
+    {
+        "question": "What triggers the fusion process in a star?",
+        "options": ["High temperatures and pressures", "Gravity alone", "The star's distance from Earth", "Color of the star"],
+        "answer": "High temperatures and pressures"
+    },
+    {
+        "question": "What is the last stage of a star's lifecycle?",
+        "options": ["White dwarf", "Neutron star", "Black hole", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is a supernova?",
+        "options": ["A large star", "An explosion of a star at the end of its life", "A new star", "A nebula"],
+        "answer": "An explosion of a star at the end of its life"
+    },
+    {
+        "question": "What can happen to a star after its red giant phase?",
+        "options": ["It may become a neutron star", "It may explode", "It may shrink into a white dwarf", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which type of star will explode as a supernova?",
+        "options": ["Red dwarfs", "Medium stars", "Massive stars", "White dwarfs"],
+        "answer": "Massive stars"
+    },
+    {
+        "question": "What indicates that a star is more massive than others?",
+        "options": ["Its brightness", "Its color", "Its distance", "Its temperature"],
+        "answer": "Its brightness"
+    },
+    {
+        "question": "How long can a massive star live?",
+        "options": ["A few million years", "Billions of years", "Trillions of years", "Forever"],
+        "answer": "A few million years"
+    },
+    {
+        "question": "What does the color of a star tell us?",
+        "options": ["Its age", "Its mass", "Its distance", "Its temperature"],
+        "answer": "Its temperature"
+    },
+    {
+        "question": "What is the main factor affecting a star's lifecycle?",
+        "options": ["Color", "Mass", "Distance", "Brightness"],
+        "answer": "Mass"
+    },
+    {
+        "question": "How does a star form?",
+        "options": ["From a black hole", "From a nebula", "From a supernova", "From a planet"],
+        "answer": "From a nebula"
+    },
+    {
+        "question": "What is a stellar remnant?",
+        "options": ["A dying star", "A star that has exploded", "The leftover core of a star", "All of the above"],
+        "answer": "The leftover core of a star"
+    },
+    {
+        "question": "What do astronomers use to classify stars?",
+        "options": ["Color and size", "Brightness and distance", "Mass and age", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the most common type of star in the universe?",
+        "options": ["Red giants", "Main sequence stars", "Supernovae", "White dwarfs"],
+        "answer": "Main sequence stars"
+    },
+    {
+        "question": "What happens when a white dwarf reaches critical mass?",
+        "options": ["It becomes a red giant", "It explodes in a supernova", "It cools down", "It becomes a neutron star"],
+        "answer": "It explodes in a supernova"
+    },
+    {
+        "question": "What element do stars fuse to produce energy?",
+        "options": ["Helium", "Hydrogen", "Carbon", "Iron"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "What happens to the core of a star during a supernova?",
+        "options": ["It collapses", "It expands", "It cools down", "It evaporates"],
+        "answer": "It collapses"
+    },
+    {
+        "question": "What is a planetary nebula?",
+        "options": ["A type of star", "A stage in a star's lifecycle", "The remnant of a red giant", "A black hole"],
+        "answer": "The remnant of a red giant"
+    },
+    {
+        "question": "What do massive stars produce during their lifetime?",
+        "options": ["Heavy elements", "Only hydrogen", "Only helium", "Nothing"],
+        "answer": "Heavy elements"
+    },
+    {
+        "question": "What is a fusion reactor in a star?",
+        "options": ["The outer layers", "The core", "The atmosphere", "The surface"],
+        "answer": "The core"
+    },
+    {
+        "question": "How does the life of a star like our Sun differ from that of a massive star?",
+        "options": ["It has a shorter lifespan", "It has a longer lifespan", "They are the same", "None of the above"],
+        "answer": "It has a longer lifespan"
+    },
+    {
+        "question": "What can be formed from the remnants of a supernova?",
+        "options": ["Stars", "Planets", "Black holes", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the hottest type of star?",
+        "options": ["Red star", "Yellow star", "White star", "Blue star"],
+        "answer": "Blue star"
+    },
+    {
+        "question": "What does the term 'main sequence' refer to?",
+        "options": ["A stage in a star's life", "The life cycle of red dwarfs", "The color of stars", "The temperature of stars"],
+        "answer": "A stage in a star's life"
+    },
+    {
+        "question": "What is the final stage of a massive star?",
+        "options": ["Supernova", "Neutron star", "Black hole", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What does the Hertzsprung-Russell diagram show?",
+        "options": ["The life cycle of stars", "The classification of stars", "The temperature and brightness of stars", "The distance of stars"],
+        "answer": "The temperature and brightness of stars"
+    },
+    {
+        "question": "What do heavy elements like iron and gold originate from?",
+        "options": ["The Big Bang", "Supernova explosions", "White dwarfs", "Planetary nebulae"],
+        "answer": "Supernova explosions"
+    },
+    {
+        "question": "What type of star has the shortest lifespan?",
+        "options": ["Red dwarf", "Sun-like star", "Massive star", "Brown dwarf"],
+        "answer": "Massive star"
+    },
+    {
+        "question": "What will our Sun eventually become?",
+        "options": ["A black hole", "A red giant", "A white dwarf", "A neutron star"],
+        "answer": "A white dwarf"
+    },
+    {
+        "question": "What is the main energy source for stars during their main sequence phase?",
+        "options": ["Hydrogen fusion", "Helium fusion", "Carbon fusion", "Iron fusion"],
+        "answer": "Hydrogen fusion"
+    },
+    {
+        "question": "How do stars create elements heavier than hydrogen?",
+        "options": ["Through fusion during their lifetime", "By absorbing elements from other stars", "Through gravitational collapse", "They cannot create heavy elements"],
+        "answer": "Through fusion during their lifetime"
+    },
+    {
+        "question": "What happens to the outer layers of a star during its red giant phase?",
+        "options": ["They collapse", "They expand", "They disappear", "They become a neutron star"],
+        "answer": "They expand"
+    },
+    {
+        "question": "What is a significant characteristic of neutron stars?",
+        "options": ["They are extremely hot", "They are extremely dense", "They can spin rapidly", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What happens during the final stages of a massive star?",
+        "options": ["It expands", "It explodes", "It collapses", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What do we call the energy-producing process in stars?",
+        "options": ["Nuclear fission", "Nuclear fusion", "Chemical reactions", "Gravitational pull"],
+        "answer": "Nuclear fusion"
+    },
+    {
+        "question": "What can studying the lifecycle of stars help astronomers understand?",
+        "options": ["The formation of galaxies", "The distribution of elements in the universe", "The history of the universe", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What happens to a star when it runs out of nuclear fuel?",
+        "options": ["It becomes a black hole", "It collapses", "It stops shining", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What phase follows the red giant phase for smaller stars?",
+        "options": ["Supernova", "White dwarf", "Neutron star", "Black hole"],
+        "answer": "White dwarf"
+    },
+    {
+        "question": "How long does the red giant phase typically last?",
+        "options": ["A few million years", "A few billion years", "A few thousand years", "It varies greatly"],
+        "answer": "A few billion years"
+    },
+    {
+        "question": "What can the presence of heavy elements in a star indicate?",
+        "options": ["It is a young star", "It is a stable star", "It is an older star", "It is a supernova remnant"],
+        "answer": "It is an older star"
+    },
+    {
+        "question": "What is one of the primary goals of studying the lifecycle of stars?",
+        "options": ["Understanding star formation", "Classifying star types", "Studying the effects of stars on planets", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is a stellar nursery?",
+        "options": ["A place where stars are born", "A place where stars die", "A type of supernova", "A black hole"],
+        "answer": "A place where stars are born"
+    },
+    {
+        "question": "What is the fate of small stars at the end of their life cycle?",
+        "options": ["They explode", "They become white dwarfs", "They become black holes", "They live indefinitely"],
+        "answer": "They become white dwarfs"
+    },
+    {
+        "question": "What is the significance of studying supernovae?",
+        "options": ["Understanding the universe's expansion", "Finding new planets", "Understanding stellar evolution", "All of the above"],
+        "answer": "Understanding stellar evolution"
+    },
+    {
+        "question": "What do stars do during their lifetime?",
+        "options": ["They create energy", "They produce light", "They synthesize elements", "All of the above"],
+        "answer": "All of the above"
+    }
+]
