@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom"; // Import useNavigate hook
-import satelitImg from "../../assets/satelite2.jpg"; // You might want to change this image to something more related to the game
+import gameImg from "../../assets/game.jpg"; // You might want to change this image to something more related to the game
 
 const Rapidscat = () => {
   const navigate = useNavigate(); // Initialize the navigate function
@@ -45,7 +45,7 @@ const Rapidscat = () => {
           </div>
           <div data-aos="zoom-in">
             <img
-              src={satelitImg} // Consider using a more relevant image for the game
+              src={gameImg} // Consider using a more relevant image for the game
               alt="Game illustration"
               className="w-full sm:w-[80%] mx-auto max-h-[350px] object-cover"
             />
