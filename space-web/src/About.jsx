@@ -23,9 +23,9 @@ const About = () => {
     },
     {
       src: '/data/images/bashar badawi.jpg',
-      alt: 'Bashar Badawi',
-      github: 'https://github.com/Basharbadawi2',
-      linkedin: 'https://www.linkedin.com/in/bashar-badawi-056967223/',
+      alt: 'Peter Mina',
+      github: 'https://github.com/PeterMina',
+      linkedin: 'https://www.linkedin.com/in/peter-mina-44120320a/',
     },
     {
       src: '/data/images/iyad ashraf.jpg',
@@ -168,7 +168,7 @@ const About = () => {
         Meet Our Team
       </motion.h1>
       {/* Team Member Images */}
-      <div className="flex flex-wrap justify-center items-center gap-8 mb-12 z-10">
+      <div className="flex flex-wrap justify-center items-center gap-8 mb-30 pb-40 z-10"> {/* Increased mb and added pb */}
         {imageLinks.map((image, index) => (
           <motion.div
             key={index}
@@ -205,6 +205,7 @@ const About = () => {
           </motion.div>
         ))}
       </div>
+
     </div>
   );
 };
