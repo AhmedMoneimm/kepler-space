@@ -14,7 +14,7 @@ const GamePage = () => {
 
     const handleDownload = () => {
         // Replace 'YOUR_FILE_ID' with the actual file ID from Google Drive
-        window.open("https://drive.google.com/uc?export=download&id=YOUR_FILE_ID", "_blank");
+        window.open("https://drive.google.com/drive/folders/1KAU_Qk5-IrRKzcVEo6e3SDkUwkcIUEmB", "_blank");
     };       
 
     return (
