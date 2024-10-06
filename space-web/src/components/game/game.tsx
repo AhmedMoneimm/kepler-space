@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import Particles from "react-tsparticles"; // Ensure you have this library installed
 import spaceBackground from "../../assets/space-background2.jpg"; // Ensure the file exists at this path
 import img1 from "../../assets/img1.jpeg"; // Import img1
-import img2 from "../../assets/img2.jpeg"; // Import img2
+import img2 from "../../assets/img2-1.jpeg"; // Import img2
 
 const GamePage = () => {
     // Scroll to the top of the page on component mount
