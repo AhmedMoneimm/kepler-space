@@ -158,14 +158,14 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
                     className="flex justify-center items-center w-1/4" // Increase the width for the image to make it larger
                     initial={{ opacity: 0, x: -20 }}
                     animate={{ opacity: 1, x: 0 }}
-                    transition={{ duration: 0.3, delay: 0.1 + index * 0.2 }}
+                    transition={{ duration: 0.3, delay: 0.1 + index * 0.1 }}
                     whileHover={{ scale: 1.2 }} // Scale up on hover even more
                   >
                     <img
                       src={imageUrls[index]} // Display the image for the current index
                       alt={key}
                       onClick={openFullScreen} // Trigger full screen on click
-                      className="w-48 h-48 object-cover rounded-full transition duration-300 hover:w-60 hover:h-60 cursor-pointer" // Larger size with hover and cursor pointer
+                      className="w-48 h-48 object-cover rounded-full transition duration-300 cursor-pointer" // Larger size with hover and cursor pointer
                     />
                   </motion.div>
                 )}
