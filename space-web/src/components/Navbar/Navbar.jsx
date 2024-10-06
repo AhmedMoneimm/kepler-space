@@ -39,7 +39,7 @@ const Navbar = () => {
               </li>
               <li>
                 <Link
-                  to="#"
+                  to="/about"
                   onClick={closeDropdown}
                   className="hover:text-blue-500 transition-colors duration-200"
                 >
