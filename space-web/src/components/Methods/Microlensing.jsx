@@ -9,6 +9,7 @@ const Microlensing = () => {
             quizPath="/quizmic"
             previousPath="/methods/direct-imaging"
             nextPath="/methods/astrometry"
+            imageUrls={["../src/assets/Methods/gravitational_microlensing.gif"]}
         />
     );
 };

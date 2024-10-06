@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom"; // Import Link from react-router-dom
 import wave from "../../assets/wave Gif.gif";
 import telescopeImg from "../../assets/telescope.png"; // Replace with the correct path to your image

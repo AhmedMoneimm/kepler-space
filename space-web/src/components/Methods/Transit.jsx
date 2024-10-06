@@ -8,6 +8,7 @@ const Transit = () => {
       quizPath="/quiztra"
       previousPath="/methods/overview"
       nextPath="/methods/radial-velocity"
+      imageUrls={["../src/assets/Methods/transit-method-single-planet.gif", "../src/assets/Methods/transit_method_double_planet.gif", "../src/assets/Methods/transit-method-multiple-planets.gif"]}
     />
   );
 };
