@@ -56,7 +56,7 @@ import StarsColor from "./components/Stars/color.jsx";
 import StarsLife from "./components/Stars/life.jsx";
 import StarsPlanets from "./components/Stars/planets.jsx";
 import About from "./About.jsx";
-import BackgroundMusic from "./components/Backgroundmusic";
+import BackgroundMusic from "./components/BackgroundMusic";
 
 const App = () => {
   React.useEffect(() => {
