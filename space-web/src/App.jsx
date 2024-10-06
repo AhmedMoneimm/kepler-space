@@ -51,6 +51,10 @@ import Quizkep from "./components/Quiz/Telescope/Quizkep.jsx";
 import Quizspi from "./components/Quiz/Telescope/Quizspi.jsx";
 import Quiztes from "./components/Quiz/Telescope/Quiztes.jsx";
 import Quizmeo from "./components/Quiz/Methods/Quizmeo.jsx";
+import StarsOverview from "./components/Stars/overview.jsx";
+import StarsColor from "./components/Stars/color.jsx";
+import StarsLife from "./components/Stars/life.jsx";
+import StarsPlanets from "./components/Stars/planets.jsx";
 
 const App = () => {
   React.useEffect(() => {
@@ -104,6 +108,11 @@ const App = () => {
           <Route path="/quizrok" element={<QuizRok />} /> 
           <Route path="/quizsup" element={<QuizSup />} /> 
           <Route path="/quiztyp" element={<QuizTyp />} />
+          {/* Add Stars routes */}
+          <Route path="/stars/overview" element={<StarsOverview />} />
+          <Route path="/stars/color" element={<StarsColor />} />
+          <Route path="/stars/life" element={<StarsLife />} />
+          <Route path="/stars/planetary-systems" element={<StarsPlanets />} />
           {/* Add Methods routes */} 
           <Route path="/methods/overview" element={<MethodsOverview />} />
           <Route path="/methods/transit" element={<Transit />} />

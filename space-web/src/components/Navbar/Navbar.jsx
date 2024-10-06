@@ -154,6 +154,55 @@ const Navbar = () => {
                   </ul>
                 )}
               </li>
+              {/* Stars Dropdown */}
+              <li className="relative">
+                <button
+                  onClick={() => toggleDropdown("stars")}
+                  className="focus:outline-none hover:text-blue-500 transition-colors duration-200"
+                >
+                  Stars
+                </button>
+                {openDropdown === "stars" && (
+                  <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
+                    <li>
+                      <Link
+                        to="/stars/overview"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Stars Overview
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/stars/color"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Stars Colors
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/stars/life"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Stars Life Cycle
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/stars/planetary-systems"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Planetary Systems
+                      </Link>
+                    </li>
+                  </ul>
+                )}
+              </li>
               {/* Telescope Dropdown */}
               <li className="relative">
                 <button
