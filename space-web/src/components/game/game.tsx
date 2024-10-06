@@ -126,7 +126,6 @@ const GamePage = () => {
             >
                 <p className="text-lg mb-4 text-white text-center">
                     **Disclaimer:** Due to the game's stunning graphics, we can't deploy it online. 
-                    Please download the game to experience the full adventure!
                 </p>
                 {/* <motion.button 
                     onClick={handleDownload}
