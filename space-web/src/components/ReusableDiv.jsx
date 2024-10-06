@@ -83,6 +83,18 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
     window.scrollTo({ top: 0, behavior: "smooth" }); // Scroll to top
   };
 
+  // Function to open image in full screen
+  const openFullScreen = (e) => {
+    const elem = e.target; // The clicked image element
+    if (elem.requestFullscreen) {
+      elem.requestFullscreen();
+    } else if (elem.webkitRequestFullscreen) { /* Safari */
+      elem.webkitRequestFullscreen();
+    } else if (elem.msRequestFullscreen) { /* IE11 */
+      elem.msRequestFullscreen();
+    }
+  };
+
   return (
     <div
       className="min-h-screen flex flex-col justify-center items-center relative overflow-hidden w-full"
@@ -152,7 +164,8 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
                     <img
                       src={imageUrls[index]} // Display the image for the current index
                       alt={key}
-                      className="w-48 h-48 object-cover rounded-full transition duration-300 hover:w-60 hover:h-60" // Larger size with more hover effect
+                      onClick={openFullScreen} // Trigger full screen on click
+                      className="w-48 h-48 object-cover rounded-full transition duration-300 hover:w-60 hover:h-60 cursor-pointer" // Larger size with hover and cursor pointer
                     />
                   </motion.div>
                 )}
