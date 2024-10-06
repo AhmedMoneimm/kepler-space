@@ -90,7 +90,7 @@ const App = () => {
               <HeroCard />
               <Rapidscat />
               <Satelite />
-              <Footer5 />
+              {/* <Footer5 /> */}
             </>
           } />
 

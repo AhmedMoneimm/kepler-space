@@ -228,30 +228,30 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
           Loading data...
         </motion.p>
       )}
-      {/* NASA 3D Model */}
-      {URL && (
-        <div className="mt-8 flex flex-col justify-center items-center">
-          <motion.p
-            className="text-lg text-center text-gray-300 mb-4"
-            initial={{ opacity: 0, y: -20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.3 }}
-          >
-            Explore more about {topic} on NASA&apos;s Eyes on Exoplanets website.
-          </motion.p>
-          <motion.button
-            onClick={() => (window.location.href = URL)} // Open NASA's Eyes on Exoplanets website
-            className="bg-blue-500 text-white px-6 py-2 rounded-md hover:bg-blue-600 transition duration-200 z-10"
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.3 }}
-          >
-            Visit NASA
-          </motion.button>
-        </div>
-      )}
+      /* NASA 3D Model */}
+        {URL && (
+          <div className="mt-8 flex flex-col justify-center items-center">
+            <motion.p
+          className="text-lg text-center text-gray-300 mb-4"
+          initial={{ opacity: 0, y: -20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.3 }}
+            >
+          Explore more about {topic} on NASA&apos;s Eyes on Exoplanets website.
+            </motion.p>
+            <motion.button
+          onClick={() => window.open(URL, "_blank")} // Open NASA's Eyes on Exoplanets website in a new tab or window
+          className="bg-blue-500 text-white px-6 py-2 rounded-md hover:bg-blue-600 transition duration-200 z-10"
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.3 }}
+            >
+          Visit NASA
+            </motion.button>
+          </div>
+        )}
 
-      {/* Quiz Time Section */}
+        {/* Quiz Time Section */}
       <div className="mt-8 flex flex-col justify-center items-center">
         <motion.h2
           className="text-2xl font-bold mb-4 text-center text-blue-400"
