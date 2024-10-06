@@ -40,7 +40,7 @@ const Rapidscat = () => {
               className="bg-blue-400 text-white hover:bg-blue-500 px-4 py-1 rounded-md duration-200"
               onClick={handleButtonClick} // Attach the click handler
             >
-              Play Now
+              Watch Gameplay Now!
             </button>
           </div>
           <div data-aos="zoom-in">

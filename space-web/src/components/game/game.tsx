@@ -126,15 +126,14 @@ const GamePage = () => {
             >
                 <p className="text-lg mb-4 text-white text-center">
                     **Disclaimer:** Due to the game's stunning graphics, we can't deploy it online. 
-                    Please download the game to experience the full adventure!
                 </p>
-                <motion.button 
+                {/* <motion.button 
                     onClick={handleDownload}
                     className="bg-yellow-500 text-black font-bold py-2 px-4 rounded-full shadow-lg hover:bg-yellow-400 transition duration-300 z-10"
                     whileHover={{ scale: 1.05 }}
                 >
                     Download the Game
-                </motion.button>
+                </motion.button> */}
             </motion.div>
 
             <footer className="mt-12 text-center z-10">
