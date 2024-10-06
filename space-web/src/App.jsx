@@ -55,6 +55,8 @@ import StarsOverview from "./components/Stars/overview.jsx";
 import StarsColor from "./components/Stars/color.jsx";
 import StarsLife from "./components/Stars/life.jsx";
 import StarsPlanets from "./components/Stars/planets.jsx";
+import About from "./About.jsx";
+import BackgroundMusic from "./components/Backgroundmusic";
 
 const App = () => {
   React.useEffect(() => {
@@ -75,6 +77,7 @@ const App = () => {
         >
           <source src={BgVideo} type="video/mp4" />
         </video>
+        <BackgroundMusic />
 
         <Navbar />
 
@@ -141,10 +144,12 @@ const App = () => {
           <Route path="/quizmeo" element={<Quizmeo />} />
           {/* Add Game route */}
           <Route path="/game" element={<Game />} /> {/* Add Game route */}
+          <Route path="/about" element={<About />} /> {/* Add Game route */}
         </Routes>
 
         <Chatbot />
       </div>
+      
     </Router>
   );
 };

@@ -4,7 +4,7 @@ import wave from "../../assets/wave Gif.gif";
 import telescopeImg from "../../assets/telescope.png"; // Replace with the correct path to your image
 import exoplanetImg from "../../assets/exoplanet.png"; // Replace with the correct path to your image
 import discoveryImg from "../../assets/scientist.png"; // Replace with the correct path to your image
-import starsImg from "../../assets/stars.png"; // New image for Stars
+import starsImg from "../../assets/stars.png"; // Commented out because this image path caused an error. Ensure this path exists.
 
 const ServiceData = [
   {
@@ -17,7 +17,8 @@ const ServiceData = [
   {
     title: "Stars",
     content: "Learn about the stars that light the universe",
-    icon: <img src={starsImg} alt="Stars" className="text-7xl" />,
+     icon: <img src={starsImg} alt="Stars" className="text-7xl" />, // Commented out since starsImg is causing issues
+    icon: <div className="text-7xl">★</div>, // Temporary placeholder icon
     aosDelay: "500",
     path: "/stars/overview", // Add path for routing
   },
