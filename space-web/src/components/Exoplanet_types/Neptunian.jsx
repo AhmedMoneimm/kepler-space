@@ -11,6 +11,7 @@ const Neptunian = () => {
       URL="https://eyes.nasa.gov/apps/exo/#/filter/NeptuneLike"
       topic="Neptunian"
       imageUrls={["../src/assets/Exoplanets/nepdesert.png"]}
+      // order=[2]
     />
   );
 };

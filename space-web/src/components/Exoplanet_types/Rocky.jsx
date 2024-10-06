@@ -11,6 +11,7 @@ const Rocky = () => {
       URL="https://eyes.nasa.gov/apps/exo/#/filter/Terrestrial"
       topic="Rocky"
       imageUrls={["../src/assets/Exoplanets/TRAPPIST.png", "../src/assets/Exoplanets/TRAPPIST2.png"]}
+      // order=[3,4]
     />
   );
 };

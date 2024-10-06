@@ -125,6 +125,7 @@ const App = () => {
           <Route path="/methods/astrometry" element={<Astrometry />} />
           <Route path="/quizast" element={<Quizast />} />
           <Route path="/quizdir" element={<Quizdir />} />
+          <Route path="/quizmeo" element={<Quizmeo />} />
           <Route path="/quizmic" element={<Quizmic />} />
           <Route path="/quizrad" element={<Quizrad />} />
           <Route path="/quiztra" element={<Quiztra />} />
@@ -141,7 +142,6 @@ const App = () => {
           <Route path="/quizkep" element={<Quizkep />} />
           <Route path="/quizspi" element={<Quizspi />} />
           <Route path="/quiztes" element={<Quiztes />} />
-          <Route path="/quizmeo" element={<Quizmeo />} />
           {/* Add Game route */}
           <Route path="/game" element={<Game />} /> {/* Add Game route */}
           <Route path="/about" element={<About />} /> {/* Add Game route */}
