@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import Particles from "react-tsparticles"; // Ensure you have this library installed
 import spaceBackground from "../../assets/space-background2.jpg"; // Ensure the file exists at this path
 import img1 from "../../assets/img1.jpeg"; // Import img1
-import img2 from "../../assets/img2-1.jpeg"; // Import img2
+import img2 from "../../assets/img2.jpeg"; // Import img2
 
 const GamePage = () => {
     // Scroll to the top of the page on component mount
@@ -13,9 +13,9 @@ const GamePage = () => {
     }, []);
 
     const handleDownload = () => {
-        // Replace with your actual download link
-        window.location.href = "/path/to/game.zip";
-    };
+        // Replace 'YOUR_FILE_ID' with the actual file ID from Google Drive
+        window.open("https://drive.google.com/uc?export=download&id=YOUR_FILE_ID", "_blank");
+    };       
 
     return (
         <div
