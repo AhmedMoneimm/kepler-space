@@ -228,7 +228,6 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
           Loading data...
         </motion.p>
       )}
-      /* NASA 3D Model */
         {URL && (
           <div className="mt-8 flex flex-col justify-center items-center">
             <motion.p
