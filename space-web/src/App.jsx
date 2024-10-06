@@ -1,28 +1,30 @@
 // src/App.tsx
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import AOS from "aos";
+import "aos/dist/aos.css";
+import BgVideo from "./assets/exo.mp4";
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero.jsx";
 import HeroCard from "./components/HeroCard/HeroCard.jsx";
-import BgVideo from "./assets/exo.mp4";
 import Rapidscat from "./components/Rapidscat/Rapidscat.jsx";
 import Satelite from "./components/Satelite/Satelite.jsx";
 import Footer5 from "./components/Footer/Footer5.jsx";
-import AOS from "aos";
-import "aos/dist/aos.css";
-import Chatbot from "./components/Chatbot/Chatbot"; 
-import ExoplanetOverview from "./components/Exoplanet/ExoplanetOverview"; 
-import GasGiants from "./components/Exoplanet_types/GasGiants.jsx"; 
-import Neptunian from "./components/Exoplanet_types/Neptunian.jsx"; 
-import SuperEarth from "./components/Exoplanet_types/SuperEarth.jsx"; 
-import Rocky from "./components/Exoplanet_types/Rocky.jsx"; 
-import QuizPage from "./components/Quiz/QuizPage";
-import QuizGas from "./components/Quiz/QuizGas";
-import QuizNep from "./components/Quiz/QuizNep";
-import QuizRok from "./components/Quiz/QuizRok";
-import QuizSup from "./components/Quiz/QuizSup";
+import Chatbot from "./components/Chatbot/Chatbot";
+import ExoplanetOverview from "./components/Exoplanet/ExoplanetOverview";
+import ExoplanetNaming from "./components/Exoplanet/Naming.jsx";
+import CandidateVSConfirmed from "./components/Exoplanet/CandidateVSConfirmed.jsx";
 import Types from "./components/Exoplanet_types/Types.jsx";
-import QuizTyp from "./components/Quiz/QuizTyp";
+import GasGiants from "./components/Exoplanet_types/GasGiants.jsx";
+import Neptunian from "./components/Exoplanet_types/Neptunian.jsx";
+import SuperEarth from "./components/Exoplanet_types/SuperEarth.jsx";
+import Rocky from "./components/Exoplanet_types/Rocky.jsx";
+import QuizPage from "./components/Quiz/QuizPage";
+import QuizGas from "./components/Quiz/Exoplanets_types/QuizGas.jsx";
+import QuizNep from "./components/Quiz/Exoplanets_types/QuizNep.jsx";
+import QuizRok from "./components/Quiz/Exoplanets_types/QuizRok.jsx";
+import QuizSup from "./components/Quiz/Exoplanets_types/QuizSup.jsx";
+import QuizTyp from "./components/Quiz/Exoplanets_types/QuizTyp.jsx";
 import MethodsOverview from "./components/Methods/MethodsOverview";
 import Transit from "./components/Methods/Transit.jsx";
 import RadialVelocity from "./components/Methods/Radial-Velocity.jsx";
@@ -35,9 +37,20 @@ import Kepler from "./components/Telescopes/Kepler.jsx";
 import JWST from "./components/Telescopes/JWST.jsx";
 import Spitzer from "./components/Telescopes/Spitzer.jsx";
 import TESS from "./components/Telescopes/TESS.jsx";
-import ExoplanetNaming from "./components/Exoplanet/Naming.jsx";
 import Game from "./components/game/game"; // Import the Game component
-import CandidateVSConfirmed from "./components/Exoplanet/CandidateVSConfirmed.jsx";
+import SearchForLife from "./components/Exoplanet/Search_for_life.jsx";
+import Quizast from "./components/Quiz/Methods/Quizast.jsx";
+import Quizdir from "./components/Quiz/Methods/Quizdir.jsx";
+import Quizmic from "./components/Quiz/Methods/Quizmic.jsx";
+import Quizrad from "./components/Quiz/Methods/Quizrad.jsx";
+import Quiztra from "./components/Quiz/Methods/Quiztra.jsx";
+import Quiztel from "./components/Quiz/Telescope/Quiztel.jsx";
+import Quizhub from "./components/Quiz/Telescope/Quizhub.jsx";
+import Quizjw from "./components/Quiz/Telescope/Quizjw.jsx";
+import Quizkep from "./components/Quiz/Telescope/Quizkep.jsx";
+import Quizspi from "./components/Quiz/Telescope/Quizspi.jsx";
+import Quiztes from "./components/Quiz/Telescope/Quiztes.jsx";
+import Quizmeo from "./components/Quiz/Methods/Quizmeo.jsx";
 
 const App = () => {
   React.useEffect(() => {

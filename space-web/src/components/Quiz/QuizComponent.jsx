@@ -1,30 +1,30 @@
-import React from "react";
-import quizData from "./meo.json"; // Ensure the path is correct
-import  { useState, useEffect }from "react";
-const Quizmeo = () => {
+// src/components/QuizComponent.jsx
+import { useState, useEffect } from "react";
+
+const QuizComponent = ({ quizData }) => {
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(true);
   const [feedback, setFeedback] = useState(""); // State for feedback message
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0); // Track the current question
 
   useEffect(() => {
-    // Randomly select 5 questions from the imported quiz data
+    // Randomly select 5 questions from the quiz data passed as a prop
     const shuffled = quizData.sort(() => 0.5 - Math.random());
     const selectedQuestions = shuffled.slice(0, 5);
     setQuestions(selectedQuestions);
     setLoading(false);
-  }, []);
+  }, [quizData]); // Re-run when quizData changes
 
   const handleAnswerSelection = (selectedOption) => {
     const currentQuestion = questions[currentQuestionIndex];
 
     // Check if the selected option is correct
-    if (selectedOption === currentQuestion.answer) { // Correctly access 'answer'
+    if (selectedOption === currentQuestion.answer) {
       setFeedback("Correct! 🎉");
     } else {
-      setFeedback("Wrong! ❌ The correct answer is: " + currentQuestion.answer); // Use 'answer' here too
+      setFeedback("Wrong! ❌ The correct answer is: " + currentQuestion.answer);
     }
-    
+
     // Move to the next question after a delay
     setTimeout(() => {
       setFeedback(""); // Clear feedback
@@ -56,7 +56,7 @@ const Quizmeo = () => {
           {currentQuestion.options.map((option, i) => (
             <li key={i} className="mb-2">
               <button
-                onClick={() => handleAnswerSelection(option)} // Handle option selection
+                onClick={() => handleAnswerSelection(option)}
                 className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition duration-200"
               >
                 {option}
@@ -70,4 +70,4 @@ const Quizmeo = () => {
   );
 };
 
-export default Quizmeo;
+export default QuizComponent;
