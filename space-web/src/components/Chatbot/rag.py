@@ -18,7 +18,7 @@ faiss_index_path = os.path.join(current_directory, 'exoplanet_index.faiss')
 # Load the FAISS index
 index = faiss.read_index(faiss_index_path)
 
-# Load the Sentence Transformer model (you'll still need the model to generate embeddings for queries)
+# Load the Sentence Transformer model
 model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
 
 # Construct the relative path to the Exoplanet.txt file
@@ -30,8 +30,6 @@ with open(exoplanet_file_path, 'r', encoding='utf-8') as file:
 
 # Extract the questions and answers from the text
 qa_pairs = {}
-
-# Define markers for questions and answers
 current_question = None
 current_answer = []
 
@@ -52,6 +50,13 @@ if current_question:
 # Prepare other document sections for FAISS
 documents = [doc.strip() for doc in qa_pairs.values() if doc.strip()]
 
+# Function to limit text to a maximum of n words
+def limit_response(text, max_words=200):
+    words = text.split()
+    if len(words) > max_words:
+        return ' '.join(words[:max_words]) + "..."
+    return text
+
 # Endpoint for querying the FAISS index or fetching exact match from the file
 @app.route('/search', methods=['POST'])
 def search():
@@ -62,12 +67,11 @@ def search():
     # Check if the query exactly matches a known question
     for question in qa_pairs:
         if query.lower() == question.lower():  # Case-insensitive comparison
-            return jsonify({"results": [qa_pairs[question]]})
+            response = qa_pairs[question]
+            return jsonify({"results": [limit_response(response)]})
     
     # If no exact match, proceed with FAISS search
     query_embedding = model.encode([query])
-
-    # Search the FAISS index for top results
     distances, indices = index.search(np.array(query_embedding), k=3)
 
     # Check if there are any valid indices returned from the FAISS search
@@ -77,7 +81,12 @@ def search():
     # Get the top documents if indices are valid
     top_documents = [documents[i] for i in indices[0] if i < len(documents)]
 
-    return jsonify({"results": top_documents})
+    # Limit the response to 200 words unless the user asked for more
+    response = " ".join(top_documents)
+    if "more" in query.lower() or "expand" in query.lower():  # Check for user requests for more info
+        return jsonify({"results": [response]})
+    else:
+        return jsonify({"results": [limit_response(response)]})
 
 if __name__ == '__main__':
     app.run(debug=True)

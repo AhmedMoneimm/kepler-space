@@ -1,0 +1,867 @@
+[
+    {
+        "question": "When was the James Webb Space Telescope (JWST) launched?",
+        "options": ["2021", "2010", "2015", "2020"],
+        "answer": "2021"
+    },
+    {
+        "question": "What is a significant feature of the JWST?",
+        "options": ["A sunshield the size of a tennis court", "It has a circular design", "It operates only in the visible spectrum", "It is the smallest space telescope ever"],
+        "answer": "A sunshield the size of a tennis court"
+    },
+    {
+        "question": "What is the diameter of JWST's primary mirror?",
+        "options": ["6.5 meters", "3 meters", "2.4 meters", "1.5 meters"],
+        "answer": "6.5 meters"
+    },
+    {
+        "question": "What spectrum does JWST primarily operate in?",
+        "options": ["Infrared", "Ultraviolet", "Visible", "Radio"],
+        "answer": "Infrared"
+    },
+    {
+        "question": "What is JWST designed to study?",
+        "options": [
+            "The early history of the universe",
+            "Only planets in our solar system",
+            "The weather on Earth",
+            "Black holes"
+        ],
+        "answer": "The early history of the universe"
+    },
+    {
+        "question": "What does JWST aim to provide detailed analyses of?",
+        "options": ["Exoplanet atmospheres", "Stars only", "Dark matter", "Galaxies only"],
+        "answer": "Exoplanet atmospheres"
+    },
+    {
+        "question": "How long is JWST expected to be the leading space observatory?",
+        "options": ["For the next decade", "For the next 5 years", "For the next 20 years", "For the next 2 years"],
+        "answer": "For the next decade"
+    },
+    {
+        "question": "Which missions' discoveries will JWST build upon?",
+        "options": ["Hubble and Kepler", "Voyager and Pioneer", "Mars Rovers", "New Horizons"],
+        "answer": "Hubble and Kepler"
+    },
+    {
+        "question": "What will scientists study with JWST's advanced technology?",
+        "options": [
+            "The chemical compositions of distant planet atmospheres",
+            "The color of stars",
+            "The age of our solar system",
+            "The movement of galaxies"
+        ],
+        "answer": "The chemical compositions of distant planet atmospheres"
+    },
+    {
+        "question": "What is JWST searching for in exoplanet atmospheres?",
+        "options": [
+            "Signs of life",
+            "Planets similar to Earth",
+            "More galaxies",
+            "New stars"
+        ],
+        "answer": "Signs of life"
+    },
+    {
+        "question": "What types of observatories does NASA partner with in exoplanet studies?",
+        "options": ["Ground-based observatories", "Only space telescopes", "Radio telescopes only", "Amateur telescopes"],
+        "answer": "Ground-based observatories"
+    },
+    {
+        "question": "Which ground-based telescopes are mentioned as partners in exoplanet discovery?",
+        "options": ["Magellan II, NEID, and Keck", "Hubble, Chandra, and Spitzer", "VLT, ALMA, and Arecibo", "SOFIA and TESS"],
+        "answer": "Magellan II, NEID, and Keck"
+    },
+    {
+        "question": "What do ground-based telescopes help confirm in exoplanet discovery?",
+        "options": [
+            "Mass, composition, and characteristics of planets",
+            "The color of exoplanets",
+            "The distance to stars",
+            "The speed of light"
+        ],
+        "answer": "Mass, composition, and characteristics of planets"
+    },
+    {
+        "question": "What will collaboration between JWST and ground-based observatories help scientists understand?",
+        "options": [
+            "Exoplanets and their potential for supporting life",
+            "The structure of the Milky Way",
+            "The formation of black holes",
+            "How to travel faster than light"
+        ],
+        "answer": "Exoplanets and their potential for supporting life"
+    },
+    {
+        "question": "What is a major goal of JWST in relation to exoplanets?",
+        "options": [
+            "To study the atmospheres of distant planets",
+            "To map the surface of Mars",
+            "To travel to other galaxies",
+            "To photograph every star"
+        ],
+        "answer": "To study the atmospheres of distant planets"
+    },
+    {
+        "question": "Which telescope operates primarily in the infrared spectrum?",
+        "options": ["James Webb Space Telescope", "Hubble Space Telescope", "Kepler Space Telescope", "Chandra X-ray Observatory"],
+        "answer": "James Webb Space Telescope"
+    },
+    {
+        "question": "What aspect of exoplanets will JWST analyze?",
+        "options": ["Their chemical compositions", "Their colors", "Their distances from Earth", "Their orbits"],
+        "answer": "Their chemical compositions"
+    },
+    {
+        "question": "Which mission precedes JWST in studying exoplanets?",
+        "options": [
+            "Kepler Space Telescope",
+            "Voyager",
+            "Mars Rovers",
+            "Hubble Space Telescope"
+        ],
+        "answer": "Kepler Space Telescope"
+    },
+    {
+        "question": "What is the significance of JWST’s large mirror?",
+        "options": [
+            "It allows for more light collection and better resolution",
+            "It is smaller than Hubble's mirror",
+            "It can only observe in the visible spectrum",
+            "It is made of plastic"
+        ],
+        "answer": "It allows for more light collection and better resolution"
+    },
+    {
+        "question": "What will JWST primarily contribute to our understanding of the universe?",
+        "options": [
+            "Knowledge about exoplanet atmospheres",
+            "Only data about stars",
+            "Maps of the solar system",
+            "Weather predictions for Earth"
+        ],
+        "answer": "Knowledge about exoplanet atmospheres"
+    },
+    {
+        "question": "What kind of data will JWST provide that is essential for finding life?",
+        "options": [
+            "Information about the atmospheres of distant planets",
+            "Measurements of star brightness",
+            "Distances to other galaxies",
+            "Information about black holes"
+        ],
+        "answer": "Information about the atmospheres of distant planets"
+    },
+    {
+        "question": "What is the overall mission of JWST?",
+        "options": [
+            "To explore the formation of stars and planets",
+            "To travel to Mars",
+            "To study the weather on Earth",
+            "To communicate with extraterrestrial life"
+        ],
+        "answer": "To explore the formation of stars and planets"
+    },
+    {
+        "question": "What technological advancement does JWST represent?",
+        "options": [
+            "A significant leap in observational capabilities",
+            "The first robotic telescope",
+            "A telescope that can travel to exoplanets",
+            "A satellite that monitors Earth's weather"
+        ],
+        "answer": "A significant leap in observational capabilities"
+    },
+    {
+        "question": "What will be one of the main focuses of JWST's research?",
+        "options": [
+            "The search for potentially habitable exoplanets",
+            "The formation of our solar system",
+            "The color of stars",
+            "The size of black holes"
+        ],
+        "answer": "The search for potentially habitable exoplanets"
+    },
+    {
+        "question": "Which observatory will help confirm findings from JWST?",
+        "options": [
+            "Ground-based observatories",
+            "Other space telescopes",
+            "Satellite-based observatories",
+            "Amateur astronomers"
+        ],
+        "answer": "Ground-based observatories"
+    },
+    {
+        "question": "What type of radiation does JWST primarily observe?",
+        "options": [
+            "Infrared radiation",
+            "Visible light only",
+            "Gamma radiation",
+            "X-ray radiation"
+        ],
+        "answer": "Infrared radiation"
+    },
+    {
+        "question": "Which of the following is NOT a space telescope?",
+        "options": [
+            "Magellan II",
+            "Hubble Space Telescope",
+            "James Webb Space Telescope",
+            "Kepler Space Telescope"
+        ],
+        "answer": "Magellan II"
+    },
+    {
+        "question": "How will JWST help in the search for life beyond Earth?",
+        "options": [
+            "By studying the atmospheres of exoplanets for biosignatures",
+            "By sending humans to Mars",
+            "By finding new galaxies",
+            "By mapping the solar system"
+        ],
+        "answer": "By studying the atmospheres of exoplanets for biosignatures"
+    },
+    {
+        "question": "What important task will JWST perform regarding planetary systems?",
+        "options": [
+            "Study their formation and evolution",
+            "Land on exoplanets",
+            "Travel to nearby stars",
+            "Map the orbits of all planets"
+        ],
+        "answer": "Study their formation and evolution"
+    },
+    {
+        "question": "What is one of the greatest contributions of JWST to astronomy?",
+        "options": [
+            "Its ability to provide new insights into exoplanet science",
+            "It will replace Hubble completely",
+            "It is cheaper than previous telescopes",
+            "It will discover black holes"
+        ],
+        "answer": "Its ability to provide new insights into exoplanet science"
+    },
+    {
+        "question": "What type of planets will JWST investigate for habitability?",
+        "options": [
+            "Rocky and gas planets",
+            "Only gas giants",
+            "Only ice giants",
+            "All planets"
+        ],
+        "answer": "Rocky and gas planets"
+    },
+    {
+        "question": "What is one of the technological features of JWST?",
+        "options": [
+            "A large segmented mirror",
+            "A small fixed mirror",
+            "A laser-based targeting system",
+            "An ion propulsion system"
+        ],
+        "answer": "A large segmented mirror"
+    },
+    {
+        "question": "What type of light can JWST detect that is important for exoplanet studies?",
+        "options": [
+            "Infrared light",
+            "Visible light only",
+            "X-ray light",
+            "Gamma ray light"
+        ],
+        "answer": "Infrared light"
+    },
+    {
+        "question": "What will be a key aspect of JWST's mission related to exoplanets?",
+        "options": [
+            "To characterize the atmospheres of potentially habitable exoplanets",
+            "To send rovers to Mars",
+            "To study the surface of the Moon",
+            "To find new stars"
+        ],
+        "answer": "To characterize the atmospheres of potentially habitable exoplanets"
+    },
+    {
+        "question": "Which telescope has paved the way for JWST by discovering many exoplanets?",
+        "options": [
+            "Kepler Space Telescope",
+            "Chandra X-ray Observatory",
+            "Hubble Space Telescope",
+            "TESS"
+        ],
+        "answer": "Kepler Space Telescope"
+    },
+    {
+        "question": "What is a major advantage of using JWST in exoplanet research?",
+        "options": [
+            "It can observe infrared light from distant planets",
+            "It is located on Earth",
+            "It can only study nearby planets",
+            "It has no competitors"
+        ],
+        "answer": "It can observe infrared light from distant planets"
+    },
+    {
+        "question": "What will JWST provide for scientists studying exoplanets?",
+        "options": [
+            "Detailed spectral data of their atmospheres",
+            "Pictures of Earth-like planets only",
+            "No data, only images",
+            "Only infrared images"
+        ],
+        "answer": "Detailed spectral data of their atmospheres"
+    },
+    {
+        "question": "What will JWST help to analyze in the atmospheres of exoplanets?",
+        "options": [
+            "The presence of water vapor and other important molecules",
+            "The color of stars",
+            "The size of galaxies",
+            "The temperature of the universe"
+        ],
+        "answer": "The presence of water vapor and other important molecules"
+    },
+    {
+        "question": "Which space agency is responsible for launching JWST?",
+        "options": [
+            "NASA",
+            "ESA",
+            "Roscosmos",
+            "ISRO"
+        ],
+        "answer": "NASA"
+    },
+    {
+        "question": "What kind of light is essential for finding potential biosignatures on exoplanets?",
+        "options": [
+            "Infrared light",
+            "Only ultraviolet light",
+            "Only visible light",
+            "Gamma rays"
+        ],
+        "answer": "Infrared light"
+    },
+    {
+        "question": "What distinguishes JWST from previous space telescopes?",
+        "options": [
+            "Its ability to study exoplanet atmospheres in detail",
+            "It is smaller than Hubble",
+            "It was launched earlier than other telescopes",
+            "It has no scientific mission"
+        ],
+        "answer": "Its ability to study exoplanet atmospheres in detail"
+    },
+    {
+        "question": "What is the primary goal of the JWST?",
+        "options": [
+            "To discover new stars and planets",
+            "To study the early universe and the formation of galaxies",
+            "To map all the planets in our solar system",
+            "To replace the Hubble Space Telescope"
+        ],
+        "answer": "To study the early universe and the formation of galaxies"
+    },
+    {
+        "question": "How does JWST compare to ground-based telescopes?",
+        "options": [
+            "It can observe without atmospheric interference",
+            "It is cheaper to build",
+            "It can only work at night",
+            "It is smaller"
+        ],
+        "answer": "It can observe without atmospheric interference"
+    },
+    {
+        "question": "What aspect of exoplanets will JWST investigate?",
+        "options": [
+            "Their atmospheres and potential for habitability",
+            "Their physical appearance",
+            "Their gravitational pull",
+            "Their rotation speed"
+        ],
+        "answer": "Their atmospheres and potential for habitability"
+    },
+    {
+        "question": "What will JWST's advanced capabilities allow scientists to do?",
+        "options": [
+            "Study the chemical signatures of distant worlds",
+            "Only take images of stars",
+            "Calculate the distances of stars",
+            "Observe the surface of planets"
+        ],
+        "answer": "Study the chemical signatures of distant worlds"
+    },
+    {
+        "question": "What did Hubble’s discoveries help pave the way for?",
+        "options": [
+            "The development of JWST",
+            "Mars missions",
+            "The launch of TESS",
+            "The mapping of the Moon"
+        ],
+        "answer": "The development of JWST"
+    },
+    {
+        "question": "Which feature of JWST helps protect it from the Sun's heat?",
+        "options": [
+            "Its sunshield",
+            "Its large mirror",
+            "Its cameras",
+            "Its ability to move"
+        ],
+        "answer": "Its sunshield"
+    },
+    {
+        "question": "What will JWST's observations contribute to our understanding of?",
+        "options": [
+            "The history of the universe and exoplanet formation",
+            "The speed of light",
+            "The location of black holes",
+            "The nature of dark matter"
+        ],
+        "answer": "The history of the universe and exoplanet formation"
+    },
+    {
+        "question": "What is one of the significant goals of JWST in relation to life?",
+        "options": [
+            "To search for signs of life on exoplanets",
+            "To create new planets",
+            "To colonize other worlds",
+            "To explore asteroids"
+        ],
+        "answer": "To search for signs of life on exoplanets"
+    },
+    {
+        "question": "How is JWST's large mirror constructed?",
+        "options": [
+            "It is made of 18 hexagonal segments",
+            "It is a single piece of glass",
+            "It is made of plastic",
+            "It is smaller than Hubble's mirror"
+        ],
+        "answer": "It is made of 18 hexagonal segments"
+    },
+    {
+        "question": "Which type of exoplanets will JWST primarily focus on?",
+        "options": [
+            "Potentially habitable rocky planets",
+            "Gas giants only",
+            "Dwarf planets",
+            "Planets in our solar system"
+        ],
+        "answer": "Potentially habitable rocky planets"
+    },
+    {
+        "question": "What technological advancement does JWST utilize?",
+        "options": [
+            "Advanced spectrographs",
+            "Older imaging technology",
+            "Basic optical lenses",
+            "Human operators"
+        ],
+        "answer": "Advanced spectrographs"
+    },
+    {
+        "question": "How does JWST help in the detection of exoplanets?",
+        "options": [
+            "By observing their transits across stars",
+            "By landing on them",
+            "By sending messages to them",
+            "By observing their shadows on Earth"
+        ],
+        "answer": "By observing their transits across stars"
+    },
+    {
+        "question": "What will the collaboration between JWST and ground-based telescopes lead to?",
+        "options": [
+            "More comprehensive understanding of exoplanets",
+            "Fewer discoveries of new stars",
+            "Less interest in space exploration",
+            "More focus on our solar system"
+        ],
+        "answer": "More comprehensive understanding of exoplanets"
+    },
+    {
+        "question": "What is one of JWST's major advantages over previous telescopes?",
+        "options": [
+            "Its ability to study planets in the infrared spectrum",
+            "Its smaller size",
+            "Its reliance on ground-based observations",
+            "Its limited operational time"
+        ],
+        "answer": "Its ability to study planets in the infrared spectrum"
+    },
+    {
+        "question": "What is the key goal of NASA's JWST mission?",
+        "options": [
+            "To explore the origins of galaxies, stars, and planetary systems",
+            "To find new galaxies",
+            "To monitor the weather on Earth",
+            "To create simulations of the universe"
+        ],
+        "answer": "To explore the origins of galaxies, stars, and planetary systems"
+    },
+    {
+        "question": "What type of planets can JWST's technology help to find?",
+        "options": [
+            "Both rocky and gaseous exoplanets",
+            "Only rocky planets",
+            "Only gas giants",
+            "Only dwarf planets"
+        ],
+        "answer": "Both rocky and gaseous exoplanets"
+    },
+    {
+        "question": "What is JWST primarily tasked with analyzing?",
+        "options": [
+            "The chemical composition of exoplanet atmospheres",
+            "The distance to other galaxies",
+            "The temperature of stars",
+            "The movement of asteroids"
+        ],
+        "answer": "The chemical composition of exoplanet atmospheres"
+    },
+    {
+        "question": "What breakthrough does JWST represent in terms of technology?",
+        "options": [
+            "Advanced observation capabilities for exoplanets",
+            "An increase in telescope size only",
+            "A decrease in data collection",
+            "A focus on ground-based observations"
+        ],
+        "answer": "Advanced observation capabilities for exoplanets"
+    },
+    {
+        "question": "How will JWST contribute to the study of planetary systems?",
+        "options": [
+            "By studying their atmospheres and potential for life",
+            "By landing on each planet",
+            "By mapping their surfaces only",
+            "By counting the planets in each system"
+        ],
+        "answer": "By studying their atmospheres and potential for life"
+    },
+    {
+        "question": "What advantage does JWST have over ground-based observatories?",
+        "options": [
+            "It avoids atmospheric interference",
+            "It is smaller",
+            "It is cheaper to operate",
+            "It can only study nearby planets"
+        ],
+        "answer": "It avoids atmospheric interference"
+    },
+    {
+        "question": "What will JWST help determine about exoplanets?",
+        "options": [
+            "Their potential habitability and atmospheric conditions",
+            "Their physical appearances",
+            "Their sizes only",
+            "Their distances from Earth"
+        ],
+        "answer": "Their potential habitability and atmospheric conditions"
+    },
+    {
+        "question": "How does the JWST differ from the Hubble Space Telescope?",
+        "options": [
+            "JWST focuses on infrared observations, while Hubble focuses on visible light",
+            "They are identical in function",
+            "Hubble is larger than JWST",
+            "JWST cannot be upgraded"
+        ],
+        "answer": "JWST focuses on infrared observations, while Hubble focuses on visible light"
+    },
+    {
+        "question": "What kind of discoveries is JWST expected to make in exoplanet research?",
+        "options": [
+            "Significant discoveries related to life potential on other worlds",
+            "Only data about stars",
+            "Only information about black holes",
+            "No discoveries expected"
+        ],
+        "answer": "Significant discoveries related to life potential on other worlds"
+    },
+    {
+        "question": "What scientific area will benefit greatly from JWST's capabilities?",
+        "options": [
+            "Astrobiology and planetary science",
+            "Meteorology",
+            "Oceanography",
+            "Geology"
+        ],
+        "answer": "Astrobiology and planetary science"
+    },
+    {
+        "question": "What observation technique is primarily used by JWST?",
+        "options": [
+            "Spectroscopy",
+            "Microscopy",
+            "Radiography",
+            "Thermography"
+        ],
+        "answer": "Spectroscopy"
+    },
+    {
+        "question": "What will JWST reveal about distant exoplanets?",
+        "options": [
+            "The conditions necessary for life to exist",
+            "The exact temperatures of every planet",
+            "The physical landscape of planets",
+            "The number of moons around each planet"
+        ],
+        "answer": "The conditions necessary for life to exist"
+    },
+    {
+        "question": "How will JWST impact our understanding of the universe?",
+        "options": [
+            "By answering fundamental questions about planetary systems and life",
+            "By measuring distances only",
+            "By creating simulations of the universe",
+            "By limiting observations to our solar system"
+        ],
+        "answer": "By answering fundamental questions about planetary systems and life"
+    },
+    {
+        "question": "What distinguishes JWST from its predecessors?",
+        "options": [
+            "Its ability to operate in infrared wavelengths",
+            "It is smaller in size",
+            "It has fewer capabilities",
+            "It cannot study exoplanets"
+        ],
+        "answer": "Its ability to operate in infrared wavelengths"
+    },
+    {
+        "question": "What innovative feature does JWST utilize for observation?",
+        "options": [
+            "A large segmented mirror",
+            "A single large lens",
+            "A rotating mirror",
+            "A crystal-based lens"
+        ],
+        "answer": "A large segmented mirror"
+    },
+    {
+        "question": "What type of planets will JWST likely focus on for signs of life?",
+        "options": [
+            "Rocky planets within the habitable zone",
+            "Gas giants",
+            "Ice planets",
+            "All planets"
+        ],
+        "answer": "Rocky planets within the habitable zone"
+    },
+    {
+        "question": "What role does spectroscopy play in JWST's mission?",
+        "options": [
+            "Analyzing the chemical composition of exoplanet atmospheres",
+            "Photographing stars",
+            "Mapping galaxies",
+            "Finding the distance to planets"
+        ],
+        "answer": "Analyzing the chemical composition of exoplanet atmospheres"
+    },
+    {
+        "question": "Which of the following will JWST help study?",
+        "options": [
+            "The atmospheres of exoplanets for biosignatures",
+            "The surface features of Jupiter",
+            "The moons of Saturn",
+            "The inner structure of Earth"
+        ],
+        "answer": "The atmospheres of exoplanets for biosignatures"
+    },
+    {
+        "question": "What is one of the primary objectives of JWST?",
+        "options": [
+            "To understand the formation of stars and planets",
+            "To measure the temperature of black holes",
+            "To study Earth's weather patterns",
+            "To observe the Moon"
+        ],
+        "answer": "To understand the formation of stars and planets"
+    },
+    {
+        "question": "How has JWST changed the game for astrophysics?",
+        "options": [
+            "By offering unprecedented insights into the formation of planetary systems",
+            "By measuring the distance to the nearest star",
+            "By mapping the ocean currents on Earth",
+            "By building new space stations"
+        ],
+        "answer": "By offering unprecedented insights into the formation of planetary systems"
+    },
+    {
+        "question": "What will JWST help identify in the search for life?",
+        "options": [
+            "Potential biosignatures in exoplanet atmospheres",
+            "Only the size of planets",
+            "The distance of stars",
+            "The speed of light"
+        ],
+        "answer": "Potential biosignatures in exoplanet atmospheres"
+    },
+    {
+        "question": "Which telescope is designed to complement JWST's findings?",
+        "options": [
+            "Hubble Space Telescope",
+            "Kepler Space Telescope",
+            "Spitzer Space Telescope",
+            "TESS"
+        ],
+        "answer": "Hubble Space Telescope"
+    },
+    {
+        "question": "What makes JWST a vital tool for future discoveries?",
+        "options": [
+            "Its ability to study a wide range of wavelengths",
+            "Its small size",
+            "Its limited operational time",
+            "Its focus on our solar system only"
+        ],
+        "answer": "Its ability to study a wide range of wavelengths"
+    },
+    {
+        "question": "What will JWST potentially help discover in the coming years?",
+        "options": [
+            "New exoplanets and their atmospheres",
+            "New galaxies only",
+            "More asteroids",
+            "Nothing new"
+        ],
+        "answer": "New exoplanets and their atmospheres"
+    },
+    {
+        "question": "What is one of JWST's main advantages over other telescopes?",
+        "options": [
+            "Its advanced instruments for observing exoplanets",
+            "Its smaller size",
+            "Its reliance on ground-based support",
+            "Its older technology"
+        ],
+        "answer": "Its advanced instruments for observing exoplanets"
+    },
+    {
+        "question": "What aspect of planetary science will JWST improve?",
+        "options": [
+            "Understanding the chemical composition of exoplanets",
+            "Mapping the surface of the Moon",
+            "Finding new stars",
+            "Counting galaxies"
+        ],
+        "answer": "Understanding the chemical composition of exoplanets"
+    },
+    {
+        "question": "How will JWST aid in our understanding of the early universe?",
+        "options": [
+            "By studying the first galaxies and stars formed",
+            "By measuring distances to black holes",
+            "By mapping the solar system",
+            "By photographing every planet"
+        ],
+        "answer": "By studying the first galaxies and stars formed"
+    },
+    {
+        "question": "What type of data is JWST expected to collect about exoplanets?",
+        "options": [
+            "Spectral data revealing their atmospheres",
+            "Physical images only",
+            "Heat measurements only",
+            "Distance measurements"
+        ],
+        "answer": "Spectral data revealing their atmospheres"
+    },
+    {
+        "question": "What kind of discoveries is JWST anticipated to make in exoplanet science?",
+        "options": [
+            "Revealing potential habitability",
+            "Discovering new galaxies",
+            "Creating new star systems",
+            "Counting the number of moons"
+        ],
+        "answer": "Revealing potential habitability"
+    },
+    {
+        "question": "How does JWST contribute to the study of distant worlds?",
+        "options": [
+            "By analyzing their atmospheres for gases indicative of life",
+            "By only imaging their surfaces",
+            "By mapping their orbits",
+            "By sending rovers to them"
+        ],
+        "answer": "By analyzing their atmospheres for gases indicative of life"
+    },
+    {
+        "question": "What is one of the long-term goals of JWST?",
+        "options": [
+            "To understand the evolution of planetary systems",
+            "To create new planets",
+            "To find black holes",
+            "To send humans to Mars"
+        ],
+        "answer": "To understand the evolution of planetary systems"
+    },
+    {
+        "question": "Which element will JWST search for in exoplanet atmospheres?",
+        "options": [
+            "Water vapor",
+            "Helium",
+            "Iron",
+            "Gold"
+        ],
+        "answer": "Water vapor"
+    },
+    {
+        "question": "What role does JWST play in the search for habitable worlds?",
+        "options": [
+            "It identifies potentially habitable conditions on distant planets",
+            "It is focused solely on studying our solar system",
+            "It only captures images of distant galaxies",
+            "It only measures star brightness"
+        ],
+        "answer": "It identifies potentially habitable conditions on distant planets"
+    },
+    {
+        "question": "How will JWST help advance our understanding of exoplanets?",
+        "options": [
+            "By providing new data and insights from its observations",
+            "By measuring the temperature of the Sun",
+            "By counting the stars in the sky",
+            "By creating maps of all planets"
+        ],
+        "answer": "By providing new data and insights from its observations"
+    },
+    {
+        "question": "What is one of the most important tasks for JWST?",
+        "options": [
+            "Characterizing the atmospheres of distant exoplanets",
+            "Mapping our solar system",
+            "Finding new asteroids",
+            "Measuring distances between stars"
+        ],
+        "answer": "Characterizing the atmospheres of distant exoplanets"
+    },
+    {
+        "question": "What type of scientific research will JWST promote?",
+        "options": [
+            "Astrophysics and planetary science",
+            "Meteorology",
+            "Geology",
+            "History"
+        ],
+        "answer": "Astrophysics and planetary science"
+    },
+    {
+        "question": "What makes JWST unique in its observational capabilities?",
+        "options": [
+            "Its advanced infrared technology",
+            "Its smaller size",
+            "Its only visible light observations",
+            "Its limited range"
+        ],
+        "answer": "Its advanced infrared technology"
+    }
+]

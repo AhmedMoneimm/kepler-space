@@ -1,0 +1,667 @@
+[
+    {
+        "question": "When was the Transiting Exoplanet Survey Satellite (TESS) launched?",
+        "options": ["2018", "2016", "2020", "2015"],
+        "answer": "2018"
+    },
+    {
+        "question": "What mission did TESS build upon?",
+        "options": ["Kepler", "Hubble", "JWST", "Voyager"],
+        "answer": "Kepler"
+    },
+    {
+        "question": "What strategy does TESS employ for its observations?",
+        "options": ["All-sky survey", "Targeted observations", "Solar system exploration", "Radio wave detection"],
+        "answer": "All-sky survey"
+    },
+    {
+        "question": "What percentage of the sky does TESS aim to observe?",
+        "options": ["85%", "50%", "100%", "75%"],
+        "answer": "85%"
+    },
+    {
+        "question": "What method does TESS use to detect exoplanets?",
+        "options": ["Transit method", "Radial velocity method", "Direct imaging", "Gravitational lensing"],
+        "answer": "Transit method"
+    },
+    {
+        "question": "What causes the dips in starlight that TESS measures?",
+        "options": ["Planets passing in front of their host stars", "Stars dimming", "Supernova explosions", "Comet tails"],
+        "answer": "Planets passing in front of their host stars"
+    },
+    {
+        "question": "What distance from Earth do most stars observed by TESS fall within?",
+        "options": ["About 200 light-years", "500 light-years", "1,000 light-years", "10 light-years"],
+        "answer": "About 200 light-years"
+    },
+    {
+        "question": "How much brighter are the stars TESS targets compared to those observed by Kepler?",
+        "options": ["30 to 100 times brighter", "10 times brighter", "50 times brighter", "Only slightly brighter"],
+        "answer": "30 to 100 times brighter"
+    },
+    {
+        "question": "What is one advantage of targeting brighter stars?",
+        "options": ["Improved follow-up study effectiveness", "Less interference from noise", "Easier launch conditions", "Lower costs"],
+        "answer": "Improved follow-up study effectiveness"
+    },
+    {
+        "question": "What type of planets is TESS expected to discover?",
+        "options": ["A range from small rocky worlds to gas giants", "Only gas giants", "Only rocky planets", "Dwarf planets only"],
+        "answer": "A range from small rocky worlds to gas giants"
+    },
+    {
+        "question": "What does TESS's broader survey methodology allow scientists to study?",
+        "options": ["A variety of stellar environments", "Only solar-type stars", "Only binary stars", "Only large galaxies"],
+        "answer": "A variety of stellar environments"
+    },
+    {
+        "question": "How does TESS contribute to future missions like JWST?",
+        "options": ["By identifying planets for further study", "By studying black holes", "By focusing on the solar system", "By only observing stars"],
+        "answer": "By identifying planets for further study"
+    },
+    {
+        "question": "What is the primary goal of JWST?",
+        "options": ["To explore the atmospheres of planets discovered by TESS", "To map the Milky Way", "To study the solar system", "To monitor asteroids"],
+        "answer": "To explore the atmospheres of planets discovered by TESS"
+    },
+    {
+        "question": "What major advancement does TESS represent in exoplanet research?",
+        "options": ["A transformative leap in discovery", "Just a continuation of previous missions", "A focus solely on the solar system", "No significant advancement"],
+        "answer": "A transformative leap in discovery"
+    },
+    {
+        "question": "What is the significance of the transit method used by TESS?",
+        "options": ["It allows astronomers to infer the presence of exoplanets", "It directly images planets", "It measures star brightness only", "It focuses on the solar system"],
+        "answer": "It allows astronomers to infer the presence of exoplanets"
+    },
+    {
+        "question": "What is the primary light that TESS observes?",
+        "options": ["Infrared light", "Visible light", "Ultraviolet light", "X-rays"],
+        "answer": "Infrared light"
+    },
+    {
+        "question": "How does TESS differ from Kepler in its observational approach?",
+        "options": ["It conducts a comprehensive all-sky survey", "It focuses on specific areas only", "It uses different technology", "It observes only the solar system"],
+        "answer": "It conducts a comprehensive all-sky survey"
+    },
+    {
+        "question": "What type of exoplanets is TESS particularly focused on studying?",
+        "options": ["Nearby exoplanets", "Distant exoplanets", "Only gas giants", "Only rocky planets"],
+        "answer": "Nearby exoplanets"
+    },
+    {
+        "question": "What is the expected outcome of TESS's mission?",
+        "options": ["To discover thousands of exoplanets", "To only monitor stars", "To find no new planets", "To focus solely on our solar system"],
+        "answer": "To discover thousands of exoplanets"
+    },
+    {
+        "question": "What does TESS aim to achieve with its discoveries?",
+        "options": ["To provide a diverse sample for study", "To find only rocky planets", "To focus on distant galaxies", "To limit the search scope"],
+        "answer": "To provide a diverse sample for study"
+    },
+    {
+        "question": "What is one of the main contributions of TESS to astronomy?",
+        "options": ["Enhancing our understanding of planetary systems", "Mapping the surface of Mars", "Studying black holes", "Focusing solely on solar systems"],
+        "answer": "Enhancing our understanding of planetary systems"
+    },
+    {
+        "question": "How does TESS facilitate follow-up studies?",
+        "options": ["By targeting bright stars", "By limiting its observations", "By focusing on dim stars", "By using only ground-based telescopes"],
+        "answer": "By targeting bright stars"
+    },
+    {
+        "question": "What is TESS's strategy for discovering exoplanets?",
+        "options": ["Conducting a wide-ranging all-sky survey", "Only focusing on the solar system", "Studying gas giants only", "Limiting the scope to nearby stars"],
+        "answer": "Conducting a wide-ranging all-sky survey"
+    },
+    {
+        "question": "What does the term 'habitable zone' refer to?",
+        "options": ["The region around a star where conditions may be right for life", "A zone with no planets", "The area of a star's surface", "The distance between stars"],
+        "answer": "The region around a star where conditions may be right for life"
+    },
+    {
+        "question": "Which telescope will build upon the findings of TESS?",
+        "options": ["James Webb Space Telescope", "Hubble Space Telescope", "Kepler Space Telescope", "Chandra X-ray Observatory"],
+        "answer": "James Webb Space Telescope"
+    },
+    {
+        "question": "How does TESS help refine measurements of exoplanets?",
+        "options": ["By providing detailed data on masses and sizes", "By only focusing on brightness", "By limiting its observations to a few stars", "By not providing detailed data"],
+        "answer": "By providing detailed data on masses and sizes"
+    },
+    {
+        "question": "What major benefit does TESS's observational method offer?",
+        "options": ["It allows detection of a wide range of exoplanets", "It only targets gas giants", "It limits the study to rocky planets", "It is less effective than ground-based telescopes"],
+        "answer": "It allows detection of a wide range of exoplanets"
+    },
+    {
+        "question": "What type of scientific studies does TESS enhance?",
+        "options": ["Astrobiological studies", "Only studies of our solar system", "Black hole research", "Galactic surveys"],
+        "answer": "Astrobiological studies"
+    },
+    {
+        "question": "What is TESS's main advantage over ground-based telescopes?",
+        "options": ["It avoids atmospheric interference", "It costs less", "It is smaller", "It requires less power"],
+        "answer": "It avoids atmospheric interference"
+    },
+    {
+        "question": "What is the future goal of TESS discoveries?",
+        "options": ["To find potentially habitable worlds", "To explore black holes", "To study only gas giants", "To limit planetary research"],
+        "answer": "To find potentially habitable worlds"
+    },
+    {
+        "question": "Which star type is TESS most interested in observing?",
+        "options": ["Brighter nearby stars", "Distant quasars", "Supernova remnants", "Only our sun"],
+        "answer": "Brighter nearby stars"
+    },
+    {
+        "question": "What allows TESS to identify a variety of exoplanets?",
+        "options": ["Its comprehensive all-sky survey approach", "Its limited survey", "Its focus on only one star", "Its short observational period"],
+        "answer": "Its comprehensive all-sky survey approach"
+    },
+    {
+        "question": "What is one of TESS's goals regarding exoplanet types?",
+        "options": ["To discover a diverse range of exoplanets", "Only to study rocky planets", "To limit discoveries to gas giants", "To ignore exoplanet types"],
+        "answer": "To discover a diverse range of exoplanets"
+    },
+    {
+        "question": "What allows for improved follow-up studies of TESS's findings?",
+        "options": ["The brightness of the stars it targets", "The distance of stars", "The complexity of exoplanets", "The color of stars"],
+        "answer": "The brightness of the stars it targets"
+    },
+    {
+        "question": "What will TESS help future telescopes investigate?",
+        "options": ["Exoplanet atmospheres", "Only stars", "Only gas giants", "Only our solar system"],
+        "answer": "Exoplanet atmospheres"
+    },
+    {
+        "question": "What aspect of TESS is transformative for exoplanet research?",
+        "options": ["Its all-sky survey capabilities", "Its focus on solar systems", "Its reliance on ground telescopes", "Its limited data collection"],
+        "answer": "Its all-sky survey capabilities"
+    },
+    {
+        "question": "How does TESS's mission differ from Kepler's?",
+        "options": ["It covers a wider area of the sky", "It only focuses on small sections", "It has less advanced technology", "It studies only one hemisphere"],
+        "answer": "It covers a wider area of the sky"
+    },
+    {
+        "question": "What crucial data does TESS provide for assessing exoplanet habitability?",
+        "options": ["Masses, sizes, and atmospheres", "Only distances", "Only colors", "Only sizes"],
+        "answer": "Masses, sizes, and atmospheres"
+    },
+    {
+        "question": "What has TESS been instrumental in discovering?",
+        "options": ["Thousands of exoplanets", "Only a few stars", "Gas giants only", "The solar system"],
+        "answer": "Thousands of exoplanets"
+    },
+    {
+        "question": "What is the main purpose of the TESS mission?",
+        "options": ["To survey the sky for exoplanets", "To focus only on the solar system", "To study black holes", "To find dark matter"],
+        "answer": "To survey the sky for exoplanets"
+    },
+    {
+        "question": "What will the data from TESS allow scientists to do?",
+        "options": ["Refine our understanding of planetary systems", "Only study solar systems", "Limit research to gas giants", "Not provide any insights"],
+        "answer": "Refine our understanding of planetary systems"
+    },
+    {
+        "question": "What legacy is TESS expected to leave in astronomy?",
+        "options": ["An extensive catalog of exoplanets", "No legacy", "A focus on dark matter", "An outdated technology"],
+        "answer": "An extensive catalog of exoplanets"
+    },
+    {
+        "question": "What is a key technique TESS uses to infer exoplanet presence?",
+        "options": ["Detecting dips in starlight", "Direct imaging", "Studying star brightness only", "Spectroscopy"],
+        "answer": "Detecting dips in starlight"
+    },
+    {
+        "question": "What is TESS primarily focused on?",
+        "options": ["Nearby stars", "Distant galaxies", "Only black holes", "Solar system planets"],
+        "answer": "Nearby stars"
+    },
+    {
+        "question": "How does TESS enhance the ability to detect exoplanets?",
+        "options": ["By using advanced technology and methods", "By using outdated technology", "By focusing solely on gas giants", "By studying the solar system"],
+        "answer": "By using advanced technology and methods"
+    },
+    {
+        "question": "What is one of the anticipated results of TESS's mission?",
+        "options": ["The identification of habitable worlds", "Only studying distant stars", "Focusing on black holes", "Mapping the moon"],
+        "answer": "The identification of habitable worlds"
+    },
+    {
+        "question": "What discovery method does TESS rely on?",
+        "options": ["The transit method", "The radial velocity method", "Direct imaging", "Gravitational lensing"],
+        "answer": "The transit method"
+    },
+    {
+        "question": "What type of telescope is TESS classified as?",
+        "options": ["Space telescope", "Ground telescope", "Radio telescope", "X-ray telescope"],
+        "answer": "Space telescope"
+    },
+    {
+        "question": "What did TESS enhance in the field of exoplanet research?",
+        "options": ["The ability to discover and study exoplanets", "Only solar system studies", "Ground-based observations only", "Mapping of galaxies"],
+        "answer": "The ability to discover and study exoplanets"
+    },
+    {
+        "question": "What is one of TESS's significant scientific contributions?",
+        "options": ["The identification of new planetary systems", "Mapping the surface of Mars", "Finding dark matter", "Studying solar flares"],
+        "answer": "The identification of new planetary systems"
+    },
+    {
+        "question": "How will TESS aid future research?",
+        "options": ["By providing essential data for exoplanet characterization", "Only focusing on stars", "Mapping the moon's surface", "No future aid"],
+        "answer": "By providing essential data for exoplanet characterization"
+    },
+    {
+        "question": "What is a major goal of TESS's all-sky survey?",
+        "options": ["To identify a diverse range of exoplanets", "Only studying gas giants", "Limiting observations to a few stars", "Focusing on distant stars"],
+        "answer": "To identify a diverse range of exoplanets"
+    },
+    {
+        "question": "What does the all-sky survey approach allow TESS to do?",
+        "options": ["Cover more stars than Kepler", "Focus on one small area", "Only observe bright stars", "Ignore distant galaxies"],
+        "answer": "Cover more stars than Kepler"
+    },
+    {
+        "question": "What unique ability does TESS have compared to previous missions?",
+        "options": ["To observe nearly the entire sky", "Only observe nearby stars", "Focus solely on gas giants", "Limit its observations"],
+        "answer": "To observe nearly the entire sky"
+    },
+    {
+        "question": "How does TESS contribute to the study of exoplanet atmospheres?",
+        "options": ["By providing detailed data from bright nearby stars", "Only focusing on rocky planets", "Studying dark matter", "Only studying gas giants"],
+        "answer": "By providing detailed data from bright nearby stars"
+    },
+    {
+        "question": "What does TESS stand for?",
+        "options": ["Transiting Exoplanet Survey Satellite", "Telescope for Exoplanet Search System", "Translational Exoplanet Survey System", "Telescope for Enhanced Star Search"],
+        "answer": "Transiting Exoplanet Survey Satellite"
+    },
+    {
+        "question": "What groundbreaking discovery method does TESS utilize?",
+        "options": ["The transit method", "The radial velocity method", "Direct imaging", "Lunar observations"],
+        "answer": "The transit method"
+    },
+    {
+        "question": "What is the significance of TESS's observations of exoplanets?",
+        "options": ["They provide a foundation for future studies", "Only for black hole research", "Limited to our solar system", "No significant observations"],
+        "answer": "They provide a foundation for future studies"
+    },
+    {
+        "question": "How will TESS help in the search for habitable worlds?",
+        "options": ["By discovering potentially habitable exoplanets", "By focusing solely on gas giants", "Only studying distant stars", "No impact on habitability research"],
+        "answer": "By discovering potentially habitable exoplanets"
+    },
+    {
+        "question": "What major insight does TESS provide into exoplanet research?",
+        "options": ["Understanding the diversity of planetary systems", "Only mapping stars", "Focusing solely on gas giants", "No insights"],
+        "answer": "Understanding the diversity of planetary systems"
+    },
+    {
+        "question": "What type of planets is TESS particularly interested in?",
+        "options": ["Earth-sized and super-Earths", "Only gas giants", "Only rocky planets", "No specific interest"],
+        "answer": "Earth-sized and super-Earths"
+    },
+    {
+        "question": "How does TESS enhance the study of planetary systems?",
+        "options": ["By providing crucial data on exoplanet characteristics", "Only focusing on stars", "Limited observational capacity", "No data available"],
+        "answer": "By providing crucial data on exoplanet characteristics"
+    },
+    {
+        "question": "What critical technique does TESS use to detect exoplanets?",
+        "options": ["Monitoring starlight dips", "Directly imaging planets", "Studying infrared emissions", "Measuring star rotation"],
+        "answer": "Monitoring starlight dips"
+    },
+    {
+        "question": "What is a key objective of the TESS mission?",
+        "options": ["Finding new exoplanets", "Studying the solar system", "Mapping the Milky Way", "Researching black holes"],
+        "answer": "Finding new exoplanets"
+    },
+    {
+        "question": "What does TESS's approach to exoplanet discovery allow for?",
+        "options": ["Diverse planetary types and environments", "Only rocky planets", "Only gas giants", "No new discoveries"],
+        "answer": "Diverse planetary types and environments"
+    },
+    {
+        "question": "What was a significant limitation of ground-based telescopes that TESS overcame?",
+        "options": ["Atmospheric interference", "Limited data collection", "Cost issues", "Size constraints"],
+        "answer": "Atmospheric interference"
+    },
+    {
+        "question": "What aspect of TESS's design helps in observing faint planets?",
+        "options": ["Its focus on bright nearby stars", "Limited observational range", "High-cost technology", "Small size"],
+        "answer": "Its focus on bright nearby stars"
+    },
+    {
+        "question": "What did TESS help refine in the study of exoplanets?",
+        "options": ["Measurements of exoplanet sizes and masses", "Only distances to stars", "Mapping planets", "Studying only solar systems"],
+        "answer": "Measurements of exoplanet sizes and masses"
+    },
+    {
+        "question": "How many light-years from Earth do TESS typically target stars?",
+        "options": ["About 200 light-years", "500 light-years", "1,000 light-years", "100 light-years"],
+        "answer": "About 200 light-years"
+    },
+    {
+        "question": "What capability allows TESS to detect a broad range of exoplanets?",
+        "options": ["All-sky survey method", "Limited observational capacity", "Focusing on only one star", "Ground-based observations"],
+        "answer": "All-sky survey method"
+    },
+    {
+        "question": "What is a unique feature of TESS's mission compared to previous missions?",
+        "options": ["Comprehensive all-sky survey", "Limited area of focus", "Only studying bright stars", "No significant findings"],
+        "answer": "Comprehensive all-sky survey"
+    },
+    {
+        "question": "What essential data does TESS provide for understanding planetary systems?",
+        "options": ["Details about exoplanets and their environments", "Only distances", "Only sizes", "No relevant data"],
+        "answer": "Details about exoplanets and their environments"
+    },
+    {
+        "question": "What does TESS stand for?",
+        "options": ["Transiting Exoplanet Survey Satellite", "Telescope for Exoplanet Search System", "Translational Exoplanet Survey System", "Telescope for Enhanced Star Search"],
+        "answer": "Transiting Exoplanet Survey Satellite"
+    },
+    {
+        "question": "What is the primary purpose of TESS's all-sky survey?",
+        "options": ["To discover new exoplanets", "To study black holes", "To map the surface of Mars", "To explore the solar system"],
+        "answer": "To discover new exoplanets"
+    },
+    {
+        "question": "How has TESS changed the landscape of exoplanet research?",
+        "options": ["By enhancing the ability to find diverse exoplanets", "Only focusing on gas giants", "No significant changes", "Limiting the scope of studies"],
+        "answer": "By enhancing the ability to find diverse exoplanets"
+    },
+    {
+        "question": "What role does TESS play in the search for habitable worlds?",
+        "options": ["Identifying potentially habitable exoplanets", "Only focusing on distant stars", "Studying solar system planets only", "No role in habitability"],
+        "answer": "Identifying potentially habitable exoplanets"
+    },
+    {
+        "question": "What was a key aspect of the TESS mission design?",
+        "options": ["Its capability to monitor large areas of the sky", "Focusing solely on black holes", "Limited observational range", "Narrow field of view"],
+        "answer": "Its capability to monitor large areas of the sky"
+    },
+    {
+        "question": "What advantage does TESS's design provide in terms of discovering exoplanets?",
+        "options": ["It allows for the detection of planets in various stellar environments", "Only rocky planets", "Only gas giants", "Limited to our solar system"],
+        "answer": "It allows for the detection of planets in various stellar environments"
+    },
+    {
+        "question": "What does the term 'transit method' refer to in exoplanet discovery?",
+        "options": ["Observing dips in star brightness caused by planets", "Mapping planetary surfaces", "Measuring star temperature", "Studying planetary atmospheres"],
+        "answer": "Observing dips in star brightness caused by planets"
+    },
+    {
+        "question": "How does TESS's mission contribute to the understanding of exoplanet systems?",
+        "options": ["By identifying various types of exoplanets", "Only focusing on solar systems", "No contribution", "Studying only gas giants"],
+        "answer": "By identifying various types of exoplanets"
+    },
+    {
+        "question": "What is the main observation technique used by TESS?",
+        "options": ["Monitoring brightness dips of stars", "Direct imaging of planets", "Studying only solar systems", "Mapping asteroids"],
+        "answer": "Monitoring brightness dips of stars"
+    },
+    {
+        "question": "What does TESS's all-sky survey help uncover?",
+        "options": ["New exoplanets across various stellar environments", "Only gas giants", "No new findings", "Only solar system planets"],
+        "answer": "New exoplanets across various stellar environments"
+    },
+    {
+        "question": "What technological advancements does TESS utilize?",
+        "options": ["Advanced sensors for infrared observations", "Outdated technology", "Only visible light observations", "Limited sensors"],
+        "answer": "Advanced sensors for infrared observations"
+    },
+    {
+        "question": "What potential does TESS have for future astronomical discoveries?",
+        "options": ["To revolutionize our understanding of planetary systems", "No potential", "Only focusing on stars", "Limiting the search to our solar system"],
+        "answer": "To revolutionize our understanding of planetary systems"
+    },
+    {
+        "question": "What type of exoplanets can TESS help identify?",
+        "options": ["Earth-sized and super-Earths", "Only gas giants", "Only rocky planets", "No specific type"],
+        "answer": "Earth-sized and super-Earths"
+    },
+    {
+        "question": "What characteristic of TESS's targets enhances its effectiveness?",
+        "options": ["The brightness of nearby stars", "Distant stars", "Only gas giants", "Dim stars"],
+        "answer": "The brightness of nearby stars"
+    },
+    {
+        "question": "What is one outcome scientists hope to achieve from TESS's data?",
+        "options": ["Better understanding of exoplanet habitability", "Only studying stars", "Mapping the surface of Mars", "Finding black holes"],
+        "answer": "Better understanding of exoplanet habitability"
+    },
+    {
+        "question": "How does TESS's survey approach differ from traditional methods?",
+        "options": ["It provides a wider field of view", "Only focuses on one star", "Does not utilize advanced technology", "Only observes black holes"],
+        "answer": "It provides a wider field of view"
+    },
+    {
+        "question": "What discovery technique does TESS primarily rely on?",
+        "options": ["The transit method", "Direct imaging", "Radial velocity method", "Only visual observations"],
+        "answer": "The transit method"
+    },
+    {
+        "question": "What is the role of TESS in the search for life beyond Earth?",
+        "options": ["Identifying potentially habitable worlds", "Only studying gas giants", "Limiting the search", "Focusing solely on solar systems"],
+        "answer": "Identifying potentially habitable worlds"
+    },
+    {
+        "question": "What type of stars does TESS focus on for its observations?",
+        "options": ["Brighter nearby stars", "Distant quasars", "Only dim stars", "Only solar-type stars"],
+        "answer": "Brighter nearby stars"
+    },
+    {
+        "question": "How does TESS assist in characterizing exoplanets?",
+        "options": ["By refining measurements of their sizes and atmospheres", "Only studying the solar system", "Focusing solely on gas giants", "No contributions"],
+        "answer": "By refining measurements of their sizes and atmospheres"
+    },
+    {
+        "question": "What is the significance of the transit method used by TESS?",
+        "options": ["It allows for the detection of distant planets", "Only focusing on black holes", "Studying only our solar system", "Limiting the search to a few stars"],
+        "answer": "It allows for the detection of distant planets"
+    },
+    {
+        "question": "What was a major goal of the TESS mission?",
+        "options": ["To find Earth-sized exoplanets", "Only studying stars", "Mapping the Milky Way", "Researching dark matter"],
+        "answer": "To find Earth-sized exoplanets"
+    },
+    {
+        "question": "How does TESS enhance the search for potentially habitable exoplanets?",
+        "options": ["By identifying candidates in habitable zones", "Only focusing on gas giants", "Studying black holes", "Limiting research"],
+        "answer": "By identifying candidates in habitable zones"
+    },
+    {
+        "question": "What does TESS's data help improve in the field of astronomy?",
+        "options": ["Understanding of planetary systems", "Only studying stars", "Focusing on the solar system", "No improvements"],
+        "answer": "Understanding of planetary systems"
+    },
+    {
+        "question": "What technique allows TESS to monitor thousands of stars?",
+        "options": ["Its all-sky survey method", "Direct imaging", "Radial velocity method", "Only visual observations"],
+        "answer": "Its all-sky survey method"
+    },
+    {
+        "question": "What is a key feature of TESS's observational capabilities?",
+        "options": ["A wide field of view", "Only observing bright stars", "Limiting the search to one star", "No significant features"],
+        "answer": "A wide field of view"
+    },
+    {
+        "question": "How has TESS changed the landscape of exoplanet discovery?",
+        "options": ["By discovering thousands of new exoplanets", "Only studying the solar system", "Focusing on black holes", "Limiting the search"],
+        "answer": "By discovering thousands of new exoplanets"
+    },
+    {
+        "question": "What will the data collected by TESS enable scientists to do?",
+        "options": ["Characterize exoplanets in detail", "Only map stars", "Limit research to solar systems", "Focus only on gas giants"],
+        "answer": "Characterize exoplanets in detail"
+    },
+    {
+        "question": "What kind of exoplanets is TESS expected to discover?",
+        "options": ["A diverse range, including Earth-sized and gas giants", "Only gas giants", "Only rocky planets", "No specific type"],
+        "answer": "A diverse range, including Earth-sized and gas giants"
+    },
+    {
+        "question": "What is one of TESS's significant advantages over Kepler?",
+        "options": ["Its ability to conduct an all-sky survey", "Only focusing on specific areas", "Using outdated technology", "Limiting the search to a few stars"],
+        "answer": "Its ability to conduct an all-sky survey"
+    },
+    {
+        "question": "What does TESS help provide insight into regarding exoplanets?",
+        "options": ["Their composition and habitability", "Only the distances to stars", "Studying black holes", "No insights"],
+        "answer": "Their composition and habitability"
+    },
+    {
+        "question": "What is TESS's focus when targeting stars?",
+        "options": ["On stars within about 200 light-years", "Only distant stars", "Only gas giants", "Studying the solar system"],
+        "answer": "On stars within about 200 light-years"
+    },
+    {
+        "question": "What does the term 'habitable zone' refer to?",
+        "options": ["The area around a star where conditions may be right for life", "Only rocky planets", "Only gas giants", "No specific area"],
+        "answer": "The area around a star where conditions may be right for life"
+    },
+    {
+        "question": "What does TESS aim to identify in its observations?",
+        "options": ["Potentially habitable exoplanets", "Only distant stars", "Only rocky planets", "Limiting the search"],
+        "answer": "Potentially habitable exoplanets"
+    },
+    {
+        "question": "How does TESS enhance the search for life beyond Earth?",
+        "options": ["By identifying planets in habitable zones", "Only focusing on gas giants", "Studying black holes", "Limiting research"],
+        "answer": "By identifying planets in habitable zones"
+    },
+    {
+        "question": "What aspect of TESS helps in characterizing exoplanets?",
+        "options": ["Detailed data on their masses and sizes", "Only distances", "Only colors", "No relevant data"],
+        "answer": "Detailed data on their masses and sizes"
+    },
+    {
+        "question": "What is one significant aspect of TESS's observational strategy?",
+        "options": ["The comprehensive all-sky survey", "Limiting observations", "Only focusing on solar systems", "No specific strategy"],
+        "answer": "The comprehensive all-sky survey"
+    },
+    {
+        "question": "What does TESS's data contribute to future research?",
+        "options": ["Insights into exoplanet atmospheres", "Only studying black holes", "Focusing solely on gas giants", "No contributions"],
+        "answer": "Insights into exoplanet atmospheres"
+    },
+    {
+        "question": "How will TESS help refine our understanding of planetary systems?",
+        "options": ["By discovering a variety of exoplanets", "Only focusing on gas giants", "Studying the solar system", "No refinements"],
+        "answer": "By discovering a variety of exoplanets"
+    },
+    {
+        "question": "What does the term 'exoplanet' refer to?",
+        "options": ["A planet outside our solar system", "A moon of Earth", "A planet within our solar system", "A star"],
+        "answer": "A planet outside our solar system"
+    },
+    {
+        "question": "What will future studies based on TESS's discoveries focus on?",
+        "options": ["Habitability of exoplanets", "Only studying stars", "Focusing solely on gas giants", "No focus"],
+        "answer": "Habitability of exoplanets"
+    },
+    {
+        "question": "What is the main technology TESS uses for detecting exoplanets?",
+        "options": ["Advanced sensors", "Outdated technology", "Only visual light", "Only infrared"],
+        "answer": "Advanced sensors"
+    },
+    {
+        "question": "What does TESS's focus on nearby stars allow for?",
+        "options": ["Better follow-up studies", "Only studying gas giants", "Focusing solely on distant stars", "No advantages"],
+        "answer": "Better follow-up studies"
+    },
+    {
+        "question": "How does TESS contribute to the understanding of exoplanet environments?",
+        "options": ["By identifying their atmospheres", "Only focusing on stars", "Mapping the solar system", "No contributions"],
+        "answer": "By identifying their atmospheres"
+    },
+    {
+        "question": "What has been a major result of TESS's discoveries?",
+        "options": ["A better understanding of planetary systems", "Only studying the solar system", "Finding only gas giants", "No significant results"],
+        "answer": "A better understanding of planetary systems"
+    },
+    {
+        "question": "What type of mission is TESS classified as?",
+        "options": ["A space telescope mission", "A ground-based mission", "A solar system mission", "A black hole mission"],
+        "answer": "A space telescope mission"
+    },
+    {
+        "question": "What aspect of TESS's survey allows it to identify a diverse range of planets?",
+        "options": ["Its all-sky survey approach", "Only focusing on a few stars", "Studying only solar systems", "No diversity"],
+        "answer": "Its all-sky survey approach"
+    },
+    {
+        "question": "How will TESS enhance future planetary explorations?",
+        "options": ["By providing essential data on exoplanets", "Only studying the solar system", "Limiting the search", "Focusing solely on gas giants"],
+        "answer": "By providing essential data on exoplanets"
+    },
+    {
+        "question": "What type of discoveries does TESS aim to make?",
+        "options": ["New exoplanets", "Only gas giants", "Only rocky planets", "No discoveries"],
+        "answer": "New exoplanets"
+    },
+    {
+        "question": "What will the data from TESS help refine in astronomy?",
+        "options": ["Planetary characterization", "Only studying stars", "Focusing solely on the solar system", "Mapping galaxies"],
+        "answer": "Planetary characterization"
+    },
+    {
+        "question": "What does the transit method allow scientists to do?",
+        "options": ["Detect planets based on light dips", "Study stars only", "Focus solely on solar systems", "Limit research"],
+        "answer": "Detect planets based on light dips"
+    },
+    {
+        "question": "What is one outcome of TESS's findings for exoplanets?",
+        "options": ["Insights into habitability", "Only studying distant stars", "Focusing on black holes", "No outcomes"],
+        "answer": "Insights into habitability"
+    },
+    {
+        "question": "What is a unique aspect of TESS compared to its predecessors?",
+        "options": ["Its ability to conduct a broad survey", "Only focusing on a few stars", "Studying only solar systems", "No significant differences"],
+        "answer": "Its ability to conduct a broad survey"
+    },
+    {
+        "question": "How does TESS's design enhance exoplanet research?",
+        "options": ["By targeting bright nearby stars", "Only focusing on distant stars", "Limiting the research scope", "No enhancement"],
+        "answer": "By targeting bright nearby stars"
+    },
+    {
+        "question": "What does TESS aim to achieve regarding planetary systems?",
+        "options": ["Understanding their diversity", "Only focusing on solar systems", "Studying black holes", "No goals"],
+        "answer": "Understanding their diversity"
+    },
+    {
+        "question": "What allows TESS to discover diverse exoplanets?",
+        "options": ["Its all-sky survey method", "Only studying the solar system", "Focusing solely on gas giants", "Limiting the search"],
+        "answer": "Its all-sky survey method"
+    },
+    {
+        "question": "What is one of the goals of TESS's mission?",
+        "options": ["To discover new exoplanets", "Only studying black holes", "Focusing solely on the solar system", "No specific goals"],
+        "answer": "To discover new exoplanets"
+    },
+    {
+        "question": "What role does TESS play in planetary habitability research?",
+        "options": ["Identifying potential exoplanets for life", "Only focusing on stars", "Studying black holes", "Limiting research"],
+        "answer": "Identifying potential exoplanets for life"
+    },
+    {
+        "question": "What is a significant impact of TESS on the study of exoplanets?",
+        "options": ["Providing new insights into planetary systems", "Only studying gas giants", "No impact", "Limiting the research scope"],
+        "answer": "Providing new insights into planetary systems"
+    },
+    {
+        "question": "What does the comprehensive all-sky survey of TESS allow for?",
+        "options": ["The discovery of diverse exoplanets", "Only studying a few stars", "Focusing solely on gas giants", "Limiting the search"],
+        "answer": "The discovery of diverse exoplanets"
+    },
+    {
+        "question": "What kind of findings does TESS aim to provide for future telescopes?",
+        "options": ["Data on exoplanet atmospheres", "Only studying stars", "Focusing solely on the solar system", "No findings"],
+        "answer": "Data on exoplanet atmospheres"
+    }
+]

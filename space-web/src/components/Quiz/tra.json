@@ -1,0 +1,337 @@
+[
+    {
+        "question": "What percentage of all exoplanet discoveries does the Transit Method account for?",
+        "options": ["74.5%", "50%", "30%", "100%"],
+        "answer": "74.5%"
+    },
+    {
+        "question": "How many planets have been discovered using the Transit Method?",
+        "options": ["4,200", "2,600", "1,000", "5,000"],
+        "answer": "4,200"
+    },
+    {
+        "question": "What is the primary way the Transit Method detects exoplanets?",
+        "options": ["By observing star colors", "By measuring temperature", "By detecting dips in star brightness", "By capturing images"],
+        "answer": "By detecting dips in star brightness"
+    },
+    {
+        "question": "How does a transit resemble a solar eclipse?",
+        "options": ["It blocks all light", "It creates a shadow", "It briefly blocks the star’s light", "It emits more light"],
+        "answer": "It briefly blocks the star’s light"
+    },
+    {
+        "question": "What does a light curve represent?",
+        "options": ["Star temperatures over time", "Brightness over time", "Planet sizes over time", "Distance over time"],
+        "answer": "Brightness over time"
+    },
+    {
+        "question": "What does a larger dip in the light curve indicate?",
+        "options": ["A smaller planet", "A larger planet", "A hotter star", "None"],
+        "answer": "A larger planet"
+    },
+    {
+        "question": "How can the Transit Method help determine a planet’s distance from its star?",
+        "options": ["By measuring temperature", "By analyzing light curves", "By detecting brightness", "By observing colors"],
+        "answer": "By analyzing light curves"
+    },
+    {
+        "question": "What can irregular dips in the light curve indicate?",
+        "options": ["A change in temperature", "Multiple planets orbiting the star", "The star is dying", "None"],
+        "answer": "Multiple planets orbiting the star"
+    },
+    {
+        "question": "What technique allows astronomers to study the atmospheres of distant planets?",
+        "options": ["Direct imaging", "Transit spectroscopy", "Gravitational microlensing", "Radial velocity"],
+        "answer": "Transit spectroscopy"
+    },
+    {
+        "question": "What gases can be detected in a planet’s atmosphere using the Transit Method?",
+        "options": ["Hydrogen only", "Water vapor, methane, oxygen", "Carbon dioxide only", "Nitrogen only"],
+        "answer": "Water vapor, methane, oxygen"
+    },
+    {
+        "question": "What information can be gleaned from the atmospheric composition of a planet?",
+        "options": ["Its distance", "Its temperature", "Its brightness", "Its rotation speed"],
+        "answer": "Its temperature"
+    },
+    {
+        "question": "What does the habitable zone refer to?",
+        "options": ["A region where no planets exist", "The area around a star where conditions might allow for liquid water", "An area of space with high radiation", "None"],
+        "answer": "The area around a star where conditions might allow for liquid water"
+    },
+    {
+        "question": "What role does the Transit Method play in discovering potentially habitable exoplanets?",
+        "options": ["It only studies rocky planets", "It ignores distances", "It has been instrumental in finding them", "None"],
+        "answer": "It has been instrumental in finding them"
+    },
+    {
+        "question": "Which planetary system is notably studied for potentially habitable exoplanets?",
+        "options": ["TRAPPIST-1", "Solar System", "Kepler-452", "Proxima Centauri"],
+        "answer": "TRAPPIST-1"
+    },
+    {
+        "question": "What is the significance of observing planets passing in front of their stars?",
+        "options": ["It reveals their colors", "It helps in calculating their distances", "It allows for atmosphere analysis", "None"],
+        "answer": "It allows for atmosphere analysis"
+    },
+    {
+        "question": "Which method allows for studying light dips caused by transiting planets?",
+        "options": ["Radial velocity", "Doppler spectroscopy", "Transit Method", "Direct imaging"],
+        "answer": "Transit Method"
+    },
+    {
+        "question": "What effect does a planet have on its star's brightness during a transit?",
+        "options": ["It increases brightness", "It has no effect", "It decreases brightness", "It changes color"],
+        "answer": "It decreases brightness"
+    },
+    {
+        "question": "Why is the Transit Method so effective for exoplanet discovery?",
+        "options": ["It studies dark stars", "It targets small areas", "It utilizes light curve analysis", "It ignores background stars"],
+        "answer": "It utilizes light curve analysis"
+    },
+    {
+        "question": "What is the advantage of observing brighter stars for the Transit Method?",
+        "options": ["They are easier to detect", "They have less radiation", "They create no light dips", "They help with follow-up studies"],
+        "answer": "They help with follow-up studies"
+    },
+    {
+        "question": "How does the Transit Method confirm a planet’s size?",
+        "options": ["By observing light absorption", "By analyzing light curves", "By measuring star brightness", "By direct imaging"],
+        "answer": "By analyzing light curves"
+    },
+    {
+        "question": "What phenomenon occurs when a planet passes in front of its star?",
+        "options": ["Light curve", "Blue shift", "Red shift", "Light reflection"],
+        "answer": "Light curve"
+    },
+    {
+        "question": "What kind of planets does the Transit Method primarily help detect?",
+        "options": ["Only gas giants", "Only rocky planets", "Both gas giants and rocky planets", "Only free-floating planets"],
+        "answer": "Both gas giants and rocky planets"
+    },
+    {
+        "question": "What can the Transit Method reveal about a planet’s orbit?",
+        "options": ["Its rotation speed", "Its distance from the star", "Its temperature", "Its atmosphere"],
+        "answer": "Its distance from the star"
+    },
+    {
+        "question": "What is the key feature of the Transit Method?",
+        "options": ["It measures brightness", "It analyzes starlight only", "It observes eclipses", "It detects planets by shadows"],
+        "answer": "It detects planets by shadows"
+    },
+    {
+        "question": "What does a planet passing in front of its star temporarily cause?",
+        "options": ["Increased brightness", "Decreased brightness", "Color change", "None"],
+        "answer": "Decreased brightness"
+    },
+    {
+        "question": "What does the light curve help astronomers deduce about an exoplanet?",
+        "options": ["Its color", "Its orbit", "Its mass", "Its distance from the star"],
+        "answer": "Its distance from the star"
+    },
+    {
+        "question": "How does the Transit Method contribute to our understanding of exoplanets?",
+        "options": ["By ignoring light", "By only studying gas giants", "By revealing their atmospheres", "By measuring temperature only"],
+        "answer": "By revealing their atmospheres"
+    },
+    {
+        "question": "What is one advantage of using the Transit Method for exoplanet detection?",
+        "options": ["It can confirm planets found by other methods", "It ignores star brightness", "It can only detect small planets", "It doesn't require instruments"],
+        "answer": "It can confirm planets found by other methods"
+    },
+    {
+        "question": "What allows the Transit Method to detect a wide variety of planets?",
+        "options": ["Its targeting of bright stars", "Its use of Doppler spectroscopy", "Its ability to measure brightness only", "None"],
+        "answer": "Its targeting of bright stars"
+    },
+    {
+        "question": "What aspect of planetary systems can the Transit Method help map out?",
+        "options": ["Star distances", "Planetary orbits", "Star temperatures", "Planet colors"],
+        "answer": "Planetary orbits"
+    },
+    {
+        "question": "How does the Transit Method enhance the search for habitable worlds?",
+        "options": ["It measures star brightness", "It ignores light curves", "It studies atmospheres for signs of life", "None"],
+        "answer": "It studies atmospheres for signs of life"
+    },
+    {
+        "question": "What key observation is necessary for a planet to be detected by the Transit Method?",
+        "options": ["High mass", "A wobble", "A shadow", "Light absorption"],
+        "answer": "A shadow"
+    },
+    {
+        "question": "What does the Transit Method primarily measure to confirm an exoplanet's presence?",
+        "options": ["Light shifts", "Star brightness", "Star wobble", "Light curves"],
+        "answer": "Light curves"
+    },
+    {
+        "question": "Which telescope is notable for discovering exoplanets using the Transit Method?",
+        "options": ["Hubble Space Telescope", "Kepler Space Telescope", "James Webb Space Telescope", "Chandra X-ray Observatory"],
+        "answer": "Kepler Space Telescope"
+    },
+    {
+        "question": "What happens to starlight when a planet transits in front of it?",
+        "options": ["It brightens", "It gets absorbed", "It dims", "It changes color"],
+        "answer": "It dims"
+    },
+    {
+        "question": "What does the depth of a light curve dip indicate?",
+        "options": ["Star temperature", "Planet distance", "Planet size", "Star brightness"],
+        "answer": "Planet size"
+    },
+    {
+        "question": "How many planets has the Transit Method contributed to discovering?",
+        "options": ["Around 1,000", "Around 4,200", "Around 500", "Around 2,600"],
+        "answer": "Around 4,200"
+    },
+    {
+        "question": "What technique can follow the Transit Method for studying atmospheres?",
+        "options": ["Radial velocity", "Direct imaging", "Transit spectroscopy", "Doppler effect"],
+        "answer": "Transit spectroscopy"
+    },
+    {
+        "question": "What does the Transit Method not directly measure?",
+        "options": ["Planet size", "Planet distance", "Planet color", "None"],
+        "answer": "Planet color"
+    },
+    {
+        "question": "What phenomenon does the Transit Method rely on?",
+        "options": ["Star wobble", "Light curve dips", "Star brightness", "None"],
+        "answer": "Light curve dips"
+    },
+    {
+        "question": "Which factor can limit the effectiveness of the Transit Method?",
+        "options": ["Star brightness", "Planet mass", "Star distance", "Planet speed"],
+        "answer": "Star brightness"
+    },
+    {
+        "question": "What astronomical feature is crucial for the Transit Method to work?",
+        "options": ["Stars", "Galaxies", "Planets", "All of the above"],
+        "answer": "Stars"
+    },
+    {
+        "question": "What can astronomers deduce from a transit?",
+        "options": ["Atmospheric composition", "Star size", "Planet rotation", "Star age"],
+        "answer": "Atmospheric composition"
+    },
+    {
+        "question": "What does a shorter dip in a light curve indicate?",
+        "options": ["A larger planet", "A closer planet", "A smaller planet", "A faraway star"],
+        "answer": "A smaller planet"
+    },
+    {
+        "question": "What is an advantage of the Transit Method over other methods?",
+        "options": ["Simplicity", "Direct imaging", "Doppler measurements", "Studying distant stars"],
+        "answer": "Simplicity"
+    },
+    {
+        "question": "How does the Transit Method contribute to finding life-sustaining conditions?",
+        "options": ["By ignoring light", "By analyzing atmospheric gases", "By measuring temperature", "None"],
+        "answer": "By analyzing atmospheric gases"
+    },
+    {
+        "question": "What does the success of the Transit Method rely on?",
+        "options": ["Star brightness", "Planet size", "Observational duration", "All of the above"],
+        "answer": "Star brightness"
+    },
+    {
+        "question": "What is the main advantage of detecting smaller planets?",
+        "options": ["More data", "Higher accuracy", "Less noise", "None"],
+        "answer": "Higher accuracy"
+    },
+    {
+        "question": "How does the Transit Method affect the study of exoplanet populations?",
+        "options": ["It helps focus on large stars", "It limits the data", "It enables wide surveys", "None"],
+        "answer": "It enables wide surveys"
+    },
+    {
+        "question": "What is the purpose of monitoring light curves?",
+        "options": ["To detect planets", "To measure star brightness", "To study colors", "None"],
+        "answer": "To detect planets"
+    },
+    {
+        "question": "What kind of planets can the Transit Method discover?",
+        "options": ["Only gas giants", "Only rocky planets", "All types", "None"],
+        "answer": "All types"
+    },
+    {
+        "question": "What characteristic of planets can be inferred through transit events?",
+        "options": ["Their distances", "Their colors", "Their atmospheres", "None"],
+        "answer": "Their atmospheres"
+    },
+    {
+        "question": "How does the Transit Method improve our understanding of planetary systems?",
+        "options": ["By measuring light only", "By confirming the existence of planets", "By changing light", "None"],
+        "answer": "By confirming the existence of planets"
+    },
+    {
+        "question": "What is the light curve primarily used for?",
+        "options": ["Star distances", "Planetary movements", "Brightness changes", "Atmospheric studies"],
+        "answer": "Brightness changes"
+    },
+    {
+        "question": "What role do follow-up studies play in the Transit Method?",
+        "options": ["They confirm planets", "They ignore results", "They are unnecessary", "None"],
+        "answer": "They confirm planets"
+    },
+    {
+        "question": "What advancement is necessary for enhancing the Transit Method?",
+        "options": ["Improved instruments", "More data", "Less noise", "None"],
+        "answer": "Improved instruments"
+    },
+    {
+        "question": "What happens to starlight during a transit?",
+        "options": ["It increases", "It dims", "It disappears", "None"],
+        "answer": "It dims"
+    },
+    {
+        "question": "What can studying light curves reveal about planetary conditions?",
+        "options": ["Colors", "Temperatures", "Habitability", "None"],
+        "answer": "Habitability"
+    },
+    {
+        "question": "What is a potential outcome of Transit Method discoveries?",
+        "options": ["New theories", "More planets", "Better technology", "None"],
+        "answer": "More planets"
+    },
+    {
+        "question": "What happens during a transit that allows scientists to infer the presence of a planet?",
+        "options": ["Light dims", "Star spins", "Planet reflects light", "None"],
+        "answer": "Light dims"
+    },
+    {
+        "question": "Which type of telescope is significant for the Transit Method?",
+        "options": ["Ground-based", "Space-based", "Both", "None"],
+        "answer": "Space-based"
+    },
+    {
+        "question": "How does the Transit Method fit into the larger context of exoplanet research?",
+        "options": ["It's a minor method", "It's the most successful technique", "It ignores light", "None"],
+        "answer": "It's the most successful technique"
+    },
+    {
+        "question": "What is one of the most thrilling aspects of the Transit Method?",
+        "options": ["Discovering colors", "Measuring distances", "Studying atmospheres", "All of the above"],
+        "answer": "Studying atmospheres"
+    },
+    {
+        "question": "What type of star is best suited for the Transit Method?",
+        "options": ["Distant stars", "Bright stars", "Red giants", "None"],
+        "answer": "Bright stars"
+    },
+    {
+        "question": "What does a smaller dip in a light curve suggest?",
+        "options": ["Larger planet", "Closer orbit", "Smaller planet", "None"],
+        "answer": "Smaller planet"
+    },
+    {
+        "question": "What technological improvement has enhanced the Transit Method?",
+        "options": ["Better lenses", "Improved sensors", "Larger telescopes", "None"],
+        "answer": "Improved sensors"
+    },
+    {
+        "question": "What is the overall goal of the Transit Method?",
+        "options": ["Finding new stars", "Studying existing planets", "Discovering exoplanets", "None"],
+        "answer": "Discovering exoplanets"
+    }
+]

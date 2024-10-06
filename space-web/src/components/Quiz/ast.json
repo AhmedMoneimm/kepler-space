@@ -1,0 +1,387 @@
+[
+    {
+        "question": "What is astrometry primarily used for?",
+        "options": ["Measuring distances to stars", "Detecting planets", "Studying star colors", "Mapping galaxies"],
+        "answer": "Detecting planets"
+    },
+    {
+        "question": "How many exoplanets have been discovered using astrometry?",
+        "options": ["One", "Two", "Three", "Four"],
+        "answer": "Three"
+    },
+    {
+        "question": "What does astrometry measure?",
+        "options": ["Temperature of stars", "Wobble of stars", "Brightness of stars", "Colors of stars"],
+        "answer": "Wobble of stars"
+    },
+    {
+        "question": "What effect does a planet's gravity have on its host star?",
+        "options": ["It makes the star brighter", "It causes the star to wobble", "It cools the star", "It makes the star disappear"],
+        "answer": "It causes the star to wobble"
+    },
+    {
+        "question": "What is the common center of mass around which a star and planet orbit called?",
+        "options": ["Barycenter", "Centroid", "Orbit", "Nucleus"],
+        "answer": "Barycenter"
+    },
+    {
+        "question": "What do astronomers observe to detect the presence of a planet?",
+        "options": ["Star temperature", "Star position shifts", "Star brightness changes", "Star color variations"],
+        "answer": "Star position shifts"
+    },
+    {
+        "question": "What advantage does astrometry provide in planetary discovery?",
+        "options": ["Direct measurement of a planet's temperature", "Direct measurements of a planet’s mass", "Direct observation of planets", "Direct imaging of planets"],
+        "answer": "Direct measurements of a planet’s mass"
+    },
+    {
+        "question": "What can long-term astrometric observations reveal?",
+        "options": ["Only the brightness of a star", "The presence of multiple planets orbiting the same star", "The temperature of a star", "The color of distant stars"],
+        "answer": "The presence of multiple planets orbiting the same star"
+    },
+    {
+        "question": "What type of planets is astrometry best at detecting?",
+        "options": ["Massive planets close to their host stars", "Small, distant planets", "Only gas giants", "Only rocky planets"],
+        "answer": "Massive planets close to their host stars"
+    },
+    {
+        "question": "What challenge does astrometry face when detecting smaller planets?",
+        "options": ["They cause no wobble", "They are too far away", "They create very tiny wobbles", "They are too bright"],
+        "answer": "They create very tiny wobbles"
+    },
+    {
+        "question": "What can complicate the detection of planets through astrometry?",
+        "options": ["The brightness of stars", "Binary star companions and stellar activity", "Distance from Earth", "The temperature of stars"],
+        "answer": "Binary star companions and stellar activity"
+    },
+    {
+        "question": "How does a planet's orbit affect its host star?",
+        "options": ["The star's color changes", "The star's brightness decreases", "The star wobbles around a barycenter", "The star becomes hotter"],
+        "answer": "The star wobbles around a barycenter"
+    },
+    {
+        "question": "Why is astrometry important for studying complex planetary systems?",
+        "options": ["It can measure distances", "It provides information about planetary mass", "It can study binary stars", "It detects star brightness"],
+        "answer": "It provides information about planetary mass"
+    },
+    {
+        "question": "What technology is crucial for astrometry?",
+        "options": ["Ground-based telescopes only", "High-precision instruments", "Old technology", "None"],
+        "answer": "High-precision instruments"
+    },
+    {
+        "question": "What does a planet’s gravitational pull cause the star to do?",
+        "options": ["Burn brighter", "Change color", "Wobble slightly", "Cool down"],
+        "answer": "Wobble slightly"
+    },
+    {
+        "question": "What is a limitation of astrometry?",
+        "options": ["It can only study stars", "It doesn't use technology", "Long-term observations are required", "It is always accurate"],
+        "answer": "Long-term observations are required"
+    },
+    {
+        "question": "What do astronomers measure to infer the presence of planets?",
+        "options": ["Star temperature changes", "Position shifts of stars", "Brightness of stars", "Color of stars"],
+        "answer": "Position shifts of stars"
+    },
+    {
+        "question": "What allows astronomers to detect the presence of a planet?",
+        "options": ["The star's brightness", "The wobble of the star", "The distance to the star", "The star's temperature"],
+        "answer": "The wobble of the star"
+    },
+    {
+        "question": "What aspect of exoplanets can astrometry help determine?",
+        "options": ["Color", "Atmospheric composition", "Mass", "Distance"],
+        "answer": "Mass"
+    },
+    {
+        "question": "How has astrometry contributed to exoplanet science?",
+        "options": ["By only detecting gas giants", "By providing indirect evidence of planets", "By directly observing planets", "By only studying binary stars"],
+        "answer": "By providing indirect evidence of planets"
+    },
+    {
+        "question": "What significant aspect does astrometry focus on?",
+        "options": ["Bright stars only", "Wobbles caused by orbiting planets", "Studying solar systems only", "Distant galaxies"],
+        "answer": "Wobbles caused by orbiting planets"
+    },
+    {
+        "question": "What does astrometry help scientists understand about stars?",
+        "options": ["Their temperature", "Their distance", "Their movement related to planets", "Their brightness"],
+        "answer": "Their movement related to planets"
+    },
+    {
+        "question": "What is one challenge in detecting smaller planets using astrometry?",
+        "options": ["They create larger wobbles", "They are easier to detect", "They create very tiny wobbles", "They are too far away"],
+        "answer": "They create very tiny wobbles"
+    },
+    {
+        "question": "What has astrometry primarily contributed to astronomy?",
+        "options": ["Understanding of black holes", "Direct imaging of stars", "Discovery of exoplanets", "Mapping galaxies"],
+        "answer": "Discovery of exoplanets"
+    },
+    {
+        "question": "What type of stars are difficult for astrometry to analyze?",
+        "options": ["Massive stars", "Binary stars", "Only single stars", "Nearby stars"],
+        "answer": "Binary stars"
+    },
+    {
+        "question": "What is the barycenter?",
+        "options": ["A point in space where two bodies orbit each other", "A type of star", "A method of detection", "A telescope"],
+        "answer": "A point in space where two bodies orbit each other"
+    },
+    {
+        "question": "What do slight shifts in a star's position indicate?",
+        "options": ["Changes in brightness", "Presence of orbiting planets", "Distance from Earth", "Color changes"],
+        "answer": "Presence of orbiting planets"
+    },
+    {
+        "question": "What has the study of astrometry revealed about planetary systems?",
+        "options": ["They are all the same", "They are complex and diverse", "They are only gas giants", "They don't exist"],
+        "answer": "They are complex and diverse"
+    },
+    {
+        "question": "Why are massive planets easier to detect using astrometry?",
+        "options": ["They create larger wobbles", "They are closer to Earth", "They are brighter", "They are smaller"],
+        "answer": "They create larger wobbles"
+    },
+    {
+        "question": "What is the main function of astrometry in the context of exoplanets?",
+        "options": ["To measure star brightness", "To detect planetary influences on stars", "To study star temperatures", "To focus on the solar system"],
+        "answer": "To detect planetary influences on stars"
+    },
+    {
+        "question": "What has been one of the limitations of the astrometric method?",
+        "options": ["It only studies gas giants", "It requires long-term observations", "It cannot detect any planets", "It only uses old technology"],
+        "answer": "It requires long-term observations"
+    },
+    {
+        "question": "What is the relationship between a planet's mass and the star's wobble?",
+        "options": ["Larger mass creates smaller wobbles", "Smaller mass creates larger wobbles", "The wobble is directly proportional to the planet's mass", "Mass has no effect"],
+        "answer": "The wobble is directly proportional to the planet's mass"
+    },
+    {
+        "question": "How does the gravitational pull of a planet affect its host star?",
+        "options": ["It causes the star to heat up", "It creates a wobble in the star's position", "It changes the star's color", "It makes the star disappear"],
+        "answer": "It creates a wobble in the star's position"
+    },
+    {
+        "question": "What role does high-precision equipment play in astrometry?",
+        "options": ["It is unnecessary", "It allows for precise measurements", "It limits the scope of study", "It only focuses on bright stars"],
+        "answer": "It allows for precise measurements"
+    },
+    {
+        "question": "What aspect of astrometry allows astronomers to detect distant planets?",
+        "options": ["Observing star color", "Studying brightness changes", "Measuring tiny shifts in position", "Direct imaging of planets"],
+        "answer": "Measuring tiny shifts in position"
+    },
+    {
+        "question": "What are astronomers looking for when they observe star wobble?",
+        "options": ["Bright stars", "Wobbles caused by gravitational interactions", "Color changes", "Temperature fluctuations"],
+        "answer": "Wobbles caused by gravitational interactions"
+    },
+    {
+        "question": "How does astrometry complement other exoplanet discovery methods?",
+        "options": ["By focusing on a single star", "By measuring the brightness of stars", "By providing mass measurements", "By limiting the research scope"],
+        "answer": "By providing mass measurements"
+    },
+    {
+        "question": "What type of instruments are essential for astrometry?",
+        "options": ["Simple telescopes", "High-precision tools", "Amateur equipment", "None"],
+        "answer": "High-precision tools"
+    },
+    {
+        "question": "What scientific field primarily benefits from astrometry?",
+        "options": ["Chemistry", "Astronomy", "Biology", "Geology"],
+        "answer": "Astronomy"
+    },
+    {
+        "question": "What is the main focus of astrometric studies?",
+        "options": ["Detecting brightness", "Studying solar systems", "Understanding star movements", "Limiting research"],
+        "answer": "Understanding star movements"
+    },
+    {
+        "question": "What do astrometric measurements provide clues about?",
+        "options": ["The temperature of stars", "The presence of orbiting planets", "Star brightness", "Distance to stars"],
+        "answer": "The presence of orbiting planets"
+    },
+    {
+        "question": "What has been a significant contribution of astrometry to planetary science?",
+        "options": ["Direct imaging of exoplanets", "Discovering the first exoplanets", "Mapping galaxies", "Studying black holes"],
+        "answer": "Discovering the first exoplanets"
+    },
+    {
+        "question": "What kind of changes does astrometry measure in a star's position?",
+        "options": ["Large shifts", "Temperature changes", "Tiny shifts", "Brightness changes"],
+        "answer": "Tiny shifts"
+    },
+    {
+        "question": "What is a potential challenge in using astrometry?",
+        "options": ["It's always accurate", "It can only measure large stars", "It requires long observation times", "It is easy to perform"],
+        "answer": "It requires long observation times"
+    },
+    {
+        "question": "How do planets influence their host stars?",
+        "options": ["They change color", "They cause a wobble", "They make stars brighter", "They don't influence them"],
+        "answer": "They cause a wobble"
+    },
+    {
+        "question": "Why is the wobble of a star significant in detecting exoplanets?",
+        "options": ["It shows the star's brightness", "It indicates the presence of a planet", "It measures distance", "It changes the star's color"],
+        "answer": "It indicates the presence of a planet"
+    },
+    {
+        "question": "How long does it typically take to detect a planet using astrometry?",
+        "options": ["Instantly", "A few days", "Long-term observations", "A few months"],
+        "answer": "Long-term observations"
+    },
+    {
+        "question": "What does astrometry analyze in relation to stars?",
+        "options": ["Brightness only", "Wobble only", "Position changes over time", "Temperature changes"],
+        "answer": "Position changes over time"
+    },
+    {
+        "question": "What is a common feature of planets that astrometry can help discover?",
+        "options": ["Mass", "Color", "Size", "Temperature"],
+        "answer": "Mass"
+    },
+    {
+        "question": "What method does astrometry primarily rely on?",
+        "options": ["Measuring temperature", "Observing color changes", "Detecting shifts in star position", "Direct imaging"],
+        "answer": "Detecting shifts in star position"
+    },
+    {
+        "question": "How does the gravitational interaction of a planet and star manifest?",
+        "options": ["Through brightness changes", "Through small wobbles", "Through color changes", "Through distance fluctuations"],
+        "answer": "Through small wobbles"
+    },
+    {
+        "question": "What advantage does astrometry provide in studying multiple planets?",
+        "options": ["Easier to see", "Can measure multiple wobbles", "Only focuses on one planet", "No advantage"],
+        "answer": "Can measure multiple wobbles"
+    },
+    {
+        "question": "What type of stars does astrometry work best with?",
+        "options": ["Bright stars", "Massive stars", "Distant stars", "Cold stars"],
+        "answer": "Bright stars"
+    },
+    {
+        "question": "What makes astrometry different from other detection methods?",
+        "options": ["It uses direct imaging", "It measures star movements", "It doesn't rely on star brightness", "It only studies gas giants"],
+        "answer": "It measures star movements"
+    },
+    {
+        "question": "What does the success of astrometry in exoplanet discovery indicate?",
+        "options": ["Planets are rare", "Planets are common", "Only gas giants exist", "All planets are small"],
+        "answer": "Planets are common"
+    },
+    {
+        "question": "What does the barycenter represent in an exoplanet system?",
+        "options": ["The center of mass", "The position of a star", "The size of a planet", "The distance from Earth"],
+        "answer": "The center of mass"
+    },
+    {
+        "question": "Why is detecting smaller planets a challenge for astrometry?",
+        "options": ["They cause large wobbles", "They are too far away", "They create very tiny wobbles", "They are brighter"],
+        "answer": "They create very tiny wobbles"
+    },
+    {
+        "question": "What do tiny changes in a star's position allow astronomers to infer?",
+        "options": ["The star's age", "The presence of a planet", "The star's temperature", "The star's brightness"],
+        "answer": "The presence of a planet"
+    },
+    {
+        "question": "How long can astrometric observations take to detect a planet?",
+        "options": ["A few days", "A few months", "A few years", "A few hours"],
+        "answer": "A few years"
+    },
+    {
+        "question": "What kind of data does astrometry provide?",
+        "options": ["Direct images of planets", "Measurements of star movements", "Chemical compositions", "Light spectra"],
+        "answer": "Measurements of star movements"
+    },
+    {
+        "question": "What can astrometry reveal about a star's companions?",
+        "options": ["Only the mass", "The distance from the star", "The number of planets", "The presence of orbiting planets"],
+        "answer": "The presence of orbiting planets"
+    },
+    {
+        "question": "What does a planet's gravitational pull cause in its star?",
+        "options": ["Cooling", "Wobble", "Heating", "Expansion"],
+        "answer": "Wobble"
+    },
+    {
+        "question": "What kind of motion does a planet induce in its host star?",
+        "options": ["Direct movement", "Wobbling motion", "Spinning motion", "Only brightness changes"],
+        "answer": "Wobbling motion"
+    },
+    {
+        "question": "What has astrometry significantly improved in the field of exoplanets?",
+        "options": ["The accuracy of distance measurements", "The discovery of exoplanets", "The observation of stars", "The study of black holes"],
+        "answer": "The discovery of exoplanets"
+    },
+    {
+        "question": "How does the gravitational interaction affect star motion?",
+        "options": ["It causes large shifts", "It is not noticeable", "It causes small shifts", "It only affects brightness"],
+        "answer": "It causes small shifts"
+    },
+    {
+        "question": "What kind of observations are essential for astrometry?",
+        "options": ["Long-term observations", "Short-term observations", "Random observations", "One-time observations"],
+        "answer": "Long-term observations"
+    },
+    {
+        "question": "What is one limitation of astrometry in detecting planets?",
+        "options": ["It can only detect large planets", "It requires advanced technology", "It is not used anymore", "It is only for binary stars"],
+        "answer": "It requires advanced technology"
+    },
+    {
+        "question": "What technique is often combined with astrometry for planetary discovery?",
+        "options": ["Direct imaging", "Radial velocity method", "Transit method", "None"],
+        "answer": "Radial velocity method"
+    },
+    {
+        "question": "What does the astrometric method rely on?",
+        "options": ["Understanding star colors", "Measuring star positions over time", "Observing star brightness", "Studying star temperatures"],
+        "answer": "Measuring star positions over time"
+    },
+    {
+        "question": "How does the wobble of a star indicate the presence of a planet?",
+        "options": ["By changing color", "By measuring brightness", "By showing position changes", "By altering temperature"],
+        "answer": "By showing position changes"
+    },
+    {
+        "question": "What is the main challenge when detecting smaller planets?",
+        "options": ["They create larger wobbles", "They create very tiny wobbles", "They are brighter", "They are easier to detect"],
+        "answer": "They create very tiny wobbles"
+    },
+    {
+        "question": "What has astrometry revealed about planetary systems?",
+        "options": ["They are simple", "They are diverse", "They don't exist", "They are all gas giants"],
+        "answer": "They are diverse"
+    },
+    {
+        "question": "What advantage does astrometry offer in studying multiple planets?",
+        "options": ["It is easier", "It can measure multiple wobbles", "It is only focused on one planet", "None"],
+        "answer": "It can measure multiple wobbles"
+    },
+    {
+        "question": "What type of stars does astrometry focus on primarily?",
+        "options": ["Only bright stars", "Massive stars", "Distant stars", "Cold stars"],
+        "answer": "Only bright stars"
+    },
+    {
+        "question": "What is the significance of detecting a star's wobble?",
+        "options": ["It shows brightness", "It indicates the presence of a planet", "It changes color", "It measures distance"],
+        "answer": "It indicates the presence of a planet"
+    },
+    {
+        "question": "What does astrometry help to uncover in exoplanet research?",
+        "options": ["The nature of stars", "The composition of planets", "The presence of orbiting planets", "Star brightness"],
+        "answer": "The presence of orbiting planets"
+    },
+    {
+        "question": "How does the gravitational influence of a planet affect the star?",
+        "options": ["It creates distance", "It causes a wobble", "It affects brightness", "It changes color"],
+        "answer": "It causes a wobble"
+    }
+]

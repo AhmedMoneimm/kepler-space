@@ -1,0 +1,432 @@
+[
+    {
+        "question": "What was unique about the first exoplanets discovered?",
+        "options": [
+            "They orbited pulsars, remnants of exploded stars",
+            "They were all Earth-like planets",
+            "They were all in the habitable zone",
+            "They were closer to Earth than any other stars"
+        ],
+        "answer": "They orbited pulsars, remnants of exploded stars"
+    },
+    {
+        "question": "What type of stars did some of the first exoplanets orbit?",
+        "options": [
+            "White dwarfs",
+            "Pulsars",
+            "Red giants",
+            "Main sequence stars"
+        ],
+        "answer": "Pulsars"
+    },
+    {
+        "question": "What is a pulsar?",
+        "options": [
+            "A neutron star that emits beams of radiation",
+            "A planet that orbits a black hole",
+            "A star that has just formed",
+            "A planet that emits radio signals"
+        ],
+        "answer": "A neutron star that emits beams of radiation"
+    },
+    {
+        "question": "What extreme characteristic was common among some of the first exoplanets discovered?",
+        "options": [
+            "They completed their orbits in just four days",
+            "They had extremely long orbits",
+            "They had atmospheres made entirely of water",
+            "They orbited multiple stars"
+        ],
+        "answer": "They completed their orbits in just four days"
+    },
+    {
+        "question": "Why was Earth's atmosphere a limiting factor in discovering exoplanets in the 1980s and 1990s?",
+        "options": [
+            "It distorted the light from distant stars",
+            "It blocked out most of the stars",
+            "It was too cold to observe exoplanets",
+            "It absorbed the radio signals from exoplanets"
+        ],
+        "answer": "It distorted the light from distant stars"
+    },
+    {
+        "question": "How did sending telescopes into space improve the discovery of exoplanets?",
+        "options": [
+            "It allowed us to see through Earth's atmosphere without distortion",
+            "It brought the exoplanets closer to Earth",
+            "It allowed scientists to communicate with the exoplanets",
+            "It created artificial planets for study"
+        ],
+        "answer": "It allowed us to see through Earth's atmosphere without distortion"
+    },
+    {
+        "question": "What did space-based telescopes uncover about exoplanets?",
+        "options": [
+            "Thousands of exoplanets, some the size of Earth",
+            "All exoplanets are gas giants",
+            "No exoplanets in the habitable zone",
+            "Exoplanets cannot sustain life"
+        ],
+        "answer": "Thousands of exoplanets, some the size of Earth"
+    },
+    {
+        "question": "What are astronomers hoping to find in the atmospheres of exoplanets?",
+        "options": [
+            "Signs of life",
+            "Giant oceans",
+            "New elements",
+            "Rare gases"
+        ],
+        "answer": "Signs of life"
+    },
+    {
+        "question": "What is the next step in exoplanet exploration?",
+        "options": [
+            "Studying their atmospheres for signs of life",
+            "Landing a probe on an exoplanet",
+            "Sending humans to exoplanets",
+            "Building more ground-based telescopes"
+        ],
+        "answer": "Studying their atmospheres for signs of life"
+    },
+    {
+        "question": "Which telescope is known for its significant contributions to exoplanet discovery?",
+        "options": [
+            "Hubble Space Telescope",
+            "Kepler Space Telescope",
+            "Spitzer Space Telescope",
+            "James Webb Space Telescope"
+        ],
+        "answer": "Kepler Space Telescope"
+    },
+    {
+        "question": "What does NASA use to study distant worlds beyond our solar system?",
+        "options": [
+            "Space telescopes like Hubble and TESS",
+            "Rovers and landers",
+            "Space shuttles",
+            "Radio telescopes"
+        ],
+        "answer": "Space telescopes like Hubble and TESS"
+    },
+    {
+        "question": "What is the purpose of the Transiting Exoplanet Survey Satellite (TESS)?",
+        "options": [
+            "To search for exoplanets by observing transits",
+            "To search for black holes",
+            "To explore Mars",
+            "To monitor gamma-ray bursts"
+        ],
+        "answer": "To search for exoplanets by observing transits"
+    },
+    {
+        "question": "Which recently launched telescope will allow for the detailed study of exoplanet atmospheres?",
+        "options": [
+            "James Webb Space Telescope",
+            "Spitzer Space Telescope",
+            "Hubble Space Telescope",
+            "Chandra X-ray Observatory"
+        ],
+        "answer": "James Webb Space Telescope"
+    },
+    {
+        "question": "Which space telescope has been iconic in observing the universe for decades?",
+        "options": [
+            "Hubble Space Telescope",
+            "James Webb Space Telescope",
+            "TESS",
+            "Kepler Space Telescope"
+        ],
+        "answer": "Hubble Space Telescope"
+    },
+    {
+        "question": "What do scientists hope to unlock by probing distant worlds?",
+        "options": [
+            "Mysteries of planets far beyond our solar system",
+            "The ability to travel faster than light",
+            "The location of black holes",
+            "New methods for colonizing other planets"
+        ],
+        "answer": "Mysteries of planets far beyond our solar system"
+    },
+    {
+        "question": "What are scientists using the Chandra X-ray Observatory for?",
+        "options": [
+            "To explore the high-energy universe, including black holes and neutron stars",
+            "To land on the Moon",
+            "To find water on Mars",
+            "To search for alien spacecraft"
+        ],
+        "answer": "To explore the high-energy universe, including black holes and neutron stars"
+    },
+    {
+        "question": "Which space telescope studies gamma rays from distant astronomical objects?",
+        "options": [
+            "Fermi Gamma-ray Space Telescope",
+            "Kepler Space Telescope",
+            "Hubble Space Telescope",
+            "TESS"
+        ],
+        "answer": "Fermi Gamma-ray Space Telescope"
+    },
+    {
+        "question": "What have powerful telescopes allowed us to do?",
+        "options": [
+            "Probe distant worlds and unlock planetary mysteries",
+            "Travel faster than light",
+            "Communicate with alien civilizations",
+            "Take direct pictures of all exoplanets"
+        ],
+        "answer": "Probe distant worlds and unlock planetary mysteries"
+    },
+    {
+        "question": "What kind of radiation do pulsars emit?",
+        "options": [
+            "Beams of radiation",
+            "Visible light",
+            "Gamma rays only",
+            "Infrared radiation"
+        ],
+        "answer": "Beams of radiation"
+    },
+    {
+        "question": "What enables astronomers to study planets far beyond our solar system?",
+        "options": [
+            "Space telescopes",
+            "Rovers and probes",
+            "Satellites orbiting Earth",
+            "Ground-based telescopes only"
+        ],
+        "answer": "Space telescopes"
+    },
+    {
+        "question": "What is one of the main limitations of ground-based telescopes?",
+        "options": [
+            "Earth's atmosphere distorts light from stars",
+            "They cannot detect planets beyond our solar system",
+            "They can only detect black holes",
+            "They are not powerful enough to see stars"
+        ],
+        "answer": "Earth's atmosphere distorts light from stars"
+    },
+    {
+        "question": "What are exoplanets?",
+        "options": [
+            "Planets that orbit stars outside our solar system",
+            "Moons that orbit planets in our solar system",
+            "Stars that are very far from Earth",
+            "Distant galaxies"
+        ],
+        "answer": "Planets that orbit stars outside our solar system"
+    },
+    {
+        "question": "What is a 'hot Jupiter'?",
+        "options": [
+            "A gas giant exoplanet that orbits very close to its star",
+            "A small, rocky planet close to its star",
+            "A planet made of lava",
+            "A star that is very close to a gas giant"
+        ],
+        "answer": "A gas giant exoplanet that orbits very close to its star"
+    },
+    {
+        "question": "What type of planet is most likely to be found in the habitable zone?",
+        "options": [
+            "Earth-sized planets",
+            "Gas giants",
+            "Ice giants",
+            "Dwarf planets"
+        ],
+        "answer": "Earth-sized planets"
+    },
+    {
+        "question": "Why are astronomers excited to study exoplanet atmospheres?",
+        "options": [
+            "To search for signs of life",
+            "To see how planets form",
+            "To find the hottest planet",
+            "To locate water on every planet"
+        ],
+        "answer": "To search for signs of life"
+    },
+    {
+        "question": "What kind of exoplanets have been discovered that orbit extremely close to their stars?",
+        "options": [
+            "Hot Jupiters",
+            "Super-Earths",
+            "Mini-Neptunes",
+            "Ice Giants"
+        ],
+        "answer": "Hot Jupiters"
+    },
+    {
+        "question": "What tool is used to study exoplanet atmospheres in detail?",
+        "options": [
+            "James Webb Space Telescope",
+            "Kepler Space Telescope",
+            "TESS",
+            "Hubble Space Telescope"
+        ],
+        "answer": "James Webb Space Telescope"
+    },
+    {
+        "question": "How do exoplanet atmospheres provide clues to the possibility of life?",
+        "options": [
+            "They contain gases like oxygen and methane",
+            "They are always made of hydrogen",
+            "They reflect light in certain colors",
+            "They contain black holes"
+        ],
+        "answer": "They contain gases like oxygen and methane"
+    },
+    {
+        "question": "Which exoplanets are easier to find using the transit method?",
+        "options": [
+            "Large planets that pass in front of their star",
+            "Small rocky planets close to their stars",
+            "Planets in the outer regions of their star systems",
+            "Planets orbiting red dwarf stars"
+        ],
+        "answer": "Large planets that pass in front of their star"
+    },
+    {
+        "question": "What is the purpose of the radial velocity method in exoplanet detection?",
+        "options": [
+            "It detects tiny wobbles in a star's motion caused by an orbiting planet",
+            "It measures the distance between planets",
+            "It measures the speed of light from a planet",
+            "It detects the temperature of a planet"
+        ],
+        "answer": "It detects tiny wobbles in a star's motion caused by an orbiting planet"
+    },
+    {
+        "question": "Which space telescope was launched specifically to find planets using the transit method?",
+        "options": [
+            "Kepler Space Telescope",
+            "James Webb Space Telescope",
+            "Hubble Space Telescope",
+            "Spitzer Space Telescope"
+        ],
+        "answer": "Kepler Space Telescope"
+    },
+    {
+        "question": "What is the habitable zone around a star?",
+        "options": [
+            "The region where liquid water could exist",
+            "The area closest to the star",
+            "The area where no planets exist",
+            "The area where stars emit no radiation"
+        ],
+        "answer": "The region where liquid water could exist"
+    },
+    {
+        "question": "Why is it challenging to detect exoplanets?",
+        "options": [
+            "They are small and dim compared to their stars",
+            "They are always too far away to be seen",
+            "They emit too much radiation",
+            "They always have thick clouds covering them"
+        ],
+        "answer": "They are small and dim compared to their stars"
+    },
+    {
+        "question": "How do astronomers measure the size of an exoplanet using the transit method?",
+        "options": [
+            "By measuring how much the star's light dims when the planet passes in front of it",
+            "By observing how fast the planet moves",
+            "By calculating the planet's distance from its star",
+            "By measuring the temperature of the star"
+        ],
+        "answer": "By measuring how much the star's light dims when the planet passes in front of it"
+    },
+    {
+        "question": "Which type of exoplanet is most likely to be found orbiting close to its star?",
+        "options": [
+            "Hot Jupiters",
+            "Ice Giants",
+            "Super-Earths",
+            "Dwarf Planets"
+        ],
+        "answer": "Hot Jupiters"
+    },
+    {
+        "question": "What is one of the main goals of the James Webb Space Telescope?",
+        "options": [
+            "To study exoplanet atmospheres and search for signs of life",
+            "To take pictures of black holes",
+            "To observe distant galaxies",
+            "To find water on Mars"
+        ],
+        "answer": "To study exoplanet atmospheres and search for signs of life"
+    },
+    {
+        "question": "What is the primary challenge of direct imaging of exoplanets?",
+        "options": [
+            "The brightness of the host star makes it difficult to see the planet",
+            "The planets are too cold to detect",
+            "The planets are too far away to image",
+            "The telescopes are not powerful enough"
+        ],
+        "answer": "The brightness of the host star makes it difficult to see the planet"
+    },
+    {
+        "question": "What do exoplanet atmospheres help scientists understand?",
+        "options": [
+            "Whether a planet could potentially support life",
+            "The age of the star system",
+            "The formation of stars",
+            "How black holes influence planets"
+        ],
+        "answer": "Whether a planet could potentially support life"
+    },
+    {
+        "question": "Which space telescope will take over from Hubble for observing distant planets?",
+        "options": [
+            "James Webb Space Telescope",
+            "Chandra X-ray Observatory",
+            "Fermi Gamma-ray Space Telescope",
+            "Kepler Space Telescope"
+        ],
+        "answer": "James Webb Space Telescope"
+    },
+    {
+        "question": "What characteristic of exoplanets is easiest to measure using the transit method?",
+        "options": [
+            "Their size",
+            "Their color",
+            "Their temperature",
+            "Their composition"
+        ],
+        "answer": "Their size"
+    },
+    {
+        "question": "Why is it important to find exoplanets in the habitable zone?",
+        "options": [
+            "They could potentially support liquid water and life",
+            "They are more likely to be gas giants",
+            "They have more moons",
+            "They are easier to detect"
+        ],
+        "answer": "They could potentially support liquid water and life"
+    },
+    {
+        "question": "What is a 'super-Earth'?",
+        "options": [
+            "A planet larger than Earth but smaller than gas giants",
+            "A planet the size of Jupiter",
+            "A planet that orbits two stars",
+            "A planet with a thick atmosphere"
+        ],
+        "answer": "A planet larger than Earth but smaller than gas giants"
+    },
+    {
+        "question": "Which telescope has been instrumental in discovering thousands of exoplanets?",
+        "options": [
+            "Kepler Space Telescope",
+            "Chandra X-ray Observatory",
+            "James Webb Space Telescope",
+            "Spitzer Space Telescope"
+        ],
+        "answer": "Kepler Space Telescope"
+    }
+]

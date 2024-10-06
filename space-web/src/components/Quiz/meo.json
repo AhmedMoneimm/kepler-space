@@ -1,0 +1,832 @@
+[
+    {
+        "question": "What is a significant challenge in discovering exoplanets?",
+        "options": [
+            "Planets are much larger than stars",
+            "Planets are billion times fainter than stars",
+            "Planets produce a lot of light",
+            "Planets are easy to observe"
+        ],
+        "answer": "Planets are billion times fainter than stars"
+    },
+    {
+        "question": "Which of the following is NOT one of the primary challenges faced when searching for exoplanets?",
+        "options": [
+            "Planets are small and faint compared to stars",
+            "Planets produce their own light",
+            "Planets are far away from us",
+            "Planets are faint against the backdrop of bright stars"
+        ],
+        "answer": "Planets produce their own light"
+    },
+    {
+        "question": "What kind of methods are primarily used to detect exoplanets?",
+        "options": [
+            "Direct methods",
+            "Indirect methods",
+            "Non-intrusive methods",
+            "Visible light methods"
+        ],
+        "answer": "Indirect methods"
+    },
+    {
+        "question": "Which method detects planets by observing their effect on their parent star?",
+        "options": [
+            "Direct Imaging Method",
+            "Astrometry Method",
+            "Transit Method",
+            "Doppler Effect Method"
+        ],
+        "answer": "Transit Method"
+    },
+    {
+        "question": "What is one of the strengths of the Transit Method?",
+        "options": [
+            "It directly images planets",
+            "It measures the star's wobble",
+            "It can observe planets in motion",
+            "It captures planets' light"
+        ],
+        "answer": "It can observe planets in motion"
+    },
+    {
+        "question": "Which of the following methods is used to measure the gravitational pull of a planet on its star?",
+        "options": [
+            "Radial Velocity Method",
+            "Astrometry Method",
+            "Pulsar Timing Method",
+            "Microlensing Method"
+        ],
+        "answer": "Radial Velocity Method"
+    },
+    {
+        "question": "What is a major limitation of ground-based observations?",
+        "options": [
+            "They can detect large planets only",
+            "They are blocked by Earth's atmosphere",
+            "They can detect exoplanets in the Kuiper Belt",
+            "They use too much light"
+        ],
+        "answer": "They are blocked by Earth's atmosphere"
+    },
+    {
+        "question": "What is the purpose of the Astrometry Method?",
+        "options": [
+            "To measure the star's temperature",
+            "To observe direct light from planets",
+            "To detect the slight wobble of stars caused by planets",
+            "To measure planetary atmospheres"
+        ],
+        "answer": "To detect the slight wobble of stars caused by planets"
+    },
+    {
+        "question": "What does the Direct Imaging Method attempt to do?",
+        "options": [
+            "Detect planets indirectly",
+            "Capture direct images of exoplanets",
+            "Measure the mass of stars",
+            "Analyze the gravitational pull of stars"
+        ],
+        "answer": "Capture direct images of exoplanets"
+    },
+    {
+        "question": "Which method detects planets by observing the dimming of a star's light?",
+        "options": [
+            "Direct Imaging",
+            "Astrometry",
+            "Transit Method",
+            "Doppler Effect"
+        ],
+        "answer": "Transit Method"
+    },
+    {
+        "question": "What is the advantage of using the Microlensing Method?",
+        "options": [
+            "It measures star brightness",
+            "It detects planets at great distances",
+            "It is the simplest method",
+            "It ignores star positions"
+        ],
+        "answer": "It detects planets at great distances"
+    },
+    {
+        "question": "Which method is specifically designed to find free-floating planets?",
+        "options": [
+            "Transit Method",
+            "Astrometry Method",
+            "Microlensing Method",
+            "Radial Velocity Method"
+        ],
+        "answer": "Microlensing Method"
+    },
+    {
+        "question": "How does combining different methods help scientists?",
+        "options": [
+            "It complicates data analysis",
+            "It helps to refine measurements and learn more about planets",
+            "It makes planet discovery impossible",
+            "None of the above"
+        ],
+        "answer": "It helps to refine measurements and learn more about planets"
+    },
+    {
+        "question": "What percentage of exoplanet discoveries does the Radial Velocity Method account for?",
+        "options": [
+            "19%",
+            "30%",
+            "50%",
+            "40%"
+        ],
+        "answer": "19%"
+    },
+    {
+        "question": "Which method accounts for approximately 74.5% of all exoplanet discoveries?",
+        "options": [
+            "The Astrometry Method",
+            "The Radial Velocity Method",
+            "The Transit Method",
+            "The Direct Imaging Method"
+        ],
+        "answer": "The Transit Method"
+    },
+    {
+        "question": "What does the term 'wobble' refer to in exoplanet detection?",
+        "options": [
+            "The way planets rotate",
+            "The movement of a star caused by a planet's gravity",
+            "The brightness of a star",
+            "The color of a star"
+        ],
+        "answer": "The movement of a star caused by a planet's gravity"
+    },
+    {
+        "question": "What role does the Doppler Effect play in exoplanet detection?",
+        "options": [
+            "It measures light absorption",
+            "It shifts the light frequency as the star moves",
+            "It detects star temperatures",
+            "It measures planet sizes"
+        ],
+        "answer": "It shifts the light frequency as the star moves"
+    },
+    {
+        "question": "Which of the following is NOT a method used to detect exoplanets?",
+        "options": [
+            "The Transit Method",
+            "The Direct Imaging Method",
+            "The Pulse Method",
+            "The Radial Velocity Method"
+        ],
+        "answer": "The Pulse Method"
+    },
+    {
+        "question": "What kind of data do astronomers collect to detect planets?",
+        "options": [
+            "Light shifts",
+            "Sound waves",
+            "Temperature readings",
+            "Star compositions"
+        ],
+        "answer": "Light shifts"
+    },
+    {
+        "question": "What does the term 'gravitational microlensing' refer to?",
+        "options": [
+            "Using gravity to capture images",
+            "Detecting light bending caused by a planet's gravity",
+            "Measuring star temperatures",
+            "None of the above"
+        ],
+        "answer": "Detecting light bending caused by a planet's gravity"
+    },
+    {
+        "question": "What is the significance of the data collected from different methods?",
+        "options": [
+            "They can confirm exoplanets",
+            "They provide no useful information",
+            "They make things more complicated",
+            "They reduce the need for observation"
+        ],
+        "answer": "They can confirm exoplanets"
+    },
+    {
+        "question": "Which planet detection method is used primarily for planets far from their host stars?",
+        "options": [
+            "Transit Method",
+            "Astrometry Method",
+            "Direct Imaging Method",
+            "Radial Velocity Method"
+        ],
+        "answer": "Astrometry Method"
+    },
+    {
+        "question": "What is the major challenge for the Direct Imaging Method?",
+        "options": [
+            "Detecting faint light from planets",
+            "Finding bright stars",
+            "Measuring distances",
+            "All of the above"
+        ],
+        "answer": "Detecting faint light from planets"
+    },
+    {
+        "question": "What is the role of ground-based observatories in exoplanet research?",
+        "options": [
+            "They only focus on star brightness",
+            "They help confirm discoveries made by space missions",
+            "They ignore star systems",
+            "None of the above"
+        ],
+        "answer": "They help confirm discoveries made by space missions"
+    },
+    {
+        "question": "What technique is especially useful for detecting free-floating planets?",
+        "options": [
+            "Transit Method",
+            "Doppler Spectroscopy",
+            "Gravitational Microlensing",
+            "Radial Velocity Method"
+        ],
+        "answer": "Gravitational Microlensing"
+    },
+    {
+        "question": "What is the role of spectroscopy in exoplanet detection?",
+        "options": [
+            "It detects temperature changes",
+            "It analyzes light to understand planet characteristics",
+            "It measures star wobble",
+            "None of the above"
+        ],
+        "answer": "It analyzes light to understand planet characteristics"
+    },
+    {
+        "question": "How do astronomers overcome the challenge of observing faint exoplanets?",
+        "options": [
+            "By increasing brightness",
+            "By blocking out starlight",
+            "By ignoring background stars",
+            "None of the above"
+        ],
+        "answer": "By blocking out starlight"
+    },
+    {
+        "question": "What is a significant advantage of the Radial Velocity Method?",
+        "options": [
+            "It measures distances",
+            "It can directly observe planets",
+            "It detects gravitational effects on stars",
+            "None of the above"
+        ],
+        "answer": "It detects gravitational effects on stars"
+    },
+    {
+        "question": "What technology enhances the effectiveness of exoplanet detection methods?",
+        "options": [
+            "Advanced telescopes",
+            "Basic cameras",
+            "Old technology",
+            "None"
+        ],
+        "answer": "Advanced telescopes"
+    },
+    {
+        "question": "What aspect of a star's light is crucial for the Transit Method?",
+        "options": [
+            "Brightness variations",
+            "Color changes",
+            "Distance",
+            "Mass"
+        ],
+        "answer": "Brightness variations"
+    },
+    {
+        "question": "What can astronomers learn from the data collected using the Transit Method?",
+        "options": [
+            "The distance to stars",
+            "Planetary sizes and atmospheres",
+            "Star colors",
+            "None of the above"
+        ],
+        "answer": "Planetary sizes and atmospheres"
+    },
+    {
+        "question": "What factor makes the Doppler Effect useful in exoplanet detection?",
+        "options": [
+            "It measures sound",
+            "It detects light frequency shifts",
+            "It observes star size",
+            "None"
+        ],
+        "answer": "It detects light frequency shifts"
+    },
+    {
+        "question": "What does the term 'habitable zone' refer to?",
+        "options": [
+            "A zone with many stars",
+            "An area where conditions might allow liquid water",
+            "A cold zone",
+            "None"
+        ],
+        "answer": "An area where conditions might allow liquid water"
+    },
+    {
+        "question": "Which of the following methods allows the study of exoplanet atmospheres?",
+        "options": [
+            "Astrometry",
+            "Microlensing",
+            "Transit Method",
+            "Radial Velocity Method"
+        ],
+        "answer": "Transit Method"
+    },
+    {
+        "question": "What makes the Astrometry Method unique?",
+        "options": [
+            "It directly measures planetary masses",
+            "It observes light curves",
+            "It detects star wobble",
+            "None of the above"
+        ],
+        "answer": "It directly measures planetary masses"
+    },
+    {
+        "question": "What can multi-method approaches to exoplanet research help determine?",
+        "options": [
+            "Only mass",
+            "Size and distance",
+            "Surface temperature",
+            "None"
+        ],
+        "answer": "Size and distance"
+    },
+    {
+        "question": "What does the light curve indicate when it shows a consistent dip?",
+        "options": [
+            "An unstable star",
+            "The presence of a planet",
+            "High energy activity",
+            "None"
+        ],
+        "answer": "The presence of a planet"
+    },
+    {
+        "question": "What does the gravitational microlensing method measure?",
+        "options": [
+            "The energy from a star",
+            "Star brightness",
+            "Planetary shadows",
+            "Light bending caused by gravity"
+        ],
+        "answer": "Light bending caused by gravity"
+    },
+    {
+        "question": "What type of planets are easiest to detect with the Radial Velocity Method?",
+        "options": [
+            "Small planets far from stars",
+            "Large, massive planets close to their stars",
+            "All types of planets",
+            "None"
+        ],
+        "answer": "Large, massive planets close to their stars"
+    },
+    {
+        "question": "What astronomical feature is crucial for the Microlensing Method?",
+        "options": [
+            "Bright stars",
+            "Massive objects",
+            "Planets",
+            "None"
+        ],
+        "answer": "Massive objects"
+    },
+    {
+        "question": "What discovery technique allows scientists to capture direct images of planets?",
+        "options": [
+            "Microlensing",
+            "Direct Imaging Method",
+            "Astrometry",
+            "Doppler Effect"
+        ],
+        "answer": "Direct Imaging Method"
+    },
+    {
+        "question": "What role does stellar activity play in exoplanet detection?",
+        "options": [
+            "It complicates measurements",
+            "It makes detection easier",
+            "It has no effect",
+            "None"
+        ],
+        "answer": "It complicates measurements"
+    },
+    {
+        "question": "Which method is often combined with others to confirm exoplanets?",
+        "options": [
+            "Astrometry",
+            "Transit Method",
+            "Direct Imaging",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What future aspect does exoplanet detection aim to uncover?",
+        "options": [
+            "Star sizes",
+            "Planetary atmospheres and habitability",
+            "Distance to Earth",
+            "None"
+        ],
+        "answer": "Planetary atmospheres and habitability"
+    },
+    {
+        "question": "What technology can enhance the capabilities of the Transit Method?",
+        "options": [
+            "Star filters",
+            "Advanced algorithms",
+            "Spectrographs",
+            "None"
+        ],
+        "answer": "Spectrographs"
+    },
+    {
+        "question": "What is the benefit of the Doppler Spectroscopy Method?",
+        "options": [
+            "Measuring light intensity",
+            "Detecting distance",
+            "Observing gravitational pull",
+            "None"
+        ],
+        "answer": "Observing gravitational pull"
+    },
+    {
+        "question": "What is the main focus of gravitational microlensing?",
+        "options": [
+            "Distant planets",
+            "Stars with planets",
+            "Light bending",
+            "None"
+        ],
+        "answer": "Light bending"
+    },
+    {
+        "question": "What can be inferred from a star's wobble?",
+        "options": [
+            "Star size",
+            "Presence of planets",
+            "Star brightness",
+            "None"
+        ],
+        "answer": "Presence of planets"
+    },
+    {
+        "question": "Which method can study exoplanet atmospheres during transits?",
+        "options": [
+            "Direct Imaging",
+            "Transit Spectroscopy",
+            "Astrometry",
+            "None"
+        ],
+        "answer": "Transit Spectroscopy"
+    },
+    {
+        "question": "What does a longer transit duration indicate?",
+        "options": [
+            "Smaller planet",
+            "Larger planet",
+            "Faster orbit",
+            "None"
+        ],
+        "answer": "Larger planet"
+    },
+    {
+        "question": "What type of exoplanet detection is less effective for distant planets?",
+        "options": [
+            "Radial Velocity Method",
+            "Astrometry",
+            "Microlensing",
+            "All of the above"
+        ],
+        "answer": "Astrometry"
+    },
+    {
+        "question": "What does a brightening star light curve suggest?",
+        "options": [
+            "Presence of planets",
+            "Star stability",
+            "Planet distance",
+            "None"
+        ],
+        "answer": "Presence of planets"
+    },
+    {
+        "question": "What kind of measurements are most effectively gathered through astrometry?",
+        "options": [
+            "Wobble detection",
+            "Distance measurements",
+            "Mass calculations",
+            "None"
+        ],
+        "answer": "Wobble detection"
+    },
+    {
+        "question": "What advantage does the Transit Method have for smaller planets?",
+        "options": [
+            "Better detection range",
+            "Ease of observation",
+            "Light curve analysis",
+            "None"
+        ],
+        "answer": "Light curve analysis"
+    },
+    {
+        "question": "How do astronomers improve detection sensitivity?",
+        "options": [
+            "Use larger telescopes",
+            "Improve imaging techniques",
+            "Both A and B",
+            "None"
+        ],
+        "answer": "Both A and B"
+    },
+    {
+        "question": "What critical information does the light curve provide?",
+        "options": [
+            "Star mass",
+            "Planetary orbits",
+            "Planet size",
+            "None"
+        ],
+        "answer": "Planet size"
+    },
+    {
+        "question": "What can studying light curves help determine about exoplanets?",
+        "options": [
+            "Only distance",
+            "Atmospheric composition",
+            "Star age",
+            "None"
+        ],
+        "answer": "Atmospheric composition"
+    },
+    {
+        "question": "Which method is least effective for finding distant planets?",
+        "options": [
+            "Direct Imaging",
+            "Astrometry",
+            "Radial Velocity",
+            "None"
+        ],
+        "answer": "Direct Imaging"
+    },
+    {
+        "question": "What aspect of planets is hardest to measure?",
+        "options": [
+            "Mass",
+            "Color",
+            "Light",
+            "None"
+        ],
+        "answer": "Mass"
+    },
+    {
+        "question": "What kind of technology supports the Transit Method?",
+        "options": [
+            "Cameras",
+            "Spectroscopes",
+            "Telescopes",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What can the combination of multiple detection methods provide?",
+        "options": [
+            "Unreliable results",
+            "More precise measurements",
+            "Only mass data",
+            "None"
+        ],
+        "answer": "More precise measurements"
+    },
+    {
+        "question": "What does the presence of a dip in a light curve indicate?",
+        "options": [
+            "A planet's presence",
+            "Star activity",
+            "Distance from Earth",
+            "None"
+        ],
+        "answer": "A planet's presence"
+    },
+    {
+        "question": "What factor is critical for microlensing detection?",
+        "options": [
+            "Star distance",
+            "Planet mass",
+            "Gravitational influence",
+            "None"
+        ],
+        "answer": "Gravitational influence"
+    },
+    {
+        "question": "What is the primary goal of the Transit Method?",
+        "options": [
+            "Detect light shifts",
+            "Capture images",
+            "Measure planet sizes",
+            "None"
+        ],
+        "answer": "Measure planet sizes"
+    },
+    {
+        "question": "Which method is primarily used for detecting massive planets?",
+        "options": [
+            "Transit Method",
+            "Doppler Effect",
+            "Radial Velocity",
+            "None"
+        ],
+        "answer": "Radial Velocity"
+    },
+    {
+        "question": "How do astronomers analyze the effects of planets on stars?",
+        "options": [
+            "By measuring light intensity",
+            "By using astrometry",
+            "By examining shifts in light",
+            "None"
+        ],
+        "answer": "By examining shifts in light"
+    },
+    {
+        "question": "What makes the Doppler Effect useful in exoplanet detection?",
+        "options": [
+            "Measuring temperature",
+            "Light frequency changes",
+            "Distance measurement",
+            "None"
+        ],
+        "answer": "Light frequency changes"
+    },
+    {
+        "question": "Which detection method is best for small planets?",
+        "options": [
+            "Radial Velocity",
+            "Transit Method",
+            "Doppler Effect",
+            "None"
+        ],
+        "answer": "Transit Method"
+    },
+    {
+        "question": "What does the presence of an atmosphere indicate?",
+        "options": [
+            "Potential for life",
+            "Planet distance",
+            "Star type",
+            "None"
+        ],
+        "answer": "Potential for life"
+    },
+    {
+        "question": "What type of detection method does not rely on light?",
+        "options": [
+            "Astrometry",
+            "Microlensing",
+            "Radial Velocity",
+            "None"
+        ],
+        "answer": "Microlensing"
+    },
+    {
+        "question": "What technique allows astronomers to search for exoplanets indirectly?",
+        "options": [
+            "Direct Imaging",
+            "Transit Method",
+            "Astrometry",
+            "None"
+        ],
+        "answer": "Transit Method"
+    },
+    {
+        "question": "What makes the Radial Velocity Method effective for detecting large planets?",
+        "options": [
+            "High temperatures",
+            "Gravitational pull",
+            "Distance",
+            "None"
+        ],
+        "answer": "Gravitational pull"
+    },
+    {
+        "question": "How do astronomers use light curves?",
+        "options": [
+            "To measure distances",
+            "To detect stars",
+            "To analyze brightness changes",
+            "None"
+        ],
+        "answer": "To analyze brightness changes"
+    },
+    {
+        "question": "What is a primary challenge of direct imaging?",
+        "options": [
+            "Faint light",
+            "Measuring size",
+            "Star brightness",
+            "None"
+        ],
+        "answer": "Faint light"
+    },
+    {
+        "question": "Which method can be used to confirm the presence of exoplanets?",
+        "options": [
+            "Radial Velocity",
+            "Transit Method",
+            "Astrometry",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What can scientists determine from the mass of a planet?",
+        "options": [
+            "Size",
+            "Atmospheric composition",
+            "Distance from star",
+            "None"
+        ],
+        "answer": "Atmospheric composition"
+    },
+    {
+        "question": "What is the significance of the transit method in exoplanet discovery?",
+        "options": [
+            "Detects atmospheres",
+            "Determines planet masses",
+            "Measures light shifts",
+            "None"
+        ],
+        "answer": "Detects atmospheres"
+    },
+    {
+        "question": "What type of objects can be detected using gravitational microlensing?",
+        "options": [
+            "Only stars",
+            "Free-floating planets",
+            "Black holes only",
+            "None"
+        ],
+        "answer": "Free-floating planets"
+    },
+    {
+        "question": "How does the direct imaging method work?",
+        "options": [
+            "By analyzing light shifts",
+            "By capturing light directly from planets",
+            "By measuring gravitational pull",
+            "None"
+        ],
+        "answer": "By capturing light directly from planets"
+    },
+    {
+        "question": "What is the purpose of using multiple methods in exoplanet research?",
+        "options": [
+            "To confirm results",
+            "To confuse scientists",
+            "To complicate research",
+            "None"
+        ],
+        "answer": "To confirm results"
+    },
+    {
+        "question": "Which method relies on observing light curves?",
+        "options": [
+            "Astrometry",
+            "Microlensing",
+            "Transit Method",
+            "None"
+        ],
+        "answer": "Transit Method"
+    },
+    {
+        "question": "What information can be gained from studying star wobble?",
+        "options": [
+            "Star distance",
+            "Presence of exoplanets",
+            "Star temperature",
+            "None"
+        ],
+        "answer": "Presence of exoplanets"
+    },
+    {
+        "question": "What advantage does the Transit Method have?",
+        "options": [
+            "Best for small planets",
+            "Can detect atmospheres",
+            "Requires less time",
+            "None"
+        ],
+        "answer": "Can detect atmospheres"
+    }
+]

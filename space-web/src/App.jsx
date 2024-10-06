@@ -12,10 +12,10 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import Chatbot from "./components/Chatbot/Chatbot"; 
 import ExoplanetOverview from "./components/Exoplanet/ExoplanetOverview"; 
-import GasGiants from "./components/Exoplanet_types/GasGiants.jsx"; 
-import Neptunian from "./components/Exoplanet_types/Neptunian.jsx"; 
-import SuperEarth from "./components/Exoplanet_types/SuperEarth.jsx"; 
-import Rocky from "./components/Exoplanet_types/Rocky.jsx"; 
+import GasGiants from "./components/Exoplanet_types_types/GasGiants.jsx.jsx"; 
+import Neptunian from "./components/Exoplanet_types_types/Neptunian.jsx.jsx"; 
+import SuperEarth from "./components/Exoplanet_types_types/SuperEarth.jsx.jsx"; 
+import Rocky from "./components/Exoplanet_types_types/Rocky.jsx.jsx"; 
 import QuizPage from "./components/Quiz/QuizPage";
 import QuizGas from "./components/Quiz/QuizGas";
 import QuizNep from "./components/Quiz/QuizNep";
@@ -38,7 +38,6 @@ import TESS from "./components/Telescopes/TESS.jsx";
 import ExoplanetNaming from "./components/Exoplanet/Naming.jsx";
 import Game from "./components/game/game"; // Import the Game component
 import CandidateVSConfirmed from "./components/Exoplanet/CandidateVSConfirmed.jsx";
-import SearchForLife from "./components/Exoplanet/Search_for_life.jsx";
 
 const App = () => {
   React.useEffect(() => {
@@ -76,6 +75,7 @@ const App = () => {
           } />
 
           {/* Exoplanet routes */}
+          {/* Exoplanet routes */}
           <Route path="/exoplanet/overview" element={<ExoplanetOverview />} />
           <Route path="/exoplanet/naming" element={<ExoplanetNaming />} />
           <Route path="/exoplanet/CandidateVSConfirmed" element={<CandidateVSConfirmed />} />
@@ -85,8 +85,7 @@ const App = () => {
           <Route path="/exoplanet/gas-giants" element={<GasGiants />} />
           <Route path="/exoplanet/neptunian" element={<Neptunian />} />
           <Route path="/exoplanet/super-earth" element={<SuperEarth />} />
-          <Route path="/exoplanet/rocky" element={<Rocky />} /> 
-          {/* Add Exoplanet Quiz routes */}
+          <Route path="/exoplanet/rocky" element={<Rocky />} />
           <Route path="/quiz" element={<QuizPage />} /> 
           <Route path="/quizgas" element={<QuizGas />} /> 
           <Route path="/quiznep" element={<QuizNep />} /> 
@@ -109,6 +108,18 @@ const App = () => {
           <Route path="/telescope/Tess" element={<TESS />} />
           {/* Add Game route */}
           <Route path="/game" element={<Game />} /> {/* Add Game route */}
+          <Route path="/quiztel" element={<Quiztel />} />
+          <Route path="/quizhub" element={<Quizhub />} />
+          <Route path="/quizjw" element={<Quizjw />} />
+          <Route path="/quizkep" element={<Quizkep />} />
+          <Route path="/quizspi" element={<Quizspi />} />
+          <Route path="/quiztes" element={<Quiztes />} />
+          <Route path="/quizmeo" element={<Quizmeo />} />
+          <Route path="/quizast" element={<Quizast />} />
+          <Route path="/quizdir" element={<Quizdir />} />
+          <Route path="/quizmic" element={<Quizmic />} />
+          <Route path="/quizrad" element={<Quizrad />} />
+          <Route path="/quiztra" element={<Quiztra />} />
         </Routes>
 
         <Chatbot />
