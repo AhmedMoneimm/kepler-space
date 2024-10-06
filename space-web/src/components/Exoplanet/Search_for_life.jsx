@@ -8,8 +8,8 @@ const SearchForLife = () => {
       quizPath="/quiz"
       previousPath="/exoplanet/CandidateVSConfirmed" // Previous page
       nextPath="/" // Next page
-      imageUrls={["../src/assets/Exoplanets/habzone.png"]}
-      // order=[2]
+      imageUrls={["", "", "../src/assets/Exoplanets/habzone.png",""]}  // Third item is the actual image
+      // order={[2]}
     />
   );
 };

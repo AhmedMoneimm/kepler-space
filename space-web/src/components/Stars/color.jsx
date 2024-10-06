@@ -8,7 +8,7 @@ const StarsColor = () => {
       quizPath="/quiz"
       previousPath="/stars/overview" // Previous page path
       nextPath="/stars/life" // Next page path
-      imageUrls={["../src/assets/Stars/colors.png"]}
+      imageUrls={["","","../src/assets/Stars/colors.png"]}
       // order=[2]
     />
   );
