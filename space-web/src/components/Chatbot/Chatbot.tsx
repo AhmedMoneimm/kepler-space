@@ -10,7 +10,7 @@ interface Message {
 const Chatbot: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [messages, setMessages] = useState<Message[]>([
-    { text: "Hello my friend, I'm your fellow AI friend. Want me to help you with something?", sender: 'bot' }
+    { text: "Hello my friend, I'm Astra, your fellow AI friend. Want me to help you with something?", sender: 'bot' }
   ]);
   const [inputValue, setInputValue] = useState('');
   const [isBotTyping, setIsBotTyping] = useState(false);

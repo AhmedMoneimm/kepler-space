@@ -1,0 +1,512 @@
+[
+    {
+        "question": "What are stars often described as in the universe?",
+        "options": ["Giant balls of gas", "Burning powerhouses", "Cosmic dust", "Supernovae"],
+        "answer": "Burning powerhouses"
+    },
+    {
+        "question": "What determines the brightness of stars we see at night?",
+        "options": ["Their size", "Their distance from Earth", "Their color", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which color of stars is associated with the hottest temperatures?",
+        "options": ["Red", "Orange", "Blue", "Yellow"],
+        "answer": "Blue"
+    },
+    {
+        "question": "What type of star is our Sun classified as?",
+        "options": ["A-type star", "G-type yellow dwarf", "M-type star", "B-type star"],
+        "answer": "G-type yellow dwarf"
+    },
+    {
+        "question": "How are stars classified based on their temperature?",
+        "options": ["By their mass", "By their distance", "By their color and temperature", "By their brightness"],
+        "answer": "By their color and temperature"
+    },
+    {
+        "question": "What is the main sequence in a star's life cycle?",
+        "options": ["The phase when stars explode", "The stable phase of hydrogen fusion", "The phase of star formation", "The end of a star's life"],
+        "answer": "The stable phase of hydrogen fusion"
+    },
+    {
+        "question": "How long can small stars live compared to big stars?",
+        "options": ["Just as long", "Longer", "Shorter", "They don't live at all"],
+        "answer": "Longer"
+    },
+    {
+        "question": "What happens in the core of a star during the main sequence?",
+        "options": ["Hydrogen atoms fuse to create helium", "The star cools down", "Stars burn out", "Supernova explosions occur"],
+        "answer": "Hydrogen atoms fuse to create helium"
+    },
+    {
+        "question": "What type of stars are the hottest?",
+        "options": ["G-type stars", "O-type stars", "K-type stars", "M-type stars"],
+        "answer": "O-type stars"
+    },
+    {
+        "question": "What is one of the main characteristics of a G-type star?",
+        "options": ["It is blue", "It is a red giant", "It is a yellow dwarf", "It is a supernova"],
+        "answer": "It is a yellow dwarf"
+    },
+    {
+        "question": "What do astronomers use to classify stars?",
+        "options": ["Their brightness", "Their distance from Earth", "Their mass and composition", "Their color and temperature"],
+        "answer": "Their color and temperature"
+    },
+    {
+        "question": "What is the significance of a star's color?",
+        "options": ["It indicates its size", "It indicates its temperature", "It indicates its distance", "It has no significance"],
+        "answer": "It indicates its temperature"
+    },
+    {
+        "question": "What is the average lifespan of big stars?",
+        "options": ["Billions of years", "Trillions of years", "A few million years", "Thousands of years"],
+        "answer": "A few million years"
+    },
+    {
+        "question": "What happens to stars at the end of their life cycle?",
+        "options": ["They explode", "They collapse", "They turn into black holes", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the core of a star like during the main sequence?",
+        "options": ["A cold region", "A fusion reactor", "A solid mass", "A gas cloud"],
+        "answer": "A fusion reactor"
+    },
+    {
+        "question": "What type of stars are cooler than the Sun?",
+        "options": ["O-type stars", "B-type stars", "K-type stars", "F-type stars"],
+        "answer": "K-type stars"
+    },
+    {
+        "question": "Why do stars appear to twinkle?",
+        "options": ["Due to atmospheric turbulence", "Because they are burning", "Due to their distance", "All of the above"],
+        "answer": "Due to atmospheric turbulence"
+    },
+    {
+        "question": "What element primarily fuels the fusion process in stars?",
+        "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "How do astronomers measure the distance to stars?",
+        "options": ["By their brightness", "Using parallax", "By color", "All of the above"],
+        "answer": "Using parallax"
+    },
+    {
+        "question": "What is a supernova?",
+        "options": ["A bright star", "The explosive death of a star", "A type of black hole", "A star that doesn't shine"],
+        "answer": "The explosive death of a star"
+    },
+    {
+        "question": "What do stars primarily emit?",
+        "options": ["Sound", "Light", "Magnetism", "Gravity"],
+        "answer": "Light"
+    },
+    {
+        "question": "What does the temperature of a star affect?",
+        "options": ["Its color", "Its size", "Its distance", "Its brightness"],
+        "answer": "Its color"
+    },
+    {
+        "question": "How long does our Sun have before it exhausts its fuel?",
+        "options": ["A few million years", "A few billion years", "A few thousand years", "A few trillion years"],
+        "answer": "A few billion years"
+    },
+    {
+        "question": "What can studying stars teach us about the universe?",
+        "options": ["The nature of gravity", "The history of the universe", "The possibility of life on other planets", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What are the coolest stars classified as?",
+        "options": ["G-type stars", "O-type stars", "M-type stars", "B-type stars"],
+        "answer": "M-type stars"
+    },
+    {
+        "question": "What indicates a star is burning hydrogen in its core?",
+        "options": ["It is bright", "It is white", "It is stable", "It is cold"],
+        "answer": "It is stable"
+    },
+    {
+        "question": "What does the classification of a star help astronomers understand?",
+        "options": ["Its location", "Its lifecycle", "Its color", "Its distance"],
+        "answer": "Its lifecycle"
+    },
+    {
+        "question": "What does a star's color indicate?",
+        "options": ["Its distance", "Its brightness", "Its temperature", "Its size"],
+        "answer": "Its temperature"
+    },
+    {
+        "question": "What are stars primarily composed of?",
+        "options": ["Solid material", "Gases", "Plasma", "Liquid"],
+        "answer": "Plasma"
+    },
+    {
+        "question": "How are stars formed?",
+        "options": ["From gas and dust clouds", "From solid materials", "From other stars", "From cosmic rays"],
+        "answer": "From gas and dust clouds"
+    },
+    {
+        "question": "What is the last stage of a massive star's life cycle?",
+        "options": ["Red giant", "Main sequence", "Supernova", "White dwarf"],
+        "answer": "Supernova"
+    },
+    {
+        "question": "What kind of star is the Sun classified as?",
+        "options": ["Red giant", "White dwarf", "G-type yellow dwarf", "Blue giant"],
+        "answer": "G-type yellow dwarf"
+    },
+    {
+        "question": "Which type of star is the most massive?",
+        "options": ["G-type", "B-type", "O-type", "K-type"],
+        "answer": "O-type"
+    },
+    {
+        "question": "What can cause a star to become a black hole?",
+        "options": ["A supernova explosion", "The main sequence phase", "Burning hydrogen", "Fusion of helium"],
+        "answer": "A supernova explosion"
+    },
+    {
+        "question": "How do stars produce energy?",
+        "options": ["Through chemical reactions", "Through nuclear fusion", "By burning coal", "By fission"],
+        "answer": "Through nuclear fusion"
+    },
+    {
+        "question": "What element does a star fuse into helium?",
+        "options": ["Hydrogen", "Oxygen", "Carbon", "Nitrogen"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "Which stars are hotter than the Sun?",
+        "options": ["K-type stars", "M-type stars", "O-type stars", "G-type stars"],
+        "answer": "O-type stars"
+    },
+    {
+        "question": "What is the primary factor determining a star's color?",
+        "options": ["Size", "Age", "Temperature", "Distance"],
+        "answer": "Temperature"
+    },
+    {
+        "question": "Which stars burn out the fastest?",
+        "options": ["Large stars", "Small stars", "Medium stars", "All stars burn out at the same rate"],
+        "answer": "Large stars"
+    },
+    {
+        "question": "What will eventually happen to the Sun?",
+        "options": ["It will turn into a supernova", "It will become a red giant", "It will become a black hole", "It will explode"],
+        "answer": "It will become a red giant"
+    },
+    {
+        "question": "What is a brown dwarf?",
+        "options": ["A small star", "A failed star", "A large planet", "A type of galaxy"],
+        "answer": "A failed star"
+    },
+    {
+        "question": "What can affect the brightness of a star?",
+        "options": ["Its distance", "Its size", "Its composition", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What happens during a star's main sequence phase?",
+        "options": ["It runs out of fuel", "It becomes a red giant", "It fuses hydrogen into helium", "It explodes"],
+        "answer": "It fuses hydrogen into helium"
+    },
+    {
+        "question": "Which type of star is the longest-lived?",
+        "options": ["G-type", "K-type", "M-type", "B-type"],
+        "answer": "M-type"
+    },
+    {
+        "question": "What do stars primarily emit during their life cycle?",
+        "options": ["X-rays", "Gamma rays", "Visible light", "Infrared light"],
+        "answer": "Visible light"
+    },
+    {
+        "question": "What is a white dwarf?",
+        "options": ["A young star", "The remnant of a low-mass star", "A type of supernova", "An exploding star"],
+        "answer": "The remnant of a low-mass star"
+    },
+    {
+        "question": "How is the brightness of a star measured?",
+        "options": ["With a thermometer", "By its color", "Using a photometer", "By its distance"],
+        "answer": "Using a photometer"
+    },
+    {
+        "question": "What happens to a star when it exhausts its hydrogen fuel?",
+        "options": ["It collapses", "It expands into a red giant", "It becomes a supernova", "It stays the same"],
+        "answer": "It expands into a red giant"
+    },
+    {
+        "question": "What defines the habitable zone around a star?",
+        "options": ["The distance at which water can exist as a liquid", "The size of the star", "The temperature of the star", "The brightness of the star"],
+        "answer": "The distance at which water can exist as a liquid"
+    },
+    {
+        "question": "What is the main function of a star's core?",
+        "options": ["To emit light", "To fuse elements", "To cool down", "To collapse"],
+        "answer": "To fuse elements"
+    },
+    {
+        "question": "Which stars are often considered the most stable?",
+        "options": ["G-type stars", "B-type stars", "O-type stars", "K-type stars"],
+        "answer": "G-type stars"
+    },
+    {
+        "question": "What type of fusion occurs in the cores of most stars?",
+        "options": ["Carbon fusion", "Helium fusion", "Hydrogen fusion", "Iron fusion"],
+        "answer": "Hydrogen fusion"
+    },
+    {
+        "question": "What can cause a star to become a neutron star?",
+        "options": ["A supernova explosion", "Main sequence phase", "A red giant phase", "Fusion of hydrogen"],
+        "answer": "A supernova explosion"
+    },
+    {
+        "question": "What are star clusters?",
+        "options": ["Groups of stars bound together by gravity", "Single stars", "Galaxies", "Planets"],
+        "answer": "Groups of stars bound together by gravity"
+    },
+    {
+        "question": "How do astronomers classify stars in terms of size?",
+        "options": ["Large, medium, small", "O-type, B-type, A-type", "Giant, supergiant, dwarf", "Red, yellow, blue"],
+        "answer": "Giant, supergiant, dwarf"
+    },
+    {
+        "question": "What is the fate of massive stars after a supernova?",
+        "options": ["They become black holes or neutron stars", "They become red giants", "They cool down", "They collapse into white dwarfs"],
+        "answer": "They become black holes or neutron stars"
+    },
+    {
+        "question": "What determines the end stage of a star's life?",
+        "options": ["Its distance from Earth", "Its initial mass", "Its brightness", "Its temperature"],
+        "answer": "Its initial mass"
+    },
+    {
+        "question": "What kind of light do cool stars emit?",
+        "options": ["Ultraviolet light", "Infrared light", "Visible light", "X-rays"],
+        "answer": "Infrared light"
+    },
+    {
+        "question": "What element is the primary fuel for stars during their main sequence phase?",
+        "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "How do stars generate energy?",
+        "options": ["By burning gas", "Through nuclear fusion", "By chemical reactions", "Through gravity"],
+        "answer": "Through nuclear fusion"
+    },
+    {
+        "question": "What kind of stars can form planetary nebulae?",
+        "options": ["Massive stars", "Medium stars", "Small stars", "All stars"],
+        "answer": "Small stars"
+    },
+    {
+        "question": "What indicates a star is on the main sequence?",
+        "options": ["It burns helium", "It fuses hydrogen into helium", "It cools down", "It expands"],
+        "answer": "It fuses hydrogen into helium"
+    },
+    {
+        "question": "What is the primary factor that affects a star's lifecycle?",
+        "options": ["Distance from Earth", "Mass", "Brightness", "Color"],
+        "answer": "Mass"
+    },
+    {
+        "question": "What is the most abundant element in the universe that stars fuse?",
+        "options": ["Helium", "Hydrogen", "Carbon", "Oxygen"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "Which type of star ends its life as a supernova?",
+        "options": ["Red dwarf", "Yellow dwarf", "Massive star", "White dwarf"],
+        "answer": "Massive star"
+    },
+    {
+        "question": "How do stars primarily shine?",
+        "options": ["By burning gas", "By converting elements", "Through fusion reactions", "By reflecting light"],
+        "answer": "Through fusion reactions"
+    },
+    {
+        "question": "What happens when a massive star runs out of fuel?",
+        "options": ["It becomes a supernova", "It expands", "It cools down", "It becomes a white dwarf"],
+        "answer": "It becomes a supernova"
+    },
+    {
+        "question": "What stage follows the main sequence for massive stars?",
+        "options": ["Red giant", "White dwarf", "Supernova", "Neutron star"],
+        "answer": "Red giant"
+    },
+    {
+        "question": "What do stars primarily emit?",
+        "options": ["Sound", "Heat", "Light", "Electricity"],
+        "answer": "Light"
+    },
+    {
+        "question": "What is a black hole?",
+        "options": ["A dying star", "An area of space with gravity so strong that nothing can escape", "A massive star", "A type of nebula"],
+        "answer": "An area of space with gravity so strong that nothing can escape"
+    },
+    {
+        "question": "How do astronomers detect exoplanets?",
+        "options": ["By observing light changes in their parent stars", "By direct imaging", "Through spectroscopy", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What does a supernova leave behind?",
+        "options": ["A black hole", "A neutron star", "A red giant", "A white dwarf"],
+        "answer": "A black hole"
+    },
+    {
+        "question": "What can happen to a star when it exhausts its nuclear fuel?",
+        "options": ["It may explode as a supernova", "It may become a black hole", "It may become a white dwarf", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the surface temperature of a blue star?",
+        "options": ["Below 3,000 K", "Between 5,000 K and 6,000 K", "Above 10,000 K", "Around 8,000 K"],
+        "answer": "Above 10,000 K"
+    },
+    {
+        "question": "What is a binary star system?",
+        "options": ["Two stars orbiting each other", "A single star", "A star and a planet", "A group of stars"],
+        "answer": "Two stars orbiting each other"
+    },
+    {
+        "question": "What do astronomers study to understand star formation?",
+        "options": ["Gas and dust clouds", "Black holes", "Planets", "Asteroids"],
+        "answer": "Gas and dust clouds"
+    },
+    {
+        "question": "How long do white dwarfs shine after their formation?",
+        "options": ["Thousands of years", "Billions of years", "Trillions of years", "They don't shine"],
+        "answer": "Billions of years"
+    },
+    {
+        "question": "What kind of stellar remnant is formed from a supernova?",
+        "options": ["White dwarf", "Neutron star or black hole", "Red giant", "Giant star"],
+        "answer": "Neutron star or black hole"
+    },
+    {
+        "question": "What is the main fuel for red giant stars?",
+        "options": ["Hydrogen", "Helium", "Carbon", "Oxygen"],
+        "answer": "Helium"
+    },
+    {
+        "question": "What can star clusters tell us about the universe?",
+        "options": ["The age of the universe", "The formation of stars", "The distance between stars", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What indicates a star is in a binary system?",
+        "options": ["It has a companion star", "It is brighter", "It is dimmer", "It has no planets"],
+        "answer": "It has a companion star"
+    },
+    {
+        "question": "What phase does a star enter after exhausting its hydrogen fuel?",
+        "options": ["Supernova", "Main sequence", "Red giant", "White dwarf"],
+        "answer": "Red giant"
+    },
+    {
+        "question": "What type of star is most common in the universe?",
+        "options": ["Giant stars", "Main sequence stars", "Red giants", "Supernovae"],
+        "answer": "Main sequence stars"
+    },
+    {
+        "question": "What can astronomers learn from studying binary star systems?",
+        "options": ["Star sizes", "Masses of stars", "Orbital dynamics", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What kind of fusion occurs in massive stars during their life cycle?",
+        "options": ["Helium fusion", "Hydrogen fusion", "Carbon fusion", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What do the Hertzsprung-Russell diagram classify stars by?",
+        "options": ["Size and color", "Temperature and brightness", "Distance and mass", "Color and temperature"],
+        "answer": "Temperature and brightness"
+    },
+    {
+        "question": "What star type is the Sun?",
+        "options": ["K-type", "M-type", "G-type", "O-type"],
+        "answer": "G-type"
+    },
+    {
+        "question": "What is the study of stars called?",
+        "options": ["Astrology", "Astrophysics", "Cosmology", "Astronomy"],
+        "answer": "Astronomy"
+    },
+    {
+        "question": "What can the presence of heavy elements in a star indicate?",
+        "options": ["It's a young star", "It's an old star", "It has a companion star", "It has planets"],
+        "answer": "It's an old star"
+    },
+    {
+        "question": "How do stars influence their surrounding environments?",
+        "options": ["By emitting light", "By releasing energy", "Through supernova explosions", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the relationship between a star's mass and its life span?",
+        "options": ["More massive stars live longer", "Less massive stars live longer", "All stars live the same amount of time", "It varies greatly"],
+        "answer": "Less massive stars live longer"
+    },
+    {
+        "question": "What type of star evolves into a planetary nebula?",
+        "options": ["Massive stars", "Intermediate stars", "Small stars", "All stars"],
+        "answer": "Small stars"
+    },
+    {
+        "question": "What is the primary composition of a star's atmosphere?",
+        "options": ["Hydrogen and helium", "Oxygen and carbon", "Nitrogen and methane", "Iron and magnesium"],
+        "answer": "Hydrogen and helium"
+    },
+    {
+        "question": "What is a red supergiant?",
+        "options": ["A small star", "A very large star that has expanded", "A white dwarf", "A type of nebula"],
+        "answer": "A very large star that has expanded"
+    },
+    {
+        "question": "How do stars produce energy in their cores?",
+        "options": ["Nuclear fission", "Chemical reactions", "Nuclear fusion", "Radiation"],
+        "answer": "Nuclear fusion"
+    },
+    {
+        "question": "What can studying a star's spectrum reveal?",
+        "options": ["Its distance", "Its composition", "Its brightness", "Its mass"],
+        "answer": "Its composition"
+    },
+    {
+        "question": "What will happen to our Sun in about 5 billion years?",
+        "options": ["It will become a black hole", "It will turn into a red giant", "It will explode", "It will remain stable"],
+        "answer": "It will turn into a red giant"
+    },
+    {
+        "question": "What is the remnant of a supernova explosion?",
+        "options": ["Black hole", "Neutron star", "White dwarf", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What do astronomers classify based on the Hertzsprung-Russell diagram?",
+        "options": ["The color of stars", "The brightness of stars", "The mass of stars", "The age of stars"],
+        "answer": "The brightness of stars"
+    },
+    {
+        "question": "How are giant stars different from main sequence stars?",
+        "options": ["Giant stars are larger and brighter", "Giant stars are cooler", "Giant stars have a shorter lifespan", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What happens to a star after it has exhausted all its nuclear fuel?",
+        "options": ["It collapses", "It becomes a white dwarf", "It may explode", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What kind of star can become a black hole?",
+        "options": ["A red giant", "A white dwarf", "A massive star", "A brown dwarf"],
+        "answer": "A massive star"
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "question": "What is an exoplanet candidate?",
+        "options": [
+            "A confirmed planet outside our solar system",
+            "A potential planet detected by telescopes",
+            "A known celestial body",
+            "A star in the galaxy"
+        ],
+        "answer": "A potential planet detected by telescopes"
+    },
+    {
+        "question": "What do astronomers need to confirm the existence of an exoplanet?",
+        "options": [
+            "One additional telescope observation",
+            "Two additional telescope observations",
+            "Three additional telescope observations",
+            "Only computer simulations"
+        ],
+        "answer": "Two additional telescope observations"
+    },
+    {
+        "question": "What might exoplanet candidates turn out to be?",
+        "options": [
+            "Stars",
+            "Comets",
+            "False positives",
+            "Galaxies"
+        ],
+        "answer": "False positives"
+    },
+    {
+        "question": "Why is the confirmation process for exoplanets important?",
+        "options": [
+            "To gather data quickly",
+            "To ensure the detected signal is from a planet",
+            "To save time",
+            "To reduce costs"
+        ],
+        "answer": "To ensure the detected signal is from a planet"
+    },
+    {
+        "question": "How many exoplanet candidates are currently awaiting confirmation?",
+        "options": [
+            "Hundreds",
+            "Thousands",
+            "Millions",
+            "Dozens"
+        ],
+        "answer": "Thousands"
+    },
+    {
+        "question": "What is one reason confirming exoplanet candidates is time-consuming?",
+        "options": [
+            "Data is not available",
+            "The complexity of required observations",
+            "Telescopes are unavailable",
+            "There are too many confirmed planets"
+        ],
+        "answer": "The complexity of required observations"
+    },
+    {
+        "question": "What role do amateur scientists play in exoplanet discovery?",
+        "options": [
+            "They operate large telescopes",
+            "They analyze data and narrow down candidates",
+            "They confirm all exoplanets",
+            "They only observe known planets"
+        ],
+        "answer": "They analyze data and narrow down candidates"
+    },
+    {
+        "question": "What are amateur astronomers often adept at spotting?",
+        "options": [
+            "Asteroids",
+            "Subtle changes in brightness",
+            "Star patterns",
+            "Galactic formations"
+        ],
+        "answer": "Subtle changes in brightness"
+    },
+    {
+        "question": "What makes amateur astronomers valuable allies in exoplanet discovery?",
+        "options": [
+            "Their ability to work with computers",
+            "Their observational skills",
+            "Their access to powerful telescopes",
+            "Their financial resources"
+        ],
+        "answer": "Their observational skills"
+    },
+    {
+        "question": "What is the search for exoplanets considered?",
+        "options": [
+            "A solo effort",
+            "An exclusive task for professionals",
+            "A collaborative effort",
+            "A task for computer programs"
+        ],
+        "answer": "A collaborative effort"
+    },
+    {
+        "question": "What do professional astronomers and amateur scientists contribute to?",
+        "options": [
+            "The destruction of old theories",
+            "The list of confirmed stars",
+            "The growing list of potential planets",
+            "The study of black holes"
+        ],
+        "answer": "The growing list of potential planets"
+    },
+    {
+        "question": "What is one of the main challenges in confirming exoplanets?",
+        "options": [
+            "Lack of interest from scientists",
+            "High costs and complexity of observations",
+            "Availability of telescopes",
+            "Too many confirmed planets"
+        ],
+        "answer": "High costs and complexity of observations"
+    },
+    {
+        "question": "Why do some exoplanet candidates get dismissed?",
+        "options": [
+            "They are too far away",
+            "They may be other astronomical phenomena",
+            "They are always confirmed",
+            "They are always false"
+        ],
+        "answer": "They may be other astronomical phenomena"
+    },
+    {
+        "question": "What is required for further investigation of an exoplanet candidate?",
+        "options": [
+            "More data from other telescopes",
+            "Computer modeling",
+            "Collaboration with amateurs",
+            "No further investigation is needed"
+        ],
+        "answer": "More data from other telescopes"
+    },
+    {
+        "question": "What are exoplanet candidates often regarded as?",
+        "options": [
+            "Confirmed planets",
+            "Highly probable planets",
+            "Potential planets",
+            "Stars"
+        ],
+        "answer": "Potential planets"
+    },
+    {
+        "question": "What could an exoplanet candidate indicate?",
+        "options": [
+            "Only the presence of stars",
+            "Potential for life",
+            "Only false positives",
+            "Undetected black holes"
+        ],
+        "answer": "Potential for life"
+    },
+    {
+        "question": "What is essential to validate the presence of an exoplanet?",
+        "options": [
+            "More time",
+            "Collaboration between telescopes",
+            "Expensive equipment",
+            "Basic observational skills"
+        ],
+        "answer": "Collaboration between telescopes"
+    },
+    {
+        "question": "How do astronomers confirm exoplanets?",
+        "options": [
+            "By checking for signals",
+            "Through additional telescopic observations",
+            "Only with simulations",
+            "Through amateur observations only"
+        ],
+        "answer": "Through additional telescopic observations"
+    },
+    {
+        "question": "What happens to many exoplanet candidates over time?",
+        "options": [
+            "They are confirmed",
+            "They disappear",
+            "They are all false positives",
+            "They become stars"
+        ],
+        "answer": "They are confirmed"
+    },
+    {
+        "question": "What can affect the detection of exoplanet candidates?",
+        "options": [
+            "The type of telescope used",
+            "The weather conditions",
+            "The distance from Earth",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "How many exoplanet candidates are there currently?",
+        "options": [
+            "Hundreds",
+            "Thousands",
+            "Millions",
+            "Dozens"
+        ],
+        "answer": "Thousands"
+    },
+    {
+        "question": "What are exoplanet candidates mostly based on?",
+        "options": [
+            "Assumptions",
+            "Data collected from telescopes",
+            "Theories only",
+            "Public opinions"
+        ],
+        "answer": "Data collected from telescopes"
+    },
+    {
+        "question": "What is a false positive in the context of exoplanets?",
+        "options": [
+            "A confirmed planet",
+            "An erroneous signal",
+            "A star",
+            "A galaxy"
+        ],
+        "answer": "An erroneous signal"
+    },
+    {
+        "question": "Who can help in narrowing down exoplanet candidates?",
+        "options": [
+            "Only professional astronomers",
+            "Amateur scientists",
+            "Computer programs only",
+            "No one"
+        ],
+        "answer": "Amateur scientists"
+    },
+    {
+        "question": "What do astronomers analyze to find exoplanet candidates?",
+        "options": [
+            "Only visible light",
+            "Radio signals",
+            "Data from multiple sources",
+            "Star patterns only"
+        ],
+        "answer": "Data from multiple sources"
+    },
+    {
+        "question": "What is the main goal of confirming exoplanet candidates?",
+        "options": [
+            "To prove they exist",
+            "To ignore them",
+            "To collect data",
+            "To study their atmospheres"
+        ],
+        "answer": "To prove they exist"
+    },
+    {
+        "question": "How does collaboration enhance exoplanet discovery?",
+        "options": [
+            "By reducing costs",
+            "By combining data and resources",
+            "By increasing time for research",
+            "It has no effect"
+        ],
+        "answer": "By combining data and resources"
+    },
+    {
+        "question": "What do we call the methods used to confirm the presence of exoplanets?",
+        "options": [
+            "Spectroscopy",
+            "Telescopic observations",
+            "Confirmation techniques",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is a crucial step in identifying exoplanets?",
+        "options": [
+            "Guessing",
+            "Collecting data over time",
+            "Ignoring data",
+            "Observing for a day only"
+        ],
+        "answer": "Collecting data over time"
+    },
+    {
+        "question": "What is necessary for the validation of exoplanets?",
+        "options": [
+            "Only one telescope",
+            "Multiple observations",
+            "A lot of money",
+            "A quick review"
+        ],
+        "answer": "Multiple observations"
+    },
+    {
+        "question": "What indicates that a detected signal might be a planet?",
+        "options": [
+            "A quick pulse",
+            "A consistent pattern",
+            "A random change",
+            "A single observation"
+        ],
+        "answer": "A consistent pattern"
+    },
+    {
+        "question": "What can happen if an exoplanet candidate is found to be false?",
+        "options": [
+            "Nothing",
+            "It can be discarded",
+            "It can be studied more",
+            "It can be confirmed later"
+        ],
+        "answer": "It can be discarded"
+    },
+    {
+        "question": "What do telescopes primarily rely on for exoplanet detection?",
+        "options": [
+            "Star brightness fluctuations",
+            "Stable signals",
+            "Only visual data",
+            "Public surveys"
+        ],
+        "answer": "Star brightness fluctuations"
+    },
+    {
+        "question": "How do scientists validate an exoplanet candidate's status?",
+        "options": [
+            "By checking with software",
+            "By sending probes",
+            "By using multiple telescopes to gather data",
+            "By only visual inspection"
+        ],
+        "answer": "By using multiple telescopes to gather data"
+    },
+    {
+        "question": "What might happen to an unconfirmed exoplanet candidate?",
+        "options": [
+            "It might be confirmed later",
+            "It will always be ignored",
+            "It becomes a star",
+            "It disappears"
+        ],
+        "answer": "It might be confirmed later"
+    },
+    {
+        "question": "What part do amateur scientists play in exoplanet research?",
+        "options": [
+            "They provide funding",
+            "They help analyze data",
+            "They make the final confirmations",
+            "They run telescopes"
+        ],
+        "answer": "They help analyze data"
+    },
+    {
+        "question": "What kind of anomalies can confuse exoplanet detection?",
+        "options": [
+            "Noise in data",
+            "False signals",
+            "Real planetary systems",
+            "Both A and B"
+        ],
+        "answer": "Both A and B"
+    },
+    {
+        "question": "What is crucial for confirming exoplanet candidates?",
+        "options": [
+            "Patience and time",
+            "Immediate results",
+            "Expensive equipment",
+            "Lack of data"
+        ],
+        "answer": "Patience and time"
+    },
+    {
+        "question": "How do we currently detect exoplanets?",
+        "options": [
+            "With only human observations",
+            "With only computer data",
+            "With telescopes and data analysis",
+            "With satellites only"
+        ],
+        "answer": "With telescopes and data analysis"
+    },
+    {
+        "question": "What aspect of exoplanets makes them a focus for study?",
+        "options": [
+            "Their potential to support life",
+            "Their size",
+            "Their distance",
+            "Their brightness"
+        ],
+        "answer": "Their potential to support life"
+    },
+    {
+        "question": "What is the primary method for detecting exoplanet candidates?",
+        "options": [
+            "Looking for light curves",
+            "Randomly observing stars",
+            "Only examining asteroids",
+            "Visual guessing"
+        ],
+        "answer": "Looking for light curves"
+    },
+    {
+        "question": "How important is data quality in exoplanet detection?",
+        "options": [
+            "Not important",
+            "Very important",
+            "Only slightly important",
+            "Irrelevant"
+        ],
+        "answer": "Very important"
+    },
+    {
+        "question": "What should astronomers do if they find a suspicious signal?",
+        "options": [
+            "Ignore it",
+            "Investigate further",
+            "Confirm it immediately",
+            "Make a public announcement"
+        ],
+        "answer": "Investigate further"
+    },
+    {
+        "question": "What is the benefit of working collaboratively in exoplanet research?",
+        "options": [
+            "It reduces costs",
+            "It increases efficiency",
+            "It enhances data accuracy",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What can happen to an exoplanet candidate after thorough investigation?",
+        "options": [
+            "It can become a confirmed planet",
+            "It can disappear",
+            "It will always be a candidate",
+            "It can become a star"
+        ],
+        "answer": "It can become a confirmed planet"
+    }
+]
