@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import Particles from 'react-tsparticles';
 import spaceBackground from './assets/space-background2.jpg';
-import sateliteImg from './assets/satelite1.jpg';
+import teamworkImg from './assets/teamwork.jpg';
 
 const About = () => {
   const [activeImage, setActiveImage] = useState(null);
@@ -22,7 +22,7 @@ const About = () => {
       linkedin: 'https://www.linkedin.com/in/ahmed-saleh-a79606219/',
     },
     {
-      src: '/data/images/bashar badawi.jpg',
+      src: '/data/images/peter_mina.jpeg',
       alt: 'Peter Mina',
       github: 'https://github.com/PeterMina',
       linkedin: 'https://www.linkedin.com/in/peter-mina-44120320a/',
@@ -109,7 +109,9 @@ const About = () => {
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 items-center">
             <div data-aos="zoom-in">
               <img
-                src={sateliteImg}
+                src={teamworkImg
+                
+                }
                 alt="Satellite"
                 className="w-full sm:w-[80%] mx-auto max-h-[350px] object-cover rounded-lg"
               />
