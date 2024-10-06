@@ -12,10 +12,10 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import Chatbot from "./components/Chatbot/Chatbot"; 
 import ExoplanetOverview from "./components/Exoplanet/ExoplanetOverview"; 
-import GasGiants from "./components/Exoplanet_types_types/GasGiants.jsx.jsx"; 
-import Neptunian from "./components/Exoplanet_types_types/Neptunian.jsx.jsx"; 
-import SuperEarth from "./components/Exoplanet_types_types/SuperEarth.jsx.jsx"; 
-import Rocky from "./components/Exoplanet_types_types/Rocky.jsx.jsx"; 
+import GasGiants from "./components/Exoplanet_types/GasGiants.jsx"; 
+import Neptunian from "./components/Exoplanet_types/Neptunian.jsx"; 
+import SuperEarth from "./components/Exoplanet_types/SuperEarth.jsx"; 
+import Rocky from "./components/Exoplanet_types/Rocky.jsx"; 
 import QuizPage from "./components/Quiz/QuizPage";
 import QuizGas from "./components/Quiz/QuizGas";
 import QuizNep from "./components/Quiz/QuizNep";
@@ -75,7 +75,6 @@ const App = () => {
           } />
 
           {/* Exoplanet routes */}
-          {/* Exoplanet routes */}
           <Route path="/exoplanet/overview" element={<ExoplanetOverview />} />
           <Route path="/exoplanet/naming" element={<ExoplanetNaming />} />
           <Route path="/exoplanet/CandidateVSConfirmed" element={<CandidateVSConfirmed />} />
@@ -99,6 +98,11 @@ const App = () => {
           <Route path="/methods/microlensing" element={<Microlensing />} />
           <Route path="/methods/direct-imaging" element={<DirectImaging />} />
           <Route path="/methods/astrometry" element={<Astrometry />} />
+          <Route path="/quizast" element={<Quizast />} />
+          <Route path="/quizdir" element={<Quizdir />} />
+          <Route path="/quizmic" element={<Quizmic />} />
+          <Route path="/quizrad" element={<Quizrad />} />
+          <Route path="/quiztra" element={<Quiztra />} />
           {/* Add Telescopes routes */}
           <Route path="/telescope/overview" element={<TelescopesOverview />} />
           <Route path="/telescope/hubble" element={<Hubble />} />
@@ -106,8 +110,6 @@ const App = () => {
           <Route path="/telescope/james-webb" element={<JWST />} />
           <Route path="/telescope/spitzer" element={<Spitzer />} />
           <Route path="/telescope/Tess" element={<TESS />} />
-          {/* Add Game route */}
-          <Route path="/game" element={<Game />} /> {/* Add Game route */}
           <Route path="/quiztel" element={<Quiztel />} />
           <Route path="/quizhub" element={<Quizhub />} />
           <Route path="/quizjw" element={<Quizjw />} />
@@ -115,11 +117,8 @@ const App = () => {
           <Route path="/quizspi" element={<Quizspi />} />
           <Route path="/quiztes" element={<Quiztes />} />
           <Route path="/quizmeo" element={<Quizmeo />} />
-          <Route path="/quizast" element={<Quizast />} />
-          <Route path="/quizdir" element={<Quizdir />} />
-          <Route path="/quizmic" element={<Quizmic />} />
-          <Route path="/quizrad" element={<Quizrad />} />
-          <Route path="/quiztra" element={<Quiztra />} />
+          {/* Add Game route */}
+          <Route path="/game" element={<Game />} /> {/* Add Game route */}
         </Routes>
 
         <Chatbot />

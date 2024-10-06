@@ -6,10 +6,11 @@ import Particles from "react-tsparticles";
 import quizAnimation from "../assets/quiz-animation.json"; // Replace with a fun quiz animation
 import spaceBackground from "../assets/space-background.jpg"; // Path to the space background image
 
-const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, topic, onSpeak, onPause, onResume }) => {
+const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, topic }) => {
   const navigate = useNavigate();
   const [data, setData] = useState(null);
 
+  // Fetch the data from the provided data path
   useEffect(() => {
     fetch(dataPath)
       .then((response) => response.json())
@@ -17,16 +18,66 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
       .catch((error) => console.error("Error fetching data:", error));
   }, [dataPath]);
 
+  // Function to handle Text-to-Speech
+  const speakText = (text) => {
+    const synth = window.speechSynthesis;
+
+    // Function to start speaking once voices are loaded
+    const startSpeaking = () => {
+      if (synth.speaking) {
+        synth.cancel(); // Cancel if already speaking
+      }
+
+      const speech = new SpeechSynthesisUtterance(text);
+      speech.lang = "en-US";
+      speech.volume = 1; // Set volume
+
+      const voices = synth.getVoices();
+      if (voices.length > 0) {
+        speech.voice = voices[0]; // Set first available voice
+        console.log("Speaking:", text);
+        synth.speak(speech);
+      } else {
+        console.error("No voices available.");
+      }
+    };
+
+    // Check if voices are already loaded
+    if (synth.getVoices().length > 0) {
+      startSpeaking();
+    } else {
+      // Wait for voices to be loaded
+      synth.addEventListener("voiceschanged", startSpeaking);
+    }
+  };
+
+  // Function to Pause Speech
+  const pauseSpeech = () => {
+    if (window.speechSynthesis.speaking && !window.speechSynthesis.paused) {
+      window.speechSynthesis.pause();
+    }
+  };
+
+  // Function to Resume Speech
+  const resumeSpeech = () => {
+    if (window.speechSynthesis.paused) {
+      window.speechSynthesis.resume();
+    }
+  };
+
+  // Navigate to quiz page
   const handleQuizNavigation = () => {
     navigate(quizPath); // Navigate to the quiz page
     window.scrollTo({ top: 0, behavior: "smooth" }); // Scroll to top
   };
 
+  // Navigate to next page
   const handleNextNavigation = () => {
     navigate(nextPath); // Navigate to the next page
     window.scrollTo({ top: 0, behavior: "smooth" }); // Scroll to top
   };
 
+  // Navigate to previous page
   const handlePreviousNavigation = () => {
     navigate(previousPath); // Navigate to the previous page
     window.scrollTo({ top: 0, behavior: "smooth" }); // Scroll to top
@@ -107,26 +158,26 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
               <div className="flex justify-center mt-4">
                 <button
                   className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition duration-200 mx-2"
-                  onClick={() => onSpeak(value)} // Trigger speak
+                  onClick={() => speakText(value)} // Trigger speak
                 >
                   Play
                 </button>
                 <button
                   className="bg-yellow-500 text-white px-4 py-2 rounded-md hover:bg-yellow-600 transition duration-200 mx-2"
-                  onClick={onPause} // Trigger pause
+                  onClick={pauseSpeech} // Trigger pause
                 >
                   Pause
                 </button>
                 <button
                   className="bg-green-500 text-white px-4 py-2 rounded-md hover:bg-green-600 transition duration-200 mx-2"
-                  onClick={onResume} // Trigger resume
+                  onClick={resumeSpeech} // Trigger resume
                 >
                   Resume
                 </button>
               </div>
             </motion.div>
           ))}
-          
+
           {/* NASA 3D Model */}
           {URL && (
             <div className="mt-8 flex flex-col justify-center items-center">
@@ -139,7 +190,7 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
                 Explore more about {topic} on NASA&apos;s Eyes on Exoplanets website.
               </motion.p>
               <motion.button
-                onClick={() => window.location.href = URL} // Open NASA's Eyes on Exoplanets website
+                onClick={() => (window.location.href = URL)} // Open NASA's Eyes on Exoplanets website
                 className="bg-blue-500 text-white px-6 py-2 rounded-md hover:bg-blue-600 transition duration-200 z-10"
                 initial={{ opacity: 0, y: 10 }}
                 animate={{ opacity: 1, y: 0 }}
@@ -160,12 +211,9 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
             >
               It&apos;s Quiz Time!
             </motion.h2>
-            
+
             {/* Fun quiz animation */}
-            <Lottie
-              animationData={quizAnimation}
-              style={{ height: 150, marginBottom: "1rem" }}
-            />
+            <Lottie animationData={quizAnimation} style={{ height: 150, marginBottom: "1rem" }} />
 
             <motion.button
               onClick={handleQuizNavigation}
