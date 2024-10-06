@@ -91,7 +91,7 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
-        padding: "4rem 1rem", // Adjust padding to reduce side spaces
+        padding: "4rem 0.5rem", // Adjust padding to reduce side spaces
       }}
     >
       {/* Background particle animation */}
@@ -129,72 +129,81 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
           transition={{ duration: 0.5, delay: 0.5 }}
           className="bg-gray-900 bg-opacity-80 p-8 rounded-lg shadow-lg flex flex-col items-center z-10 w-3/4" // Change this to the desired width
         >
-          {Object.entries(data).map(([key, value], index) => (
-            <motion.div
-              initial={{ opacity: 0, x: -20 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ duration: 0.3, delay: index * 0.3 }}
-              key={key}
-              className="w-full bg-gray-700 bg-opacity-80 p-6 rounded-lg mb-6 hover:shadow-lg transform transition-all duration-300 hover:scale-105 flex items-center"
-            >
-              {/* Display images in a circular avatar */}
-              {imageUrls && (
-                <motion.div
-                  className="flex justify-center items-center"
-                  initial={{ opacity: 0, x: -20 }}
-                  animate={{ opacity: 1, x: 0 }}
-                  transition={{ duration: 0.3, delay: 0.1 + index * 0.2 }}
-                  whileHover={{ scale: 1.1 }} // Scale up on hover
-                >
-                  <img
-                    src={imageUrls[index % imageUrls.length]} // Cycle through images
-                    alt={key}
-                    className="w-24 h-24 object-cover rounded-full mr-6 transition duration-300 hover:w-36 hover:h-36" // Increase image size on hover
-                  />
-                </motion.div>
-              )}
-              <div>
-                <motion.h2
-                  className="text-2xl font-semibold mb-2 text-center text-white"
-                  initial={{ opacity: 0, y: -20 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.3, delay: 0.2 + index * 0.2 }}
-                >
-                  {key}
-                </motion.h2>
-                <motion.p
-                  className="text-lg text-center text-gray-300"
-                  initial={{ opacity: 0, y: -20 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.3, delay: 0.3 + index * 0.2 }}
-                >
-                  {value}
-                </motion.p>
+          {Object.entries(data).map(([key, value], index) => {
+            const hasImage = imageUrls && imageUrls[index]; // Check if the image exists for this index
+            return (
+              <motion.div
+                initial={{ opacity: 0, x: -20 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ duration: 0.3, delay: index * 0.3 }}
+                key={key}
+                className={`w-full bg-gray-700 bg-opacity-80 p-6 rounded-lg mb-6 hover:shadow-lg transform transition-all duration-300 hover:scale-105 ${hasImage ? (index % 2 === 0 ? "flex-row" : "flex-row-reverse") : "flex-col"
+                  } flex items-center`} // Alternate row direction if there's an image, otherwise use flex-col
+              >
+                {/* Conditionally render the Image Section if an image exists */}
+                {hasImage && (
+                  <motion.div
+                    className="flex justify-center items-center w-1/4" // Increase the width for the image to make it larger
+                    initial={{ opacity: 0, x: -20 }}
+                    animate={{ opacity: 1, x: 0 }}
+                    transition={{ duration: 0.3, delay: 0.1 + index * 0.2 }}
+                    whileHover={{ scale: 1.2 }} // Scale up on hover even more
+                  >
+                    <img
+                      src={imageUrls[index]} // Display the image for the current index
+                      alt={key}
+                      className="w-48 h-48 object-cover rounded-full transition duration-300 hover:w-60 hover:h-60" // Larger size with more hover effect
+                    />
+                  </motion.div>
+                )}
 
-                {/* Text-to-Speech Controls */}
-                <div className="flex justify-center mt-4">
-                  <button
-                    className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition duration-200 mx-2"
-                    onClick={() => speakText(value)} // Trigger speak
+                {/* Text Section (takes full width if no image, otherwise 4/5) */}
+                <div className={hasImage ? "w-3/4 pl-6" : "w-full"}>
+                  <motion.h2
+                    className="text-4xl font-bold mb-2 text-center text-white" // Increased text size
+                    initial={{ opacity: 0, y: -20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.3, delay: 0.2 + index * 0.2 }}
                   >
-                    Play
-                  </button>
-                  <button
-                    className="bg-yellow-500 text-white px-4 py-2 rounded-md hover:bg-yellow-600 transition duration-200 mx-2"
-                    onClick={pauseSpeech} // Trigger pause
+                    {key}
+                  </motion.h2>
+                  <motion.p
+                    className="text-2xl text-center text-gray-300" // Larger text for the description
+                    initial={{ opacity: 0, y: -20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.3, delay: 0.3 + index * 0.2 }}
                   >
-                    Pause
-                  </button>
-                  <button
-                    className="bg-green-500 text-white px-4 py-2 rounded-md hover:bg-green-600 transition duration-200 mx-2"
-                    onClick={resumeSpeech} // Trigger resume
-                  >
-                    Resume
-                  </button>
+                    {value}
+                  </motion.p>
+
+                  {/* Text-to-Speech Controls */}
+                  <div className="flex justify-center mt-4">
+                    <button
+                      className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition duration-200 mx-2"
+                      onClick={() => speakText(value)} // Trigger speak
+                    >
+                      Play
+                    </button>
+                    <button
+                      className="bg-yellow-500 text-white px-4 py-2 rounded-md hover:bg-yellow-600 transition duration-200 mx-2"
+                      onClick={pauseSpeech} // Trigger pause
+                    >
+                      Pause
+                    </button>
+                    <button
+                      className="bg-green-500 text-white px-4 py-2 rounded-md hover:bg-green-600 transition duration-200 mx-2"
+                      onClick={resumeSpeech} // Trigger resume
+                    >
+                      Resume
+                    </button>
+                  </div>
                 </div>
-              </div>
-            </motion.div>
-          ))}
+              </motion.div>
+            );
+          })}
+
+
+
         </motion.div>
       ) : (
         <motion.p
