@@ -1,8 +1,7 @@
-// src/components/Methods/Transit.jsx
 import ReusableDiv from "../ReusableDiv";
 
-const Transit = () => {
-    // Function to handle Text-to-Speech
+const Types = () => {
+  // Function to handle Text-to-Speech
   const speakText = (text) => {
     const synth = window.speechSynthesis;
 
@@ -48,18 +47,18 @@ const Transit = () => {
       window.speechSynthesis.resume();
     }
   };
-    return (
-        <ReusableDiv
-            title="The Transit Method: Searching for Shadows in Space"
-            dataPath="/data/Discovery/Discovery_Transit.json"
-            quizPath="/quiztra"
-            previousPath="/methods/overview"
-            nextPath="/methods/radial-velocity"
-            onSpeak={speakText} // Pass the speak function to ReusableDiv
+  return (
+    <ReusableDiv
+      title="Out-of-This-World: The Coolest Types of Exoplanets!"
+      dataPath="/data/Exoplanets_type/Exoplanets_types.json"
+      quizPath="/quiztyp "
+      previousPath="/exoplanet/overview" // Previous page path
+      nextPath="/exoplanet/gas-giants" 
+      onSpeak={speakText} // Pass the speak function to ReusableDiv
       onPause={pauseSpeech} // Pass the pause function to ReusableDiv
       onResume={resumeSpeech} 
-        />
-    );
+    />
+  );
 };
 
-export default Transit;
+export default Types;

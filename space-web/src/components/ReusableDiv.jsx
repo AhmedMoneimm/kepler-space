@@ -6,7 +6,7 @@ import Particles from "react-tsparticles";
 import quizAnimation from "../assets/quiz-animation.json"; // Replace with a fun quiz animation
 import spaceBackground from "../assets/space-background.jpg"; // Path to the space background image
 
-const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, topic}) => {
+const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, topic, onSpeak, onPause, onResume }) => {
   const navigate = useNavigate();
   const [data, setData] = useState(null);
 
@@ -62,69 +62,92 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
       />
 
       {/* Title Section */}
-        <motion.h1
-          className="text-5xl font-extrabold text-blue-300 mb-8 z-10 text-center"
-          initial={{ opacity: 0, y: -50 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5 }}
-        >
-          {title}
-        </motion.h1>
+      <motion.h1
+        className="text-5xl font-extrabold text-blue-300 mb-8 z-10 text-center"
+        initial={{ opacity: 0, y: -50 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.5 }}
+      >
+        {title}
+      </motion.h1>
 
-        {data ? (
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ duration: 0.5, delay: 0.5 }}
-            className="bg-gray-900 bg-opacity-80 p-8 rounded-lg shadow-lg flex flex-col items-center z-10 w-full max-w-2xl"
-          >
-            {Object.entries(data).map(([key, value], index) => (
-          <motion.div
-            initial={{ opacity: 0, x: -20 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.3, delay: index * 0.3 }}
-            key={key}
-            className="w-full bg-gray-700 bg-opacity-80 p-6 rounded-lg mb-6 hover:shadow-lg transform transition-all duration-300 hover:scale-105"
-          >
-            <motion.h2
-              className="text-2xl font-semibold mb-2 text-center text-white"
-              initial={{ opacity: 0, y: -20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.3, delay: 0.2 + index * 0.2 }}
+      {data ? (
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ duration: 0.5, delay: 0.5 }}
+          className="bg-gray-900 bg-opacity-80 p-8 rounded-lg shadow-lg flex flex-col items-center z-10 w-full max-w-2xl"
+        >
+          {Object.entries(data).map(([key, value], index) => (
+            <motion.div
+              initial={{ opacity: 0, x: -20 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ duration: 0.3, delay: index * 0.3 }}
+              key={key}
+              className="w-full bg-gray-700 bg-opacity-80 p-6 rounded-lg mb-6 hover:shadow-lg transform transition-all duration-300 hover:scale-105"
             >
-              {key}
-            </motion.h2>
-            <motion.p
-              className="text-lg text-center text-gray-300"
-              initial={{ opacity: 0, y: -20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.3, delay: 0.3 + index * 0.2 }}
-            >
-              {value}
-            </motion.p>
-          </motion.div>
-            ))}
-            {/* NASA 3D Model */}
+              <motion.h2
+                className="text-2xl font-semibold mb-2 text-center text-white"
+                initial={{ opacity: 0, y: -20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.3, delay: 0.2 + index * 0.2 }}
+              >
+                {key}
+              </motion.h2>
+              <motion.p
+                className="text-lg text-center text-gray-300"
+                initial={{ opacity: 0, y: -20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.3, delay: 0.3 + index * 0.2 }}
+              >
+                {value}
+              </motion.p>
+
+              {/* Text-to-Speech Controls */}
+              <div className="flex justify-center mt-4">
+                <button
+                  className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition duration-200 mx-2"
+                  onClick={() => onSpeak(value)} // Trigger speak
+                >
+                  Play
+                </button>
+                <button
+                  className="bg-yellow-500 text-white px-4 py-2 rounded-md hover:bg-yellow-600 transition duration-200 mx-2"
+                  onClick={onPause} // Trigger pause
+                >
+                  Pause
+                </button>
+                <button
+                  className="bg-green-500 text-white px-4 py-2 rounded-md hover:bg-green-600 transition duration-200 mx-2"
+                  onClick={onResume} // Trigger resume
+                >
+                  Resume
+                </button>
+              </div>
+            </motion.div>
+          ))}
+          
+          {/* NASA 3D Model */}
           {URL && (
-          <div className="mt-8 flex flex-col justify-center items-center">
-            <motion.p
-            className="text-lg text-center text-gray-300 mb-4"
-            initial={{ opacity: 0, y: -20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.3 }}
-            >
-            Explore more about {topic} on NASA&apos;s Eyes on Exoplanets website.
-            </motion.p>
-            <motion.button
-            onClick={() => window.location.href = URL} // Open NASA's Eyes on Exoplanets website
-            className="bg-blue-500 text-white px-6 py-2 rounded-md hover:bg-blue-600 transition duration-200 z-10"
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.3 }}
-            >
-            Visit NASA
-            </motion.button>
-          </div>
+            <div className="mt-8 flex flex-col justify-center items-center">
+              <motion.p
+                className="text-lg text-center text-gray-300 mb-4"
+                initial={{ opacity: 0, y: -20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.3 }}
+              >
+                Explore more about {topic} on NASA&apos;s Eyes on Exoplanets website.
+              </motion.p>
+              <motion.button
+                onClick={() => window.location.href = URL} // Open NASA's Eyes on Exoplanets website
+                className="bg-blue-500 text-white px-6 py-2 rounded-md hover:bg-blue-600 transition duration-200 z-10"
+                initial={{ opacity: 0, y: 10 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.3 }}
+              >
+                Visit NASA
+              </motion.button>
+            </div>
           )}
 
           {/* Quiz Time Section */}

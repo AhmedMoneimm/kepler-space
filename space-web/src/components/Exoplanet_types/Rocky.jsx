@@ -1,8 +1,8 @@
-// src/components/Methods/Transit.jsx
+import React from "react";
 import ReusableDiv from "../ReusableDiv";
 
-const Transit = () => {
-    // Function to handle Text-to-Speech
+const Rocky = () => {
+  // Function to handle Text-to-Speech
   const speakText = (text) => {
     const synth = window.speechSynthesis;
 
@@ -48,18 +48,21 @@ const Transit = () => {
       window.speechSynthesis.resume();
     }
   };
-    return (
-        <ReusableDiv
-            title="The Transit Method: Searching for Shadows in Space"
-            dataPath="/data/Discovery/Discovery_Transit.json"
-            quizPath="/quiztra"
-            previousPath="/methods/overview"
-            nextPath="/methods/radial-velocity"
-            onSpeak={speakText} // Pass the speak function to ReusableDiv
+
+  return (
+    <ReusableDiv
+      title="Rocky Planets: Unearthing the Secrets of Terrestrial Worlds!"
+      dataPath="/data/Exoplanets_type/Exoplanet_Rocky.json"
+      quizPath="/quizrok"
+      previousPath="/exoplanet/super-earth" // Previous page path
+      nextPath="/" // Next page path (home)
+      URL="https://eyes.nasa.gov/apps/exo/#/filter/Terrestrial"
+      topic="Rocky"
+      onSpeak={speakText} // Pass the speak function to ReusableDiv
       onPause={pauseSpeech} // Pass the pause function to ReusableDiv
-      onResume={resumeSpeech} 
-        />
-    );
+      onResume={resumeSpeech} // Pass the resume function to ReusableDiv
+    />
+  );
 };
 
-export default Transit;
+export default Rocky;

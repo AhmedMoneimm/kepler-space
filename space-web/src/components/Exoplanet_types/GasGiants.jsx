@@ -1,8 +1,7 @@
-// src/components/Methods/Transit.jsx
 import ReusableDiv from "../ReusableDiv";
 
-const Transit = () => {
-    // Function to handle Text-to-Speech
+const GasGiants = () => {
+  // Function to handle Text-to-Speech
   const speakText = (text) => {
     const synth = window.speechSynthesis;
 
@@ -48,18 +47,20 @@ const Transit = () => {
       window.speechSynthesis.resume();
     }
   };
-    return (
-        <ReusableDiv
-            title="The Transit Method: Searching for Shadows in Space"
-            dataPath="/data/Discovery/Discovery_Transit.json"
-            quizPath="/quiztra"
-            previousPath="/methods/overview"
-            nextPath="/methods/radial-velocity"
-            onSpeak={speakText} // Pass the speak function to ReusableDiv
+  return (
+    <ReusableDiv
+      title="Gas Giants: The Majestic Behemoths of the Cosmos!"
+      dataPath="/data/Exoplanets_type/Exoplanet_Gas_Giants.json"
+      quizPath="/quizgas"
+      previousPath="/exoplanet/types" // Previous page path
+      nextPath="/exoplanet/neptunian" // Next page path
+      URL="https://eyes.nasa.gov/apps/exo/#/filter/GasGiant"
+      topic="Gas Giants"
+      onSpeak={speakText} // Pass the speak function to ReusableDiv
       onPause={pauseSpeech} // Pass the pause function to ReusableDiv
       onResume={resumeSpeech} 
-        />
-    );
+    />
+  );
 };
 
-export default Transit;
+export default GasGiants;

@@ -1,0 +1,252 @@
+[
+    {
+        "question": "What percentage of all planet discoveries is accounted for by the Radial Velocity Method?",
+        "options": ["19%", "10%", "25%", "30%"],
+        "answer": "19%"
+    },
+    {
+        "question": "How many exoplanets have been detected using the Radial Velocity Method?",
+        "options": ["1,100", "500", "2,000", "750"],
+        "answer": "1,100"
+    },
+    {
+        "question": "What does the Radial Velocity Method detect?",
+        "options": ["Star temperatures", "Star wobble", "Planet colors", "Star brightness"],
+        "answer": "Star wobble"
+    },
+    {
+        "question": "What causes the wobble of a star in the Radial Velocity Method?",
+        "options": ["The star's light", "Gravitational pull from orbiting planets", "Distance from Earth", "Solar flares"],
+        "answer": "Gravitational pull from orbiting planets"
+    },
+    {
+        "question": "Which type of planets cause the most noticeable wobble?",
+        "options": ["Gas giants", "Rocky planets", "Ice planets", "Dwarf planets"],
+        "answer": "Gas giants"
+    },
+    {
+        "question": "What is the Doppler Effect?",
+        "options": ["A method to measure star sizes", "A shift in frequency of light from moving stars", "A technique for direct imaging", "None"],
+        "answer": "A shift in frequency of light from moving stars"
+    },
+    {
+        "question": "What happens to the light emitted by a star when it moves toward us?",
+        "options": ["It becomes dimmer", "It shifts to red", "It shifts to blue", "It changes color"],
+        "answer": "It shifts to blue"
+    },
+    {
+        "question": "What is the term used when light shifts towards the red end of the spectrum?",
+        "options": ["Blue shift", "Doppler shift", "Red shift", "Wobble"],
+        "answer": "Red shift"
+    },
+    {
+        "question": "What does the process of detecting wobbling stars using light shifts called?",
+        "options": ["Doppler Spectroscopy", "Radial Velocity Method", "Light Analysis", "Spectrography"],
+        "answer": "Doppler Spectroscopy"
+    },
+    {
+        "question": "What instruments do astronomers use to detect the subtle wobble of stars?",
+        "options": ["Telescopes", "Spectrographs", "Photometers", "Radars"],
+        "answer": "Spectrographs"
+    },
+    {
+        "question": "What do spectrographs measure?",
+        "options": ["Distance to stars", "Star brightness", "Wavelengths of light", "Star temperatures"],
+        "answer": "Wavelengths of light"
+    },
+    {
+        "question": "What is HARPS?",
+        "options": ["A type of star", "A leading instrument for detecting exoplanets", "A specific star system", "None"],
+        "answer": "A leading instrument for detecting exoplanets"
+    },
+    {
+        "question": "What does HIRES stand for?",
+        "options": ["High-Resolution Exoplanet Survey", "High-Resolution Echelle Spectrometer", "High-Intensity Radial Spectroscopy", "High-Resolution Energy Spectrometer"],
+        "answer": "High-Resolution Echelle Spectrometer"
+    },
+    {
+        "question": "What capability do HARPS and HIRES provide to astronomers?",
+        "options": ["Detecting exoplanets only", "Measuring radial velocities", "Direct imaging", "Studying black holes"],
+        "answer": "Measuring radial velocities"
+    },
+    {
+        "question": "Why is the Radial Velocity Method important in exoplanet research?",
+        "options": ["It relies on visible light", "It confirms planets found by other methods", "It only detects gas giants", "It requires no instruments"],
+        "answer": "It confirms planets found by other methods"
+    },
+    {
+        "question": "What is the main limitation of the Radial Velocity Method?",
+        "options": ["It cannot detect planets at all", "It is less effective for distant stars", "It can only detect small planets", "It ignores temperature"],
+        "answer": "It is less effective for distant stars"
+    },
+    {
+        "question": "How does the size of a planet affect its detectability using the Radial Velocity Method?",
+        "options": ["Larger planets create more noticeable wobbles", "Size does not matter", "Smaller planets are easier to detect", "None"],
+        "answer": "Larger planets create more noticeable wobbles"
+    },
+    {
+        "question": "What aspect of a star's light is analyzed to determine the presence of an exoplanet?",
+        "options": ["Color", "Brightness", "Frequency", "Wobble"],
+        "answer": "Frequency"
+    },
+    {
+        "question": "What type of motion does a star exhibit due to an orbiting planet?",
+        "options": ["Linear motion", "Orbital motion", "Wobble", "Rotational motion"],
+        "answer": "Wobble"
+    },
+    {
+        "question": "What is a key feature of the Radial Velocity Method?",
+        "options": ["It uses direct imaging", "It requires multiple observations", "It measures the star's wobble", "It relies solely on temperature"],
+        "answer": "It measures the star's wobble"
+    },
+    {
+        "question": "What discovery method relies on observing light shifts caused by a star's motion?",
+        "options": ["Gravitational microlensing", "Direct imaging", "Radial Velocity Method", "Transit method"],
+        "answer": "Radial Velocity Method"
+    },
+    {
+        "question": "What can the Radial Velocity Method tell us about a detected exoplanet?",
+        "options": ["Only its color", "Only its size", "Its mass and distance from the star", "Its atmosphere"],
+        "answer": "Its mass and distance from the star"
+    },
+    {
+        "question": "What is the role of gravitational pull in the Radial Velocity Method?",
+        "options": ["To change the star's color", "To create brightness", "To cause the star to wobble", "To increase temperature"],
+        "answer": "To cause the star to wobble"
+    },
+    {
+        "question": "How does the Radial Velocity Method complement other detection methods?",
+        "options": ["It ignores other methods", "It can confirm findings from other techniques", "It only studies stars", "None"],
+        "answer": "It can confirm findings from other techniques"
+    },
+    {
+        "question": "What is a significant characteristic of a planet that can be detected using the Radial Velocity Method?",
+        "options": ["Its temperature", "Its brightness", "Its mass", "Its color"],
+        "answer": "Its mass"
+    },
+    {
+        "question": "Which of the following best describes how astronomers use the Radial Velocity Method?",
+        "options": ["To study only gas giants", "To observe stars and planets directly", "To analyze light for wobbling stars", "To measure distances"],
+        "answer": "To analyze light for wobbling stars"
+    },
+    {
+        "question": "What kind of planets does the Radial Velocity Method primarily help detect?",
+        "options": ["Only rocky planets", "Distant planets", "Large planets close to their stars", "Free-floating planets"],
+        "answer": "Large planets close to their stars"
+    },
+    {
+        "question": "What is the relationship between a planet's size and its gravitational influence on its star?",
+        "options": ["Smaller planets have greater influence", "Larger planets exert a stronger gravitational pull", "Size doesn't matter", "None"],
+        "answer": "Larger planets exert a stronger gravitational pull"
+    },
+    {
+        "question": "Which method is one of the first used to detect exoplanets?",
+        "options": ["Gravitational microlensing", "Radial Velocity Method", "Direct imaging", "Transit method"],
+        "answer": "Radial Velocity Method"
+    },
+    {
+        "question": "How many exoplanets has the Radial Velocity Method contributed to discovering?",
+        "options": ["500", "1,100", "2,600", "100"],
+        "answer": "1,100"
+    },
+    {
+        "question": "What type of stars can the Radial Velocity Method be applied to?",
+        "options": ["Only dim stars", "Only bright stars", "Stars of all types", "None"],
+        "answer": "Stars of all types"
+    },
+    {
+        "question": "What does the Radial Velocity Method primarily rely on to detect planets?",
+        "options": ["Star brightness", "Star wobble caused by planets", "Light absorption", "Planet temperatures"],
+        "answer": "Star wobble caused by planets"
+    },
+    {
+        "question": "How does the Radial Velocity Method enhance our understanding of exoplanets?",
+        "options": ["By only observing stars", "By providing detailed information about planetary systems", "By ignoring distances", "By focusing on star brightness only"],
+        "answer": "By providing detailed information about planetary systems"
+    },
+    {
+        "question": "What is the process called when the light from a star shifts as it moves?",
+        "options": ["Red shift and blue shift", "Light absorption", "Color change", "Light reflection"],
+        "answer": "Red shift and blue shift"
+    },
+    {
+        "question": "What does the Radial Velocity Method allow astronomers to confirm?",
+        "options": ["The color of stars", "The existence of planets", "The distance to stars", "The brightness of planets"],
+        "answer": "The existence of planets"
+    },
+    {
+        "question": "What technological advancements have improved the Radial Velocity Method?",
+        "options": ["Higher precision instruments", "Direct imaging tools", "Only large telescopes", "None"],
+        "answer": "Higher precision instruments"
+    },
+    {
+        "question": "What is the role of precision instruments in the Radial Velocity Method?",
+        "options": ["To detect temperatures", "To measure star wobble", "To study star colors", "To ignore light"],
+        "answer": "To measure star wobble"
+    },
+    {
+        "question": "How long has the Radial Velocity Method been in use for exoplanet discovery?",
+        "options": ["Since the 2000s", "Since the 1990s", "Since the 1980s", "Since the 1970s"],
+        "answer": "Since the 1990s"
+    },
+    {
+        "question": "What is the significance of the Doppler effect in the Radial Velocity Method?",
+        "options": ["It only affects sound waves", "It helps measure the wobble of stars", "It does not apply to light", "None"],
+        "answer": "It helps measure the wobble of stars"
+    },
+    {
+        "question": "What kind of studies does the Radial Velocity Method facilitate?",
+        "options": ["Only distant stars", "Only bright stars", "Studies of planetary systems", "Only gas giants"],
+        "answer": "Studies of planetary systems"
+    },
+    {
+        "question": "What is one primary limitation of the Radial Velocity Method?",
+        "options": ["It requires a lot of light", "It can only detect large planets", "It is ineffective", "It ignores distances"],
+        "answer": "It can only detect large planets"
+    },
+    {
+        "question": "What happens when a planet orbits a star in terms of its gravitational effect?",
+        "options": ["It has no effect", "It causes the star to wobble", "It changes color", "It brightens the star"],
+        "answer": "It causes the star to wobble"
+    },
+    {
+        "question": "How can the Radial Velocity Method confirm exoplanets found by other methods?",
+        "options": ["By measuring light", "By analyzing wobble", "By changing colors", "By using photos"],
+        "answer": "By analyzing wobble"
+    },
+    {
+        "question": "Which planets are easiest to detect using the Radial Velocity Method?",
+        "options": ["Rocky planets", "Gas giants", "Ice planets", "All types"],
+        "answer": "Gas giants"
+    },
+    {
+        "question": "How many methods exist for detecting exoplanets?",
+        "options": ["Three", "Five", "Multiple", "One"],
+        "answer": "Multiple"
+    },
+    {
+        "question": "What effect do larger planets have on their stars compared to smaller ones?",
+        "options": ["They have less influence", "They cause more wobble", "They have no effect", "They are harder to detect"],
+        "answer": "They cause more wobble"
+    },
+    {
+        "question": "What data does the Radial Velocity Method primarily analyze?",
+        "options": ["Star distances", "Star brightness", "Star wobble", "Star temperature"],
+        "answer": "Star wobble"
+    },
+    {
+        "question": "How is the Radial Velocity Method related to the study of atmospheres?",
+        "options": ["It ignores atmospheres", "It can provide insights about atmospheres indirectly", "It studies atmospheres directly", "None"],
+        "answer": "It can provide insights about atmospheres indirectly"
+    },
+    {
+        "question": "What discovery technique helps confirm a planet's existence through its gravitational pull?",
+        "options": ["Direct imaging", "Gravitational microlensing", "Radial Velocity Method", "Transit method"],
+        "answer": "Radial Velocity Method"
+    },
+    {
+        "question": "What challenges do astronomers face when using the Radial Velocity Method?",
+        "options": ["Detecting small planets", "Observing bright stars", "Ignoring light", "Studying temperatures"],
+        "answer": "Detecting small planets"
+    }
+]

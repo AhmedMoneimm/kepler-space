@@ -1,0 +1,855 @@
+[
+    {
+        "question": "When was the Hubble Space Telescope launched?",
+        "options": ["1990", "1985", "2000", "1995"],
+        "answer": "1990"
+    },
+    {
+        "question": "What is the Hubble Space Telescope best known for?",
+        "options": ["Breathtaking images of galaxies, nebulae, and stars", "Mapping the ocean floor", "Monitoring Earth's weather", "Exploring the Moon's surface"],
+        "answer": "Breathtaking images of galaxies, nebulae, and stars"
+    },
+    {
+        "question": "What role did Hubble play in early exoplanet discovery?",
+        "options": ["Hubble played a crucial role in the early search for exoplanets", "Hubble was not used in exoplanet research", "Hubble was only used to study the Moon", "Hubble discovered all the planets in the solar system"],
+        "answer": "Hubble played a crucial role in the early search for exoplanets"
+    },
+    {
+        "question": "Why was Hubble able to capture clearer images than ground-based telescopes?",
+        "options": ["It orbits above Earth's atmosphere", "It is much larger than ground-based telescopes", "It has a special lens", "It is closer to stars"],
+        "answer": "It orbits above Earth's atmosphere"
+    },
+    {
+        "question": "What type of planets was Hubble involved in discovering?",
+        "options": ["Exoplanets", "Dwarf planets", "Earth's Moon", "Planets in our solar system"],
+        "answer": "Exoplanets"
+    },
+    {
+        "question": "In what year did the Hubble Space Telescope capture its first exoplanet image?",
+        "options": ["1990", "1995", "2001", "1992"],
+        "answer": "1995"
+    },
+    {
+        "question": "Which of the following wavelengths can Hubble observe?",
+        "options": ["Ultraviolet, visible, and infrared", "Gamma rays only", "X-rays only", "Microwaves only"],
+        "answer": "Ultraviolet, visible, and infrared"
+    },
+    {
+        "question": "What was one of Hubble’s unexpected contributions to exoplanet science?",
+        "options": ["It helped confirm the existence of some of the first exoplanets", "It discovered all known exoplanets", "It discovered Mars", "It mapped the surface of Jupiter"],
+        "answer": "It helped confirm the existence of some of the first exoplanets"
+    },
+    {
+        "question": "Why was Hubble valuable in exoplanet research?",
+        "options": ["Its high-resolution imaging and ability to observe in multiple wavelengths", "It was the largest telescope ever built", "It was closer to exoplanets", "It could communicate with alien civilizations"],
+        "answer": "Its high-resolution imaging and ability to observe in multiple wavelengths"
+    },
+    {
+        "question": "What struggle did ground-based telescopes face in exoplanet research?",
+        "options": ["Ground-based telescopes struggled to observe exoplanet atmospheres", "They couldn't see exoplanets at all", "They could only detect black holes", "They were too small to detect stars"],
+        "answer": "Ground-based telescopes struggled to observe exoplanet atmospheres"
+    },
+    {
+        "question": "What was Hubble one of the first telescopes to do in exoplanet research?",
+        "options": ["Directly observe light from an exoplanet", "Map the surface of Mars", "Land on an exoplanet", "Take pictures of black holes"],
+        "answer": "Directly observe light from an exoplanet"
+    },
+    {
+        "question": "What did Hubble help measure in exoplanet atmospheres?",
+        "options": ["Chemical makeup", "Size of stars", "Age of planets", "The gravity of exoplanets"],
+        "answer": "Chemical makeup"
+    },
+    {
+        "question": "What molecules did Hubble help detect in exoplanet atmospheres?",
+        "options": ["Water vapor and carbon dioxide", "Oxygen and nitrogen", "Hydrogen and helium", "Sulfur and mercury"],
+        "answer": "Water vapor and carbon dioxide"
+    },
+    {
+        "question": "What was one of Hubble’s significant contributions to exoplanet science?",
+        "options": ["Producing some of the first atmospheric profiles of exoplanets", "Landing on exoplanets", "Communicating with other civilizations", "Discovering life on exoplanets"],
+        "answer": "Producing some of the first atmospheric profiles of exoplanets"
+    },
+    {
+        "question": "What did Hubble’s discoveries about exoplanet atmospheres provide?",
+        "options": ["New information about their composition and conditions", "The exact number of exoplanets in the galaxy", "Proof of life on other planets", "A way to travel faster than light"],
+        "answer": "New information about their composition and conditions"
+    },
+    {
+        "question": "What foundation did Hubble lay for future telescopes like the James Webb Space Telescope?",
+        "options": ["The search for habitable worlds", "The search for black holes", "Mapping our solar system", "Studying Earth's atmosphere"],
+        "answer": "The search for habitable worlds"
+    },
+    {
+        "question": "How long has Hubble been in service?",
+        "options": ["Over 30 years", "15 years", "50 years", "10 years"],
+        "answer": "Over 30 years"
+    },
+    {
+        "question": "What kind of role does Hubble still play in exoplanet research?",
+        "options": ["A key player", "A minor role", "No role", "It is retired"],
+        "answer": "A key player"
+    },
+    {
+        "question": "What feature of Hubble made it crucial for confirming exoplanet existence?",
+        "options": ["Its high-resolution imaging", "Its ability to travel to exoplanets", "Its proximity to the exoplanets", "Its ability to communicate with alien life"],
+        "answer": "Its high-resolution imaging"
+    },
+    {
+        "question": "How did Hubble’s ability to observe different wavelengths help in exoplanet discovery?",
+        "options": ["It could detect a wide range of chemical signatures", "It could land on exoplanets", "It could see through planets", "It could photograph planets faster"],
+        "answer": "It could detect a wide range of chemical signatures"
+    },
+    {
+        "question": "What was one of the molecules Hubble detected in an exoplanet's atmosphere?",
+        "options": ["Water vapor", "Methane", "Oxygen", "Carbon monoxide"],
+        "answer": "Water vapor"
+    },
+    {
+        "question": "What important profile did Hubble help create for exoplanets?",
+        "options": ["Atmospheric profiles", "Geographical maps", "Magnetic field diagrams", "Star charts"],
+        "answer": "Atmospheric profiles"
+    },
+    {
+        "question": "Which future telescope is expected to build on Hubble’s exoplanet research?",
+        "options": ["James Webb Space Telescope", "Kepler Space Telescope", "Fermi Gamma-ray Telescope", "Chandra X-ray Observatory"],
+        "answer": "James Webb Space Telescope"
+    },
+    {
+        "question": "What was one of the challenges ground-based telescopes faced compared to Hubble?",
+        "options": ["They couldn't observe through Earth's atmosphere as clearly", "They were not large enough", "They could not detect light", "They were too far from the stars"],
+        "answer": "They couldn't observe through Earth's atmosphere as clearly"
+    },
+    {
+        "question": "What type of light was Hubble one of the first telescopes to observe directly from an exoplanet?",
+        "options": ["Visible light", "Gamma rays", "Ultraviolet light", "Microwaves"],
+        "answer": "Visible light"
+    },
+    {
+        "question": "What do atmospheric profiles of exoplanets tell scientists?",
+        "options": ["Information about a planet’s composition and conditions", "The planet's distance from Earth", "The weight of the planet", "The number of moons around the planet"],
+        "answer": "Information about a planet’s composition and conditions"
+    },
+    {
+        "question": "What is one of Hubble’s lasting contributions to astronomy?",
+        "options": ["Its stunning images and groundbreaking discoveries", "Its speed of traveling to planets", "Its ability to change orbits", "Its role in launching space probes"],
+        "answer": "Its stunning images and groundbreaking discoveries"
+    },
+    {
+        "question": "Why is Hubble still relevant after more than 30 years in service?",
+        "options": ["It continues to inspire astronomers with discoveries and images", "It is the only space telescope in operation", "It can communicate with life on other planets", "It has been replaced by newer telescopes"],
+        "answer": "It continues to inspire astronomers with discoveries and images"
+    },
+    
+    
+        {
+            "question": "What was unique about the first exoplanets discovered?",
+            "options": [
+                "They orbited pulsars, remnants of exploded stars",
+                "They were all Earth-like planets",
+                "They were all in the habitable zone",
+                "They were closer to Earth than any other stars"
+            ],
+            "answer": "They orbited pulsars, remnants of exploded stars"
+        },
+        {
+            "question": "What type of stars did some of the first exoplanets orbit?",
+            "options": [
+                "White dwarfs",
+                "Pulsars",
+                "Red giants",
+                "Main sequence stars"
+            ],
+            "answer": "Pulsars"
+        },
+        {
+            "question": "What is a pulsar?",
+            "options": [
+                "A neutron star that emits beams of radiation",
+                "A planet that orbits a black hole",
+                "A star that has just formed",
+                "A planet that emits radio signals"
+            ],
+            "answer": "A neutron star that emits beams of radiation"
+        },
+        {
+            "question": "What extreme characteristic was common among some of the first exoplanets discovered?",
+            "options": [
+                "They completed their orbits in just four days",
+                "They had extremely long orbits",
+                "They had atmospheres made entirely of water",
+                "They orbited multiple stars"
+            ],
+            "answer": "They completed their orbits in just four days"
+        },
+        {
+            "question": "Why was Earth's atmosphere a limiting factor in discovering exoplanets in the 1980s and 1990s?",
+            "options": [
+                "It distorted the light from distant stars",
+                "It blocked out most of the stars",
+                "It was too cold to observe exoplanets",
+                "It absorbed the radio signals from exoplanets"
+            ],
+            "answer": "It distorted the light from distant stars"
+        },
+        {
+            "question": "How did sending telescopes into space improve the discovery of exoplanets?",
+            "options": [
+                "It allowed us to see through Earth's atmosphere without distortion",
+                "It brought the exoplanets closer to Earth",
+                "It allowed scientists to communicate with the exoplanets",
+                "It created artificial planets for study"
+            ],
+            "answer": "It allowed us to see through Earth's atmosphere without distortion"
+        },
+        {
+            "question": "What did space-based telescopes uncover about exoplanets?",
+            "options": [
+                "Thousands of exoplanets, some the size of Earth",
+                "All exoplanets are gas giants",
+                "No exoplanets in the habitable zone",
+                "Exoplanets cannot sustain life"
+            ],
+            "answer": "Thousands of exoplanets, some the size of Earth"
+        },
+        {
+            "question": "What are astronomers hoping to find in the atmospheres of exoplanets?",
+            "options": [
+                "Signs of life",
+                "Giant oceans",
+                "New elements",
+                "Rare gases"
+            ],
+            "answer": "Signs of life"
+        },
+        {
+            "question": "What is the next step in exoplanet exploration?",
+            "options": [
+                "Studying their atmospheres for signs of life",
+                "Landing a probe on an exoplanet",
+                "Sending humans to exoplanets",
+                "Building more ground-based telescopes"
+            ],
+            "answer": "Studying their atmospheres for signs of life"
+        },
+        {
+            "question": "Which telescope is known for its significant contributions to exoplanet discovery?",
+            "options": [
+                "Hubble Space Telescope",
+                "Kepler Space Telescope",
+                "Spitzer Space Telescope",
+                "James Webb Space Telescope"
+            ],
+            "answer": "Kepler Space Telescope"
+        },
+        {
+            "question": "What does NASA use to study distant worlds beyond our solar system?",
+            "options": [
+                "Space telescopes like Hubble and TESS",
+                "Rovers and landers",
+                "Space shuttles",
+                "Radio telescopes"
+            ],
+            "answer": "Space telescopes like Hubble and TESS"
+        },
+        {
+            "question": "What is the purpose of the Transiting Exoplanet Survey Satellite (TESS)?",
+            "options": [
+                "To search for exoplanets by observing transits",
+                "To search for black holes",
+                "To explore Mars",
+                "To monitor gamma-ray bursts"
+            ],
+            "answer": "To search for exoplanets by observing transits"
+        },
+        {
+            "question": "Which recently launched telescope will allow for the detailed study of exoplanet atmospheres?",
+            "options": [
+                "James Webb Space Telescope",
+                "Spitzer Space Telescope",
+                "Hubble Space Telescope",
+                "Chandra X-ray Observatory"
+            ],
+            "answer": "James Webb Space Telescope"
+        },
+        {
+            "question": "Which space telescope has been iconic in observing the universe for decades?",
+            "options": [
+                "Hubble Space Telescope",
+                "James Webb Space Telescope",
+                "TESS",
+                "Kepler Space Telescope"
+            ],
+            "answer": "Hubble Space Telescope"
+        },
+        {
+            "question": "What do scientists hope to unlock by probing distant worlds?",
+            "options": [
+                "Mysteries of planets far beyond our solar system",
+                "The ability to travel faster than light",
+                "The location of black holes",
+                "New methods for colonizing other planets"
+            ],
+            "answer": "Mysteries of planets far beyond our solar system"
+        },
+        {
+            "question": "What are scientists using the Chandra X-ray Observatory for?",
+            "options": [
+                "To explore the high-energy universe, including black holes and neutron stars",
+                "To land on the Moon",
+                "To find water on Mars",
+                "To search for alien spacecraft"
+            ],
+            "answer": "To explore the high-energy universe, including black holes and neutron stars"
+        },
+        {
+            "question": "Which space telescope studies gamma rays from distant astronomical objects?",
+            "options": [
+                "Fermi Gamma-ray Space Telescope",
+                "Kepler Space Telescope",
+                "Hubble Space Telescope",
+                "TESS"
+            ],
+            "answer": "Fermi Gamma-ray Space Telescope"
+        },
+        {
+            "question": "What have powerful telescopes allowed us to do?",
+            "options": [
+                "Probe distant worlds and unlock planetary mysteries",
+                "Travel faster than light",
+                "Communicate with alien civilizations",
+                "Take direct pictures of all exoplanets"
+            ],
+            "answer": "Probe distant worlds and unlock planetary mysteries"
+        },
+        {
+            "question": "What kind of radiation do pulsars emit?",
+            "options": [
+                "Beams of radiation",
+                "Visible light",
+                "Gamma rays only",
+                "Infrared radiation"
+            ],
+            "answer": "Beams of radiation"
+        },
+        {
+            "question": "What enables astronomers to study planets far beyond our solar system?",
+            "options": [
+                "Space telescopes",
+                "Rovers and probes",
+                "Satellites orbiting Earth",
+                "Ground-based telescopes only"
+            ],
+            "answer": "Space telescopes"
+        },
+        {
+            "question": "What is one of the main limitations of ground-based telescopes?",
+            "options": [
+                "Earth's atmosphere distorts light from stars",
+                "They cannot detect planets beyond our solar system",
+                "They can only detect black holes",
+                "They are not powerful enough to see stars"
+            ],
+            "answer": "Earth's atmosphere distorts light from stars"
+        },
+        {
+            "question": "What are exoplanets?",
+            "options": [
+                "Planets that orbit stars outside our solar system",
+                "Moons that orbit planets in our solar system",
+                "Stars that are very far from Earth",
+                "Distant galaxies"
+            ],
+            "answer": "Planets that orbit stars outside our solar system"
+        },
+        {
+            "question": "What is a 'hot Jupiter'?",
+            "options": [
+                "A gas giant exoplanet that orbits very close to its star",
+                "A small, rocky planet close to its star",
+                "A planet made of lava",
+                "A star that is very close to a gas giant"
+            ],
+            "answer": "A gas giant exoplanet that orbits very close to its star"
+        },
+        {
+            "question": "What type of planet is most likely to be found in the habitable zone?",
+            "options": [
+                "Earth-sized planets",
+                "Gas giants",
+                "Ice giants",
+                "Dwarf planets"
+            ],
+            "answer": "Earth-sized planets"
+        },
+        {
+            "question": "Why are astronomers excited to study exoplanet atmospheres?",
+            "options": [
+                "To search for signs of life",
+                "To see how planets form",
+                "To find the hottest planet",
+                "To locate water on every planet"
+            ],
+            "answer": "To search for signs of life"
+        },
+        {
+            "question": "What kind of exoplanets have been discovered that orbit extremely close to their stars?",
+            "options": [
+                "Hot Jupiters",
+                "Super-Earths",
+                "Mini-Neptunes",
+                "Ice Giants"
+            ],
+            "answer": "Hot Jupiters"
+        },
+        {
+            "question": "What tool is used to study exoplanet atmospheres in detail?",
+            "options": [
+                "James Webb Space Telescope",
+                "Kepler Space Telescope",
+                "TESS",
+                "Hubble Space Telescope"
+            ],
+            "answer": "James Webb Space Telescope"
+        },
+        {
+            "question": "How do exoplanet atmospheres provide clues to the possibility of life?",
+            "options": [
+                "They contain gases like oxygen and methane",
+                "They are always made of hydrogen",
+                "They reflect light in certain colors",
+                "They contain black holes"
+            ],
+            "answer": "They contain gases like oxygen and methane"
+        },
+        {
+            "question": "Which exoplanets are easier to find using the transit method?",
+            "options": [
+                "Large planets that pass in front of their star",
+                "Small rocky planets close to their stars",
+                "Planets in the outer regions of their star systems",
+                "Planets orbiting red dwarf stars"
+            ],
+            "answer": "Large planets that pass in front of their star"
+        },
+        {
+            "question": "What is the purpose of the radial velocity method in exoplanet detection?",
+            "options": [
+                "It detects tiny wobbles in a star's motion caused by an orbiting planet",
+                "It measures the distance between planets",
+                "It measures the speed of light from a planet",
+                "It detects the temperature of the star"
+            ],
+            "answer": "It detects tiny wobbles in a star's motion caused by an orbiting planet"
+        },
+        {
+            "question": "Which space telescope was launched specifically to find planets using the transit method?",
+            "options": [
+                "Kepler Space Telescope",
+                "James Webb Space Telescope",
+                "Hubble Space Telescope",
+                "Spitzer Space Telescope"
+            ],
+            "answer": "Kepler Space Telescope"
+        },
+        {
+            "question": "What is the habitable zone around a star?",
+            "options": [
+                "The region where liquid water could exist",
+                "The area closest to the star",
+                "The area where no planets exist",
+                "The area where stars emit no radiation"
+            ],
+            "answer": "The region where liquid water could exist"
+        },
+        {
+            "question": "Why is it challenging to detect exoplanets?",
+            "options": [
+                "They are small and dim compared to their stars",
+                "They are always too far away to be seen",
+                "They emit too much radiation",
+                "They always have thick clouds covering them"
+            ],
+            "answer": "They are small and dim compared to their stars"
+        },
+        {
+            "question": "How do astronomers measure the size of an exoplanet using the transit method?",
+            "options": [
+                "By measuring how much the star's light dims when the planet passes in front of it",
+                "By observing how fast the planet moves",
+                "By calculating the planet's distance from its star",
+                "By measuring the temperature of the star"
+            ],
+            "answer": "By measuring how much the star's light dims when the planet passes in front of it"
+        },
+        {
+            "question": "Which type of exoplanet is most likely to be found orbiting close to its star?",
+            "options": [
+                "Hot Jupiters",
+                "Ice Giants",
+                "Super-Earths",
+                "Dwarf Planets"
+            ],
+            "answer": "Hot Jupiters"
+        },
+        {
+            "question": "What is one of Hubble’s last contributions to exoplanet research?",
+            "options": [
+                "Detecting molecules in exoplanet atmospheres",
+                "Mapping the surface of Mars",
+                "Landing on an exoplanet",
+                "Finding new stars"
+            ],
+            "answer": "Detecting molecules in exoplanet atmospheres"
+        },
+        {
+            "question": "What type of imaging does Hubble use to study exoplanets?",
+            "options": [
+                "High-resolution imaging",
+                "Low-resolution imaging",
+                "Infrared imaging only",
+                "X-ray imaging"
+            ],
+            "answer": "High-resolution imaging"
+        },
+        {
+            "question": "What does Hubble's legacy continue to inspire?",
+            "options": [
+                "Future generations of astronomers",
+                "Space travel",
+                "Robot missions to Mars",
+                "Black hole research"
+            ],
+            "answer": "Future generations of astronomers"
+        },
+        {
+            "question": "What information has Hubble helped provide about exoplanets?",
+            "options": [
+                "Atmospheric profiles and chemical compositions",
+                "Their sizes and distances from Earth",
+                "Their orbits and speeds",
+                "Their gravitational pull"
+            ],
+            "answer": "Atmospheric profiles and chemical compositions"
+        },
+        {
+            "question": "How did Hubble contribute to the discovery of exoplanets?",
+            "options": [
+                "By confirming their existence and studying their atmospheres",
+                "By landing on them",
+                "By photographing them directly",
+                "By discovering their moons"
+            ],
+            "answer": "By confirming their existence and studying their atmospheres"
+        },
+        {
+            "question": "What is Hubble’s contribution to understanding habitable zones?",
+            "options": [
+                "Studying the atmospheres of planets in the habitable zone",
+                "Mapping the exact locations of habitable zones",
+                "Finding habitable planets only",
+                "Measuring the distances of stars"
+            ],
+            "answer": "Studying the atmospheres of planets in the habitable zone"
+        },
+        {
+            "question": "What type of planets do scientists focus on when searching for life?",
+            "options": [
+                "Earth-like planets",
+                "Gas giants",
+                "Ice giants",
+                "Dwarf planets"
+            ],
+            "answer": "Earth-like planets"
+        },
+        {
+            "question": "What did Hubble help detect in the atmosphere of exoplanets?",
+            "options": [
+                "Water vapor and carbon dioxide",
+                "Only hydrogen",
+                "Only oxygen",
+                "No gases at all"
+            ],
+            "answer": "Water vapor and carbon dioxide"
+        },
+        {
+            "question": "What was one of the significant advancements in technology that Hubble brought?",
+            "options": [
+                "High-resolution imaging technology",
+                "Faster data processing",
+                "Compact telescope designs",
+                "Space travel capabilities"
+            ],
+            "answer": "High-resolution imaging technology"
+        },
+        {
+            "question": "What is one of Hubble's major discoveries in exoplanet science?",
+            "options": [
+                "The detection of various molecules in exoplanet atmospheres",
+                "The discovery of black holes",
+                "The creation of new planets",
+                "The mapping of the Milky Way"
+            ],
+            "answer": "The detection of various molecules in exoplanet atmospheres"
+        },
+        {
+            "question": "How has Hubble impacted future missions like the James Webb Space Telescope?",
+            "options": [
+                "By laying the groundwork for studying atmospheres of exoplanets",
+                "By exploring Mars directly",
+                "By developing new propulsion technologies",
+                "By mapping the Moon"
+            ],
+            "answer": "By laying the groundwork for studying atmospheres of exoplanets"
+        },
+        {
+            "question": "What is one of Hubble's contributions to the understanding of the universe?",
+            "options": [
+                "Providing stunning images and groundbreaking discoveries",
+                "Identifying the exact number of stars",
+                "Locating all exoplanets",
+                "Developing new star classification systems"
+            ],
+            "answer": "Providing stunning images and groundbreaking discoveries"
+        },
+        {
+            "question": "What challenges did Hubble overcome compared to ground-based telescopes?",
+            "options": [
+                "It can see through the distortion of Earth's atmosphere",
+                "It is larger and heavier",
+                "It requires more power",
+                "It operates on a different wavelength"
+            ],
+            "answer": "It can see through the distortion of Earth's atmosphere"
+        },
+        {
+            "question": "What significant technological leap did Hubble represent in astronomy?",
+            "options": [
+                "It was the first space telescope to be launched",
+                "It was the largest telescope ever built",
+                "It could measure temperatures on distant planets",
+                "It could communicate with alien civilizations"
+            ],
+            "answer": "It was the first space telescope to be launched"
+        },
+        {
+            "question": "What aspect of Hubble's operation allows it to produce such detailed images?",
+            "options": [
+                "It operates in space, free from atmospheric interference",
+                "It has a unique lens design",
+                "It uses quantum technology",
+                "It has a smaller mirror than ground-based telescopes"
+            ],
+            "answer": "It operates in space, free from atmospheric interference"
+        },
+        {
+            "question": "What is one of the primary reasons for the continued success of the Hubble Space Telescope?",
+            "options": [
+                "Ongoing upgrades and servicing missions",
+                "It has no competitors",
+                "It was built for a single mission",
+                "It is located on Earth"
+            ],
+            "answer": "Ongoing upgrades and servicing missions"
+        },
+        {
+            "question": "What mission has Hubble contributed to that focuses on finding habitable worlds?",
+            "options": [
+                "Searching for biosignatures in exoplanet atmospheres",
+                "Mapping the entire Milky Way",
+                "Studying black holes",
+                "Finding new moons in the solar system"
+            ],
+            "answer": "Searching for biosignatures in exoplanet atmospheres"
+        },
+        {
+            "question": "What has Hubble's long-term observations provided insights into?",
+            "options": [
+                "The changing atmospheres of exoplanets",
+                "The age of our solar system",
+                "The size of distant galaxies",
+                "The locations of all black holes"
+            ],
+            "answer": "The changing atmospheres of exoplanets"
+        },
+        {
+            "question": "What is one of the most exciting prospects for future exoplanet research?",
+            "options": [
+                "Finding signs of life beyond Earth",
+                "Mapping the surface of every planet",
+                "Communicating with aliens",
+                "Studying dark matter"
+            ],
+            "answer": "Finding signs of life beyond Earth"
+        },
+        {
+            "question": "Which telescope has played a role in identifying potentially habitable exoplanets?",
+            "options": [
+                "Hubble Space Telescope",
+                "Chandra X-ray Observatory",
+                "James Webb Space Telescope",
+                "Kepler Space Telescope"
+            ],
+            "answer": "Hubble Space Telescope"
+        },
+        {
+            "question": "What types of wavelengths can Hubble detect?",
+            "options": [
+                "Ultraviolet, visible, and infrared",
+                "Only ultraviolet",
+                "Only visible",
+                "Only infrared"
+            ],
+            "answer": "Ultraviolet, visible, and infrared"
+        },
+        {
+            "question": "What is the focus of the James Webb Space Telescope?",
+            "options": [
+                "Studying the early universe and exoplanet atmospheres",
+                "Mapping the Milky Way",
+                "Finding new galaxies",
+                "Studying black holes only"
+            ],
+            "answer": "Studying the early universe and exoplanet atmospheres"
+        },
+        {
+            "question": "How has Hubble changed the way we view the universe?",
+            "options": [
+                "By providing high-resolution images and valuable data",
+                "By discovering new planets in our solar system",
+                "By sending astronauts to other planets",
+                "By creating simulations of the universe"
+            ],
+            "answer": "By providing high-resolution images and valuable data"
+        },
+        {
+            "question": "What did Hubble help confirm about exoplanets?",
+            "options": [
+                "Their existence and atmospheric properties",
+                "Their orbits around their stars",
+                "Their distances from Earth",
+                "Their sizes"
+            ],
+            "answer": "Their existence and atmospheric properties"
+        },
+        {
+            "question": "What did Hubble’s discoveries in exoplanet research pave the way for?",
+            "options": [
+                "Future telescopes like the James Webb Space Telescope",
+                "Robotic missions to exoplanets",
+                "The first human missions to Mars",
+                "The colonization of other planets"
+            ],
+            "answer": "Future telescopes like the James Webb Space Telescope"
+        },
+        {
+            "question": "What aspect of Hubble's images captivates both scientists and the public?",
+            "options": [
+                "Their stunning beauty and scientific significance",
+                "Their speed of capture",
+                "Their brightness",
+                "Their size"
+            ],
+            "answer": "Their stunning beauty and scientific significance"
+        },
+        {
+            "question": "Which discovery is associated with Hubble's observations of exoplanets?",
+            "options": [
+                "The detection of water vapor",
+                "Finding new stars",
+                "Measuring distances between stars",
+                "Mapping the surface of exoplanets"
+            ],
+            "answer": "The detection of water vapor"
+        },
+        {
+            "question": "What instrument has been key in Hubble’s legacy for studying exoplanets?",
+            "options": [
+                "Its cameras and spectrometers",
+                "Its ability to land on planets",
+                "Its radio transmitter",
+                "Its laser systems"
+            ],
+            "answer": "Its cameras and spectrometers"
+        },
+        {
+            "question": "What critical insight has Hubble provided regarding exoplanet atmospheres?",
+            "options": [
+                "The presence of various molecules like carbon dioxide",
+                "The temperature of exoplanets",
+                "Their distance from Earth",
+                "The number of moons they have"
+            ],
+            "answer": "The presence of various molecules like carbon dioxide"
+        },
+        {
+            "question": "What has been one of Hubble’s greatest contributions to astronomy?",
+            "options": [
+                "Advancing our understanding of exoplanets",
+                "Creating space missions to other planets",
+                "Mapping the entire universe",
+                "Finding dark matter"
+            ],
+            "answer": "Advancing our understanding of exoplanets"
+        },
+        {
+            "question": "How does Hubble inspire future astronomers?",
+            "options": [
+                "Through its discoveries and stunning images",
+                "By providing funding for their projects",
+                "By sending them into space",
+                "By building new telescopes"
+            ],
+            "answer": "Through its discoveries and stunning images"
+        },
+        {
+            "question": "What did Hubble's long-term studies help scientists understand better?",
+            "options": [
+                "The variety of atmospheres on different exoplanets",
+                "The age of the universe",
+                "The color of distant galaxies",
+                "The weight of black holes"
+            ],
+            "answer": "The variety of atmospheres on different exoplanets"
+        },
+        {
+            "question": "What is a primary goal for future telescopes after Hubble?",
+            "options": [
+                "To study the atmospheres of exoplanets in detail",
+                "To land on Mars",
+                "To find new galaxies",
+                "To measure black hole sizes"
+            ],
+            "answer": "To study the atmospheres of exoplanets in detail"
+        },
+        {
+            "question": "What are scientists hopeful to find in exoplanet atmospheres?",
+            "options": [
+                "Signs of life",
+                "New elements",
+                "All gases present in the universe",
+                "New planets"
+            ],
+            "answer": "Signs of life"
+        },
+        {
+            "question": "Which telescope has helped confirm some of the first exoplanets?",
+            "options": [
+                "Hubble Space Telescope",
+                "Chandra X-ray Observatory",
+                "James Webb Space Telescope",
+                "TESS"
+            ],
+            "answer": "Hubble Space Telescope"
+        },
+        {
+            "question": "What made Hubble a groundbreaking telescope?",
+            "options": [
+                "It was the first space telescope and achieved high resolution",
+                "It was the largest telescope ever built",
+                "It could communicate with alien civilizations",
+                "It discovered black holes"
+            ],
+            "answer": "It was the first space telescope and achieved high resolution"
+        }
+    ]
+    

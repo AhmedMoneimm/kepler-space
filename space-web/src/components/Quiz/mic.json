@@ -1,0 +1,267 @@
+[
+    {
+        "question": "How many exoplanets have been discovered through gravitational microlensing?",
+        "options": ["225", "500", "150", "100"],
+        "answer": "225"
+    },
+    {
+        "question": "What theory predicts the phenomenon of gravitational lensing?",
+        "options": ["Newton's Law", "Einstein's General Theory of Relativity", "Hubble's Law", "Kepler's Laws"],
+        "answer": "Einstein's General Theory of Relativity"
+    },
+    {
+        "question": "What role does a massive object play in gravitational microlensing?",
+        "options": ["It blocks light", "It bends and focuses light", "It absorbs light", "It reflects light"],
+        "answer": "It bends and focuses light"
+    },
+    {
+        "question": "What is magnified during a microlensing event?",
+        "options": ["The background star's light", "The planet's brightness", "Earth's atmosphere", "None"],
+        "answer": "The background star's light"
+    },
+    {
+        "question": "How does gravitational microlensing help astronomers detect planets?",
+        "options": ["By analyzing sound waves", "By observing light-bending events", "By measuring temperature", "By direct imaging"],
+        "answer": "By observing light-bending events"
+    },
+    {
+        "question": "What effect does light bending have on a distant star?",
+        "options": ["It dims the star", "It creates a brightening effect", "It changes the star's color", "It has no effect"],
+        "answer": "It creates a brightening effect"
+    },
+    {
+        "question": "What is a light curve?",
+        "options": ["A graph of brightness over time", "A type of star", "A method of detecting temperature", "None"],
+        "answer": "A graph of brightness over time"
+    },
+    {
+        "question": "What can astronomers infer from the shape and brightness of a light curve?",
+        "options": ["The planet's mass and distance", "The star's temperature", "The planet's color", "The star's brightness"],
+        "answer": "The planet's mass and distance"
+    },
+    {
+        "question": "What advantage does microlensing have over other planet-detection methods?",
+        "options": ["It relies on a planet's own light", "It can detect free-floating planets", "It requires no instruments", "It is the only method"],
+        "answer": "It can detect free-floating planets"
+    },
+    {
+        "question": "What is a free-floating planet?",
+        "options": ["A planet bound to a star", "A planet not bound to any star", "A planet that has no atmosphere", "A type of gas giant"],
+        "answer": "A planet not bound to any star"
+    },
+    {
+        "question": "What limitation does microlensing have?",
+        "options": ["It can only detect large planets", "It provides detailed information about planets", "Microlensing events are transient", "It requires high temperatures"],
+        "answer": "Microlensing events are transient"
+    },
+    {
+        "question": "What does the transient nature of microlensing events imply?",
+        "options": ["They can be observed multiple times", "They occur only once", "They last for weeks", "They are predictable"],
+        "answer": "They occur only once"
+    },
+    {
+        "question": "What is a drawback of microlensing in terms of follow-up observations?",
+        "options": ["It allows for multiple observations", "It doesn't allow for follow-up observations", "It requires less data", "It can only detect gas giants"],
+        "answer": "It doesn't allow for follow-up observations"
+    },
+    {
+        "question": "What kind of details does microlensing not provide about the detected planets?",
+        "options": ["Mass", "Size", "Atmosphere", "None"],
+        "answer": "Atmosphere"
+    },
+    {
+        "question": "Which technique is better for providing detailed information about a planet’s atmosphere?",
+        "options": ["Gravitational microlensing", "Transit spectroscopy", "Direct imaging", "Radial velocity"],
+        "answer": "Transit spectroscopy"
+    },
+    {
+        "question": "What does the gravity of a massive object do during gravitational lensing?",
+        "options": ["Absorbs light", "Blocks light completely", "Bends light", "Reflects light"],
+        "answer": "Bends light"
+    },
+    {
+        "question": "Why is it challenging to detect planets using direct imaging?",
+        "options": ["They are too bright", "They are too far away", "Stars are millions of times brighter", "They don't exist"],
+        "answer": "Stars are millions of times brighter"
+    },
+    {
+        "question": "What does a gravitational microlensing event help astronomers identify?",
+        "options": ["Star temperatures", "Star sizes", "Planets in distant regions of space", "Star colors"],
+        "answer": "Planets in distant regions of space"
+    },
+    {
+        "question": "Which method has led to the discovery of 225 exoplanets?",
+        "options": ["Direct imaging", "Transit method", "Gravitational microlensing", "Radial velocity method"],
+        "answer": "Gravitational microlensing"
+    },
+    {
+        "question": "How do astronomers detect the presence of a planet using microlensing?",
+        "options": ["By capturing sound waves", "By measuring light patterns", "By observing star wobble", "By analyzing light curves"],
+        "answer": "By analyzing light curves"
+    },
+    {
+        "question": "What does the term 'lens' refer to in gravitational microlensing?",
+        "options": ["The star's brightness", "The planet's ability to bend light", "The telescope's lens", "None"],
+        "answer": "The planet's ability to bend light"
+    },
+    {
+        "question": "What advantage does microlensing have over the transit method?",
+        "options": ["It doesn't require observing transits", "It detects only large planets", "It measures temperatures", "It relies on star brightness"],
+        "answer": "It doesn't require observing transits"
+    },
+    {
+        "question": "What is the significance of gravitational lensing in astronomy?",
+        "options": ["It only helps in studying stars", "It provides new methods for detecting planets", "It ignores distant galaxies", "It is not useful"],
+        "answer": "It provides new methods for detecting planets"
+    },
+    {
+        "question": "How does the gravitational influence of a planet affect light?",
+        "options": ["It slows it down", "It bends it", "It brightens it", "It absorbs it"],
+        "answer": "It bends it"
+    },
+    {
+        "question": "What observation technique is most effective for distant planets?",
+        "options": ["Direct imaging", "Radial velocity", "Gravitational microlensing", "Transit method"],
+        "answer": "Gravitational microlensing"
+    },
+    {
+        "question": "What phenomenon allows for the detection of planets in microlensing?",
+        "options": ["Wobbling stars", "Brightening light", "Gravitational interactions", "Star colors"],
+        "answer": "Gravitational interactions"
+    },
+    {
+        "question": "Why is the gravitational microlensing method advantageous for free-floating planets?",
+        "options": ["It measures brightness", "It does not depend on a star", "It only studies bright stars", "It ignores distances"],
+        "answer": "It does not depend on a star"
+    },
+    {
+        "question": "What does the light curve represent in gravitational microlensing?",
+        "options": ["Changes in brightness over time", "The distance of stars", "The temperature of stars", "The color of stars"],
+        "answer": "Changes in brightness over time"
+    },
+    {
+        "question": "What is one limitation of gravitational microlensing?",
+        "options": ["It can observe multiple times", "It can only be used on bright stars", "It doesn't provide detailed planet characteristics", "It is too complex"],
+        "answer": "It doesn't provide detailed planet characteristics"
+    },
+    {
+        "question": "How is the light from a background star affected during a microlensing event?",
+        "options": ["It gets dimmer", "It gets absorbed", "It gets magnified", "It remains unchanged"],
+        "answer": "It gets magnified"
+    },
+    {
+        "question": "What causes the light from a distant star to bend?",
+        "options": ["Temperature changes", "Gravity from a massive object", "Star brightness", "Color changes"],
+        "answer": "Gravity from a massive object"
+    },
+    {
+        "question": "What must astronomers do to confirm the presence of a planet via microlensing?",
+        "options": ["Observe the planet multiple times", "Analyze the light curve", "Directly image the planet", "Only measure star brightness"],
+        "answer": "Analyze the light curve"
+    },
+    {
+        "question": "What do the tiny shifts in the light curve indicate?",
+        "options": ["Star temperature", "Presence of a planet", "Color changes", "None"],
+        "answer": "Presence of a planet"
+    },
+    {
+        "question": "What is one challenge associated with detecting planets via gravitational microlensing?",
+        "options": ["It can only be used on nearby stars", "It cannot detect free-floating planets", "Events are one-time occurrences", "It is easy to observe"],
+        "answer": "Events are one-time occurrences"
+    },
+    {
+        "question": "What helps astronomers differentiate between planets and other astronomical phenomena?",
+        "options": ["Light intensity", "Bright stars", "Unique light curve shapes", "None"],
+        "answer": "Unique light curve shapes"
+    },
+    {
+        "question": "What is one of the main factors limiting microlensing detections?",
+        "options": ["Star brightness", "Planet distance", "Event rarity", "Only near stars can be observed"],
+        "answer": "Event rarity"
+    },
+    {
+        "question": "What technology enhances the capability of gravitational microlensing?",
+        "options": ["High-precision instruments", "Direct imaging tools", "Only ground telescopes", "None"],
+        "answer": "High-precision instruments"
+    },
+    {
+        "question": "How many exoplanets have been discovered via gravitational microlensing as of the current date?",
+        "options": ["Over 225", "100", "50", "10"],
+        "answer": "Over 225"
+    },
+    {
+        "question": "What does a gravitational microlensing event allow astronomers to observe?",
+        "options": ["Only bright stars", "Hidden planets", "Star temperatures", "Star colors"],
+        "answer": "Hidden planets"
+    },
+    {
+        "question": "What must happen for a microlensing event to be observed?",
+        "options": ["A planet must pass in front of a distant star", "A star must go supernova", "A planet must die", "A star must change color"],
+        "answer": "A planet must pass in front of a distant star"
+    },
+    {
+        "question": "What astronomical principle is key to gravitational microlensing?",
+        "options": ["Gravity's effect on light", "The brightness of stars", "Star composition", "The size of planets"],
+        "answer": "Gravity's effect on light"
+    },
+    {
+        "question": "What allows for the detection of planets beyond the solar system?",
+        "options": ["Gravitational microlensing", "Direct imaging", "Radial velocity method", "Transit method"],
+        "answer": "Gravitational microlensing"
+    },
+    {
+        "question": "What can microlensing reveal about planets?",
+        "options": ["Their sizes only", "Their masses and distances", "Their colors", "Their orbits only"],
+        "answer": "Their masses and distances"
+    },
+    {
+        "question": "What are astronomers studying when they analyze light curves from microlensing events?",
+        "options": ["Star sizes", "Planet compositions", "Star brightness", "The effects of gravity on light"],
+        "answer": "The effects of gravity on light"
+    },
+    {
+        "question": "How do microlensing events contribute to exoplanet research?",
+        "options": ["They limit research", "They ignore distances", "They provide new detection methods", "They only observe stars"],
+        "answer": "They provide new detection methods"
+    },
+    {
+        "question": "What is essential for the occurrence of a microlensing event?",
+        "options": ["Distance between planets", "Alignment of celestial bodies", "Temperature of the star", "Size of the star"],
+        "answer": "Alignment of celestial bodies"
+    },
+    {
+        "question": "What scientific concept is utilized in gravitational microlensing?",
+        "options": ["Light absorption", "Light bending", "Star brightness", "Planet sizes"],
+        "answer": "Light bending"
+    },
+    {
+        "question": "What makes gravitational microlensing a unique detection method?",
+        "options": ["It only studies stars", "It can detect very distant planets", "It ignores all types of stars", "It cannot measure brightness"],
+        "answer": "It can detect very distant planets"
+    },
+    {
+        "question": "What factor contributes to the success of gravitational microlensing?",
+        "options": ["The mass of the planet", "The distance from Earth", "The brightness of the planet", "The color of the star"],
+        "answer": "The mass of the planet"
+    },
+    {
+        "question": "How is the gravitational influence of a planet used in microlensing?",
+        "options": ["To study star color", "To measure temperature", "To detect planets", "To enhance star brightness"],
+        "answer": "To detect planets"
+    },
+    {
+        "question": "What occurs during a microlensing event?",
+        "options": ["A planet passes in front of a star", "A star explodes", "A planet disappears", "None"],
+        "answer": "A planet passes in front of a star"
+    },
+    {
+        "question": "How does the light curve from a microlensing event appear?",
+        "options": ["It shows no changes", "It has a specific shape and brightness", "It becomes completely dark", "It gets brighter and then darker"],
+        "answer": "It has a specific shape and brightness"
+    },
+    {
+        "question": "What distinguishes microlensing from other exoplanet detection methods?",
+        "options": ["It focuses on small stars", "It directly observes planets", "It measures gravitational effects", "It ignores light"],
+        "answer": "It measures gravitational effects"
+    }
+]
