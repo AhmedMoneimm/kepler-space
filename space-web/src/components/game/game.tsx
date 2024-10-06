@@ -15,7 +15,11 @@ const GamePage = () => {
     const handleDownload = () => {
         // Replace 'YOUR_FILE_ID' with the actual file ID from Google Drive
         window.open("https://drive.google.com/drive/folders/1KAU_Qk5-IrRKzcVEo6e3SDkUwkcIUEmB", "_blank");
-    };       
+    };
+
+    const handleVideoLink = () => {
+        window.open("https://drive.google.com/file/d/1wQ2E9Gj_tUK3uH0OfN5q82CaGu1IJR0b/view", "_blank");
+    };
 
     return (
         <div
@@ -99,17 +103,20 @@ const GamePage = () => {
                 transition={{ duration: 0.8, delay: 0.6 }}
             />
 
-            <motion.video 
-                className="mb-8 rounded-lg shadow-lg z-10"
-                controls
-                width="80%"
-                src="/path/to/gameplay.mp4"
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                transition={{ duration: 0.8, delay: 0.6 }}
+            <motion.div 
+                className="flex flex-col items-center z-10 mb-8"
+                initial={{ opacity: 0, scale: 0.5 }}
+                animate={{ opacity: 1, scale: 1 }}
+                transition={{ duration: 0.8, delay: 0.8 }}
             >
-                Your browser does not support the video tag.
-            </motion.video>
+                <motion.button 
+                    onClick={handleVideoLink}
+                    className="bg-blue-500 text-white font-bold py-2 px-4 rounded-full shadow-lg hover:bg-blue-400 transition duration-300"
+                    whileHover={{ scale: 1.05 }}
+                >
+                    Watch Gameplay Video
+                </motion.button>
+            </motion.div>
 
             <motion.div 
                 className="flex flex-col items-center z-10"
