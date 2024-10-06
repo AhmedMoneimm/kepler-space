@@ -7,7 +7,7 @@ import os
 
 # Initialize Flask app
 app = Flask(__name__)
-CORS(app, origins="http://localhost:5173")
+CORS(app, origins=["*"])
 
 # Get the current directory of the script
 current_directory = os.path.dirname(__file__)
