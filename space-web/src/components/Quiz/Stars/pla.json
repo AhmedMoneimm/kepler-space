@@ -1,0 +1,872 @@
+[
+    {
+        "question": "How are planets formed?",
+        "options": [
+            "From stars alone",
+            "From cosmic dust and gas in a nebula",
+            "From black holes",
+            "From supernova remnants"
+        ],
+        "answer": "From cosmic dust and gas in a nebula"
+    },
+    {
+        "question": "What is a protoplanetary disk?",
+        "options": [
+            "A disk of planets",
+            "A flat disk of gas and dust surrounding a young star",
+            "A type of star",
+            "A disk formed from supernova explosions"
+        ],
+        "answer": "A flat disk of gas and dust surrounding a young star"
+    },
+    {
+        "question": "What is the role of gravity in planet formation?",
+        "options": [
+            "It creates stars only",
+            "It pulls gas and dust together",
+            "It has no effect on planets",
+            "It prevents planets from forming"
+        ],
+        "answer": "It pulls gas and dust together"
+    },
+    {
+        "question": "What happens to dust grains in a protoplanetary disk?",
+        "options": [
+            "They disappear",
+            "They stick together to form larger objects",
+            "They become stars",
+            "They create black holes"
+        ],
+        "answer": "They stick together to form larger objects"
+    },
+    {
+        "question": "What do dust particles eventually become?",
+        "options": [
+            "Planets",
+            "Gas giants",
+            "Planetesimals",
+            "Stars"
+        ],
+        "answer": "Planetesimals"
+    },
+    {
+        "question": "What are planetesimals?",
+        "options": [
+            "Small moons",
+            "Large asteroids",
+            "Mini-planets",
+            "Giant stars"
+        ],
+        "answer": "Mini-planets"
+    },
+    {
+        "question": "How do planetesimals grow?",
+        "options": [
+            "By colliding with each other",
+            "By shrinking",
+            "By absorbing stars",
+            "By emitting gas"
+        ],
+        "answer": "By colliding with each other"
+    },
+    {
+        "question": "What happens to the paths in the protoplanetary disk as planets form?",
+        "options": [
+            "They become wider",
+            "They are cleared by young planets",
+            "They disappear",
+            "They become circular"
+        ],
+        "answer": "They are cleared by young planets"
+    },
+    {
+        "question": "What types of planets can form from planetesimals?",
+        "options": [
+            "Only gas giants",
+            "Only rocky planets",
+            "Both rocky planets and gas giants",
+            "Only ice planets"
+        ],
+        "answer": "Both rocky planets and gas giants"
+    },
+    {
+        "question": "What is the first step in planet formation?",
+        "options": [
+            "Forming a protoplanetary disk",
+            "Clearing a path in the disk",
+            "Becoming a star",
+            "Merging with other planets"
+        ],
+        "answer": "Forming a protoplanetary disk"
+    },
+    {
+        "question": "What is formed when gravity causes gas and dust to collapse?",
+        "options": [
+            "A star",
+            "A planet",
+            "A black hole",
+            "A nebula"
+        ],
+        "answer": "A star"
+    },
+    {
+        "question": "What process causes tiny dust grains to stick together?",
+        "options": [
+            "Electric charges",
+            "Magnetic forces",
+            "Gravity and collisions",
+            "Heat from stars"
+        ],
+        "answer": "Gravity and collisions"
+    },
+    {
+        "question": "What happens after pebbles form in a protoplanetary disk?",
+        "options": [
+            "They disappear",
+            "They explode",
+            "They merge into larger rocks",
+            "They become stars"
+        ],
+        "answer": "They merge into larger rocks"
+    },
+    {
+        "question": "What might happen to a planetesimal in a protoplanetary disk?",
+        "options": [
+            "It stays the same size",
+            "It can grow larger by pulling in more material",
+            "It turns into gas",
+            "It evaporates"
+        ],
+        "answer": "It can grow larger by pulling in more material"
+    },
+    {
+        "question": "What does a star's gravity affect in a protoplanetary disk?",
+        "options": [
+            "Only the gas",
+            "Only the dust",
+            "Both gas and dust",
+            "Neither"
+        ],
+        "answer": "Both gas and dust"
+    },
+    {
+        "question": "How long does it typically take for planets to form?",
+        "options": [
+            "A few days",
+            "A few weeks",
+            "Millions of years",
+            "Billions of years"
+        ],
+        "answer": "Millions of years"
+    },
+    {
+        "question": "What is one result of the merging process of dust particles?",
+        "options": [
+            "Formation of gas giants",
+            "Formation of rocky planets",
+            "Formation of asteroids",
+            "Formation of comets"
+        ],
+        "answer": "Formation of rocky planets"
+    },
+    {
+        "question": "What do young planets do in a protoplanetary disk?",
+        "options": [
+            "Create black holes",
+            "Clear out their orbits",
+            "Burn gas",
+            "Absorb all the light"
+        ],
+        "answer": "Clear out their orbits"
+    },
+    {
+        "question": "What happens to the gas and dust around forming planets?",
+        "options": [
+            "They increase in mass",
+            "They disappear",
+            "They are absorbed or pushed away",
+            "They become stars"
+        ],
+        "answer": "They are absorbed or pushed away"
+    },
+    {
+        "question": "What phase comes after dust grains in planet formation?",
+        "options": [
+            "Gas giants",
+            "Planetesimals",
+            "Stars",
+            "Asteroids"
+        ],
+        "answer": "Planetesimals"
+    },
+    {
+        "question": "What are the building blocks of planets?",
+        "options": [
+            "Stars",
+            "Comets",
+            "Dust grains",
+            "Nebulae"
+        ],
+        "answer": "Dust grains"
+    },
+    {
+        "question": "How do planets form in relation to their star?",
+        "options": [
+            "Far away from their star",
+            "Close to their star",
+            "In a straight line from their star",
+            "Only in binary systems"
+        ],
+        "answer": "Close to their star"
+    },
+    {
+        "question": "What happens to the remaining material in a protoplanetary disk?",
+        "options": [
+            "It becomes part of the star",
+            "It can form planets or remain as cosmic dust",
+            "It evaporates into space",
+            "It gets absorbed by black holes"
+        ],
+        "answer": "It can form planets or remain as cosmic dust"
+    },
+    {
+        "question": "What is the first step in the planet formation process?",
+        "options": [
+            "Star formation",
+            "Disk formation",
+            "Dust grain collisions",
+            "Merging into planetesimals"
+        ],
+        "answer": "Disk formation"
+    },
+    {
+        "question": "What happens after a star forms?",
+        "options": [
+            "A planet forms immediately",
+            "A protoplanetary disk forms",
+            "Black holes are created",
+            "Nothing happens"
+        ],
+        "answer": "A protoplanetary disk forms"
+    },
+    {
+        "question": "What is the last stage of planet formation?",
+        "options": [
+            "Planetesimals merging into planets",
+            "Dust merging into stars",
+            "Nebulae disappearing",
+            "Supernovae explosions"
+        ],
+        "answer": "Planetesimals merging into planets"
+    },
+    {
+        "question": "What does a protoplanetary disk consist of?",
+        "options": [
+            "Only gas",
+            "Only dust",
+            "Both gas and dust",
+            "Only stars"
+        ],
+        "answer": "Both gas and dust"
+    },
+    {
+        "question": "How do planets interact in a protoplanetary disk?",
+        "options": [
+            "They repel each other",
+            "They collide and merge",
+            "They do not interact",
+            "They only interact with the star"
+        ],
+        "answer": "They collide and merge"
+    },
+    {
+        "question": "What role does gravity play in the formation of planets?",
+        "options": [
+            "It pulls everything apart",
+            "It has no role",
+            "It causes materials to collapse and merge",
+            "It cools down the materials"
+        ],
+        "answer": "It causes materials to collapse and merge"
+    },
+    {
+        "question": "What happens to larger planetesimals as they form?",
+        "options": [
+            "They become black holes",
+            "They attract more material",
+            "They disappear",
+            "They remain the same size"
+        ],
+        "answer": "They attract more material"
+    },
+    {
+        "question": "How are stars and planets related in terms of formation?",
+        "options": [
+            "They form from the same material",
+            "They never interact",
+            "They form at different times",
+            "They are entirely separate processes"
+        ],
+        "answer": "They form from the same material"
+    },
+    {
+        "question": "What do we call the initial material from which planets are formed?",
+        "options": [
+            "Stars",
+            "Galaxies",
+            "Nebulae",
+            "Comets"
+        ],
+        "answer": "Nebulae"
+    },
+    {
+        "question": "Which of the following is a key part of planet formation?",
+        "options": [
+            "Planetary collision",
+            "Star explosion",
+            "Cometary interaction",
+            "Nebula cooling"
+        ],
+        "answer": "Planetary collision"
+    },
+    {
+        "question": "What is a significant result of the planet formation process?",
+        "options": [
+            "Creating life",
+            "Forming galaxies",
+            "Creating new stars",
+            "Creating planets"
+        ],
+        "answer": "Creating planets"
+    },
+    {
+        "question": "What kind of planets can form in a protoplanetary disk?",
+        "options": [
+            "Only rocky planets",
+            "Only gas giants",
+            "Both rocky and gas planets",
+            "Only ice planets"
+        ],
+        "answer": "Both rocky and gas planets"
+    },
+    {
+        "question": "Which phase do most stars spend the majority of their lives in?",
+        "options": [
+            "Main sequence",
+            "Giant phase",
+            "Red dwarf phase",
+            "Supernova phase"
+        ],
+        "answer": "Main sequence"
+    },
+    {
+        "question": "What is a key characteristic of a protoplanetary disk?",
+        "options": [
+            "It is always stable",
+            "It contains only gas",
+            "It is rotating",
+            "It is cold"
+        ],
+        "answer": "It is rotating"
+    },
+    {
+        "question": "How long does the planet formation process typically take?",
+        "options": [
+            "A few days",
+            "Thousands of years",
+            "Millions of years",
+            "Billions of years"
+        ],
+        "answer": "Millions of years"
+    },
+    {
+        "question": "What happens to the leftover material after planet formation?",
+        "options": [
+            "It disappears",
+            "It becomes stars",
+            "It can form moons, asteroids, and comets",
+            "It has no significance"
+        ],
+        "answer": "It can form moons, asteroids, and comets"
+    },
+    {
+        "question": "What can influence the type of planet formed in a protoplanetary disk?",
+        "options": [
+            "The temperature of the disk",
+            "The distance from the star",
+            "The mass of the planetesimals",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which type of star does the Sun belong to?",
+        "options": [
+            "Red giant",
+            "White dwarf",
+            "G-type yellow dwarf",
+            "Supernova"
+        ],
+        "answer": "G-type yellow dwarf"
+    },
+    {
+        "question": "What is one major difference between rocky planets and gas giants?",
+        "options": [
+            "Rocky planets are larger",
+            "Gas giants are closer to the Sun",
+            "Rocky planets have solid surfaces",
+            "Gas giants are made of rocks"
+        ],
+        "answer": "Rocky planets have solid surfaces"
+    },
+    {
+        "question": "What is the main component of a protoplanetary disk?",
+        "options": [
+            "Dust",
+            "Gas",
+            "Ice",
+            "Light"
+        ],
+        "answer": "Gas"
+    },
+    {
+        "question": "What do scientists study to understand planet formation?",
+        "options": [
+            "Only existing planets",
+            "Star formation processes",
+            "Asteroids and comets only",
+            "Only theoretical models"
+        ],
+        "answer": "Star formation processes"
+    },
+    {
+        "question": "What can happen when planetesimals collide?",
+        "options": [
+            "They can create new stars",
+            "They can break apart",
+            "They can merge into larger bodies",
+            "They can disappear"
+        ],
+        "answer": "They can merge into larger bodies"
+    },
+    {
+        "question": "What are the initial stages of a planet's life cycle?",
+        "options": [
+            "Formation from a nebula",
+            "Supernova explosion",
+            "Collapse into a black hole",
+            "Becoming a white dwarf"
+        ],
+        "answer": "Formation from a nebula"
+    },
+    {
+        "question": "What happens to the size of a planetesimal as it grows?",
+        "options": [
+            "It remains the same",
+            "It decreases",
+            "It grows larger",
+            "It disappears"
+        ],
+        "answer": "It grows larger"
+    },
+    {
+        "question": "What role does gravity play in planet formation?",
+        "options": [
+            "It has no effect",
+            "It helps pull materials together",
+            "It pushes materials away",
+            "It only affects large bodies"
+        ],
+        "answer": "It helps pull materials together"
+    },
+    {
+        "question": "How do stars affect planet formation?",
+        "options": [
+            "They create planets",
+            "They provide heat and light",
+            "They have no effect",
+            "They are completely separate processes"
+        ],
+        "answer": "They provide heat and light"
+    },
+    {
+        "question": "How do astronomers know about planet formation?",
+        "options": [
+            "Only through direct observation",
+            "Through studying stars and disks",
+            "Only from theoretical models",
+            "They don't know"
+        ],
+        "answer": "Through studying stars and disks"
+    },
+    {
+        "question": "What is a planetary system?",
+        "options": [
+            "A single planet",
+            "A group of stars",
+            "A group of planets orbiting a star",
+            "Only gas giants"
+        ],
+        "answer": "A group of planets orbiting a star"
+    },
+    {
+        "question": "What happens during the main sequence phase of a star?",
+        "options": [
+            "Stars become red giants",
+            "Stars burn hydrogen into helium",
+            "Stars explode",
+            "Stars form from nebulae"
+        ],
+        "answer": "Stars burn hydrogen into helium"
+    },
+    {
+        "question": "Which type of planets are typically found closer to their stars?",
+        "options": [
+            "Rocky planets",
+            "Gas giants",
+            "Ice giants",
+            "All types are found equally"
+        ],
+        "answer": "Rocky planets"
+    },
+    {
+        "question": "What can cause a planet to become a gas giant?",
+        "options": [
+            "Size and distance from the star",
+            "Only the temperature",
+            "The presence of water",
+            "It is not possible"
+        ],
+        "answer": "Size and distance from the star"
+    },
+    {
+        "question": "What happens to gas and dust in a nebula?",
+        "options": [
+            "They disappear",
+            "They get pulled together by gravity",
+            "They explode",
+            "They stay the same forever"
+        ],
+        "answer": "They get pulled together by gravity"
+    },
+    {
+        "question": "What happens to material that doesn't form into stars or planets?",
+        "options": [
+            "It forms black holes",
+            "It remains as cosmic dust",
+            "It becomes part of stars",
+            "It disappears"
+        ],
+        "answer": "It remains as cosmic dust"
+    },
+    {
+        "question": "What is a key aspect of the planet formation process?",
+        "options": [
+            "The process is quick",
+            "Stars do not form",
+            "Gas and dust come together",
+            "It only happens in binary systems"
+        ],
+        "answer": "Gas and dust come together"
+    },
+    {
+        "question": "How do astronomers study protoplanetary disks?",
+        "options": [
+            "With telescopes and observational data",
+            "By only looking at existing planets",
+            "Through mathematical calculations only",
+            "They cannot study them"
+        ],
+        "answer": "With telescopes and observational data"
+    },
+    {
+        "question": "What can planets formed in a protoplanetary disk become?",
+        "options": [
+            "Only gas giants",
+            "Only rocky planets",
+            "Stars",
+            "Both gas giants and rocky planets"
+        ],
+        "answer": "Both gas giants and rocky planets"
+    },
+    {
+        "question": "How are planets and stars related in terms of formation?",
+        "options": [
+            "They form together from the same material",
+            "They never interact",
+            "They form separately",
+            "Only stars create planets"
+        ],
+        "answer": "They form together from the same material"
+    },
+    {
+        "question": "What is one way planets can be detected?",
+        "options": [
+            "By their light alone",
+            "By studying the light curves of stars",
+            "Through infrared radiation only",
+            "By mathematical models only"
+        ],
+        "answer": "By studying the light curves of stars"
+    },
+    {
+        "question": "What is the main purpose of a protoplanetary disk?",
+        "options": [
+            "To create stars",
+            "To form planets",
+            "To absorb light",
+            "To generate energy"
+        ],
+        "answer": "To form planets"
+    },
+    {
+        "question": "What happens when planetesimals collide?",
+        "options": [
+            "They disintegrate",
+            "They can merge into larger bodies",
+            "They vanish",
+            "They become stars"
+        ],
+        "answer": "They can merge into larger bodies"
+    },
+    {
+        "question": "How do we study the formation of planets?",
+        "options": [
+            "By only observing existing planets",
+            "Through observations and simulations",
+            "Through only theoretical models",
+            "By looking at other galaxies only"
+        ],
+        "answer": "Through observations and simulations"
+    },
+    {
+        "question": "What happens to the gas in a protoplanetary disk?",
+        "options": [
+            "It remains unchanged",
+            "It is absorbed by the star",
+            "It forms new planets",
+            "It disappears"
+        ],
+        "answer": "It forms new planets"
+    },
+    {
+        "question": "What can the study of planets tell us about the universe?",
+        "options": [
+            "Nothing significant",
+            "How life can exist elsewhere",
+            "Only about stars",
+            "How to create stars"
+        ],
+        "answer": "How life can exist elsewhere"
+    },
+    {
+        "question": "What happens when the conditions are right in a nebula?",
+        "options": [
+            "New stars and planets can form",
+            "Nothing happens",
+            "Only stars are formed",
+            "Black holes are created"
+        ],
+        "answer": "New stars and planets can form"
+    },
+    {
+        "question": "What role do supernovae play in planet formation?",
+        "options": [
+            "They destroy planets",
+            "They create nebulae",
+            "They have no role",
+            "They are the only way to form planets"
+        ],
+        "answer": "They create nebulae"
+    },
+    {
+        "question": "What does a protoplanetary disk look like?",
+        "options": [
+            "A flat disk of gas and dust",
+            "A spherical cloud",
+            "A solid object",
+            "A star"
+        ],
+        "answer": "A flat disk of gas and dust"
+    },
+    {
+        "question": "How do planetary systems form?",
+        "options": [
+            "From nebulae",
+            "From other planets",
+            "From black holes",
+            "From galaxies"
+        ],
+        "answer": "From nebulae"
+    },
+    {
+        "question": "What happens to the leftover materials after a star forms?",
+        "options": [
+            "They are absorbed into the star",
+            "They can form planets",
+            "They remain unchanged",
+            "They disappear"
+        ],
+        "answer": "They can form planets"
+    },
+    {
+        "question": "What is the role of cosmic dust in planet formation?",
+        "options": [
+            "It has no role",
+            "It provides the materials for planets",
+            "It is only for decoration",
+            "It creates stars"
+        ],
+        "answer": "It provides the materials for planets"
+    },
+    {
+        "question": "What happens during the first stage of planet formation?",
+        "options": [
+            "A star explodes",
+            "Gas and dust collapse under gravity",
+            "Planets are formed",
+            "Nebulae disappear"
+        ],
+        "answer": "Gas and dust collapse under gravity"
+    },
+    {
+        "question": "How long does the planet formation process generally take?",
+        "options": [
+            "A few months",
+            "Millions to billions of years",
+            "A few days",
+            "Only a year"
+        ],
+        "answer": "Millions to billions of years"
+    },
+    {
+        "question": "What influences the formation of planets in a disk?",
+        "options": [
+            "The temperature of the disk",
+            "The distance from the star",
+            "The mass of the material",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What type of planets are formed close to their stars?",
+        "options": [
+            "Gas giants",
+            "Rocky planets",
+            "Ice planets",
+            "Dwarf planets"
+        ],
+        "answer": "Rocky planets"
+    },
+    {
+        "question": "What is a significant event in the life of a star?",
+        "options": [
+            "Its birth",
+            "Its explosion",
+            "Its stability",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the final fate of most stars?",
+        "options": [
+            "Becoming a white dwarf",
+            "Exploding as a supernova",
+            "Becoming a black hole",
+            "They do not have a final fate"
+        ],
+        "answer": "Becoming a white dwarf"
+    },
+    {
+        "question": "What role does a star's mass play in its life cycle?",
+        "options": [
+            "It determines how quickly it burns fuel",
+            "It has no effect",
+            "It only affects brightness",
+            "It only affects color"
+        ],
+        "answer": "It determines how quickly it burns fuel"
+    },
+    {
+        "question": "What is the significance of studying star formation?",
+        "options": [
+            "To understand the universe better",
+            "To know more about human history",
+            "To find out about life on Earth",
+            "It has no significance"
+        ],
+        "answer": "To understand the universe better"
+    },
+    {
+        "question": "What happens to the materials in a star after it dies?",
+        "options": [
+            "They disappear",
+            "They can form new stars and planets",
+            "They become dark matter",
+            "They are lost forever"
+        ],
+        "answer": "They can form new stars and planets"
+    },
+    {
+        "question": "What does a protostar represent?",
+        "options": [
+            "The beginning of a star's life",
+            "A dying star",
+            "A planet",
+            "A nebula"
+        ],
+        "answer": "The beginning of a star's life"
+    },
+    {
+        "question": "What is the main process that powers stars?",
+        "options": [
+            "Nuclear fission",
+            "Nuclear fusion",
+            "Chemical reactions",
+            "Gravitational collapse"
+        ],
+        "answer": "Nuclear fusion"
+    },
+    {
+        "question": "What is the first step in the star formation process?",
+        "options": [
+            "Collapse of a nebula",
+            "Formation of a black hole",
+            "Creation of planets",
+            "Supernova explosion"
+        ],
+        "answer": "Collapse of a nebula"
+    },
+    {
+        "question": "What happens to the energy produced by a star?",
+        "options": [
+            "It escapes into space",
+            "It powers the star",
+            "It creates planets",
+            "It has no effect"
+        ],
+        "answer": "It powers the star"
+    },
+    {
+        "question": "What can the study of planets tell us about the universe?",
+        "options": [
+            "Nothing significant",
+            "How life can exist elsewhere",
+            "Only about stars",
+            "How to create stars"
+        ],
+        "answer": "How life can exist elsewhere"
+    },
+    {
+        "question": "What happens to the gas in a protoplanetary disk?",
+        "options": [
+            "It remains unchanged",
+            "It is absorbed by the star",
+            "It forms new planets",
+            "It disappears"
+        ],
+        "answer": "It forms new planets"
+    }
+]

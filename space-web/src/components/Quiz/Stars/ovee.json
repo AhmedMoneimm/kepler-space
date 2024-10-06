@@ -1,0 +1,192 @@
+[
+    {
+        "question": "What are stars fundamentally considered to be?",
+        "options": ["Planets", "Galaxies", "Building blocks of galaxies", "Black holes"],
+        "answer": "Building blocks of galaxies"
+    },
+    {
+        "question": "What essential elements do stars produce?",
+        "options": ["Hydrogen and helium", "Carbon, nitrogen, and oxygen", "Gold and silver", "Neon and argon"],
+        "answer": "Carbon, nitrogen, and oxygen"
+    },
+    {
+        "question": "How do stars influence the development of galaxies?",
+        "options": ["They provide energy", "They shape the dynamics and history of galaxies", "They create planets", "They do not influence galaxies"],
+        "answer": "They shape the dynamics and history of galaxies"
+    },
+    {
+        "question": "Where are stars born?",
+        "options": ["In black holes", "In supernovae", "In nebulae", "In the vacuum of space"],
+        "answer": "In nebulae"
+    },
+    {
+        "question": "What causes the collapse of a nebula to form a star?",
+        "options": ["Nuclear fusion", "Gravity", "Solar wind", "Radiation pressure"],
+        "answer": "Gravity"
+    },
+    {
+        "question": "What is formed at the core of a collapsing cloud in a nebula?",
+        "options": ["A black hole", "A planet", "A protostar", "A star system"],
+        "answer": "A protostar"
+    },
+    {
+        "question": "What marks the transition from a protostar to a main sequence star?",
+        "options": ["The formation of planets", "The start of nuclear fusion", "The cooling of the star", "The expansion of the outer layers"],
+        "answer": "The start of nuclear fusion"
+    },
+    {
+        "question": "What balances the inward pull of gravity in a main sequence star?",
+        "options": ["Energy from nuclear fusion", "The star's mass", "Radiation pressure", "The distance from other stars"],
+        "answer": "Energy from nuclear fusion"
+    },
+    {
+        "question": "What is the longest phase in a star's life?",
+        "options": ["Main sequence phase", "Red giant phase", "White dwarf phase", "Supernova phase"],
+        "answer": "Main sequence phase"
+    },
+    {
+        "question": "What happens during the main sequence phase?",
+        "options": ["Hydrogen is converted into helium", "The star explodes", "It forms a black hole", "The star cools down"],
+        "answer": "Hydrogen is converted into helium"
+    },
+    {
+        "question": "How long can stars in the main sequence phase remain stable?",
+        "options": ["Millions of years", "Billions of years", "Trillions of years", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is a nebula?",
+        "options": ["A type of star", "A star's death stage", "A cloud of gas and dust in space", "A black hole"],
+        "answer": "A cloud of gas and dust in space"
+    },
+    {
+        "question": "What happens to the remaining gas and dust in a nebula that does not form a star?",
+        "options": ["It escapes into space", "It becomes part of a black hole", "It may form planets, moons, or asteroids", "It disappears"],
+        "answer": "It may form planets, moons, or asteroids"
+    },
+    {
+        "question": "How does a star maintain its stability during the main sequence phase?",
+        "options": ["By increasing its size", "By losing mass", "By balancing nuclear fusion energy and gravitational forces", "By attracting more gas"],
+        "answer": "By balancing nuclear fusion energy and gravitational forces"
+    },
+    {
+        "question": "What are the two main products of nuclear fusion in stars?",
+        "options": ["Oxygen and nitrogen", "Helium and energy", "Carbon and hydrogen", "Iron and sulfur"],
+        "answer": "Helium and energy"
+    },
+    {
+        "question": "What occurs when a protostar reaches sufficient temperature and pressure?",
+        "options": ["It becomes a black hole", "Nuclear fusion begins", "It cools down", "It explodes"],
+        "answer": "Nuclear fusion begins"
+    },
+    {
+        "question": "How do stars contribute to the creation of heavy elements in the universe?",
+        "options": ["Through supernova explosions", "By absorbing cosmic dust", "Through gravitational collapse", "By burning hydrogen"],
+        "answer": "Through supernova explosions"
+    },
+    {
+        "question": "What does studying stars help astronomers understand?",
+        "options": ["The life cycle of planets", "The formation of galaxies", "The age of the universe", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What are stars primarily composed of?",
+        "options": ["Gas", "Solid matter", "Liquid", "Plasma"],
+        "answer": "Plasma"
+    },
+    {
+        "question": "What is the process by which stars generate energy?",
+        "options": ["Fusion", "Fission", "Radiation", "Evaporation"],
+        "answer": "Fusion"
+    },
+    {
+        "question": "What is the initial phase of a star's life cycle called?",
+        "options": ["Main sequence", "White dwarf", "Red giant", "Protostar"],
+        "answer": "Protostar"
+    },
+    {
+        "question": "What happens to the core of a massive star after it exhausts its nuclear fuel?",
+        "options": ["It becomes a neutron star", "It undergoes fusion", "It collapses", "It expands"],
+        "answer": "It collapses"
+    },
+    {
+        "question": "What is the key factor that determines a star's life cycle?",
+        "options": ["Size", "Color", "Distance from Earth", "Brightness"],
+        "answer": "Size"
+    },
+    {
+        "question": "What do massive stars create during their lifecycle?",
+        "options": ["Light", "Heavy elements", "Planets", "Black holes"],
+        "answer": "Heavy elements"
+    },
+    {
+        "question": "What do astronomers use to classify stars?",
+        "options": ["Brightness and color", "Mass and size", "Distance and age", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the fate of stars with mass similar to the Sun?",
+        "options": ["They become black holes", "They become neutron stars", "They turn into white dwarfs", "They explode"],
+        "answer": "They turn into white dwarfs"
+    },
+    {
+        "question": "How does a star's temperature affect its color?",
+        "options": ["Hotter stars are red", "Cooler stars are blue", "Hotter stars are blue", "All stars are yellow"],
+        "answer": "Hotter stars are blue"
+    },
+    {
+        "question": "What happens during a star's red giant phase?",
+        "options": ["It becomes a black hole", "It sheds its outer layers", "It remains stable", "It cools down"],
+        "answer": "It sheds its outer layers"
+    },
+    {
+        "question": "What is a significant characteristic of a supernova?",
+        "options": ["A slow burning process", "An explosion", "A stable phase", "A nebula"],
+        "answer": "An explosion"
+    },
+    {
+        "question": "What is the remnant of a star that becomes a neutron star?",
+        "options": ["The core after a supernova", "A black hole", "A red giant", "A white dwarf"],
+        "answer": "The core after a supernova"
+    },
+    {
+        "question": "What does the term 'stellar evolution' refer to?",
+        "options": ["The life cycle of stars", "The formation of galaxies", "The birth of planets", "The expansion of the universe"],
+        "answer": "The life cycle of stars"
+    },
+    {
+        "question": "What are the two main types of stars based on their mass?",
+        "options": ["Red and blue", "Massive and small", "Hot and cold", "Main sequence and white dwarfs"],
+        "answer": "Massive and small"
+    },
+    {
+        "question": "What does a star's mass determine?",
+        "options": ["Its temperature", "Its color", "Its life span", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What happens to a star's outer layers after it becomes a red giant?",
+        "options": ["They collapse", "They expand", "They become a black hole", "They disappear"],
+        "answer": "They expand"
+    },
+    {
+        "question": "What is a significant aspect of the life cycle of red dwarfs?",
+        "options": ["They live for millions of years", "They live for billions of years", "They explode as supernovae", "They quickly burn out"],
+        "answer": "They live for billions of years"
+    },
+    {
+        "question": "How do stars impact their galaxies?",
+        "options": ["They create energy", "They produce light", "They create heavy elements", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What are black holes formed from?",
+        "options": ["Supernovae", "Neutron stars", "White dwarfs", "All of the above"],
+        "answer": "Supernovae"
+    },
+    {
+        "question": "What role do stars play in the universe?",
+        "options": ["Creating life", "Shaping galaxies", "Producing energy", "All of the above"],
+        "answer": "All of the above"
+    }
+]

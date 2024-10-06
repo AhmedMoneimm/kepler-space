@@ -57,6 +57,13 @@ import StarsLife from "./components/Stars/life.jsx";
 import StarsPlanets from "./components/Stars/planets.jsx";
 import About from "./About.jsx";
 import BackgroundMusic from "./components/BackgroundMusic";
+import Quizcol from "./components/Quiz/Stars/Quizcol.jsx";
+import Quizlif from "./components/Quiz/Stars/Quizlif.jsx";
+import Quizovee from "./components/Quiz/Stars/Quizovee.jsx";
+import Quizpla from "./components/Quiz/Stars/Quizpla.jsx";
+import Quizca from "./components/Quiz/Exoplanet/Quizca.jsx";
+import Quiznam from "./components/Quiz/Exoplanet/Quiznam.jsx";
+import Quizsea from "./components/Quiz/Exoplanet/Quizsea.jsx";
 
 const App = () => {
   React.useEffect(() => {
@@ -142,6 +149,14 @@ const App = () => {
           <Route path="/quizkep" element={<Quizkep />} />
           <Route path="/quizspi" element={<Quizspi />} />
           <Route path="/quiztes" element={<Quiztes />} />
+          <Route path="/quizmeo" element={<Quizmeo />} />
+          <Route path="/quizcol" element={<Quizcol />} />
+          <Route path="/quizlif" element={<Quizlif />} />
+          <Route path="/quizovee" element={<Quizovee />} />
+          <Route path="/quizpla" element={<Quizpla />} />
+          <Route path="/quizca" element={<Quizca />} />
+          <Route path="/quiznam" element={<Quiznam />} />
+          <Route path="/quizsea" element={<Quizsea />} />
           {/* Add Game route */}
           <Route path="/game" element={<Game />} /> {/* Add Game route */}
           <Route path="/about" element={<About />} /> {/* Add Game route */}

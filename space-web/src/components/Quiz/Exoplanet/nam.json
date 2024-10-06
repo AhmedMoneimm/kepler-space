@@ -1,0 +1,762 @@
+[
+    {
+        "question": "What does an exoplanet's name typically consist of?",
+        "options": [
+            "A single word",
+            "Three parts",
+            "Two parts",
+            "Four parts"
+        ],
+        "answer": "Three parts"
+    },
+    {
+        "question": "What does the first part of an exoplanet's name indicate?",
+        "options": [
+            "The name of the planet",
+            "The telescope or survey that discovered it",
+            "The distance from Earth",
+            "The planet's temperature"
+        ],
+        "answer": "The telescope or survey that discovered it"
+    },
+    {
+        "question": "What does 'Kepler' in Kepler-16b refer to?",
+        "options": [
+            "The name of the planet",
+            "The discovery method",
+            "The telescope that discovered it",
+            "The star's brightness"
+        ],
+        "answer": "The telescope that discovered it"
+    },
+    {
+        "question": "What does the number in an exoplanet's name signify?",
+        "options": [
+            "The planet's mass",
+            "The distance from Earth",
+            "The order in which the star was cataloged",
+            "The size of the planet"
+        ],
+        "answer": "The order in which the star was cataloged"
+    },
+    {
+        "question": "In Kepler-16, what does the '16' represent?",
+        "options": [
+            "The star's brightness",
+            "The 16th planet discovered",
+            "The 16th star cataloged by Kepler",
+            "The distance from Earth in light years"
+        ],
+        "answer": "The 16th star cataloged by Kepler"
+    },
+    {
+        "question": "What does the lowercase letter at the end of an exoplanet's name denote?",
+        "options": [
+            "The temperature of the planet",
+            "The planet's discovery order around the star",
+            "The size of the planet",
+            "The distance of the planet from the star"
+        ],
+        "answer": "The planet's discovery order around the star"
+    },
+    {
+        "question": "If Kepler-16b is the first planet discovered, what would the second planet be called?",
+        "options": [
+            "Kepler-16a",
+            "Kepler-16c",
+            "Kepler-16d",
+            "Kepler-16b"
+        ],
+        "answer": "Kepler-16c"
+    },
+    {
+        "question": "What does a capital letter in an exoplanet name refer to?",
+        "options": [
+            "The planet",
+            "The star",
+            "The galaxy",
+            "The telescope"
+        ],
+        "answer": "The star"
+    },
+    {
+        "question": "What does a lowercase letter in an exoplanet name refer to?",
+        "options": [
+            "The star",
+            "The planet",
+            "The galaxy",
+            "The discovery date"
+        ],
+        "answer": "The planet"
+    },
+    {
+        "question": "What would Earth be called if it were an exoplanet orbiting the Sun?",
+        "options": [
+            "Sun-a",
+            "Sun-b",
+            "Sun-c",
+            "Sun-d"
+        ],
+        "answer": "Sun-d"
+    },
+    {
+        "question": "Why is the exoplanet naming system important?",
+        "options": [
+            "To make it sound cool",
+            "To avoid confusion and track discoveries",
+            "To impress astronomers",
+            "To reduce costs"
+        ],
+        "answer": "To avoid confusion and track discoveries"
+    },
+    {
+        "question": "What does the system help astronomers do?",
+        "options": [
+            "Find new stars",
+            "Keep track of stars and planets",
+            "Reduce data",
+            "Improve technology"
+        ],
+        "answer": "Keep track of stars and planets"
+    },
+    {
+        "question": "Which telescope is named after Johannes Kepler?",
+        "options": [
+            "TESS",
+            "Hubble",
+            "Kepler",
+            "James Webb"
+        ],
+        "answer": "Kepler"
+    },
+    {
+        "question": "What is TESS short for?",
+        "options": [
+            "The Exoplanet Star Survey",
+            "Transiting Exoplanet Survey Satellite",
+            "The Star Survey System",
+            "The Exoplanet System"
+        ],
+        "answer": "Transiting Exoplanet Survey Satellite"
+    },
+    {
+        "question": "What happens if multiple planets are discovered around the same star?",
+        "options": [
+            "They all get the same name",
+            "They are numbered with letters",
+            "They are discarded",
+            "They get new star names"
+        ],
+        "answer": "They are numbered with letters"
+    },
+    {
+        "question": "What is the first planet found around a star named?",
+        "options": [
+            "Star-a",
+            "Star-b",
+            "Star-1",
+            "Star-0"
+        ],
+        "answer": "Star-b"
+    },
+    {
+        "question": "What helps in identifying stars and planets effectively?",
+        "options": [
+            "Visual inspection only",
+            "The naming system",
+            "Only advanced technology",
+            "Random guessing"
+        ],
+        "answer": "The naming system"
+    },
+    {
+        "question": "Which part of the exoplanet name indicates the star?",
+        "options": [
+            "The number",
+            "The letter",
+            "The telescope name",
+            "The full name"
+        ],
+        "answer": "The telescope name"
+    },
+    {
+        "question": "Why is it important for exoplanets to have unique names?",
+        "options": [
+            "To create confusion",
+            "To avoid mix-ups with other celestial bodies",
+            "To enhance their beauty",
+            "To make them easier to forget"
+        ],
+        "answer": "To avoid mix-ups with other celestial bodies"
+    },
+    {
+        "question": "How many parts are in an exoplanet's name?",
+        "options": [
+            "Two",
+            "Three",
+            "Four",
+            "One"
+        ],
+        "answer": "Three"
+    },
+    {
+        "question": "Which part of the exoplanet name is always lowercase?",
+        "options": [
+            "The star's name",
+            "The telescope's name",
+            "The number",
+            "The letter indicating the planet's order"
+        ],
+        "answer": "The letter indicating the planet's order"
+    },
+    {
+        "question": "What indicates that a star has multiple planets?",
+        "options": [
+            "Multiple lowercase letters",
+            "Multiple numbers",
+            "One letter and one number",
+            "One capital letter"
+        ],
+        "answer": "Multiple lowercase letters"
+    },
+    {
+        "question": "What kind of objects do stars and exoplanets represent?",
+        "options": [
+            "Only known celestial bodies",
+            "A mix of light and darkness",
+            "The building blocks of the universe",
+            "Only distant objects"
+        ],
+        "answer": "The building blocks of the universe"
+    },
+    {
+        "question": "What helps astronomers differentiate between stars and planets?",
+        "options": [
+            "Color",
+            "The naming convention",
+            "Brightness",
+            "Distance"
+        ],
+        "answer": "The naming convention"
+    },
+    {
+        "question": "How does the naming system help with discoveries?",
+        "options": [
+            "It complicates things",
+            "It adds more confusion",
+            "It organizes celestial bodies",
+            "It makes no difference"
+        ],
+        "answer": "It organizes celestial bodies"
+    },
+    {
+        "question": "What would happen if there was no naming system for exoplanets?",
+        "options": [
+            "More planets would be discovered",
+            "It would be easy to track celestial bodies",
+            "Confusion would arise among discoveries",
+            "There would be no effect"
+        ],
+        "answer": "Confusion would arise among discoveries"
+    },
+    {
+        "question": "What does each exoplanet's name end with?",
+        "options": [
+            "A number",
+            "A letter",
+            "A phrase",
+            "A symbol"
+        ],
+        "answer": "A letter"
+    },
+    {
+        "question": "What type of star is referred to by the name 'Kepler-16A'?",
+        "options": [
+            "The first planet discovered",
+            "The second planet discovered",
+            "The star itself",
+            "An unrelated star"
+        ],
+        "answer": "The star itself"
+    },
+    {
+        "question": "How does the exoplanet naming convention help communication?",
+        "options": [
+            "It makes it easier to remember names",
+            "It adds complexity",
+            "It increases confusion",
+            "It serves no purpose"
+        ],
+        "answer": "It makes it easier to remember names"
+    },
+    {
+        "question": "What does the name 'Kepler-16b' specifically refer to?",
+        "options": [
+            "The star Kepler-16",
+            "The first planet found around the star Kepler-16",
+            "The second planet found around the star Kepler-16",
+            "The Kepler telescope"
+        ],
+        "answer": "The first planet found around the star Kepler-16"
+    },
+    {
+        "question": "What is the significance of the lowercase letter in an exoplanet's name?",
+        "options": [
+            "It denotes the star's brightness",
+            "It indicates the discovery order of planets",
+            "It indicates the star's temperature",
+            "It has no significance"
+        ],
+        "answer": "It indicates the discovery order of planets"
+    },
+    {
+        "question": "Which telescope is primarily responsible for finding exoplanets?",
+        "options": [
+            "Hubble",
+            "TESS",
+            "Kepler",
+            "James Webb"
+        ],
+        "answer": "Kepler"
+    },
+    {
+        "question": "How many exoplanet candidates have been discovered so far?",
+        "options": [
+            "More than 5,000",
+            "Less than 1,000",
+            "Over 10,000",
+            "Around 3,000"
+        ],
+        "answer": "More than 5,000"
+    },
+    {
+        "question": "What part of an exoplanet's name identifies the telescope or survey?",
+        "options": [
+            "The star's name",
+            "The number",
+            "The lowercase letter",
+            "The uppercase letters"
+        ],
+        "answer": "The uppercase letters"
+    },
+    {
+        "question": "What happens when multiple planets are discovered around the same star?",
+        "options": [
+            "They all get the same name",
+            "They are given different letters",
+            "They are ignored",
+            "They get new numbers"
+        ],
+        "answer": "They are given different letters"
+    },
+    {
+        "question": "What is the purpose of the exoplanet naming system?",
+        "options": [
+            "To simplify names",
+            "To ensure consistency and clarity",
+            "To confuse people",
+            "To reduce naming errors"
+        ],
+        "answer": "To ensure consistency and clarity"
+    },
+    {
+        "question": "Which letter represents the first planet found around a star?",
+        "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "How does the exoplanet naming system assist astronomers?",
+        "options": [
+            "By making names easier to pronounce",
+            "By organizing celestial objects",
+            "By categorizing colors",
+            "By adding more complexity"
+        ],
+        "answer": "By organizing celestial objects"
+    },
+    {
+        "question": "Why is it essential for astronomers to have a naming convention?",
+        "options": [
+            "To avoid confusion and ensure clarity",
+            "To sound sophisticated",
+            "To impress others",
+            "To make them more famous"
+        ],
+        "answer": "To avoid confusion and ensure clarity"
+    },
+    {
+        "question": "What does a number indicate in an exoplanet name?",
+        "options": [
+            "The planet's distance from the star",
+            "The order in which the star was cataloged",
+            "The brightness of the star",
+            "The age of the planet"
+        ],
+        "answer": "The order in which the star was cataloged"
+    },
+    {
+        "question": "What does a capital letter represent in the naming convention?",
+        "options": [
+            "The star's name",
+            "The planet's name",
+            "A classification",
+            "A color"
+        ],
+        "answer": "The star's name"
+    },
+    {
+        "question": "How do astronomers refer to the second planet discovered around a star?",
+        "options": [
+            "Star-b",
+            "Star-c",
+            "Star-2",
+            "Star-1"
+        ],
+        "answer": "Star-c"
+    },
+    {
+        "question": "What does the star Kepler-16A indicate?",
+        "options": [
+            "The first planet found",
+            "The second planet found",
+            "The star itself",
+            "A nearby star"
+        ],
+        "answer": "The star itself"
+    },
+    {
+        "question": "What helps keep track of the countless exoplanets discovered?",
+        "options": [
+            "A naming convention",
+            "Random names",
+            "Initials",
+            "Physical characteristics"
+        ],
+        "answer": "A naming convention"
+    },
+    {
+        "question": "What happens if a new planet is discovered around an already known star?",
+        "options": [
+            "It gets a new number",
+            "It gets a new letter",
+            "It disappears",
+            "It gets the same name"
+        ],
+        "answer": "It gets a new letter"
+    },
+    {
+        "question": "What is the primary benefit of the naming system?",
+        "options": [
+            "To ensure names are unique",
+            "To make it sound better",
+            "To add confusion",
+            "To increase the workload"
+        ],
+        "answer": "To ensure names are unique"
+    },
+    {
+        "question": "How do we refer to the first planet discovered around a star?",
+        "options": [
+            "Star-b",
+            "Star-a",
+            "Star-1",
+            "Star-0"
+        ],
+        "answer": "Star-b"
+    },
+    {
+        "question": "What part of the exoplanet name indicates the telescope or survey?",
+        "options": [
+            "The star's name",
+            "The number",
+            "The uppercase letters",
+            "The lowercase letters"
+        ],
+        "answer": "The uppercase letters"
+    },
+    {
+        "question": "What do the lowercase letters in exoplanet names signify?",
+        "options": [
+            "The order of stars",
+            "The order of planets found",
+            "The distance of stars",
+            "The brightness of stars"
+        ],
+        "answer": "The order of planets found"
+    },
+    {
+        "question": "How does the naming system help in scientific research?",
+        "options": [
+            "By reducing time spent on naming",
+            "By ensuring clarity and reducing confusion",
+            "By making it more difficult to track",
+            "By eliminating the need for numbers"
+        ],
+        "answer": "By ensuring clarity and reducing confusion"
+    },
+    {
+        "question": "What does Kepler-16b represent?",
+        "options": [
+            "The first star discovered",
+            "The first planet found around Kepler-16",
+            "The second star discovered",
+            "The first planet discovered"
+        ],
+        "answer": "The first planet found around Kepler-16"
+    },
+    {
+        "question": "What happens to exoplanets in naming after multiple discoveries?",
+        "options": [
+            "They remain nameless",
+            "They are given new names",
+            "They are assigned letters",
+            "They are ignored"
+        ],
+        "answer": "They are assigned letters"
+    },
+    {
+        "question": "What would be the designation of a newly discovered planet around a star named 'Kepler-12'?",
+        "options": [
+            "Kepler-12b",
+            "Kepler-12a",
+            "Kepler-12c",
+            "Kepler-12d"
+        ],
+        "answer": "Kepler-12b"
+    },
+    {
+        "question": "What is the role of the naming system in communication among astronomers?",
+        "options": [
+            "To make it harder to discuss findings",
+            "To ensure clarity and avoid confusion",
+            "To promote competition",
+            "To limit information sharing"
+        ],
+        "answer": "To ensure clarity and avoid confusion"
+    },
+    {
+        "question": "What does the letter 'a' indicate in an exoplanet's name?",
+        "options": [
+            "The first star discovered",
+            "The second planet discovered",
+            "The first planet discovered",
+            "A nearby planet"
+        ],
+        "answer": "The first star discovered"
+    },
+    {
+        "question": "What happens when multiple planets are discovered around the same star?",
+        "options": [
+            "They receive the same name",
+            "They are given unique letters",
+            "They are not recorded",
+            "They are forgotten"
+        ],
+        "answer": "They are given unique letters"
+    },
+    {
+        "question": "What do astronomers need to ensure about exoplanet names?",
+        "options": [
+            "They must be colorful",
+            "They must be unique",
+            "They must be similar",
+            "They must be easy to pronounce"
+        ],
+        "answer": "They must be unique"
+    },
+    {
+        "question": "How does the naming convention help in education?",
+        "options": [
+            "It makes it harder to teach",
+            "It simplifies learning about exoplanets",
+            "It adds complexity",
+            "It has no effect"
+        ],
+        "answer": "It simplifies learning about exoplanets"
+    },
+    {
+        "question": "How many parts are in the name 'Kepler-186f'?",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": "Two"
+    },
+    {
+        "question": "Why do stars and planets have different naming conventions?",
+        "options": [
+            "To avoid confusion",
+            "To make it easier",
+            "To sound better",
+            "It doesn't matter"
+        ],
+        "answer": "To avoid confusion"
+    },
+    {
+        "question": "What can happen if two planets are discovered around the same star?",
+        "options": [
+            "They get the same name",
+            "They get different letters",
+            "They disappear",
+            "They become stars"
+        ],
+        "answer": "They get different letters"
+    },
+    {
+        "question": "Why is the name 'Kepler-16b' significant?",
+        "options": [
+            "It is the first star discovered",
+            "It is the first planet found around Kepler-16",
+            "It is the second planet found",
+            "It is an unrelated star"
+        ],
+        "answer": "It is the first planet found around Kepler-16"
+    },
+    {
+        "question": "What is the first step in naming a newly discovered exoplanet?",
+        "options": [
+            "Assigning a number",
+            "Choosing a color",
+            "Determining the telescope name",
+            "Deciding its characteristics"
+        ],
+        "answer": "Determining the telescope name"
+    },
+    {
+        "question": "How does the naming convention impact international collaboration?",
+        "options": [
+            "It complicates matters",
+            "It fosters understanding and clarity",
+            "It has no effect",
+            "It makes communication harder"
+        ],
+        "answer": "It fosters understanding and clarity"
+    },
+    {
+        "question": "How are newly discovered planets identified?",
+        "options": [
+            "By name only",
+            "Using a combination of letters and numbers",
+            "Through color coding",
+            "By brightness"
+        ],
+        "answer": "Using a combination of letters and numbers"
+    },
+    {
+        "question": "What does the Kepler telescope's name signify?",
+        "options": [
+            "It's a new kind of telescope",
+            "It's named after a famous astronomer",
+            "It's a modern device",
+            "It's an ancient device"
+        ],
+        "answer": "It's named after a famous astronomer"
+    },
+    {
+        "question": "What is a common misconception about exoplanet names?",
+        "options": [
+            "They are always easy to remember",
+            "They have no meaning",
+            "They are unique",
+            "They are based on color"
+        ],
+        "answer": "They have no meaning"
+    },
+    {
+        "question": "How do astronomers avoid confusion when naming exoplanets?",
+        "options": [
+            "They use fun names",
+            "They follow a strict naming convention",
+            "They assign random names",
+            "They forget previous names"
+        ],
+        "answer": "They follow a strict naming convention"
+    },
+    {
+        "question": "What would Kepler-22b signify?",
+        "options": [
+            "The first star discovered",
+            "The first planet found around Kepler-22",
+            "The second planet found around Kepler-22",
+            "A distant star"
+        ],
+        "answer": "The first planet found around Kepler-22"
+    },
+    {
+        "question": "What is the main purpose of the exoplanet naming system?",
+        "options": [
+            "To complicate naming",
+            "To ensure accuracy and clarity",
+            "To confuse people",
+            "To limit discoveries"
+        ],
+        "answer": "To ensure accuracy and clarity"
+    },
+    {
+        "question": "How are celestial objects like exoplanets cataloged?",
+        "options": [
+            "By color",
+            "By brightness",
+            "By the naming system",
+            "By distance"
+        ],
+        "answer": "By the naming system"
+    },
+    {
+        "question": "What indicates the first planet discovered around a star?",
+        "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What happens if a star has multiple planets?",
+        "options": [
+            "They all have the same name",
+            "They receive different lowercase letters",
+            "They disappear",
+            "They become stars"
+        ],
+        "answer": "They receive different lowercase letters"
+    },
+    {
+        "question": "Why do scientists prefer using a naming convention?",
+        "options": [
+            "It simplifies communication",
+            "It adds confusion",
+            "It increases workload",
+            "It doesn't matter"
+        ],
+        "answer": "It simplifies communication"
+    },
+    {
+        "question": "What is Kepler-16 known for?",
+        "options": [
+            "It's the first star discovered",
+            "It's a famous exoplanet",
+            "It's a star with multiple planets",
+            "It's a distant star"
+        ],
+        "answer": "It's a star with multiple planets"
+    },
+    {
+        "question": "How does the naming system facilitate education?",
+        "options": [
+            "It complicates teaching",
+            "It simplifies learning",
+            "It makes it harder",
+            "It doesn't matter"
+        ],
+        "answer": "It simplifies learning"
+    }
+]
