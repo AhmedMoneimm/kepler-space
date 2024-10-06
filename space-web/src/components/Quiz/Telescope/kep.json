@@ -1,0 +1,642 @@
+[
+    {
+        "question": "When was NASA's Kepler Space Telescope launched?",
+        "options": ["2009", "2010", "2011", "2008"],
+        "answer": "2009"
+    },
+    {
+        "question": "What was the primary goal of the Kepler mission?",
+        "options": ["To search for Earth-sized planets in habitable zones", "To study black holes", "To map the surface of Mars", "To find dark matter"],
+        "answer": "To search for Earth-sized planets in habitable zones"
+    },
+    {
+        "question": "How did Kepler detect exoplanets?",
+        "options": ["Using the transit method", "By direct imaging", "Through spectroscopy", "By gravitational lensing"],
+        "answer": "Using the transit method"
+    },
+    {
+        "question": "What phenomenon did Kepler monitor to find planets?",
+        "options": ["Dips in starlight", "Changes in color", "Star explosions", "Gravity shifts"],
+        "answer": "Dips in starlight"
+    },
+    {
+        "question": "How many stars did Kepler monitor during its mission?",
+        "options": ["150,000", "100,000", "200,000", "50,000"],
+        "answer": "150,000"
+    },
+    {
+        "question": "How many confirmed exoplanets did Kepler discover?",
+        "options": ["More than 2,600", "1,000", "500", "3,000"],
+        "answer": "More than 2,600"
+    },
+    {
+        "question": "What did Kepler's discoveries show about planets in the universe?",
+        "options": ["They are common throughout the universe", "They are rare", "Most are gas giants", "They only exist in our solar system"],
+        "answer": "They are common throughout the universe"
+    },
+    {
+        "question": "What issue nearly ended Kepler's mission in 2013?",
+        "options": ["A mechanical issue", "A software glitch", "A power failure", "A communication breakdown"],
+        "answer": "A mechanical issue"
+    },
+    {
+        "question": "What was the name of Kepler's second mission?",
+        "options": ["K2", "Kepler 2.0", "New Kepler", "K2 Mission"],
+        "answer": "K2"
+    },
+    {
+        "question": "In what year did the K2 mission begin?",
+        "options": ["2014", "2015", "2013", "2012"],
+        "answer": "2014"
+    },
+    {
+        "question": "What types of celestial objects did K2 also observe?",
+        "options": ["Star clusters and supernovae", "Only exoplanets", "Only galaxies", "Only asteroids"],
+        "answer": "Star clusters and supernovae"
+    },
+    {
+        "question": "Despite reduced capabilities, how did K2 impact exoplanet research?",
+        "options": ["It discovered hundreds more exoplanets", "It had no impact", "It made the search harder", "It only observed nearby stars"],
+        "answer": "It discovered hundreds more exoplanets"
+    },
+    {
+        "question": "What is Kepler's legacy in astronomy?",
+        "options": ["Its data continues to lead to new exoplanet discoveries", "It was a failure", "It only discovered planets in our solar system", "It stopped scientific research"],
+        "answer": "Its data continues to lead to new exoplanet discoveries"
+    },
+    {
+        "question": "When was Kepler decommissioned?",
+        "options": ["2018", "2015", "2019", "2020"],
+        "answer": "2018"
+    },
+    {
+        "question": "What is the primary focus of Kepler's legacy?",
+        "options": ["Understanding planetary systems", "Studying black holes", "Mapping galaxies", "Finding new stars"],
+        "answer": "Understanding planetary systems"
+    },
+    {
+        "question": "What did Kepler's mission significantly enhance our understanding of?",
+        "options": ["Habitability of worlds beyond our solar system", "The composition of the sun", "Galactic structures", "Asteroids"],
+        "answer": "Habitability of worlds beyond our solar system"
+    },
+    {
+        "question": "What is one reason Kepler is considered a transformative telescope?",
+        "options": ["It changed our view of planetary systems", "It was the first telescope in space", "It discovered black holes", "It mapped our solar system"],
+        "answer": "It changed our view of planetary systems"
+    },
+    {
+        "question": "What discovery method did Kepler revolutionize?",
+        "options": ["Transit method", "Direct imaging", "Spectroscopy", "Radar"],
+        "answer": "Transit method"
+    },
+    {
+        "question": "How did Kepler observe exoplanets?",
+        "options": ["By observing light variations", "By landing on them", "By sending robots", "By using infrared imaging"],
+        "answer": "By observing light variations"
+    },
+    {
+        "question": "What aspect of planets was Kepler particularly focused on?",
+        "options": ["Earth-sized planets in habitable zones", "Gas giants only", "Rings of planets", "Moons of planets"],
+        "answer": "Earth-sized planets in habitable zones"
+    },
+    {
+        "question": "What technological advancement allowed Kepler to make significant discoveries?",
+        "options": ["Advanced photometry", "Radio waves", "Direct imaging technology", "X-ray telescopes"],
+        "answer": "Advanced photometry"
+    },
+    {
+        "question": "What did Kepler's findings challenge about our understanding of the universe?",
+        "options": ["The rarity of planets", "The size of galaxies", "The formation of stars", "The distance to black holes"],
+        "answer": "The rarity of planets"
+    },
+    {
+        "question": "What kind of light did Kepler's sensors measure?",
+        "options": ["Visible light", "Infrared light", "Ultraviolet light", "Radio waves"],
+        "answer": "Visible light"
+    },
+    {
+        "question": "What percentage of stars in the Milky Way could have planets according to Kepler?",
+        "options": ["About 100%", "About 50%", "About 75%", "About 25%"],
+        "answer": "About 100%"
+    },
+    {
+        "question": "Which of these was a key outcome of Kepler's discoveries?",
+        "options": ["Identification of potential habitable planets", "Mapping the surface of Mars", "Counting stars", "Finding new galaxies"],
+        "answer": "Identification of potential habitable planets"
+    },
+    {
+        "question": "What type of planets did Kepler primarily focus on?",
+        "options": ["Rocky planets", "Gas giants", "Ice giants", "All types"],
+        "answer": "Rocky planets"
+    },
+    {
+        "question": "What enabled Kepler to monitor such a large number of stars?",
+        "options": ["Its long-duration mission", "High-resolution sensors", "Advanced algorithms", "Large mirror size"],
+        "answer": "Long-duration mission"
+    },
+    {
+        "question": "Which mission followed the original Kepler mission?",
+        "options": ["K2 mission", "Kepler 2.0", "Kepler Extended", "New Horizons"],
+        "answer": "K2 mission"
+    },
+    {
+        "question": "What was the fate of the original Kepler mission?",
+        "options": ["It transitioned to K2 after a mechanical issue", "It continued without changes", "It was terminated early", "It was abandoned"],
+        "answer": "It transitioned to K2 after a mechanical issue"
+    },
+    {
+        "question": "How did Kepler's findings affect the scientific community?",
+        "options": [
+            "Stimulated further research and missions to study exoplanets",
+            "Created a sense of complacency",
+            "Led to the closure of other missions",
+            "Had no significant impact"
+        ],
+        "answer": "Stimulated further research and missions to study exoplanets"
+    },
+    {
+        "question": "How did the K2 mission differ from the original Kepler mission?",
+        "options": [
+            "It had reduced capabilities but continued to discover exoplanets",
+            "It focused only on nearby stars",
+            "It was a completely new telescope",
+            "It was less successful"
+        ],
+        "answer": "It had reduced capabilities but continued to discover exoplanets"
+    },
+    {
+        "question": "What aspect of exoplanets does Kepler's data still provide insights into?",
+        "options": [
+            "The possibility of habitable conditions",
+            "The exact surface temperature",
+            "The history of the Milky Way",
+            "The speed of light"
+        ],
+        "answer": "The possibility of habitable conditions"
+    },
+    {
+        "question": "What discovery technique did Kepler use to identify exoplanets?",
+        "options": [
+            "Monitoring starlight dips caused by transits",
+            "Direct imaging of exoplanets",
+            "Observing thermal emissions",
+            "Detecting gravitational waves"
+        ],
+        "answer": "Monitoring starlight dips caused by transits"
+    },
+    {
+        "question": "Which characteristic of planets was Kepler instrumental in studying?",
+        "options": [
+            "Size and distance from their stars",
+            "Atmospheric composition",
+            "Surface temperatures",
+            "Magnetic fields"
+        ],
+        "answer": "Size and distance from their stars"
+    },
+    {
+        "question": "What scientific legacy did Kepler leave behind?",
+        "options": [
+            "A treasure trove of data for future research",
+            "An obsolete telescope",
+            "No significant discoveries",
+            "Just images of stars"
+        ],
+        "answer": "A treasure trove of data for future research"
+    },
+    {
+        "question": "What did Kepler’s discoveries reveal about the universe?",
+        "options": [
+            "Planets are abundant and diverse",
+            "Planets are rare and unique",
+            "Only gas giants exist",
+            "All planets are habitable"
+        ],
+        "answer": "Planets are abundant and diverse"
+    },
+    {
+        "question": "How many years did the Kepler mission run before transitioning to K2?",
+        "options": ["Four years", "Three years", "Two years", "Five years"],
+        "answer": "Four years"
+    },
+    {
+        "question": "What critical problem did Kepler face that nearly ended its mission?",
+        "options": [
+            "A mechanical issue with its pointing system",
+            "A software failure",
+            "Lack of funding",
+            "Failure to detect planets"
+        ],
+        "answer": "A mechanical issue with its pointing system"
+    },
+    {
+        "question": "Which of the following missions did Kepler inspire?",
+        "options": [
+            "TESS and JWST",
+            "Mars rovers",
+            "Lunar missions",
+            "Asteroid missions"
+        ],
+        "answer": "TESS and JWST"
+    },
+    {
+        "question": "What did Kepler's data help scientists learn about?",
+        "options": [
+            "The distribution and diversity of exoplanets",
+            "The size of the universe",
+            "The history of Earth",
+            "The nature of dark matter"
+        ],
+        "answer": "The distribution and diversity of exoplanets"
+    },
+    {
+        "question": "What will future missions continue to study based on Kepler's legacy?",
+        "options": [
+            "Exoplanet atmospheres and habitability",
+            "The surface of Mars",
+            "The structure of the Milky Way",
+            "Comets"
+        ],
+        "answer": "Exoplanet atmospheres and habitability"
+    },
+    {
+        "question": "What advanced technique did Kepler employ for finding planets?",
+        "options": [
+            "Transit photometry",
+            "Direct imaging",
+            "Spectroscopy",
+            "Radio wave detection"
+        ],
+        "answer": "Transit photometry"
+    },
+    {
+        "question": "What was a major limitation of ground-based telescopes that Kepler overcame?",
+        "options": [
+            "Atmospheric interference",
+            "Cost",
+            "Size",
+            "Accessibility"
+        ],
+        "answer": "Atmospheric interference"
+    },
+    {
+        "question": "Which data analysis method was crucial for Kepler's success?",
+        "options": [
+            "Statistical analysis of light curves",
+            "Physical models of planets",
+            "Direct observation of exoplanets",
+            "3D modeling"
+        ],
+        "answer": "Statistical analysis of light curves"
+    },
+    {
+        "question": "What type of planets did Kepler help discover?",
+        "options": [
+            "Earth-like, super-Earths, and gas giants",
+            "Only gas giants",
+            "Only rocky planets",
+            "Dwarf planets"
+        ],
+        "answer": "Earth-like, super-Earths, and gas giants"
+    },
+    {
+        "question": "How did Kepler's findings influence the search for life?",
+        "options": [
+            "They expanded the understanding of potentially habitable planets",
+            "They found life on other planets",
+            "They limited the scope of research",
+            "They were not considered relevant"
+        ],
+        "answer": "They expanded the understanding of potentially habitable planets"
+    },
+    {
+        "question": "What major challenge did Kepler overcome during its mission?",
+        "options": [
+            "Identifying false positives in exoplanet detection",
+            "Funding issues",
+            "Technical malfunctions",
+            "Public interest"
+        ],
+        "answer": "Identifying false positives in exoplanet detection"
+    },
+    {
+        "question": "What did Kepler's findings reveal about exoplanet density?",
+        "options": [
+            "Exoplanet density varies widely",
+            "All exoplanets are dense",
+            "All exoplanets are gas giants",
+            "Exoplanets have no density"
+        ],
+        "answer": "Exoplanet density varies widely"
+    },
+    {
+        "question": "What key concept did Kepler help establish about planetary systems?",
+        "options": [
+            "They can vary significantly in size and composition",
+            "All planets are similar",
+            "All planets must be rocky",
+            "Every star has a planet"
+        ],
+        "answer": "They can vary significantly in size and composition"
+    },
+    {
+        "question": "How has Kepler's data remained relevant after its decommissioning?",
+        "options": [
+            "It continues to provide insights for ongoing research",
+            "It is now obsolete",
+            "It has no impact on future studies",
+            "It was destroyed"
+        ],
+        "answer": "It continues to provide insights for ongoing research"
+    },
+    {
+        "question": "What is the legacy of Kepler's discoveries for future telescopes?",
+        "options": [
+            "They set a foundation for future exoplanet studies",
+            "They limit future discoveries",
+            "They focus only on the solar system",
+            "They are less significant than other missions"
+        ],
+        "answer": "They set a foundation for future exoplanet studies"
+    },
+    {
+        "question": "How many total confirmed planets did Kepler discover?",
+        "options": [
+            "More than 2,600",
+            "1,000",
+            "500",
+            "3,000"
+        ],
+        "answer": "More than 2,600"
+    },
+    {
+        "question": "What advanced observation capability did Kepler provide?",
+        "options": [
+            "High-precision measurements of stellar brightness",
+            "Direct imaging of exoplanets",
+            "Mapping of star surfaces",
+            "Measuring planetary distances"
+        ],
+        "answer": "High-precision measurements of stellar brightness"
+    },
+    {
+        "question": "What type of analysis did Kepler employ to confirm planet candidates?",
+        "options": [
+            "Transit method analysis",
+            "Spectroscopic analysis",
+            "Direct observation",
+            "Magnetometer readings"
+        ],
+        "answer": "Transit method analysis"
+    },
+    {
+        "question": "What did Kepler's data help refine in exoplanet science?",
+        "options": [
+            "Statistical methods for estimating planet occurrences",
+            "Mapping techniques for galaxies",
+            "Distance measuring techniques",
+            "Magnetic field studies"
+        ],
+        "answer": "Statistical methods for estimating planet occurrences"
+    },
+    {
+        "question": "What is Kepler's impact on the field of astrobiology?",
+        "options": [
+            "It has provided targets for future habitability studies",
+            "It has no impact",
+            "It focuses only on the solar system",
+            "It only studies gas giants"
+        ],
+        "answer": "It has provided targets for future habitability studies"
+    },
+    {
+        "question": "What did Kepler's mission help to demonstrate about exoplanets?",
+        "options": [
+            "That planets exist around other stars",
+            "That all stars are binary",
+            "That gas giants are the only planets",
+            "That exoplanets cannot be detected"
+        ],
+        "answer": "That planets exist around other stars"
+    },
+    {
+        "question": "What type of planet did Kepler primarily focus on during its observations?",
+        "options": [
+            "Earth-sized planets",
+            "Gas giants only",
+            "Ice giants only",
+            "Dwarf planets"
+        ],
+        "answer": "Earth-sized planets"
+    },
+    {
+        "question": "How did Kepler contribute to our understanding of planet formation?",
+        "options": [
+            "By revealing the diversity of planetary systems",
+            "By only studying solar system planets",
+            "By not providing relevant data",
+            "By limiting the scope of research"
+        ],
+        "answer": "By revealing the diversity of planetary systems"
+    },
+    {
+        "question": "What is the significance of Kepler's observations?",
+        "options": [
+            "They provided a wealth of data for future explorations",
+            "They are less important than other missions",
+            "They focused only on the solar system",
+            "They did not yield any significant discoveries"
+        ],
+        "answer": "They provided a wealth of data for future explorations"
+    },
+    {
+        "question": "How has Kepler influenced future space missions?",
+        "options": [
+            "It has inspired the design and goals of new telescopes",
+            "It has had no influence",
+            "It is considered obsolete",
+            "It has limited future studies"
+        ],
+        "answer": "It has inspired the design and goals of new telescopes"
+    },
+    {
+        "question": "What method did Kepler use to identify candidate exoplanets?",
+        "options": [
+            "Detecting dips in starlight caused by transiting planets",
+            "Direct imaging of planets",
+            "Radial velocity method",
+            "Observing thermal emissions"
+        ],
+        "answer": "Detecting dips in starlight caused by transiting planets"
+    },
+    {
+        "question": "What did Kepler's discoveries demonstrate about the Milky Way?",
+        "options": [
+            "It is teeming with planets",
+            "It has no planets",
+            "Only gas giants exist",
+            "It is only populated by stars"
+        ],
+        "answer": "It is teeming with planets"
+    },
+    {
+        "question": "What is one of Kepler's key findings regarding the frequency of exoplanets?",
+        "options": [
+            "Planets are common around stars",
+            "Planets are rare in the universe",
+            "Most stars do not have planets",
+            "All stars are binary"
+        ],
+        "answer": "Planets are common around stars"
+    },
+    {
+        "question": "What role did Kepler play in the field of astronomy?",
+        "options": [
+            "Revolutionizing our understanding of exoplanets",
+            "Focusing solely on galaxies",
+            "Mapping the solar system",
+            "Only studying stars"
+        ],
+        "answer": "Revolutionizing our understanding of exoplanets"
+    },
+    {
+        "question": "What mission was Kepler a part of?",
+        "options": [
+            "NASA's Discovery Program",
+            "The Mars Exploration Program",
+            "The Lunar Reconnaissance Orbiter Program",
+            "The Voyager Program"
+        ],
+        "answer": "NASA's Discovery Program"
+    },
+    {
+        "question": "What was a significant limitation of Kepler's original mission?",
+        "options": [
+            "A mechanical failure",
+            "Funding issues",
+            "Lack of scientific interest",
+            "Technological limitations"
+        ],
+        "answer": "A mechanical failure"
+    },
+    {
+        "question": "What important feature of Kepler's design allowed for its success?",
+        "options": [
+            "Its high-precision photometers",
+            "Its small size",
+            "Its reliance on ground-based observations",
+            "Its outdated technology"
+        ],
+        "answer": "Its high-precision photometers"
+    },
+    {
+        "question": "What will future studies build upon from Kepler's legacy?",
+        "options": [
+            "Understanding exoplanet atmospheres and habitability",
+            "Mapping asteroids",
+            "Studying solar system planets only",
+            "Exploring black holes"
+        ],
+        "answer": "Understanding exoplanet atmospheres and habitability"
+    },
+    {
+        "question": "What is a key reason for Kepler's popularity in astronomy?",
+        "options": [
+            "It led to significant discoveries of exoplanets",
+            "It was the first telescope in space",
+            "It only studied our solar system",
+            "It focused on galaxy mapping"
+        ],
+        "answer": "It led to significant discoveries of exoplanets"
+    },
+    {
+        "question": "What characteristic defines the planets discovered by Kepler?",
+        "options": [
+            "They exhibit a wide variety of types and sizes",
+            "They are all gas giants",
+            "They are all rocky",
+            "They are all small"
+        ],
+        "answer": "They exhibit a wide variety of types and sizes"
+    },
+    {
+        "question": "What did Kepler's findings challenge in traditional astronomy?",
+        "options": [
+            "The notion that planets are rare",
+            "The idea of a static universe",
+            "The understanding of black holes",
+            "The belief in the solar system's uniqueness"
+        ],
+        "answer": "The notion that planets are rare"
+    },
+    {
+        "question": "What type of celestial observations did Kepler primarily focus on?",
+        "options": [
+            "Transit events",
+            "Direct imaging",
+            "Spectroscopy",
+            "X-ray emissions"
+        ],
+        "answer": "Transit events"
+    },
+    {
+        "question": "What did the data from Kepler provide insights into?",
+        "options": [
+            "The size and distribution of exoplanets",
+            "The structure of stars",
+            "The distance to galaxies",
+            "The composition of dark matter"
+        ],
+        "answer": "The size and distribution of exoplanets"
+    },
+    {
+        "question": "How did Kepler contribute to the search for habitable planets?",
+        "options": [
+            "By identifying Earth-sized candidates in habitable zones",
+            "By discovering gas giants only",
+            "By mapping the surface of Mars",
+            "By studying solar flares"
+        ],
+        "answer": "By identifying Earth-sized candidates in habitable zones"
+    },
+    {
+        "question": "What impact did Kepler have on public interest in astronomy?",
+        "options": [
+            "Increased interest through its discoveries",
+            "Decreased interest due to failures",
+            "Limited public engagement",
+            "Focused only on professional astronomers"
+        ],
+        "answer": "Increased interest through its discoveries"
+    },
+    {
+        "question": "What aspect of Kepler's mission showcased technological advancement?",
+        "options": [
+            "High-precision light measurements",
+            "Increased telescope size",
+            "Reduced operational costs",
+            "Focus on the solar system"
+        ],
+        "answer": "High-precision light measurements"
+    },
+    {
+        "question": "What legacy did Kepler leave for future missions?",
+        "options": [
+            "A framework for future exoplanet research",
+            "An obsolete model",
+            "Limited data access",
+            "No significant discoveries"
+        ],
+        "answer": "A framework for future exoplanet research"
+    },
+    {
+        "question": "What significant change did Kepler bring to astronomical methodology?",
+        "options": [
+            "Using large datasets for statistical analysis",
+            "Only observational studies",
+            "Focusing solely on the solar system",
+            "Limiting discoveries to nearby stars"
+        ],
+        "answer": "Using large datasets for statistical analysis"
+    }
+]

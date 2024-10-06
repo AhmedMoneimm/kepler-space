@@ -1,0 +1,277 @@
+[
+    {
+        "question": "What percentage of exoplanet discoveries does the Direct Imaging Method account for?",
+        "options": ["1.4%", "10%", "50%", "25%"],
+        "answer": "1.4%"
+    },
+    {
+        "question": "What does the Direct Imaging Method involve?",
+        "options": ["Detecting planets indirectly", "Capturing direct images of exoplanets", "Only studying stars", "Limiting discoveries"],
+        "answer": "Capturing direct images of exoplanets"
+    },
+    {
+        "question": "What is the main challenge of the Direct Imaging Method?",
+        "options": ["Detecting small planets", "Overwhelming glare of host stars", "Finding Earth-like planets", "Studying the solar system"],
+        "answer": "Overwhelming glare of host stars"
+    },
+    {
+        "question": "How much dimmer are exoplanets compared to their stars?",
+        "options": ["Millions of times dimmer", "Only slightly dimmer", "Equally bright", "Brighter than stars"],
+        "answer": "Millions of times dimmer"
+    },
+    {
+        "question": "What is the purpose of blocking starlight in direct imaging?",
+        "options": ["To capture the star's brightness", "To see faint light from exoplanets", "To study the star's temperature", "To only observe background stars"],
+        "answer": "To see faint light from exoplanets"
+    },
+    {
+        "question": "What analogy is used to describe the challenge of detecting exoplanets?",
+        "options": ["Spotting a flea next to a lightbulb", "Finding a needle in a haystack", "Hiding in plain sight", "Seeing a star in the sky"],
+        "answer": "Spotting a flea next to a lightbulb"
+    },
+    {
+        "question": "What are ‘shine blockers’ used for in direct imaging?",
+        "options": ["To enhance starlight", "To block out starlight", "To measure star temperature", "To only observe planets"],
+        "answer": "To block out starlight"
+    },
+    {
+        "question": "What is a coronagraph?",
+        "options": ["An instrument to enhance brightness", "An instrument that blocks starlight", "A type of telescope", "A type of star"],
+        "answer": "An instrument that blocks starlight"
+    },
+    {
+        "question": "How does a coronagraph assist astronomers?",
+        "options": ["By blocking starlight", "By measuring temperatures", "By enhancing brightness", "By only observing stars"],
+        "answer": "By blocking starlight"
+    },
+    {
+        "question": "What are starshades designed to do?",
+        "options": ["Block starlight before it reaches the telescope", "Enhance the brightness of stars", "Measure star distances", "Only observe planets"],
+        "answer": "Block starlight before it reaches the telescope"
+    },
+    {
+        "question": "Where would a starshade be positioned?",
+        "options": ["On the telescope", "Between the telescope and the star", "Next to the star", "In the solar system"],
+        "answer": "Between the telescope and the star"
+    },
+    {
+        "question": "What is one potential outcome of improved direct imaging technology?",
+        "options": ["Capturing images of star temperatures", "Detailed photos of exoplanets", "Only studying gas giants", "Measuring brightness"],
+        "answer": "Detailed photos of exoplanets"
+    },
+    {
+        "question": "What might advancements in direct imaging reveal about exoplanets?",
+        "options": ["Only their distances", "Their atmospheric patterns and landmasses", "Their color", "Their brightness"],
+        "answer": "Their atmospheric patterns and landmasses"
+    },
+    {
+        "question": "What are astronomers currently overcoming with advancements in technology?",
+        "options": ["The vast distances of stars", "The challenges of capturing direct images", "The brightness of stars", "None"],
+        "answer": "The challenges of capturing direct images"
+    },
+    {
+        "question": "What is the primary light-blocking instrument in direct imaging?",
+        "options": ["Telescope", "Coronagraph", "Starshade", "Photometer"],
+        "answer": "Coronagraph"
+    },
+    {
+        "question": "What can successful direct imaging provide insights into?",
+        "options": ["The formation of stars", "The temperature of stars", "The composition of exoplanet atmospheres", "Only studying stars"],
+        "answer": "The composition of exoplanet atmospheres"
+    },
+    {
+        "question": "What is the main challenge of observing exoplanets with direct imaging?",
+        "options": ["They are too close to stars", "They are too faint", "They are too bright", "They don't exist"],
+        "answer": "They are too faint"
+    },
+    {
+        "question": "What advancement allows astronomers to overcome the brightness of stars?",
+        "options": ["Direct imaging", "Using starshades", "Limiting the number of stars studied", "None"],
+        "answer": "Using starshades"
+    },
+    {
+        "question": "What year was the Direct Imaging Method particularly emphasized?",
+        "options": ["2010", "2000", "2021", "2018"],
+        "answer": "2021"
+    },
+    {
+        "question": "What type of objects are astronomers primarily trying to capture with direct imaging?",
+        "options": ["Distant stars", "Nearby planets", "Exoplanets", "Galaxies"],
+        "answer": "Exoplanets"
+    },
+    {
+        "question": "What role does a telescope play in the Direct Imaging Method?",
+        "options": ["Enhances brightness", "Captures images", "Blocks light", "None"],
+        "answer": "Captures images"
+    },
+    {
+        "question": "What does a coronagraph do in relation to light?",
+        "options": ["Enhances it", "Blocks it", "Measures it", "None"],
+        "answer": "Blocks it"
+    },
+    {
+        "question": "What is one limitation of traditional imaging techniques for exoplanets?",
+        "options": ["They are too powerful", "They struggle to detect faint planets", "They only study stars", "They can only detect black holes"],
+        "answer": "They struggle to detect faint planets"
+    },
+    {
+        "question": "What significant discovery approach does direct imaging represent?",
+        "options": ["A direct observation method", "An indirect observation method", "A limited observation method", "A theoretical method"],
+        "answer": "A direct observation method"
+    },
+    {
+        "question": "How has technology impacted direct imaging of exoplanets?",
+        "options": ["It has made it impossible", "It has led to new discoveries", "It has limited the study", "It has made it more difficult"],
+        "answer": "It has led to new discoveries"
+    },
+    {
+        "question": "What is a starshade?",
+        "options": ["A device to enhance starlight", "An instrument for blocking starlight", "A telescope", "None"],
+        "answer": "An instrument for blocking starlight"
+    },
+    {
+        "question": "Why is blocking starlight important in direct imaging?",
+        "options": ["To see other stars", "To capture the faint light of planets", "To study the star's temperature", "To limit the observations"],
+        "answer": "To capture the faint light of planets"
+    },
+    {
+        "question": "What does the future hold for direct imaging?",
+        "options": ["Limited discoveries", "Potential for more detailed observations", "No advancements", "Only focusing on stars"],
+        "answer": "Potential for more detailed observations"
+    },
+    {
+        "question": "What method is used to block starlight before it reaches a telescope?",
+        "options": ["Transit method", "Direct imaging", "Coronagraph", "Starshade"],
+        "answer": "Coronagraph"
+    },
+    {
+        "question": "How is direct imaging considered a game-changer in exoplanet studies?",
+        "options": ["It allows for direct observation of exoplanets", "It limits observations", "It only studies stars", "It focuses solely on gas giants"],
+        "answer": "It allows for direct observation of exoplanets"
+    },
+    {
+        "question": "How does a starshade work?",
+        "options": ["By enhancing starlight", "By blocking light from stars", "By observing temperatures", "None"],
+        "answer": "By blocking light from stars"
+    },
+    {
+        "question": "What aspect of exoplanets can direct imaging reveal?",
+        "options": ["Their orbits", "Their temperatures", "Their atmospheres", "Only their sizes"],
+        "answer": "Their atmospheres"
+    },
+    {
+        "question": "What is the main focus of direct imaging techniques?",
+        "options": ["Studying star colors", "Detecting exoplanets", "Observing galaxies", "Mapping solar systems"],
+        "answer": "Detecting exoplanets"
+    },
+    {
+        "question": "What does the future of direct imaging potentially include?",
+        "options": ["Capturing detailed photos of exoplanets", "Only studying black holes", "Focusing solely on gas giants", "Ignoring distant planets"],
+        "answer": "Capturing detailed photos of exoplanets"
+    },
+    {
+        "question": "What enables astronomers to capture images of exoplanets despite the brightness of stars?",
+        "options": ["Advanced techniques", "Direct observation", "Star brightness", "Ignoring the stars"],
+        "answer": "Advanced techniques"
+    },
+    {
+        "question": "What technique allows astronomers to detect exoplanets during direct imaging?",
+        "options": ["Blocking starlight", "Measuring temperatures", "Observing brightness", "Direct imaging"],
+        "answer": "Blocking starlight"
+    },
+    {
+        "question": "What significant advancement has been made in capturing images of exoplanets?",
+        "options": ["Limited advancements", "Advanced imaging techniques", "No improvements", "Only using ground telescopes"],
+        "answer": "Advanced imaging techniques"
+    },
+    {
+        "question": "What are astronomers hoping to learn from direct imaging?",
+        "options": ["Star sizes", "Planetary conditions", "Galaxy distances", "Only star brightness"],
+        "answer": "Planetary conditions"
+    },
+    {
+        "question": "What does the term 'shine blockers' refer to?",
+        "options": ["Devices to enhance starlight", "Instruments to block starlight", "None", "Only used in space"],
+        "answer": "Instruments to block starlight"
+    },
+    {
+        "question": "What role does technology play in the future of direct imaging?",
+        "options": ["No role", "Limitations", "Enhancements in capturing images", "Only for star observation"],
+        "answer": "Enhancements in capturing images"
+    },
+    {
+        "question": "How does the advancement of technology affect exoplanet discovery?",
+        "options": ["It limits discoveries", "It reduces the number of planets", "It increases potential discoveries", "It only focuses on stars"],
+        "answer": "It increases potential discoveries"
+    },
+    {
+        "question": "What does blocking starlight help astronomers achieve?",
+        "options": ["Direct observation", "Temperature measurements", "Increased brightness", "Finding only gas giants"],
+        "answer": "Direct observation"
+    },
+    {
+        "question": "What advancements are expected in the field of direct imaging?",
+        "options": ["Fewer discoveries", "More detailed observations", "Only focusing on black holes", "Limiting exoplanets study"],
+        "answer": "More detailed observations"
+    },
+    {
+        "question": "What do astronomers hope to capture with improved direct imaging?",
+        "options": ["More stars", "More planets", "More black holes", "More galaxies"],
+        "answer": "More planets"
+    },
+    {
+        "question": "How does the direct imaging method compare to other methods of exoplanet discovery?",
+        "options": ["It is less effective", "It provides direct observations", "It only focuses on stars", "It ignores planets"],
+        "answer": "It provides direct observations"
+    },
+    {
+        "question": "What is the ultimate goal of direct imaging technology?",
+        "options": ["Only observing stars", "Capturing detailed images of planets", "Focusing on gas giants", "None"],
+        "answer": "Capturing detailed images of planets"
+    },
+    {
+        "question": "What can advancements in direct imaging reveal about exoplanets?",
+        "options": ["Their sizes only", "Their orbits only", "Their atmospheric details", "Only their distances"],
+        "answer": "Their atmospheric details"
+    },
+    {
+        "question": "What does the Direct Imaging Method primarily focus on?",
+        "options": ["Studying star brightness", "Detecting exoplanets", "Observing solar flares", "Only gas giants"],
+        "answer": "Detecting exoplanets"
+    },
+    {
+        "question": "What advantage does the Direct Imaging Method provide?",
+        "options": ["Only sees bright stars", "Direct observation of planets", "Exclusively studies gas giants", "None"],
+        "answer": "Direct observation of planets"
+    },
+    {
+        "question": "What types of stars can be effectively studied using direct imaging?",
+        "options": ["Distant stars", "Nearby stars", "Only massive stars", "Only faint stars"],
+        "answer": "Nearby stars"
+    },
+    {
+        "question": "What innovative tool aids in blocking starlight during observations?",
+        "options": ["Lenses", "Telescopes", "Coronagraphs", "Filters"],
+        "answer": "Coronagraphs"
+    },
+    {
+        "question": "What do astronomers hope to learn from future direct imaging?",
+        "options": ["Only star colors", "Details about planets", "Bright stars", "Solar systems only"],
+        "answer": "Details about planets"
+    },
+    {
+        "question": "What is a significant advantage of capturing images of exoplanets?",
+        "options": ["Direct observation", "Only studying stars", "Limited discoveries", "Focusing solely on gas giants"],
+        "answer": "Direct observation"
+    },
+    {
+        "question": "What technological advancements are crucial for future exoplanet imaging?",
+        "options": ["Old telescopes", "New imaging techniques", "Limited observations", "Only ground-based tools"],
+        "answer": "New imaging techniques"
+    },
+    {
+        "question": "What is a key challenge in direct imaging?",
+        "options": ["Finding gas giants", "Capturing faint light from planets", "Studying the solar system", "None"],
+        "answer": "Capturing faint light from planets"
+    }
+]

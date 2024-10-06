@@ -1,0 +1,452 @@
+[
+    {
+        "question": "What defines a super-Earth?",
+        "options": ["Larger than Earth but smaller than Neptune", "Smaller than Earth", "Larger than Jupiter", "An Earth-like planet"],
+        "answer": "Larger than Earth but smaller than Neptune"
+    },
+    {
+        "question": "Which of the following is a characteristic of super-Earths?",
+        "options": ["Solid surface", "Large gaseous atmosphere", "Liquid oceans", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the typical mass range for a super-Earth?",
+        "options": ["1 to 10 times the mass of Earth", "10 to 20 times the mass of Earth", "0.5 to 1 times the mass of Earth", "20 to 30 times the mass of Earth"],
+        "answer": "1 to 10 times the mass of Earth"
+    },
+    {
+        "question": "Which of the following is an example of a super-Earth?",
+        "options": ["Proxima Centauri b", "Kepler-22b", "Mars", "Venus"],
+        "answer": "Kepler-22b"
+    },
+    {
+        "question": "How do super-Earths typically form?",
+        "options": ["Through accretion of gas and dust", "From the collision of smaller planets", "From the fusion of stellar remnants", "None of the above"],
+        "answer": "Through accretion of gas and dust"
+    },
+    {
+        "question": "What is a common feature of the atmospheres of super-Earths?",
+        "options": ["Rich in nitrogen", "Rich in hydrogen", "High in oxygen", "Thin"],
+        "answer": "Rich in hydrogen"
+    },
+    {
+        "question": "Which method is primarily used to detect super-Earths?",
+        "options": ["Direct imaging", "Transit method", "Spectroscopy", "Radio wave detection"],
+        "answer": "Transit method"
+    },
+    {
+        "question": "What is the significance of super-Earths in the search for extraterrestrial life?",
+        "options": ["They are potentially habitable", "They have liquid water", "They are similar to Earth", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What factor primarily influences whether a super-Earth can support life?",
+        "options": ["Mass", "Distance from its star", "Atmospheric composition", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is true about the temperature of super-Earths?",
+        "options": ["Always colder than Earth", "Always hotter than Earth", "Varies widely", "Always similar to Earth"],
+        "answer": "Varies widely"
+    },
+    {
+        "question": "What does the term 'habitable zone' refer to?",
+        "options": ["The distance from a star where conditions may be right for liquid water", "The area around a planet that can support life", "A zone with a stable atmosphere", "None of the above"],
+        "answer": "The distance from a star where conditions may be right for liquid water"
+    },
+    {
+        "question": "Which telescope has discovered many super-Earths?",
+        "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Kepler Space Telescope", "Chandra X-ray Observatory"],
+        "answer": "Kepler Space Telescope"
+    },
+    {
+        "question": "What is the main difference between a super-Earth and a mini-Neptune?",
+        "options": ["Size", "Mass", "Atmospheric composition", "All of the above"],
+        "answer": "Atmospheric composition"
+    },
+    {
+        "question": "How many confirmed super-Earths are known as of now?",
+        "options": ["Over 200", "Over 400", "Over 600", "Over 800"],
+        "answer": "Over 600"
+    },
+    {
+        "question": "Which super-Earth was the first to be discovered?",
+        "options": ["55 Cancri e", "GJ 1214 b", "HD 209458 b", "Kepler-22b"],
+        "answer": "55 Cancri e"
+    },
+    {
+        "question": "What is the density of most super-Earths compared to Earth?",
+        "options": ["Lower", "Higher", "Similar", "Uncertain"],
+        "answer": "Higher"
+    },
+    {
+        "question": "What type of surface do many super-Earths likely have?",
+        "options": ["Rocky", "Gaseous", "Liquid", "Icy"],
+        "answer": "Rocky"
+    },
+    {
+        "question": "What is the primary composition of super-Earths?",
+        "options": ["Rock and metal", "Gas", "Ice", "Water"],
+        "answer": "Rock and metal"
+    },
+    {
+        "question": "Which of the following is a potential challenge for life on super-Earths?",
+        "options": ["High gravity", "Radiation", "Extreme temperatures", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is one way super-Earths could have formed?",
+        "options": ["Through collisions with other celestial bodies", "By capturing gas from their star", "From the remains of supernovae", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which type of planet has been found to have water vapor in its atmosphere?",
+        "options": ["Rocky planets", "Gas giants", "Super-Earths", "All of the above"],
+        "answer": "Super-Earths"
+    },
+    {
+        "question": "Which of the following super-Earths is located in the habitable zone of its star?",
+        "options": ["Proxima Centauri b", "55 Cancri e", "HD 209458 b", "GJ 1214 b"],
+        "answer": "Proxima Centauri b"
+    },
+    {
+        "question": "What is the main factor determining a super-Earth's potential for habitability?",
+        "options": ["Size", "Distance from its star", "Mass", "Atmospheric pressure"],
+        "answer": "Distance from its star"
+    },
+    {
+        "question": "What happens to many super-Earths that are too close to their star?",
+        "options": ["They lose their atmosphere", "They gain a thick atmosphere", "They cool down", "They become gaseous"],
+        "answer": "They lose their atmosphere"
+    },
+    {
+        "question": "Which of the following factors can affect the climate of super-Earths?",
+        "options": ["Orbital eccentricity", "Axial tilt", "Distance from the star", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What role does the presence of water play on super-Earths?",
+        "options": ["Indicates life", "Affects geology", "Influences atmosphere", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What can be inferred about a super-Earth with a thick atmosphere?",
+        "options": ["It is likely to have liquid water", "It is uninhabitable", "It is too far from its star", "It has no gravity"],
+        "answer": "It is likely to have liquid water"
+    },
+    {
+        "question": "What is the expected atmospheric pressure on many super-Earths?",
+        "options": ["Higher than Earth's", "Lower than Earth's", "Similar to Earth's", "Uncertain"],
+        "answer": "Higher than Earth's"
+    },
+    {
+        "question": "What type of radiation can affect the atmospheres of super-Earths?",
+        "options": ["UV radiation", "X-rays", "Cosmic rays", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which super-Earth is known for having a significant atmosphere that supports water?",
+        "options": ["GJ 1214 b", "Proxima Centauri b", "55 Cancri e", "LHS 1140 b"],
+        "answer": "GJ 1214 b"
+    },
+    {
+        "question": "What is one of the challenges in studying super-Earths?",
+        "options": ["They are too far away", "They are too small", "They have no moons", "They lack an atmosphere"],
+        "answer": "They are too far away"
+    },
+    {
+        "question": "What is the effect of tidal heating on super-Earths?",
+        "options": ["Increases atmospheric pressure", "Can create geological activity", "Reduces gravity", "Has no effect"],
+        "answer": "Can create geological activity"
+    },
+    {
+        "question": "Which super-Earth is known for having extreme temperatures?",
+        "options": ["55 Cancri e", "Proxima Centauri b", "GJ 1214 b", "LHS 1140 b"],
+        "answer": "55 Cancri e"
+    },
+    {
+        "question": "What is the main composition of super-Earths compared to gas giants?",
+        "options": ["More rocky", "More gaseous", "Similar", "Less dense"],
+        "answer": "More rocky"
+    },
+    {
+        "question": "What do scientists hope to find on super-Earths?",
+        "options": ["Life", "Water", "Potential for habitability", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which super-Earth was discovered using the transit method?",
+        "options": ["Proxima Centauri b", "GJ 1214 b", "55 Cancri e", "LHS 1140 b"],
+        "answer": "GJ 1214 b"
+    },
+    {
+        "question": "What is the average density of super-Earths compared to Earth?",
+        "options": ["Higher", "Lower", "Similar", "All of the above"],
+        "answer": "Higher"
+    },
+    {
+        "question": "What type of telescope is often used to study super-Earths?",
+        "options": ["Radio telescope", "Optical telescope", "Infrared telescope", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the significance of the habitable zone?",
+        "options": ["Distance from a star", "Temperature range for liquid water", "Potential for life", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which super-Earth was found in the habitable zone of its star?",
+        "options": ["LHS 1140 b", "55 Cancri e", "Kepler-186f", "Proxima Centauri b"],
+        "answer": "Proxima Centauri b"
+    },
+    {
+        "question": "What is the expected atmospheric condition of super-Earths in the habitable zone?",
+        "options": ["Thin", "Dense", "Toxic", "Variable"],
+        "answer": "Dense"
+    },
+    {
+        "question": "What type of planets are found close to super-Earths?",
+        "options": ["Rocky planets", "Gas giants", "Ice giants", "All of the above"],
+        "answer": "Rocky planets"
+    },
+    {
+        "question": "What is the name of the largest super-Earth discovered?",
+        "options": ["55 Cancri e", "GJ 1214 b", "LHS 1140 b", "Kepler-22b"],
+        "answer": "55 Cancri e"
+    },
+    {
+        "question": "What is a possible consequence of high atmospheric pressure on super-Earths?",
+        "options": ["Increased boiling point of water", "Increased evaporation", "Less geological activity", "More erosion"],
+        "answer": "Increased boiling point of water"
+    },
+    {
+        "question": "What is the relationship between a super-Earth's distance from its star and its temperature?",
+        "options": ["Closer planets are colder", "Distance has no effect", "Farther planets are warmer", "Closer planets are warmer"],
+        "answer": "Closer planets are warmer"
+    },
+    {
+        "question": "What type of radiation is most relevant for studying super-Earths?",
+        "options": ["X-ray", "Ultraviolet", "Optical", "Infrared"],
+        "answer": "Infrared"
+    },
+    {
+        "question": "What is the typical radius of a super-Earth compared to Earth?",
+        "options": ["Similar", "Larger", "Smaller", "Half"],
+        "answer": "Larger"
+    },
+    {
+        "question": "What is the maximum known temperature of super-Earths?",
+        "options": ["1000°C", "2000°C", "3000°C", "4000°C"],
+        "answer": "2000°C"
+    },
+    {
+        "question": "What is one of the main challenges in determining the habitability of super-Earths?",
+        "options": ["Distance", "Size", "Atmospheric composition", "Gravity"],
+        "answer": "Atmospheric composition"
+    },
+    {
+        "question": "Which gas is commonly found in the atmospheres of super-Earths?",
+        "options": ["Nitrogen", "Carbon Dioxide", "Oxygen", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What type of environment do scientists hope to find on super-Earths?",
+        "options": ["Deserts", "Oceans", "Habitats for life", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is one of the most critical aspects of studying super-Earths?",
+        "options": ["Their size", "Their temperature", "Their potential for life", "Their atmosphere"],
+        "answer": "Their potential for life"
+    },
+    {
+        "question": "What do scientists use to model super-Earth atmospheres?",
+        "options": ["Computer simulations", "Laboratory experiments", "Field studies", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the relationship between mass and density in super-Earths?",
+        "options": ["Higher mass equals lower density", "Higher mass equals higher density", "No correlation", "Mass is irrelevant"],
+        "answer": "Higher mass equals higher density"
+    },
+    {
+        "question": "What kind of orbits do many super-Earths have?",
+        "options": ["Elliptical", "Circular", "Irregular", "All of the above"],
+        "answer": "Elliptical"
+    },
+    {
+        "question": "What is the significance of studying the atmospheres of super-Earths?",
+        "options": ["To find life", "To understand climate", "To learn about geology", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is one way super-Earths can be detected?",
+        "options": ["By their light spectrum", "By their gravity", "By their moons", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What happens to super-Earths that are too far from their star?",
+        "options": ["They lose their atmosphere", "They become gas giants", "They cool down", "They gain mass"],
+        "answer": "They cool down"
+    },
+    {
+        "question": "Which of the following describes the core of most super-Earths?",
+        "options": ["Solid", "Liquid", "Gaseous", "Variable"],
+        "answer": "Solid"
+    },
+    {
+        "question": "Which super-Earth has the most extensive studies on its atmosphere?",
+        "options": ["Proxima Centauri b", "GJ 1214 b", "55 Cancri e", "LHS 1140 b"],
+        "answer": "GJ 1214 b"
+    },
+    {
+        "question": "What do scientists believe about super-Earths with thick atmospheres?",
+        "options": ["They cannot support life", "They may have liquid water", "They are too hot", "None of the above"],
+        "answer": "They may have liquid water"
+    },
+    {
+        "question": "What is the most common size range for super-Earths?",
+        "options": ["1-2 Earth masses", "1-5 Earth masses", "2-10 Earth masses", "10-20 Earth masses"],
+        "answer": "1-5 Earth masses"
+    },
+    {
+        "question": "Which of the following is a potential characteristic of super-Earths?",
+        "options": ["Lava", "Oceans", "Gas giants", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What role does the magnetic field play in the habitability of super-Earths?",
+        "options": ["Protects the atmosphere", "Affects temperature", "Determines size", "All of the above"],
+        "answer": "Protects the atmosphere"
+    },
+    {
+        "question": "What is the main method used to study super-Earths?",
+        "options": ["Telescopic observation", "Spectroscopy", "Direct imaging", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What type of data do scientists analyze to understand super-Earths?",
+        "options": ["Light spectra", "Gravitational pull", "Orbital mechanics", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which characteristic is essential for a planet to be classified as a super-Earth?",
+        "options": ["Size", "Mass", "Distance from its star", "All of the above"],
+        "answer": "Mass"
+    },
+    {
+        "question": "What is the primary difference between super-Earths and gas giants?",
+        "options": ["Size", "Composition", "Density", "All of the above"],
+        "answer": "Composition"
+    },
+    {
+        "question": "What is a significant factor influencing the atmosphere of a super-Earth?",
+        "options": ["Temperature", "Gravity", "Solar radiation", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What phenomenon can occur if a super-Earth is too close to its star?",
+        "options": ["Erosion", "Heat waves", "Atmospheric loss", "Ice formation"],
+        "answer": "Atmospheric loss"
+    },
+    {
+        "question": "What is one of the potential challenges for finding life on super-Earths?",
+        "options": ["Distance", "Mass", "Gravity", "Moons"],
+        "answer": "Distance"
+    },
+    {
+        "question": "What is the primary objective in studying super-Earths?",
+        "options": ["To find habitable planets", "To learn about their atmospheres", "To understand their geology", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which super-Earth is the closest known exoplanet?",
+        "options": ["Proxima Centauri b", "GJ 1214 b", "55 Cancri e", "LHS 1140 b"],
+        "answer": "Proxima Centauri b"
+    },
+    {
+        "question": "What are super-Earths often compared to?",
+        "options": ["Earth", "Gas giants", "Mini-Neptunes", "All of the above"],
+        "answer": "Earth"
+    },
+    {
+        "question": "Which of the following is a common method of detecting super-Earths?",
+        "options": ["Direct imaging", "Transit method", "Radial velocity", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What type of geological activity can super-Earths experience?",
+        "options": ["Volcanism", "Erosion", "Tectonics", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the average size of super-Earths compared to Earth?",
+        "options": ["Similar", "Larger", "Smaller", "Half"],
+        "answer": "Larger"
+    },
+    {
+        "question": "Which super-Earth has been studied for potential habitability?",
+        "options": ["Proxima Centauri b", "GJ 1214 b", "55 Cancri e", "LHS 1140 b"],
+        "answer": "GJ 1214 b"
+    },
+    {
+        "question": "What characteristic of a planet suggests it may have water?",
+        "options": ["Density", "Mass", "Atmosphere", "Orbit"],
+        "answer": "Atmosphere"
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of super-Earths?",
+        "options": ["Higher density", "Rocky composition", "Gaseous composition", "Similar to Earth"],
+        "answer": "Gaseous composition"
+    },
+    {
+        "question": "Which of the following terms refers to the study of celestial bodies and their interactions?",
+        "options": ["Astrobiology", "Planetology", "Astronomy", "Geology"],
+        "answer": "Planetology"
+    },
+    {
+        "question": "What is the impact of solar radiation on super-Earths?",
+        "options": ["Increases atmospheric pressure", "Can lead to atmospheric loss", "Has no effect", "All of the above"],
+        "answer": "Can lead to atmospheric loss"
+    },
+    {
+        "question": "What is the expected temperature range for super-Earths in the habitable zone?",
+        "options": ["-50°C to 0°C", "0°C to 50°C", "50°C to 100°C", "100°C to 200°C"],
+        "answer": "0°C to 50°C"
+    },
+    {
+        "question": "What is the expected surface condition of super-Earths close to their stars?",
+        "options": ["Cold", "Volcanic", "Frozen", "All of the above"],
+        "answer": "Volcanic"
+    },
+    {
+        "question": "What do scientists primarily search for in the atmospheres of super-Earths?",
+        "options": ["Water vapor", "Oxygen", "Methane", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which super-Earth has been determined to have a potential for habitability?",
+        "options": ["GJ 1214 b", "55 Cancri e", "Proxima Centauri b", "All of the above"],
+        "answer": "Proxima Centauri b"
+    },
+    {
+        "question": "What is the main characteristic of a planet in the habitable zone?",
+        "options": ["It has a solid surface", "It has liquid water", "It has a dense atmosphere", "All of the above"],
+        "answer": "It has liquid water"
+    },
+    {
+        "question": "What is the significance of finding exoplanets in the habitable zone?",
+        "options": ["It increases the chance for life", "They have solid surfaces", "They are closer", "They are smaller"],
+        "answer": "It increases the chance for life"
+    },
+    {
+        "question": "What does the term 'ultra-Earth' refer to?",
+        "options": ["A planet larger than super-Earth", "A gas giant", "A rocky planet", "A type of exoplanet"],
+        "answer": "A planet larger than super-Earth"
+    },
+    {
+        "question": "What can scientists learn from studying super-Earths?",
+        "options": ["Atmospheric dynamics", "Geological history", "Potential for life", "All of the above"],
+        "answer": "All of the above"
+    }
+]

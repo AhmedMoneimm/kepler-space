@@ -1,0 +1,547 @@
+[
+    {
+        "question": "What is the primary component of Neptune's atmosphere?",
+        "options": ["Hydrogen", "Methane", "Oxygen", "Carbon Dioxide"],
+        "answer": "Methane"
+    },
+    {
+        "question": "Which of the following planets is considered a Neptunian planet?",
+        "options": ["Earth", "Jupiter", "Saturn", "Uranus"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What is the average distance of Neptune from the Sun?",
+        "options": ["30 AU", "50 AU", "20 AU", "40 AU"],
+        "answer": "30 AU"
+    },
+    {
+        "question": "Which planet is known as the 'ice giant'?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What is the main feature of Neptune's atmosphere?",
+        "options": ["Rings", "Storms", "Solid surface", "Dust storms"],
+        "answer": "Storms"
+    },
+    {
+        "question": "What color is Neptune primarily?",
+        "options": ["Blue", "Green", "Red", "Yellow"],
+        "answer": "Blue"
+    },
+    {
+        "question": "What is the main source of Neptune's internal heat?",
+        "options": ["Radioactive decay", "Gravitational compression", "Solar energy", "Friction"],
+        "answer": "Gravitational compression"
+    },
+    {
+        "question": "Which of the following moons orbits Neptune?",
+        "options": ["Triton", "Ganymede", "Titan", "Europa"],
+        "answer": "Triton"
+    },
+    {
+        "question": "What is unique about Triton, Neptune's largest moon?",
+        "options": ["It has a dense atmosphere", "It orbits Neptune in a retrograde direction", "It is the largest moon in the solar system", "It has active volcanoes"],
+        "answer": "It orbits Neptune in a retrograde direction"
+    },
+    {
+        "question": "What was the name of the spacecraft that first studied Neptune up close?",
+        "options": ["Voyager 1", "Voyager 2", "Pioneer 10", "New Horizons"],
+        "answer": "Voyager 2"
+    },
+    {
+        "question": "How many known moons does Neptune have?",
+        "options": ["14", "9", "5", "2"],
+        "answer": "14"
+    },
+    {
+        "question": "What is the average surface temperature of Neptune?",
+        "options": ["-214°C", "-180°C", "-150°C", "-100°C"],
+        "answer": "-214°C"
+    },
+    {
+        "question": "Which gas giant is furthest from the Sun?",
+        "options": ["Uranus", "Jupiter", "Saturn", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What is the primary reason Neptune appears blue?",
+        "options": ["Presence of water", "Presence of carbon dioxide", "Presence of methane", "Presence of oxygen"],
+        "answer": "Presence of methane"
+    },
+    {
+        "question": "What kind of weather patterns can be observed on Neptune?",
+        "options": ["Tornadoes", "Blizzards", "Hurricanes", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the strongest wind recorded on Neptune?",
+        "options": ["300 km/h", "600 km/h", "1200 km/h", "800 km/h"],
+        "answer": "1200 km/h"
+    },
+    {
+        "question": "What is the core of Neptune primarily composed of?",
+        "options": ["Rock and ice", "Gas", "Liquid", "Metal"],
+        "answer": "Rock and ice"
+    },
+    {
+        "question": "What is the primary purpose of the James Webb Space Telescope in relation to Neptune?",
+        "options": ["To observe the rings", "To study its atmosphere", "To search for moons", "To measure its temperature"],
+        "answer": "To study its atmosphere"
+    },
+    {
+        "question": "Which characteristic is typical of Neptunian planets?",
+        "options": ["Solid surfaces", "Thin atmospheres", "Large icy cores", "Small diameters"],
+        "answer": "Large icy cores"
+    },
+    {
+        "question": "Which of the following describes Neptune's atmosphere?",
+        "options": ["Stable", "Dynamic", "Calm", "Uniform"],
+        "answer": "Dynamic"
+    },
+    {
+        "question": "What is the maximum wind speed recorded on Neptune?",
+        "options": ["600 km/h", "900 km/h", "1200 km/h", "1500 km/h"],
+        "answer": "1200 km/h"
+    },
+    {
+        "question": "What is the most significant feature of Neptune's atmosphere?",
+        "options": ["Great Red Spot", "Dark spots", "Rings", "Dust storms"],
+        "answer": "Dark spots"
+    },
+    {
+        "question": "What does the term 'retrograde orbit' refer to?",
+        "options": ["An orbit opposite to the planet's rotation", "An orbit in the same direction as the planet's rotation", "An orbit that is elliptical", "An orbit that is circular"],
+        "answer": "An orbit opposite to the planet's rotation"
+    },
+    {
+        "question": "Which moon of Neptune is known for its geysers?",
+        "options": ["Triton", "Nereid", "Proteus", "Despina"],
+        "answer": "Triton"
+    },
+    {
+        "question": "What type of planet is Neptune classified as?",
+        "options": ["Rocky planet", "Terrestrial planet", "Gas giant", "Icy giant"],
+        "answer": "Icy giant"
+    },
+    {
+        "question": "What instrument did Voyager 2 use to study Neptune?",
+        "options": ["Ultraviolet Spectrometer", "Infrared Spectrometer", "Radio wave sensor", "Photometer"],
+        "answer": "Ultraviolet Spectrometer"
+    },
+    {
+        "question": "What is the primary atmospheric component of Neptune?",
+        "options": ["Hydrogen", "Helium", "Methane", "Ammonia"],
+        "answer": "Methane"
+    },
+    {
+        "question": "How many rings does Neptune have?",
+        "options": ["1", "2", "4", "5"],
+        "answer": "5"
+    },
+    {
+        "question": "What is the term used for Neptune's orbital period?",
+        "options": ["Earth years", "Solar years", "Neptunian years", "Galactic years"],
+        "answer": "Neptunian years"
+    },
+    {
+        "question": "Which of the following is NOT a feature of Neptune?",
+        "options": ["Rings", "Moons", "Solid surface", "High winds"],
+        "answer": "Solid surface"
+    },
+    {
+        "question": "What is the main element found in Neptune's atmosphere?",
+        "options": ["Oxygen", "Hydrogen", "Methane", "Helium"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "What is the effect of Neptune's distance from the Sun on its temperature?",
+        "options": ["Higher temperatures", "Lower temperatures", "No effect", "Depends on atmosphere"],
+        "answer": "Lower temperatures"
+    },
+    {
+        "question": "Which of the following is a characteristic of Triton?",
+        "options": ["It has a thin atmosphere", "It has active geysers", "It is larger than Pluto", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the surface pressure on Neptune compared to Earth?",
+        "options": ["Higher", "Lower", "Similar", "Non-existent"],
+        "answer": "Higher"
+    },
+    {
+        "question": "What is the significance of Triton's retrograde orbit?",
+        "options": ["It suggests it was captured by Neptune", "It indicates it is a solid body", "It has no effect", "It is unusual"],
+        "answer": "It suggests it was captured by Neptune"
+    },
+    {
+        "question": "Which gas giant is considered the most mysterious?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What is the temperature of Neptune's upper atmosphere?",
+        "options": ["-150°C", "-200°C", "-250°C", "-300°C"],
+        "answer": "-200°C"
+    },
+    {
+        "question": "What feature makes Neptune's atmosphere unique compared to other gas giants?",
+        "options": ["Presence of water", "High levels of methane", "Solid surface", "Lack of storms"],
+        "answer": "High levels of methane"
+    },
+    {
+        "question": "What is the significance of Neptune's winds?",
+        "options": ["They are calm", "They are constant", "They are the fastest in the solar system", "They do not exist"],
+        "answer": "They are the fastest in the solar system"
+    },
+    {
+        "question": "Which of the following moons is NOT a moon of Neptune?",
+        "options": ["Triton", "Nereid", "Proteus", "Deimos"],
+        "answer": "Deimos"
+    },
+    {
+        "question": "What do scientists use to study the composition of Neptune's atmosphere?",
+        "options": ["Spectroscopy", "Telescopes", "Radar", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which gas giant has a core that is mostly made up of ice and rock?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What kind of clouds are present in Neptune's atmosphere?",
+        "options": ["Ice clouds", "Ammonia clouds", "Water clouds", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is Neptune's axial tilt?",
+        "options": ["23.5 degrees", "10 degrees", "28 degrees", "40 degrees"],
+        "answer": "28 degrees"
+    },
+    {
+        "question": "What is the average length of a Neptunian year?",
+        "options": ["60 Earth years", "165 Earth years", "84 Earth years", "90 Earth years"],
+        "answer": "165 Earth years"
+    },
+    {
+        "question": "Which of the following statements about Neptune is true?",
+        "options": [
+            "It is the smallest gas giant",
+            "It has a thick atmosphere",
+            "It has no moons",
+            "It is the farthest planet from the Sun"
+        ],
+        "answer": "It is the farthest planet from the Sun"
+    },
+    {
+        "question": "Which planet has the fastest winds in the solar system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What is the main reason Triton is unique among large moons?",
+        "options": ["It is a captured object", "It is rocky", "It is very small", "It has a solid surface"],
+        "answer": "It is a captured object"
+    },
+    {
+        "question": "What is the expected temperature of Neptune's core?",
+        "options": ["-1500°C", "6000°C", "2000°C", "4000°C"],
+        "answer": "6000°C"
+    },
+    {
+        "question": "Which of the following gas giants has a retrograde moon?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What type of gas giant is Neptune categorized as?",
+        "options": ["Icy giant", "Rocky planet", "Gas giant", "Terrestrial planet"],
+        "answer": "Icy giant"
+    },
+    {
+        "question": "What can the study of Neptune's winds tell us?",
+        "options": ["Planet formation", "Stellar activity", "Atmospheric composition", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which gas giant was visited by Voyager 2 in 1989?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What type of weather phenomenon is common on Neptune?",
+        "options": ["Blizzards", "Dust storms", "Cyclones", "Tornadoes"],
+        "answer": "Cyclones"
+    },
+    {
+        "question": "What is the core temperature of Neptune thought to be?",
+        "options": ["2000°C", "4000°C", "6000°C", "8000°C"],
+        "answer": "6000°C"
+    },
+    {
+        "question": "What is the primary method used to study Neptune's atmosphere?",
+        "options": ["Radar", "Ultraviolet spectroscopy", "Infrared spectroscopy", "Direct imaging"],
+        "answer": "Infrared spectroscopy"
+    },
+    {
+        "question": "Which gas giant has a notable blue color due to methane in its atmosphere?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What is the primary method used to find exoplanets?",
+        "options": ["Gravitational lensing", "Transit method", "Radial velocity", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the effect of Neptune's distance from the Sun?",
+        "options": ["Warmer temperatures", "Colder temperatures", "Increased atmospheric pressure", "Decreased gravity"],
+        "answer": "Colder temperatures"
+    },
+    {
+        "question": "What is the main reason gas giants can retain their atmospheres?",
+        "options": ["High gravity", "Low density", "Cold temperatures", "Their distance from the Sun"],
+        "answer": "High gravity"
+    },
+    {
+        "question": "Which moon of Neptune is the most studied?",
+        "options": ["Triton", "Nereid", "Proteus", "Larissa"],
+        "answer": "Triton"
+    },
+    {
+        "question": "What do the colors in Neptune's atmosphere represent?",
+        "options": ["Temperature", "Chemical composition", "Cloud patterns", "Size"],
+        "answer": "Chemical composition"
+    },
+    {
+        "question": "What is the name of Neptune's northernmost storm?",
+        "options": ["Dark Spot", "Great Dark Spot", "Great Red Spot", "Neptune's Eye"],
+        "answer": "Great Dark Spot"
+    },
+    {
+        "question": "Which gas giant has the highest density?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What is the primary source of heat for Neptune?",
+        "options": ["Solar energy", "Internal heat", "Gravitational compression", "Chemical reactions"],
+        "answer": "Internal heat"
+    },
+    {
+        "question": "Which of the following planets has the largest moon?",
+        "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the average density of Neptune?",
+        "options": ["0.4 g/cm³", "1.6 g/cm³", "1.0 g/cm³", "1.3 g/cm³"],
+        "answer": "1.6 g/cm³"
+    },
+    {
+        "question": "What is the estimated age of Neptune?",
+        "options": ["4.5 billion years", "6 billion years", "1 billion years", "3 billion years"],
+        "answer": "4.5 billion years"
+    },
+    {
+        "question": "Which gas giant has the fastest rotation speed?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the main chemical found in Neptune's atmosphere?",
+        "options": ["Hydrogen", "Helium", "Methane", "Oxygen"],
+        "answer": "Methane"
+    },
+    {
+        "question": "What is the characteristic feature of Neptune's weather?",
+        "options": ["Steady", "Calm", "Variable", "Nonexistent"],
+        "answer": "Variable"
+    },
+    {
+        "question": "What is the main atmospheric feature of Uranus?",
+        "options": ["Rings", "Great Dark Spot", "Thick clouds", "Solid surface"],
+        "answer": "Rings"
+    },
+    {
+        "question": "What effect does the tilt of Neptune have on its seasons?",
+        "options": ["None", "Milder temperatures", "Extreme temperatures", "No seasons"],
+        "answer": "Extreme temperatures"
+    },
+    {
+        "question": "What do scientists hope to learn from studying Neptune?",
+        "options": ["Atmospheric chemistry", "Planetary formation", "Moons and rings", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What role does Neptune's magnetic field play?",
+        "options": ["It protects the atmosphere", "It creates storms", "It has no effect", "It is weak"],
+        "answer": "It protects the atmosphere"
+    },
+    {
+        "question": "What does the presence of methane in Neptune's atmosphere indicate?",
+        "options": ["The planet is old", "It has a rocky surface", "It has a thick atmosphere", "It may have water"],
+        "answer": "It may have water"
+    },
+    {
+        "question": "What is the most likely origin of Neptune's moons?",
+        "options": ["Formation from the protoplanetary disk", "Capture of asteroids", "Destruction of a planet", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the approximate length of a Neptunian day?",
+        "options": ["16 hours", "12 hours", "10 hours", "20 hours"],
+        "answer": "16 hours"
+    },
+    {
+        "question": "Which spacecraft provided the first close-up images of Neptune?",
+        "options": ["Voyager 1", "Voyager 2", "Hubble", "Pioneer"],
+        "answer": "Voyager 2"
+    },
+    {
+        "question": "What is the approximate mass of Neptune compared to Earth?",
+        "options": ["1.5 times", "18 times", "3 times", "10 times"],
+        "answer": "18 times"
+    },
+    {
+        "question": "What type of storms can occur on Neptune?",
+        "options": ["Hurricanes", "Tornadoes", "Blizzards", "Cyclones"],
+        "answer": "Cyclones"
+    },
+    {
+        "question": "What does the term 'ice giant' refer to?",
+        "options": ["Solid surfaces", "Ice in the atmosphere", "Icy cores", "Gas composition"],
+        "answer": "Icy cores"
+    },
+    {
+        "question": "Which of Neptune's moons is the most geologically active?",
+        "options": ["Triton", "Proteus", "Nereid", "Larissa"],
+        "answer": "Triton"
+    },
+    {
+        "question": "What is the average orbital speed of Neptune around the Sun?",
+        "options": ["18 km/s", "25 km/s", "30 km/s", "40 km/s"],
+        "answer": "18 km/s"
+    },
+    {
+        "question": "What is the significance of finding large quantities of hydrogen and helium in Neptune's atmosphere?",
+        "options": ["It indicates size", "It indicates distance", "It suggests high pressure", "It is irrelevant"],
+        "answer": "It indicates size"
+    },
+    {
+        "question": "Which of the following is true about Neptune's magnetic field?",
+        "options": ["It is weak", "It is strong", "It is tilted", "It is uniform"],
+        "answer": "It is tilted"
+    },
+    {
+        "question": "What was the main goal of the Voyager 2 mission?",
+        "options": ["To study Neptune", "To study Saturn", "To find exoplanets", "To land on Mars"],
+        "answer": "To study Neptune"
+    },
+    {
+        "question": "What is the primary reason for the blue color of Neptune?",
+        "options": ["Presence of hydrogen", "Presence of helium", "Presence of methane", "Presence of nitrogen"],
+        "answer": "Presence of methane"
+    },
+    {
+        "question": "What type of telescope can study Neptune?",
+        "options": ["Infrared telescopes", "Optical telescopes", "Radio telescopes", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which gas giant is known for having the most extensive and complex ring system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What role does the Sun play in the weather patterns on Neptune?",
+        "options": ["It has no effect", "It provides heat", "It creates storms", "It only affects temperature"],
+        "answer": "It provides heat"
+    },
+    {
+        "question": "Which of the following is true about Neptune's rotation?",
+        "options": ["It is slow", "It is fast", "It is irregular", "It is synchronous"],
+        "answer": "It is fast"
+    },
+    {
+        "question": "Which feature is commonly observed in Neptune's atmosphere?",
+        "options": ["Cloud bands", "Rings", "Volcanoes", "Solid landforms"],
+        "answer": "Cloud bands"
+    },
+    {
+        "question": "Which gas giant has the highest atmospheric pressure?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Which gas giant has a moon with active geysers?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What is the maximum height of Neptune's clouds?",
+        "options": ["10 km", "50 km", "100 km", "500 km"],
+        "answer": "100 km"
+    },
+    {
+        "question": "Which of the following characteristics applies to Neptunian planets?",
+        "options": ["They have solid cores", "They have gaseous atmospheres", "They are small", "They are rocky"],
+        "answer": "They have gaseous atmospheres"
+    },
+    {
+        "question": "What is the average length of a Neptunian day?",
+        "options": ["12 hours", "16 hours", "24 hours", "36 hours"],
+        "answer": "16 hours"
+    },
+    {
+        "question": "What unique feature is observed in Neptune's storm systems?",
+        "options": ["They are static", "They change rapidly", "They last for decades", "They are the same as Jupiter's"],
+        "answer": "They change rapidly"
+    },
+    {
+        "question": "Which gas giant has the largest storm in the solar system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What does Neptune's weather consist of?",
+        "options": ["Storms", "Calm winds", "Sunny skies", "Freezing temperatures"],
+        "answer": "Storms"
+    },
+    {
+        "question": "What is the primary method of studying Neptune's atmosphere?",
+        "options": ["Spectroscopy", "Telescopic observation", "Both A and B", "None of the above"],
+        "answer": "Both A and B"
+    },
+    {
+        "question": "Which moon of Neptune is the most irregular?",
+        "options": ["Triton", "Nereid", "Proteus", "Thalassa"],
+        "answer": "Nereid"
+    },
+    {
+        "question": "What type of clouds are present in Neptune's atmosphere?",
+        "options": ["Water clouds", "Ammonia clouds", "Methane clouds", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the term for the area around a planet where its gravity influences nearby objects?",
+        "options": ["Atmosphere", "Gravitational field", "Magnetosphere", "Exosphere"],
+        "answer": "Gravitational field"
+    },
+    {
+        "question": "Which of the following moons has been found to have a subsurface ocean?",
+        "options": ["Triton", "Nereid", "Proteus", "Miranda"],
+        "answer": "Triton"
+    },
+    {
+        "question": "What is the primary driving force behind Neptune's weather?",
+        "options": ["Solar energy", "Gravitational pull", "Magnetic field", "Atmospheric pressure"],
+        "answer": "Solar energy"
+    },
+    {
+        "question": "Which of the following planets is NOT an ice giant?",
+        "options": ["Uranus", "Neptune", "Jupiter", "Both A and B"],
+        "answer": "Jupiter"
+    }
+]

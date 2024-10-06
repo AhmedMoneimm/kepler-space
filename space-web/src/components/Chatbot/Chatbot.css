@@ -1,0 +1,98 @@
+/* Chatbot.css */
+
+/* Floating Button Styling */
+.floating-button {
+  position: fixed;
+  bottom: 30px; /* Increased bottom spacing */
+  right: 30px; /* Increased right spacing */
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 20px; /* Increased padding */
+  border-radius: 50%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-size: 28px; /* Increased font size */
+  cursor: pointer;
+  z-index: 1000;
+  transition: background-color 0.3s ease;
+}
+
+.floating-button:hover {
+  background-color: #0056b3;
+}
+
+/* Chat Window Styling */
+.chat-window {
+  position: fixed;
+  bottom: 100px; /* Increased bottom spacing */
+  right: 30px; /* Increased right spacing */
+  width: 600px; /* Increased width */
+  max-height: 800px; /* Increased height */
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  z-index: 999;
+  overflow: hidden;
+}
+
+.chat-messages {
+  padding: 20px; /* Increased padding */
+  flex-grow: 1;
+  overflow-y: auto;
+}
+
+.chat-message {
+  margin-bottom: 15px; /* Increased margin */
+  padding: 15px; /* Increased padding */
+  border-radius: 10px;
+  max-width: 80%;
+  word-wrap: break-word;
+}
+
+.user-message {
+  background-color: #007bff;
+  color: white;
+  align-self: flex-end;
+}
+
+.bot-message {
+  background-color: #f1f1f1;
+  color: #333;
+  align-self: flex-start;
+}
+
+.typing-indicator {
+  font-style: italic;
+  color: #888;
+}
+
+/* Input Container */
+.input-container {
+  padding: 15px; /* Increased padding */
+  border-top: 1px solid #ddd;
+  display: flex;
+}
+
+.input-container input {
+  flex-grow: 1;
+  padding: 15px; /* Increased padding */
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-right: 15px; /* Increased margin */
+}
+
+.input-container button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 15px 20px; /* Increased padding */
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.input-container button:hover {
+  background-color: #0056b3;
+}

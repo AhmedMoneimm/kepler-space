@@ -1,0 +1,11 @@
+[
+    {
+        "What’s in a Name?": "Exoplanet names may look complicated, but they actually follow a simple system. Each name has three parts: the telescope or survey that discovered the planet, a number that refers to the star, and a letter that identifies the planet. For example, Kepler-16b. What does that mean? Let’s break it down!",
+        "The Telescope or Survey": "The first part of an exoplanet’s name usually tells us which telescope or survey found the planet. Some popular telescopes you may have heard of are Kepler (named after the famous astronomer Johannes Kepler) and TESS (the Transiting Exoplanet Survey Satellite). So, when you see Kepler-16, it means that the Kepler telescope discovered this planetary system!",
+        "The Number: Star’s Catalog ID": "The number in the exoplanet's name shows the order in which the star was cataloged. Each star in a telescope’s survey gets a unique number. In Kepler-16, the \"16\" tells us that this is the 16th star Kepler cataloged.",
+        "The Letter: Planet’s Discovery Order": "Here’s where it gets interesting. The lowercase letter at the end of the name shows the order in which planets were found around the star. It always starts with “b” for the first planet discovered. So, Kepler-16b means this is the first planet found around star Kepler-16. If another planet is found around the same star, it would be called Kepler-16c, and so on.",
+        "Stars vs. Planets: Capital vs. Lowercase Letters": "Stars are marked with capital letters, while planets are marked with lowercase letters. So, Kepler-16A would refer to the star itself, while Kepler-16b refers to the planet orbiting it.",
+        "Fun Example: What if Earth were an Exoplanet?": "The star is the Sun, and Earth is it's 3rd planet (after Mercury and Venus), so it would get the letter “d”! So, Earth would be called Sun-d. Pretty cool, right?",
+        "Why Does This System Matter?": "The naming system helps astronomers keep track of all the stars and planets out there, especially since we’re discovering new ones all the time. It ensures that there’s no confusion, even if there are thousands of exoplanets cataloged."
+    }
+]

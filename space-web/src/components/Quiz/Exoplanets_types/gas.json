@@ -1,0 +1,737 @@
+[
+    {
+        "question": "What is a gas giant?",
+        "options": [
+            "A planet that is primarily composed of gas",
+            "A planet with a solid surface",
+            "A planet with a high density",
+            "A planet that orbits far from its star"
+        ],
+        "answer": "A planet that is primarily composed of gas"
+    },
+    {
+        "question": "Which of the following is considered a gas giant?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the main component of Jupiter's atmosphere?",
+        "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "Which gas giant has the most extensive ring system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the name of the Great Red Spot?",
+        "options": [
+            "A storm on Mars",
+            "A large hurricane on Jupiter",
+            "A volcanic eruption on Venus",
+            "An ocean on Earth"
+        ],
+        "answer": "A large hurricane on Jupiter"
+    },
+    {
+        "question": "Which gas giant is known for having 79 moons?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the primary gas found in Saturn's atmosphere?",
+        "options": ["Methane", "Hydrogen", "Helium", "Carbon Dioxide"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "Which gas giant is the coldest planet in the solar system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "Which gas giant has a tilt of about 98 degrees?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What feature is characteristic of Neptune?",
+        "options": ["Rings", "Great Red Spot", "Dark spots", "Oceans"],
+        "answer": "Dark spots"
+    },
+    {
+        "question": "Which gas giant is known for its dynamic weather patterns?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "Which gas giant has the fastest winds recorded in the solar system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What is the primary source of heat for Jupiter?",
+        "options": ["Solar energy", "Radioactive decay", "Gravitational contraction", "Atmospheric pressure"],
+        "answer": "Gravitational contraction"
+    },
+    {
+        "question": "What is the largest moon of Saturn?",
+        "options": ["Titan", "Rhea", "Enceladus", "Tethys"],
+        "answer": "Titan"
+    },
+    {
+        "question": "Which planet has a storm larger than Earth in its atmosphere?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Which gas giant is often called an 'ice giant'?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What is the main characteristic of gas giants?",
+        "options": ["Solid surfaces", "High density", "Thick gaseous atmospheres", "Large rocky cores"],
+        "answer": "Thick gaseous atmospheres"
+    },
+    {
+        "question": "Which gas giant has the highest density?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What type of weather patterns can be observed on gas giants?",
+        "options": ["Storms", "Cloud bands", "Jet streams", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which gas giant was visited by the Voyager spacecraft in the 1970s?",
+        "options": ["Jupiter", "Saturn", "Uranus", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary component of Uranus and Neptune's atmospheres?",
+        "options": ["Methane", "Hydrogen", "Helium", "Carbon Dioxide"],
+        "answer": "Methane"
+    },
+    {
+        "question": "What is the shape of gas giants generally like?",
+        "options": ["Spherical", "Elliptical", "Irregular", "Flat"],
+        "answer": "Spherical"
+    },
+    {
+        "question": "What do gas giants lack compared to terrestrial planets?",
+        "options": ["Atmospheres", "Moons", "Solid surfaces", "Rings"],
+        "answer": "Solid surfaces"
+    },
+    {
+        "question": "Which gas giant has a moon that is believed to have a subsurface ocean?",
+        "options": ["Titan", "Europa", "Ganymede", "Callisto"],
+        "answer": "Europa"
+    },
+    {
+        "question": "Which of the following gas giants has the largest diameter?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the approximate diameter of Jupiter?",
+        "options": ["86,881 miles", "69,911 miles", "54,567 miles", "39,793 miles"],
+        "answer": "86,881 miles"
+    },
+    {
+        "question": "What is the primary composition of Saturn's rings?",
+        "options": ["Rocky material", "Ice particles", "Gas", "Dust"],
+        "answer": "Ice particles"
+    },
+    {
+        "question": "Which gas giant has a faint ring system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "Which gas giant is known for having 14 known moons?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What is the primary reason gas giants can retain their atmospheres?",
+        "options": ["Their distance from the Sun", "Their large mass", "Their cold temperatures", "Their magnetic fields"],
+        "answer": "Their large mass"
+    },
+    {
+        "question": "Which of the following is true about gas giants?",
+        "options": ["They all have solid surfaces", "They are primarily composed of ice", "They have a thick atmosphere of hydrogen and helium", "They are the smallest planets in the solar system"],
+        "answer": "They have a thick atmosphere of hydrogen and helium"
+    },
+    {
+        "question": "What is the main factor that determines the color of a gas giant's atmosphere?",
+        "options": ["The presence of minerals", "The amount of sunlight", "The composition of gases", "The planet's distance from Earth"],
+        "answer": "The composition of gases"
+    },
+    {
+        "question": "Which gas giant has the highest wind speeds?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What is the primary force that drives weather systems on gas giants?",
+        "options": ["Magnetic fields", "Gravitational pull", "Solar energy", "Convection currents"],
+        "answer": "Solar energy"
+    },
+    {
+        "question": "Which gas giant has a moon named Titan?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the main component of the atmosphere of Neptune?",
+        "options": ["Hydrogen", "Methane", "Oxygen", "Carbon Dioxide"],
+        "answer": "Methane"
+    },
+    {
+        "question": "Which of the following planets has no solid surface?",
+        "options": ["Earth", "Venus", "Jupiter", "Mars"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the temperature of Jupiter's clouds at the top?",
+        "options": ["-145°C", "-73°C", "-30°C", "10°C"],
+        "answer": "-145°C"
+    },
+    {
+        "question": "What do the stripes on Jupiter's surface represent?",
+        "options": ["Different atmospheric pressures", "Different temperatures", "Different wind speeds", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the average distance from Jupiter to the Sun?",
+        "options": ["5.2 AU", "10.2 AU", "3.5 AU", "1 AU"],
+        "answer": "5.2 AU"
+    },
+    {
+        "question": "Which gas giant has a blue color due to methane in its atmosphere?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What is the largest moon of Jupiter?",
+        "options": ["Europa", "Io", "Ganymede", "Callisto"],
+        "answer": "Ganymede"
+    },
+    {
+        "question": "What is the significance of Titan, Saturn's moon?",
+        "options": ["It has a dense atmosphere", "It has liquid lakes", "It is larger than Mercury", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the main reason gas giants can have multiple moons?",
+        "options": ["Their distance from the Sun", "Their gravitational pull", "Their size", "Their atmospheric composition"],
+        "answer": "Their gravitational pull"
+    },
+    {
+        "question": "Which of the following gas giants has the least number of moons?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What type of weather pattern is commonly observed on gas giants?",
+        "options": ["Tornadoes", "Hurricanes", "Blizzards", "Heat waves"],
+        "answer": "Hurricanes"
+    },
+    {
+        "question": "Which gas giant has a moon that is thought to have a subsurface ocean?",
+        "options": ["Ganymede", "Titan", "Callisto", "Io"],
+        "answer": "Europa"
+    },
+    {
+        "question": "What is the main purpose of the Juno mission?",
+        "options": ["To study Jupiter's atmosphere", "To find exoplanets", "To study Saturn's rings", "To observe the Moon"],
+        "answer": "To study Jupiter's atmosphere"
+    },
+    {
+        "question": "Which gas giant is known for its faint ring system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What is the temperature of Neptune's clouds?",
+        "options": ["-200°C", "-150°C", "-100°C", "-50°C"],
+        "answer": "-200°C"
+    },
+    {
+        "question": "What is the role of a planet's magnetic field?",
+        "options": ["To protect from cosmic rays", "To create auroras", "To maintain atmosphere", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What discovery did the Voyager missions make about Jupiter?",
+        "options": ["The Great Red Spot", "Rings", "Moons", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which gas giant is considered the best candidate for studying exoplanets?",
+        "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Which gas giant has a higher gravity than Earth?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the main component of the atmosphere of Saturn?",
+        "options": ["Nitrogen", "Hydrogen", "Oxygen", "Helium"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "Which gas giant has the most significant effect on its moons?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What causes the bright colors of gas giants?",
+        "options": ["Chemicals in the atmosphere", "Temperature changes", "Magnetic fields", "Sunlight"],
+        "answer": "Chemicals in the atmosphere"
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of gas giants?",
+        "options": ["Solid surface", "Thick atmosphere", "Many moons", "Rings"],
+        "answer": "Solid surface"
+    },
+    {
+        "question": "What is the primary characteristic of Saturn's rings?",
+        "options": ["They are solid", "They are made of ice and rock", "They are gaseous", "They are invisible"],
+        "answer": "They are made of ice and rock"
+    },
+    {
+        "question": "What discovery was made about Uranus in the 1980s?",
+        "options": ["It has rings", "It has moons", "It has a magnetic field", "It has a solid surface"],
+        "answer": "It has rings"
+    },
+    {
+        "question": "What is the significance of the planet's temperature?",
+        "options": ["It affects atmospheric conditions", "It determines the type of planet", "It affects gravitational pull", "It is irrelevant"],
+        "answer": "It affects atmospheric conditions"
+    },
+    {
+        "question": "What is the primary method of studying gas giants?",
+        "options": ["Spectroscopy", "Direct imaging", "Telescopic observation", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which gas giant is known for its rings?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What role does the planet's size play in its atmosphere?",
+        "options": ["Larger planets have thicker atmospheres", "Size has no effect", "Smaller planets retain more atmosphere", "Size affects temperature only"],
+        "answer": "Larger planets have thicker atmospheres"
+    },
+    {
+        "question": "Which of the following gas giants has the fastest rotation?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What do scientists hope to learn from studying gas giants?",
+        "options": ["Their internal structure", "How they formed", "Their atmospheric chemistry", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the main challenge in studying gas giants?",
+        "options": ["Their distance from Earth", "Their size", "Their brightness", "Their lack of solid surfaces"],
+        "answer": "Their distance from Earth"
+    },
+    {
+        "question": "What is the most common gas found in gas giant atmospheres?",
+        "options": ["Oxygen", "Hydrogen", "Helium", "Carbon Dioxide"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "Which gas giant has the largest number of moons?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the process called when a planet gains mass from surrounding materials?",
+        "options": ["Accretion", "Fusion", "Condensation", "Erosion"],
+        "answer": "Accretion"
+    },
+    {
+        "question": "Which of the following planets is not a gas giant?",
+        "options": ["Jupiter", "Saturn", "Earth", "Neptune"],
+        "answer": "Earth"
+    },
+    {
+        "question": "Which gas giant is known for having a large, active storm system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Which gas giant is the smallest?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What do the colors of gas giants indicate?",
+        "options": ["Temperature", "Composition", "Distance from the Sun", "Size"],
+        "answer": "Composition"
+    },
+    {
+        "question": "What is a significant characteristic of Saturn's moon Titan?",
+        "options": ["It has a dense atmosphere", "It is smaller than Earth", "It has rings", "It is a gas giant"],
+        "answer": "It has a dense atmosphere"
+    },
+    {
+        "question": "What is the effect of a gas giant's gravity on its moons?",
+        "options": ["It has no effect", "It can capture them into orbit", "It can push them away", "It can compress them"],
+        "answer": "It can capture them into orbit"
+    },
+    {
+        "question": "Which gas giant is most similar in size to Jupiter?",
+        "options": ["Saturn", "Uranus", "Neptune", "Earth"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "Which gas giant has a moon called Ganymede?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the primary goal of studying gas giants?",
+        "options": ["To find life", "To understand their atmospheres", "To study their formation", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the significance of the Galileo spacecraft?",
+        "options": ["It studied Saturn", "It studied gas giants", "It studied Mars", "It was the first spacecraft to land on an exoplanet"],
+        "answer": "It studied gas giants"
+    },
+    {
+        "question": "Which of the following statements is true about gas giants?",
+        "options": ["They have a solid core", "They have a thin atmosphere", "They can have multiple moons", "They are rocky"],
+        "answer": "They can have multiple moons"
+    },
+    {
+        "question": "What is the primary component of Saturn's atmosphere?",
+        "options": ["Nitrogen", "Hydrogen", "Oxygen", "Helium"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "Which of the following planets has a very low density?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the characteristic color of Uranus?",
+        "options": ["Red", "Blue", "Yellow", "Green"],
+        "answer": "Blue"
+    },
+    {
+        "question": "What is the significance of the Hubble Space Telescope in studying gas giants?",
+        "options": ["It can directly image them", "It studies their atmospheres", "It finds exoplanets", "It cannot study gas giants"],
+        "answer": "It studies their atmospheres"
+    },
+    {
+        "question": "What is the primary factor that allows gas giants to maintain their atmospheres?",
+        "options": ["Temperature", "Gravity", "Size", "Distance from the Sun"],
+        "answer": "Gravity"
+    },
+    {
+        "question": "What kind of storms can occur on gas giants?",
+        "options": ["Tornadoes", "Hurricanes", "Blizzards", "Dust storms"],
+        "answer": "Hurricanes"
+    },
+    {
+        "question": "What is the primary goal of the Juno mission?",
+        "options": ["To study Jupiter's atmosphere", "To find exoplanets", "To study Saturn's rings", "To observe the Moon"],
+        "answer": "To study Jupiter's atmosphere"
+    },
+    {
+        "question": "Which gas giant is known for having a thick atmosphere rich in hydrogen?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Which gas giant has a tilted axis of rotation?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What is the approximate distance from Saturn to the Sun?",
+        "options": ["1.5 AU", "5.2 AU", "10.5 AU", "9.5 AU"],
+        "answer": "10.5 AU"
+    },
+    {
+        "question": "What defines the atmosphere of gas giants?",
+        "options": ["It's always hot", "It's mostly composed of hydrogen and helium", "It's primarily rocky", "It's thinner than terrestrial planets"],
+        "answer": "It's mostly composed of hydrogen and helium"
+    },
+    {
+        "question": "What is the name of the spacecraft that studied Jupiter and its moons in depth?",
+        "options": ["Voyager", "New Horizons", "Juno", "Pioneer"],
+        "answer": "Juno"
+    },
+    {
+        "question": "Which gas giant has a very faint ring system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "Which gas giant has been the focus of many studies regarding its moons?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the primary composition of gas giants?",
+        "options": ["Rock and ice", "Gas", "Liquid", "Solid"],
+        "answer": "Gas"
+    },
+    {
+        "question": "Which planet is known for its prominent rings?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "Which gas giant is known for having a blue color due to methane in its atmosphere?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What do scientists hope to learn from studying the atmospheres of gas giants?",
+        "options": ["Their chemical composition", "Potential for life", "Their internal structure", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the average distance from Jupiter to the Sun?",
+        "options": ["5.2 AU", "1 AU", "10 AU", "20 AU"],
+        "answer": "5.2 AU"
+    },
+    {
+        "question": "What is the primary gas in the atmosphere of Uranus?",
+        "options": ["Helium", "Oxygen", "Hydrogen", "Methane"],
+        "answer": "Methane"
+    },
+    {
+        "question": "What is the significance of the gas giant's atmosphere?",
+        "options": ["It defines the planet's surface", "It protects the planet from space debris", "It influences climate", "It is irrelevant"],
+        "answer": "It influences climate"
+    },
+    {
+        "question": "What characteristic distinguishes gas giants from terrestrial planets?",
+        "options": ["Larger size", "Solid surfaces", "Presence of moons", "Ring systems"],
+        "answer": "Larger size"
+    },
+    {
+        "question": "Which gas giant has a surface temperature of -214°C?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What is the main difference between ice giants and gas giants?",
+        "options": ["Their distance from the sun", "Their composition", "Their size", "Their temperature"],
+        "answer": "Their composition"
+    },
+    {
+        "question": "Which gas giant is known for having a significant amount of water vapor in its atmosphere?",
+        "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What is the expected fate of gas giants as they age?",
+        "options": ["They will solidify", "They will lose their atmospheres", "They will become stars", "They will remain unchanged"],
+        "answer": "They will lose their atmospheres"
+    },
+    {
+        "question": "Which gas giant has the highest gravitational pull?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What can studying the moons of gas giants reveal?",
+        "options": ["The planet's formation history", "The planet's temperature", "The planet's atmosphere", "All of the above"],
+        "answer": "The planet's formation history"
+    },
+    {
+        "question": "Which of the following is NOT a gas giant?",
+        "options": ["Jupiter", "Saturn", "Neptune", "Earth"],
+        "answer": "Earth"
+    },
+    {
+        "question": "What is the main characteristic of gas giants?",
+        "options": ["They have solid surfaces", "They are mostly made of gases", "They are always cold", "They are rocky"],
+        "answer": "They are mostly made of gases"
+    },
+    {
+        "question": "Which gas giant has the strongest magnetic field?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the core of a gas giant primarily made of?",
+        "options": ["Metal", "Rock", "Gas", "Liquid"],
+        "answer": "Metal"
+    },
+    {
+        "question": "What is the significance of the discovery of gas giants outside our solar system?",
+        "options": ["They provide clues to planet formation", "They are similar to Earth", "They have no atmosphere", "They are small"],
+        "answer": "They provide clues to planet formation"
+    },
+    {
+        "question": "Which gas giant is known for having a moon with a dense atmosphere?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the primary method used to identify gas giants in other star systems?",
+        "options": ["Direct imaging", "Doppler spectroscopy", "Gravitational lensing", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the typical temperature range of gas giants?",
+        "options": ["Hotter than Earth", "Similar to Earth", "Colder than Earth", "It varies"],
+        "answer": "It varies"
+    },
+    {
+        "question": "Which gas giant is known for its striking blue color?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "Which gas giant has a dynamic and colorful atmosphere?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What do astronomers study when looking at gas giants?",
+        "options": ["Their rings", "Their moons", "Their atmospheres", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the significance of finding an exoplanet gas giant?",
+        "options": ["It helps understand solar systems", "They cannot exist", "They are irrelevant", "They are just like Earth"],
+        "answer": "It helps understand solar systems"
+    },
+    {
+        "question": "Which gas giant has the largest storm in the solar system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the primary source of heat for gas giants?",
+        "options": ["Sunlight", "Internal heat", "Chemical reactions", "Radiation"],
+        "answer": "Internal heat"
+    },
+    {
+        "question": "Which gas giant is famous for its spectacular ring system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the estimated surface pressure on Jupiter?",
+        "options": ["1000 times Earth", "10 times Earth", "1 time Earth", "It has no pressure"],
+        "answer": "1000 times Earth"
+    },
+    {
+        "question": "What is the temperature of Saturn's atmosphere?",
+        "options": ["-150°C", "-180°C", "-200°C", "-100°C"],
+        "answer": "-180°C"
+    },
+    {
+        "question": "Which gas giant has the lowest density?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the largest moon of Saturn?",
+        "options": ["Titan", "Rhea", "Iapetus", "Dione"],
+        "answer": "Titan"
+    },
+    {
+        "question": "Which gas giant's atmosphere contains ammonia clouds?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Which gas giant is known for having retrograde moons?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What is the role of helium in gas giants?",
+        "options": ["It cools the planet", "It contributes to the atmosphere", "It creates storms", "It has no role"],
+        "answer": "It contributes to the atmosphere"
+    },
+    {
+        "question": "Which of the following gas giants has an ocean of liquid hydrogen?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the average temperature of Neptune?",
+        "options": ["-200°C", "-150°C", "-100°C", "0°C"],
+        "answer": "-200°C"
+    },
+    {
+        "question": "What is the primary reason for the blue color of Uranus and Neptune?",
+        "options": ["Presence of methane", "Presence of oxygen", "Temperature", "Size"],
+        "answer": "Presence of methane"
+    },
+    {
+        "question": "What is the core of a gas giant primarily made of?",
+        "options": ["Rock and metal", "Gas", "Liquid", "Ice"],
+        "answer": "Rock and metal"
+    },
+    {
+        "question": "Which gas giant is thought to have the most intense storms?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "Which planet's atmospheric pressure is the highest?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the average distance from Saturn to the Sun?",
+        "options": ["1 AU", "5 AU", "10 AU", "12 AU"],
+        "answer": "10 AU"
+    },
+    {
+        "question": "What is the significance of studying gas giants?",
+        "options": ["To understand planet formation", "To find water", "To discover new exoplanets", "To study atmospheres"],
+        "answer": "To understand planet formation"
+    },
+    {
+        "question": "What is the role of hydrogen in gas giants?",
+        "options": ["It creates storms", "It cools the planet", "It contributes to the atmosphere", "It has no role"],
+        "answer": "It contributes to the atmosphere"
+    },
+    {
+        "question": "What is the main challenge in studying gas giants?",
+        "options": ["Distance", "Atmospheric pressure", "Size", "Mass"],
+        "answer": "Distance"
+    },
+    {
+        "question": "What is the main characteristic of the atmosphere of gas giants?",
+        "options": ["It is thin", "It is thick", "It is cold", "It is rocky"],
+        "answer": "It is thick"
+    },
+    {
+        "question": "Which gas giant has the largest moon in the solar system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What do gas giants lack compared to terrestrial planets?",
+        "options": ["Moons", "Solid surfaces", "Atmospheres", "Rings"],
+        "answer": "Solid surfaces"
+    },
+    {
+        "question": "Which of the following is NOT a gas giant?",
+        "options": ["Jupiter", "Saturn", "Earth", "Neptune"],
+        "answer": "Earth"
+    }
+]

@@ -1,0 +1,237 @@
+[
+    {
+        "question": "When was the Spitzer Space Telescope launched?",
+        "options": ["2003", "2005", "2007", "2001"],
+        "answer": "2003"
+    },
+    {
+        "question": "What type of light was Spitzer designed to observe?",
+        "options": ["Infrared light", "Visible light", "Ultraviolet light", "X-ray"],
+        "answer": "Infrared light"
+    },
+    {
+        "question": "Why is infrared light important for observing the universe?",
+        "options": ["It can pass through gas and dust clouds", "It is easier to detect", "It only comes from distant stars", "It is visible to the naked eye"],
+        "answer": "It can pass through gas and dust clouds"
+    },
+    {
+        "question": "Who is the Spitzer Space Telescope named after?",
+        "options": ["Lyman Spitzer, Jr.", "Albert Einstein", "Galileo Galilei", "Isaac Newton"],
+        "answer": "Lyman Spitzer, Jr."
+    },
+    {
+        "question": "In what year was Spitzer decommissioned?",
+        "options": ["2020", "2019", "2021", "2018"],
+        "answer": "2020"
+    },
+    {
+        "question": "What was one of Spitzer's major contributions?",
+        "options": ["Uncovering hidden stars and planetary systems", "Mapping the surface of Mars", "Detecting dark matter", "Studying solar flares"],
+        "answer": "Uncovering hidden stars and planetary systems"
+    },
+    {
+        "question": "What did Spitzer's infrared observations help scientists understand?",
+        "options": ["The formation and evolution of stars", "The speed of light", "The size of the universe", "Black hole dynamics"],
+        "answer": "The formation and evolution of stars"
+    },
+    {
+        "question": "What is the TRAPPIST-1 system known for?",
+        "options": ["Containing seven Earth-sized planets", "Being a gas giant", "Having no planets", "Containing one supergiant planet"],
+        "answer": "Containing seven Earth-sized planets"
+    },
+    {
+        "question": "How did Spitzer contribute to the study of exoplanets?",
+        "options": ["By helping determine their atmospheres", "By landing on them", "By creating maps of their surfaces", "By measuring their gravity"],
+        "answer": "By helping determine their atmospheres"
+    },
+    {
+        "question": "What will Spitzer's data continue to do after its retirement?",
+        "options": ["Drive scientific discoveries", "Be forgotten", "Be analyzed only in the next year", "Have no further impact"],
+        "answer": "Drive scientific discoveries"
+    },
+    {
+        "question": "Which telescope aims to build upon Spitzer's legacy?",
+        "options": ["James Webb Space Telescope", "Hubble Space Telescope", "Chandra X-ray Observatory", "Kepler Space Telescope"],
+        "answer": "James Webb Space Telescope"
+    },
+    {
+        "question": "What kind of impact has Spitzer had on our understanding of the universe?",
+        "options": ["It has unveiled the hidden cosmos", "It has limited our understanding", "It has focused solely on stars", "It has not been relevant"],
+        "answer": "It has unveiled the hidden cosmos"
+    },
+    {
+        "question": "What did Spitzer reveal about the conditions necessary for planet formation?",
+        "options": ["Insights into the formation and evolution of stars", "Only the temperature of stars", "The distance of planets from their stars", "The size of planets"],
+        "answer": "Insights into the formation and evolution of stars"
+    },
+    {
+        "question": "What type of objects could Spitzer observe that visible light telescopes could not?",
+        "options": ["Warm objects like stars and planets", "Cold objects like asteroids", "Bright objects like comets", "Fast-moving objects"],
+        "answer": "Warm objects like stars and planets"
+    },
+    {
+        "question": "How long did Spitzer operate?",
+        "options": ["16 years", "10 years", "5 years", "20 years"],
+        "answer": "16 years"
+    },
+    {
+        "question": "What was one of Spitzer's key capabilities?",
+        "options": ["Observing in infrared wavelengths", "Only visible light observations", "Limited data collection", "No observational capacity"],
+        "answer": "Observing in infrared wavelengths"
+    },
+    {
+        "question": "What significant astronomical tasks did Spitzer perform?",
+        "options": ["Studying star formation and exoplanet atmospheres", "Mapping our solar system", "Finding dark matter", "Measuring distances"],
+        "answer": "Studying star formation and exoplanet atmospheres"
+    },
+    {
+        "question": "What innovative feature allowed Spitzer to excel in its mission?",
+        "options": ["Infrared sensors", "Direct imaging technology", "High-resolution visible light sensors", "Radio wave detection"],
+        "answer": "Infrared sensors"
+    },
+    {
+        "question": "What specific role did Spitzer play in the study of planetary systems?",
+        "options": ["Identifying the conditions necessary for planet formation", "Measuring star brightness only", "Mapping the moon's surface", "Studying only our solar system"],
+        "answer": "Identifying the conditions necessary for planet formation"
+    },
+    {
+        "question": "What was a major limitation for ground-based telescopes that Spitzer overcame?",
+        "options": ["Interference from Earth's atmosphere", "Cost of operations", "Size limitations", "Location of observations"],
+        "answer": "Interference from Earth's atmosphere"
+    },
+    {
+        "question": "How did Spitzer's findings impact the field of astrobiology?",
+        "options": ["It helped identify potentially habitable worlds", "It had no impact", "It limited research to gas giants", "It focused solely on our solar system"],
+        "answer": "It helped identify potentially habitable worlds"
+    },
+    {
+        "question": "What was one of Spitzer's most significant achievements?",
+        "options": ["Detecting the atmospheres of exoplanets", "Finding the nearest galaxy", "Mapping the surface of Mars", "Studying solar flares"],
+        "answer": "Detecting the atmospheres of exoplanets"
+    },
+    {
+        "question": "What did Spitzer's infrared observations reveal about star formation?",
+        "options": ["New stars hidden in dust clouds", "Only old stars", "No new stars", "Only nearby stars"],
+        "answer": "New stars hidden in dust clouds"
+    },
+    {
+        "question": "What advantage did Spitzer provide in the study of exoplanets?",
+        "options": ["In-depth analysis of their atmospheres", "Direct landing on planets", "Only surface images", "Limited observations"],
+        "answer": "In-depth analysis of their atmospheres"
+    },
+    {
+        "question": "What is the significance of Spitzer's observations of the TRAPPIST-1 system?",
+        "options": ["Critical insights into the atmospheres of seven Earth-sized planets", "Mapping the surface of the sun", "Finding the distance to galaxies", "Studying asteroids only"],
+        "answer": "Critical insights into the atmospheres of seven Earth-sized planets"
+    },
+    {
+        "question": "What types of environments did Spitzer help scientists study?",
+        "options": ["Dense dust clouds where stars form", "Only the surfaces of planets", "The moon's atmosphere", "Only gas giants"],
+        "answer": "Dense dust clouds where stars form"
+    },
+    {
+        "question": "What did Spitzer help scientists determine about planetary systems?",
+        "options": ["Conditions necessary for planet formation", "Only distances", "Planet sizes only", "Surface temperatures"],
+        "answer": "Conditions necessary for planet formation"
+    },
+    {
+        "question": "What is one key outcome of Spitzer's infrared observations?",
+        "options": ["Enhanced understanding of exoplanets and star formation", "Limitations in research", "Focusing solely on solar systems", "No significant discoveries"],
+        "answer": "Enhanced understanding of exoplanets and star formation"
+    },
+    {
+        "question": "How has Spitzer influenced future astronomical missions?",
+        "options": ["By laying groundwork for missions like JWST", "By limiting future missions", "By focusing only on ground-based observations", "By not influencing future studies"],
+        "answer": "By laying groundwork for missions like JWST"
+    },
+    {
+        "question": "What did Spitzer reveal about the diversity of exoplanets?",
+        "options": ["They come in a wide variety of types and conditions", "All exoplanets are gas giants", "Only rocky planets exist", "They are all similar"],
+        "answer": "They come in a wide variety of types and conditions"
+    },
+    {
+        "question": "What is a legacy left by the Spitzer Space Telescope?",
+        "options": ["A wealth of data for future research", "An outdated model", "No significant impact", "Only images of stars"],
+        "answer": "A wealth of data for future research"
+    },
+    {
+        "question": "What capability did Spitzer's design focus on enhancing?",
+        "options": ["Infrared observations", "Visible light only", "Limited operational capacity", "Ground-based observations"],
+        "answer": "Infrared observations"
+    },
+    {
+        "question": "What kind of light does infrared light represent?",
+        "options": ["Light emitted by warm objects", "Only light from stars", "Cold light", "Bright light"],
+        "answer": "Light emitted by warm objects"
+    },
+    {
+        "question": "What did Spitzer’s findings challenge about traditional astronomy?",
+        "options": ["The rarity of planets", "The size of galaxies", "The existence of stars", "The distance of stars"],
+        "answer": "The rarity of planets"
+    },
+    {
+        "question": "What type of missions did Spitzer complement with its discoveries?",
+        "options": ["Future space observatories", "Only planetary missions", "Only Earth missions", "Ground-based observations"],
+        "answer": "Future space observatories"
+    },
+    {
+        "question": "How has Spitzer's data been used after its retirement?",
+        "options": ["For ongoing scientific research", "It is no longer relevant", "Only for public education", "Only for media"],
+        "answer": "For ongoing scientific research"
+    },
+    {
+        "question": "What legacy does Spitzer leave in the field of exoplanet studies?",
+        "options": ["A foundation for future investigations", "An obsolete method", "Only a focus on our solar system", "No significant discoveries"],
+        "answer": "A foundation for future investigations"
+    },
+    {
+        "question": "What advantage did Spitzer provide that other telescopes could not?",
+        "options": ["Observing through dense gas and dust", "Only visible observations", "Mapping star surfaces", "Counting stars"],
+        "answer": "Observing through dense gas and dust"
+    },
+    {
+        "question": "What area of research did Spitzer help improve?",
+        "options": ["Understanding of exoplanet atmospheres", "Mapping asteroids", "Studying our solar system only", "Finding black holes"],
+        "answer": "Understanding of exoplanet atmospheres"
+    },
+    {
+        "question": "How did Spitzer contribute to our understanding of planetary systems?",
+        "options": ["By revealing the diversity of conditions for planet formation", "Only focusing on gas giants", "Studying only our solar system", "No contributions"],
+        "answer": "By revealing the diversity of conditions for planet formation"
+    },
+    {
+        "question": "What type of observations did Spitzer excel at making?",
+        "options": ["Infrared observations", "Only visible light", "Only X-ray observations", "Only radio observations"],
+        "answer": "Infrared observations"
+    },
+    {
+        "question": "How did Spitzer enhance the search for habitable worlds?",
+        "options": ["By identifying Earth-sized candidates in habitable zones", "Only studying distant stars", "Focusing solely on gas giants", "Limiting the search"],
+        "answer": "By identifying Earth-sized candidates in habitable zones"
+    },
+    {
+        "question": "What was one of Spitzer’s most notable projects?",
+        "options": ["Studying the TRAPPIST-1 system", "Mapping the Moon", "Finding black holes", "Studying solar flares"],
+        "answer": "Studying the TRAPPIST-1 system"
+    },
+    {
+        "question": "What did Spitzer’s mission help unlock?",
+        "options": ["The mysteries of star formation and exoplanet conditions", "Only the distance to stars", "Only images of galaxies", "No mysteries"],
+        "answer": "The mysteries of star formation and exoplanet conditions"
+    },
+    {
+        "question": "What was the impact of Spitzer's findings on future space missions?",
+        "options": ["It laid the groundwork for JWST and others", "It had no impact", "It is considered obsolete", "It focused only on our solar system"],
+        "answer": "It laid the groundwork for JWST and others"
+    },
+    {
+        "question": "What kind of light can pass through gas and dust clouds?",
+        "options": ["Infrared light", "Visible light", "X-ray", "Ultraviolet"],
+        "answer": "Infrared light"
+    },
+    {
+        "question": "What is the legacy of the Spitzer Space Telescope?",
+        "options": ["A wealth of data and discoveries for future research", "A failure in astronomy", "An outdated technology", "Only a focus on the solar system"],
+        "answer": "A wealth of data and discoveries for future research"
+    }
+]

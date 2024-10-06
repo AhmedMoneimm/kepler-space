@@ -1,0 +1,277 @@
+﻿General questions
+Scientific terms
+Exoplanet types:
+1. Gas Giants1851: are planets of size Jupiter or Saturn including:
+   1. Hot Jupiters: similar to Jupiter but extremely close to their star. This makes their temp reach thousands of degrees. This leads to intense weather like supersonic winds.
+2. Neptunian planets1964: are similar in size to Neptune or Uranus (called “ice giants”) that have a thick atmosphere of hydrogen and helium with metallic and rocky core, including:
+   1. Mini-Neptune: smaller than Neptune but larger than earth. They have thinner atmospheres than other neptunian planets but still thicker than earth atmospheres. They are usually cold on the surface and warm in the core as they orbit far away from their star
+   2. Hot Neptunes: same size of Netunian planets with high degree ~900 but much harder to find. There is a mysterious hot-neptune desert that suggests that either these planets are rare or they were common in the past but have transformed (evaporated due to their star radiation then escaped like a hot air balloon). The evaporation transitions then from hot and very warm big Neptunes to  cold “mini neptune”.
+3. Super-Earths1732: terrestrial planets that may or may not have atmospheres. They are massive than Earth but lighter than Neptune and can be made of gas, rock or both depending on the temperature. They are common among planets found in our galaxy and may exist in many forms:
+   1. Water Worlds(Ocean worlds): have large amount of water in any form (Ocean, ice , water vapor
+   2. Snowball Planets: largely covered in ice and very cold
+   3. Neptune-like: made of dense gasses, usually the super-Earth planets with upper limit size (very large) are called sub-Neptunes or mini-Neptunes
+4. Terrestrial Planets205: are earth sized and smaller, composed of rock, silicate, ware or carbon. Not clear if they have atmospheres, oceans or any sign of habitability. The most habitable world but not guaranteed. There is a system like the solar system called TRAPPIST-1 system that has 7 earth-size planets (4 might be super-earth) all of them with potential of water on their surface but still under discovery. Some of the habitable planets may be binary systems.
+How to find a Planet:
+Radial Velocity Method for Discovering Exoplanets (Watching for Wobble)18.9%:
+The Radial Velocity Method has been used to discover 1,091 exoplanets. It works by detecting the wobble of a star caused by the gravitational pull of orbiting planets. When a planet orbits a star, the gravitational interaction causes the star to move slightly in response, creating a wobble in space. This motion can be observed because it changes the star's light due to the Doppler effect.
+
+In this "game of gravity," the bigger the planet, the stronger its gravitational force on the star, which leads to a more pronounced wobble. Massive planets, like Jupiter, cause more noticeable effects.
+
+How We Detect the Wobble:
+The wobbling star emits light that shifts in frequency as it moves:
+* When the star moves towards us, the light is shifted towards the blue end of the spectrum (blue shift).
+* When the star moves away from us, the light is shifted towards the red end (red shift).
+By carefully analyzing these shifts, astronomers can deduce the presence of planets around the star. This technique is known as Doppler Spectroscopy.
+
+Tools Used:
+1. Spectrographs: Specialized instruments that break the star’s light into its component wavelengths. By analyzing these spectra, astronomers detect minute shifts caused by the star's motion.
+   * HARPS (High Accuracy Radial velocity Planet Searcher) and HIRES (High-Resolution Echelle Spectrometer) are two of the most widely used spectrographs in this method.
+2. Telescopes: Ground-based telescopes equipped with spectrographs are essential for collecting the light from distant stars. Some of the leading observatories include:
+   * ESO 's La Silla Observatory in Chile.
+   * Keck Observatory in Hawaii.
+3. Computing Software: Once the data from spectrographs is collected, astronomers use software to analyze the frequency shifts and deduce the presence and properties of the orbiting planets.
+
+
+Key Points:
+* The Radial Velocity Method doesn’t measure the size of the planet directly but rather its effect on the star’s motion.
+* It is one of the first successful methods used to detect exoplanets and is often used to confirm discoveries made by other methods.
+* It is especially useful for finding massive planets close to their stars, which create larger wobbles.
+Transit Method (Searching for Shadows)74.5%:
+The Transit Method has been used to discover 4,291 planets. This method works by observing the dimming of a star's light when a planet passes directly between its star and the observer (on Earth). Similar to a solar eclipse, the planet blocks a portion of the star’s light for a brief period, leading to a measurable dip in the star’s brightness. This periodic dip in brightness is recorded as a light curve (the relationship between light intensity and time), which allows astronomers to detect the presence of a planet.
+How the Transit Method Works:
+* Size and Duration of the Transit: By analyzing the size and length of the dip in the light curve, astronomers can determine the size and speed of the planet.
+   * Larger, slower, and more distant planets block more light and for a longer period of time than smaller, faster, and closer planets.
+   * The depth of the light curve dip gives the planet's size, while the interval between dips provides the orbital period and speed of the planet.
+* Multiple Planets: If the light curve has mixed signals (irregular dips or multiple dips), it may indicate the presence of multiple planets orbiting the star. In such cases, further observations are required to differentiate the characteristics of each planet.
+Additional Information from Transits:
+* Atmospheric Composition: During a transit, some of the star’s light passes through the planet’s atmosphere. By analyzing this light using transit spectroscopy, astronomers can study the planet’s atmosphere and detect the presence of specific gases. Different elements in the atmosphere allow certain wavelengths of light to pass through, which can reveal the composition of the atmosphere (e.g., water vapor, methane, oxygen).
+* Planetary Temperature and Habitability: Follow-up observations in infrared wavelengths can provide information about the planet’s temperature, and help determine whether the planet lies within the star’s habitable zone (where conditions could support liquid water and potentially life).
+Tools Used:
+1. Space Telescopes:
+   * Kepler Space Telescope and TESS (Transiting Exoplanet Survey Satellite) are two key space-based observatories designed to monitor stars for planetary transits.
+2. Ground-Based Telescopes: Some ground-based telescopes can also monitor for transits, though space telescopes are preferred because they avoid atmospheric interference.
+3. Photometers: Instruments that precisely measure the light intensity of stars, allowing astronomers to detect the small dips in brightness caused by planetary transits.
+Notable Discoveries:
+* NASA's Kepler Mission, launched in 2009, has been instrumental in using the Transit Method to discover thousands of exoplanets, including many multi-planet systems.
+Key Points:
+* The Transit Method doesn't measure the planet's mass but can estimate its size, orbital period, and atmospheric composition.
+* It is especially effective at finding smaller planets, such as Earth-sized planets, which might not create detectable gravitational effects on their stars (as in the Radial Velocity Method).
+* The Kepler Mission and TESS have been crucial in identifying exoplanets using this method.
+Direct Imaging of Exoplanets(Taking Pictures)1.4%:
+As of now, 82 planets have been discovered using direct imaging. This method allows astronomers to take pictures of exoplanets by removing the overwhelming glare of the stars they orbit. Exoplanets are extremely far from Earth, often millions of times dimmer than their host stars, making traditional imaging methods, like those used for planets in our own solar system (e.g., Jupiter or Venus), exceedingly difficult. However, new techniques and rapidly advancing technology are making direct imaging of exoplanets possible.
+Challenges in Direct Imaging:
+The primary challenge astronomers face when trying to image exoplanets is that the stars they orbit are millions of times brighter than the planets themselves. Any light reflected off the planet or heat radiation emitted by the planet is overwhelmed by the massive amount of light from the star. It’s like trying to spot a flea next to a lightbulb or a firefly beside a spotlight. This makes it extremely difficult to separate the faint light from the planet from the glare of the star.
+Blocking the Glare (Shine Blockers):
+To overcome this, astronomers use specialized instruments designed to block out the overwhelming starlight, much like how you might use sunglasses or a sun visor to block sunlight on a bright day. By reducing the star's glare, they can get a clearer look at the objects around the star, which might be exoplanets.
+Techniques for Blocking Light:
+Astronomers use two main methods to block the light from a star and directly image exoplanets:
+1. Coronagraphy:
+   * This technique involves placing a device called a coronagraph inside a telescope to block the starlight before it reaches the telescope’s detector. The coronagraph acts as an internal “light-blocker” within the telescope, helping astronomers observe the surrounding region for exoplanets. Ground-based observatories are now using coronagraphs to successfully image exoplanets.
+2. Starshade:
+   * A starshade is a separate device that is positioned between the telescope and the star to block the star's light before it even enters the telescope. For space-based telescopes, a starshade would be a separate spacecraft that carefully positions itself at the correct distance and angle to perfectly block out the starlight while allowing the telescope to capture images of the surrounding region, potentially revealing exoplanets.
+Future of Direct Imaging:
+Direct imaging of exoplanets is still in its early stages, but it holds tremendous potential as a method for both finding and characterizing exoplanets. Future advancements in direct imaging technology may allow astronomers to take detailed photos of exoplanets, revealing features such as atmospheric patterns, oceans, and even landmasses. This could provide groundbreaking insights into the composition and habitability of these distant worlds.
+
+
+Gravitational Microlensing (Light in a Gravity Lens)3.9%:
+Gravitational microlensing has been responsible for the discovery of 225 planets. This method relies on a fascinating phenomenon predicted by Einstein's General Theory of Relativity, where the gravity of a massive object, such as a planet, can bend and focus the light from a distant star. Essentially, the planet acts like a lens, magnifying the light from a background star as it passes between the star and an observer on Earth.
+How It Works:
+* When a massive object (e.g., a planet) moves in front of a more distant source star, the gravity of the object bends the light coming from the star in a process called gravitational lensing.
+* As the planet crosses directly in front of the star from our viewpoint on Earth, the light from the star is magnified due to the bending of light by the planet’s gravitational field.
+* This magnification creates a characteristic light curve that briefly brightens the distant star. By analyzing this light curve, astronomers can infer the presence of the planet and its properties.
+Key Features:
+* No Light from the Planet: Unlike the transit or radial velocity methods, microlensing doesn’t rely on light from the planet itself. Instead, it detects the effect of the planet’s gravity on the light from the background star.
+* Can Detect Distant Planets: Microlensing is particularly useful for detecting planets that are far from Earth and orbit their stars at great distances. It’s also one of the few methods that can detect free-floating planets, which are not bound to any star but still bend light as they pass by.
+* Single-Event Detection: A microlensing event is typically one-time only for a given star-planet alignment. This makes it different from methods like transit or radial velocity, where repeated signals can confirm a planet's orbit. Microlensing events are often monitored by dedicated surveys that continuously observe large areas of the sky.
+Tools Used:
+1. Observatories: Ground-based and space-based observatories play a crucial role in detecting microlensing events. Some notable observatories include:
+   * The Keck Observatory: Located in Hawaii, it has powerful telescopes capable of monitoring large areas of the sky.
+   * The Pan-STARRS (Panoramic Survey Telescope and Rapid Response System): This project focuses on scanning the sky for transient events, including microlensing occurrences.
+   * The Subaru Telescope: Also located in Hawaii, it has been instrumental in detecting gravitational microlensing events.
+2. Dedicated Surveys:
+   * The Optical Gravitational Lensing Experiment (OGLE): This long-term survey has been specifically designed to monitor microlensing events towards the Galactic Bulge and has contributed significantly to planet discoveries.
+   * The Microlensing Observations in Astrophysics (MOA): Another dedicated survey that works in conjunction with OGLE to monitor for microlensing events.
+3. Data Analysis Software: Astronomers utilize various software tools to analyze light curves from microlensing events. These tools help in fitting models to the observed data and extracting information about the planet's characteristics.
+Advantages:
+* Sensitive to Low-Mass Planets: Gravitational microlensing is sensitive enough to detect planets with relatively low masses, even those that are farther from their stars (beyond the habitable zone).
+* Can Detect Planets Around Distant Stars: This method can detect planets around stars that are located thousands of light-years away, providing insight into planetary systems across a wide range of distances.
+Limitations:
+* Single Event: Microlensing events are transient and happen only once as the planet passes in front of the star. It’s not possible to observe the same event again, making follow-up observations of the detected planet challenging.
+* Difficulty in Characterizing Planets: While microlensing can confirm the presence of a planet, it doesn’t offer much detailed information about the planet’s size, atmosphere, or other characteristics, compared to other methods like transit spectroscopy.
+Astrometry (Minuscule Movements)
+Astrometry has led to the discovery of 3 planets. This method involves measuring the precise movements of stars in relation to their nearby stellar neighbors. When a planet orbits a star, its gravitational influence can cause the star to exhibit a slight wobble or shift in its position. This wobble is due to the gravitational tug of the planet, resulting in the star's position changing minutely against the backdrop of more distant stars.
+How It Works:
+* Wobbling Motion: As a planet orbits its star, the gravitational pull of the planet causes the star to move in a small orbit or wobble around a common center of mass (barycenter). This motion is extremely small and typically requires highly sensitive instruments to detect.
+* Precise Measurements: Astronomers use high-precision instruments to measure the star’s position over time. By observing how the star shifts in relation to more distant background stars, they can infer the presence of a planet.
+Key Features:
+* Sensitive to Large Planets: Astrometry is particularly effective for detecting large planets that are relatively close to their stars since their gravitational influence is stronger and causes more noticeable wobbles.
+* Three-Dimensional Motion: Unlike other methods that primarily observe changes in brightness (like transit or radial velocity), astrometry provides a three-dimensional view of stellar movements, helping to deduce the mass and orbit of the planet.
+Tools Used:
+1. Space Telescopes: Space-based observatories are crucial for astrometry, as they are less affected by atmospheric interference. Notable telescopes include:
+   * Gaia: A European Space Agency mission designed for astrometry, Gaia is mapping the positions of over a billion stars with exceptional precision, making it possible to detect the minuscule wobbles caused by orbiting planets.
+2. Ground-Based Telescopes: High-resolution ground-based telescopes equipped with adaptive optics can also contribute to astrometric measurements, although they face challenges from atmospheric distortions.
+3. Data Analysis Software: Specialized software is employed to analyze positional data over time, allowing astronomers to model the star's movements and deduce the presence and characteristics of any orbiting planets.
+Advantages:
+* Direct Measurement of Planet Mass: Astrometry can provide direct measurements of a planet's mass based on the degree of wobble it induces in its host star.
+* Long-Term Monitoring: By continuously observing the positions of stars over extended periods, astrometry can reveal the presence of multiple planets around a single star.
+Limitations:
+* Sensitivity to Distance: The effectiveness of astrometry decreases for stars that are very distant or for planets that are small, as the wobbles they induce may be too subtle to detect.
+* Challenges in Interpretation: Distinguishing between different factors that might cause stellar motion (such as the gravitational influence of other stars) can complicate the analysis.
+Discovery Facility(Telescopes):
+First exoplanet evidence was in 1917 but first discovery was in the 1990s.
+The discovery of exoplanets grew exponentially after launching the Kepler Space Telescope.
+The Kepler mission was to survey the milky way to discover earth-size and smaller planets near the habitable zone(Godilocks zone), and determine the stars that might have planets. After the second of Kepler’s 4 gyroscope-like wheels failed in 2013, Kepler completed its prime mission in november and began its extended mission K2. The Spacecraft was retired in 2018, but Kepler data are still being used to find exoplanets.
+NASA’s Spitzer Space Telescope(2013-2020) was not designed to search for exoplanets, but its infrared instruments made it an excellent exoplanet explorer. It was used in the discovery of TRAPPIST-1 system.
+Transiting Exoplanet Survey Satellite(TESS):
+TESS was launched as a successor to Kepler to discover exoplanets in orbit around the brightest dwarf stars (most common star type in our galaxy). TESS also finds and monitors all types of objects that change in brightness, from nearby asteroids to pulsating stars and distant galaxies containing supernovae.
+NASA’s James Webb Space Telescope and future Nancy Grace Roman Space Telescope: 
+Hold great promise for what they can learn from exoplanets.
+They use spectroscopy for reading light signatures for information.
+Confirmed vs. Candidate:
+An exoplanet candidate is a possible planet that a telescope has spotted, but scientists aren't sure if it really exists yet. Sometimes, these candidates turn out to be "false positives," meaning they aren't planets after all. A planet becomes "confirmed" when two other telescopes take more observations and prove it's real. Right now, there are thousands of planet candidates waiting to be confirmed, but using telescopes for this is time-consuming and expensive. That's where amateur scientists can help! By looking at NASA data, people like us can help narrow down which candidates to investigate, and maybe even discover new planets. While computers might miss tiny changes in brightness, humans can often spot them and help identify planets that might be out there.
+Naming:
+Exoplanet names may seem complicated, but they follow a system. The first part of the name is usually the telescope or survey that discovered the planet. The number shows the order in which the star was cataloged, and the lowercase letter (starting with "b") indicates the order in which planets were found, with "b" being the first planet discovered. Stars get capital letters, while planets get lowercase ones. For example, Kepler-16b means the Kepler telescope discovered the system, 16 is the star's catalog number, and "b" is the first planet found around that star. If Earth were named like an exoplanet, it would be called "Sun d." 
+But how do they name the rogue planets that don’t have a system of stars ??
+Stars:
+  
+
+Stars are the most basic building blocks of galaxies. The age, distribution, and composition of stars trace the history, dynamics, and evolution of their galaxy. Stars are responsible for the production and distribution of heavy elements, such as carbon, nitrogen, and oxygen.
+How are stars born:
+Stars are formed in huge clouds of gas and dust called nebulae. Over time, gravity pulls parts of these clouds together, causing them to collapse that makes the center heats up, forming a "protostar," which is the beginning of a new star. 
+Sometimes, the cloud splits into two or more parts, forming multiple stars. The leftover gas and dust that doesn’t become part of the star can form planets, moons, asteroids, or just stay as dust in space.
+Main sequence:
+As a protostar's core gets hotter over millions of years, nuclear fusion starts, marking the star's entry into the "main sequence" phase, which is the longest stage of its life. During this stage, the star converts hydrogen into helium through fusion, producing massive energy that keeps it hot and bright. This energy also balances the star’s gravity, preventing it from collapsing. Most stars in the galaxy, like our Sun, are in the main sequence phase.
+Star’s color meaning:
+When you look at the night sky, you may notice that some stars shine more brightly than others. The brightness of a star is related to how much energy it puts out, as well as how close it is to Earth. Stars come in different colors depending on their temperature. Hot stars are blue or white, while cooler ones appear orange or red. Astronomers classify main sequence stars based on color and temperature into categories: O (blue, hottest), B (blue-white), A (white), F (yellow-white), G (yellow), K (orange), and M (red, coolest). Stars at the end of their lives, like supergiants, red giants, and white dwarfs, are no longer in the main sequence. 
+Our Sun is a G-type yellow-dwarf main sequence star. It's predicted that the sun will live for a few billion more years.
+Stars can live for billions of years but vary according to their size where bigger live shorter because they burn nuclear fuel faster.
+How planets form around stars:
+The gas and dust surrounding a forming star are essential for creating planets. Scientists believe that planets start as tiny dust grains, forming in a disk around young stars. Through gravity and collisions, these dust particles combine into larger objects, like pebbles and rocks. As they orbit the star, they clear paths in the disk, and over millions of years, this disk transforms into new planets.
+Life cycles of stars:
+1. Red giant and white dwarfs: When a star like our Sun runs out of hydrogen, it collapses and heats up enough to fuse hydrogen in a shell around its core, becoming a red giant. In about 5 billion years, our Sun will expand so much that it will swallow Mercury. After burning helium the core will shrink , increasing the gravity, making the sun hotter that creates a lot of energy that the outer layer will become even bigger than the distance from the earth to the Sun. Then after a billion years as a red giant, the sun will eject its outer layer till the sun is only a core called white dwarf that is roughly the size of earth but has mass of a star. The smaller the white dwarf the more its mass is until it fades into oblivion as they cool down. This is the fate of stars whose mass is up to 1.4 times of our sun, bigger stars have different fate.
+2. White dwarfs may become novae: If a white dwarf forms in a binary or multiple star system, it may experience a more eventful fate as a nova.  Nova is Latin for "new". It was thought that novae are newly born stars but today they are just very old stars - white dwarfs. If a white dwarf is close enough to a companion star, its gravity may drag matter (hydrogen) from the outer layer of the neighboring star and start building itself. When enough hydrogen is gathered a nuclear fusion starts causing the dwarf to brighten and eject its remaining material. Sometimes massive dwarfs may collect so much mass thay collapse and explode completely, called supernova.
+3. Going supernova: In a nova, only the star's surface explodes. In a supernova, the star's core collapses and then explodes. Stars more than eight times the mass of our Sun end their lives in a supernova, which is a massive explosion caused by the collapse of the star's core after it produces iron. Once a star's core collapses, it shrinks rapidly, creating extreme temperatures. This leads to a violent explosion that can outshine an entire galaxy for weeks. Supernovae also produce various elements and particles, contributing to the universe's chemistry.
+4. Neutron stars and pulsars: If the core of a collapsing star in a supernova has 1.4 to 3 times the mass of the Sun, it forms a neutron star, where protons and electrons combine into neutrons. Neutron stars are extremely dense and have strong gravity and magnetic fields. These fields can create beams of radiation that sweep like a lighthouse. If these beams point toward Earth, we observe them as pulses of radiation, and the star is called a pulsar.
+5. Blackholes: If the core left after a supernova is more than three times the Sun's mass, it collapses into a black hole, an object so dense that not even light can escape. Black holes are detected indirectly, either by observing the high-energy radiation from matter falling into them or by watching the effects of their gravity on nearby stars. For instance, astronomers monitor stars rapidly orbiting around the invisible supermassive black hole at the center of the Milky Way.
+6. From the remains, new stars and planets arise: The dust and debris left behind by novae and supernovae, as well as by red giants puffing off their outer layers, eventually blend with the surrounding interstellar gas and dust, forming new nebulae. The products created in the end of the lives of stars enrich galaxies with heavy elements and chemical compounds. Eventually, those materials are recycled, providing the building blocks for new generations of stars and planetary systems.
+Extra Types:
+1. Red dwarfs: Red dwarfs form in the same way as other stars. They begin as dense pockets in a cloud of gas and dust (a nebula), which collapse under gravity to form a protostar. As the core heats up, nuclear fusion starts, converting hydrogen into helium. Red dwarfs are smaller and cooler than larger stars, allowing them to burn hydrogen slowly for trillions of years without significant changes in their structure. Unlike larger stars, they don't go through phases like becoming red giants or supernovae.
+2. Brown dwarfs aren’t technically stars. They’re more massive than planets but not quite as massive as stars. Generally, they have between 13 and 80 times the mass of Jupiter. They emit almost no visible light, but scientists have seen a few in infrared light. Some brown dwarfs form the same way as main sequence stars, from gas and dust clumps in nebulae, but they never gain enough mass to do fusion on the scale of a main sequence star. Others may form like planets, from disks of gas and dust around stars.
+Why exploring exoplanets:
+1. Search for life beyond earth: Scientists explore exoplanets to answer profound questions about life in the universe. Is life common or incredibly rare? How quickly does it emerge, and how long can it survive? By studying planets with diverse properties, researchers aim to identify those that might harbor life. A central mystery remains: are we truly alone? With no evidence of other civilizations yet, the search for intelligent life continues, driven by curiosity and the desire to understand our place in the cosmos. These questions fuel the urgency behind exploring exoplanets and the unknown.
+2. Can we find life: So far the only life we know exists on Earth, but what makes life on Earth?? Is it the atmosphere, liquid water, good temperature, solid core or planet composition? The Jamess Webb telescope and similars could pick up signs of a similar atmosphere of earth(oxygen, carbon dioxide). One of the indications of the presence of life. Also pollution as our pollution can be detected as a sign of technology hence life. 
+3. Where should we look: The search for life is time and money consuming so we cannot track life on over 5700 planets. So we need to narrow down the number to look into planets in the habitable zone of their star. The habitable zone (goldilocks’ zones) is the orbital distance from a star where temperature would potentially allow liquid water to form on a planet’s surface. Other criteria like planet’s size, is it a rocky planet, what type is its star as truly knowing distant exoplanets requires knowledge of the stars they orbit;
+4. Why we search: The ultimate goal of NASA's Exoplanet Program is to find unmistakable signs of current life. Exoplanets’ atmospheres may reveal signs of life through detailed analysis using transmission spectroscopy. This technique captures light passing through a planet's atmosphere, which creates a spectrum with dark lines, like a barcode. The missing parts of the spectrum indicate the presence of specific gasses. For example, methane and oxygen together could suggest life, while smog may indicate burning hydrocarbons.
+
+Missions:
+NASA has several space telescopes studying the universe right now:
+   * Hubble
+   * Swift Gamma Ray Burst Explorer
+   * the Transiting Exoplanet Survey Satellite (TESS)
+   * Chandra X-ray Observatory
+   * Fermi Gamma-ray Space Telescope
+   * NuSTAR (Nuclear Spectroscopic Telescope Array)
+   * the Neutron star Interior Composition Explorer on the International Space Station
+   * the Imaging X-ray Polarimetry Explorer (IXPE)
+   * and the James Webb Space Telescope
+Legacy of Hubble: Hubble -a Space telescope- that orbits the earth, was pioneer in search for planets around other stars. Hubble even has been used to make some of the earliest profiles of exoplanet atmospheres.
+Kepler and K2: NASA’s Kepler Space Telescope made groundbreaking discoveries of over 2,600 exoplanets by detecting tiny dips in starlight as planets passed in front of stars. From 2009 to 2013, Kepler observed over 150,000 stars before technical issues ended its first mission. In 2014, its second mission, K2, continued to discover planets despite reduced capabilities. Although decommissioned in 2018, researchers continue to analyze Kepler's data, uncovering new exoplanets years after its operations ended.
+Spitzer: NASA's Spitzer Space Telescope explored the universe in infrared light, revealing new stars hidden in dust clouds. It retired in 2020 but its data will continue to fuel discoveries for years. Spitzer, one of NASA's four Great Observatories, was crucial in exoplanet research, especially with its detection of the TRAPPIST-1 system, where it measured the masses and densities of seven Earth-sized planets. After 16 years of service, Spitzer's legacy continues as scientists analyze its extensive collection of data.
+TESS: The Transiting Exoplanet Survey Satellite (TESS) continues the work started by Kepler, but instead of focusing deeply on small sections of the sky, TESS conducts an all-sky survey, studying both hemispheres. It searches for exoplanets around nearby stars, which are brighter and easier to observe than those studied by Kepler. TESS's broader approach aims to cover 85% of the sky, finding planets around stars within 200 light-years. These planets are easier to follow up with ground-based observations, helping scientists refine their understanding of their masses, sizes, and atmospheres.
+James Webb Space Telescope: In 2021, the James Webb Space Telescope (JWST) launched, marking a groundbreaking step in space science. With its sunshield the size of a tennis court and a 6.5-meter primary mirror, it's the largest and most advanced observatory sent into space. Operating in the infrared spectrum, JWST will study the universe's early history, potentially revealing key details about the formation of planetary systems and analyzing exoplanet atmospheres. JWST is expected to be the premier observatory of the next decade, building on the discoveries of previous missions.
+Ground-based telescope: NASA collaborates globally to study exoplanets, using both space-based and ground-based telescopes. Ground telescopes, such as Magellan II, NEID, and Keck, complement space missions like TESS by confirming exoplanet discoveries and measuring their mass. These observations help scientists determine exoplanet characteristics, like whether a planet is rocky or gaseous. Future space telescopes, including the James Webb Space Telescope, will work with ground observatories to analyze exoplanet atmospheres and compositions, providing a deeper understanding of these distant worlds.
+
+
+
+
+What is an exoplanet?
+The worlds orbiting other stars are called “exoplanets,” and they come in a wide variety of sizes, from gas giants larger than Jupiter to small, rocky planets about as big around as Earth or Mars. They can be hot enough to boil metal or locked in deep freeze. They can orbit their stars so tightly that a “year” lasts only a few days; they can orbit two suns at once. Some exoplanets are sunless rogues, wandering through the galaxy in permanent darkness.
+
+Our galaxy, the Milky Way, is the thick stream of stars that cuts across the sky on the darkest, clearest nights. Its spiraling expanse probably contains about 400 billion stars, our Sun among them. And if each of those stars has not just one planet, but, like ours, a whole system of them, then the number of planets in the galaxy is truly astronomical: We’re already heading into the trillions.
+
+Is there life on other planets?
+The ultimate goal of NASA's exoplanet program is to find unmistakable signs of current life on a planet beyond Earth. How soon that can happen depends on two unknowns: the prevalence of life in the galaxy and how lucky we get as we take those first, tentative, exploratory steps.
+
+Our early planet finding missions, such as NASA’s Kepler and its extended incarnation, K2, or the James Webb Space Telescope, could yield bare bones evidence of the potentially habitable worlds. James Webb, designed in part to investigate gas giants and super-Earths, might find an outsized version of our planet. NASA's Nancy Grace Roman Space Telescope or the Wide-Field Infrared Survey Telescope, could zero in on a distant planet’s reflected light to detect the signatures of oxygen, water vapor, or some other powerful indication of possible life.
+But unless we get lucky, the search for signs of life could take decades. Discovering another blue-white marble hidden in the star field, like a sand grain on the beach, will probably require an even larger imaging telescope. Designs are already underway for that next-generation planet finder, to be sent aloft in the 2030s or 2040s.
+
+MIT physics professor Sara Seager looks for possible chemical combinations that could signal the presence of alien life. She and her biochemistry colleagues first focused on the six main elements associated with life on Earth: carbon, nitrogen, oxygen, phosphorous, sulfur and hydrogen.
+
+“We’re going to have so few planets, we have to get lucky,” Seager said. “I don’t want to miss anything. I don’t want to miss it because we weren’t smart enough to think of some molecule.”
+
+How many exoplanets are there?
+To date, more than 5,000 exoplanets have been discovered and are considered "confirmed" out of the billions in our galaxy alone. There are thousands of other "candidate" exoplanet detections that require further observations in order to say for sure whether or not the exoplanet is real.
+
+Remarkably, the first exoplanets were just discovered in the 1990s. We live in an extraordinary time where in the span of a single generation, the centuries-old question "Are there planets orbiting other stars?" has been answered with a resounding "Yes!"
+
+Where are exoplanets?
+n a lot of places! Most of the exoplanets discovered so far are in a relatively small region of our galaxy, the Milky Way. ("Small" meaning within thousands of light years of the solar system). That is as far as current telescopes have been able to probe.
+
+Astronomers think that nearly every star in the universe could have at least one planet. That’s trillions of planets, waiting to be found. If you go outside on a clear night and look up at the stars, virtually every star you can see has at least one planet in orbit around it, and most likely, several.
+
+What is the closest exoplanet to Earth?
+Proxima Centauri b, which is about four light-years away. Its mass is consistent with it being slightly larger than Earth. Based on what we know about exoplanets, and planets in our solar system similar in mass to Earth, it is most likely a rocky planet. Proxima Centauri b orbits in the "habitable zone" of its star, which means it could have liquid water on its surface – if it has an atmosphere which could support it. Calculations suggest that the one side of the exoplanet Proxima b faces its star all the time, which would make for a very different atmosphere and weather than we have on Earth. Its parent star, Proxima Centauri, is a dim red dwarf star that gives off about 600 times less light than our Sun. Proxima Centauri is the closest star to the Earth after our Sun, but it is still about 9,000 times farther than planet Neptune.
+
+How do we find exoplanets?
+The successes of discovering exoplanets in recent decades seem to be telling us that the galaxy is teeming with trillions of exoplanets, but finding them isn't easy. Planets are typically billions of times fainter than the stars they orbit, and they are incredibly distant. The challenges of observing extrasolar planets stem from four basic facts: Planets don't produce any light of their own, except when they’re recently formed (i.e. young). They are an enormous distance from us. They are lost in the blinding glare of their parent stars. Their sizes and masses are typically much, much smaller than that of the stars they orbit.It’s pretty rare for astronomers to see an exoplanet through their telescopes the way you might see Mars through a telescope from Earth. That’s called direct imaging, and only a handful of exoplanets have been found this way (and these tend to be young gas giant planets orbiting very far from their stars).Most exoplanets are found through indirect methods: measuring the dimming of a star that happens to have a planet pass in front of it, or monitoring the spectrum of a star for the tell-tale signs of a planet pulling on its star and causing its light to subtly Doppler shift. NASA’s Kepler Space Telescope finds thousands of planets by observing “transits,” the slight dimming of light from a star when its tiny planet passes between it and our telescopes. Other methods include gravitational lensing, the “wobble method,” and direct imaging.
+
+Will a person ever go to an exoplanet?
+Not anytime soon, given the enormous distances between the stars and the time it would take to travel between them with our current technology. Perhaps one day a robot will visit an exoplanet like the rovers on Mars. But that day too is still very far in the future. First, we have to learn how to travel much faster and further in space than we’ve ever gone before. Keeping humans alive to complete such a long journey is probably the biggest challenge. Today, NASA is concentrating on the steps to get humans to Mars, which is our next-door neighbor. In the meantime, you can “stand” on an illustration of an exoplanet surface with our virtual reality.
+
+Will we ever take real images of exoplanets?
+Yes! In recent years, NASA has taken images, called direct imaging, of exoplanets that are light-years away. In the images, the planets sometimes look like faint spots next to blotted out regions (where the bright light of the planet's star has been subtracted). Examples of imaged planets orbit the bright stars Fomalhaut, HR 8799, and Beta Pictoris. The James Webb Space Telescope and upcoming Nancy Grace Roman Space Telescope will image more exoplanets around nearby stars. The big challenge for NASA is to image Earth-like planets orbiting nearby stars, which tend to be about 10 billion times fainter than their stars,
+
+How many telescopes are looking for exoplanets?
+There are telescopes in space, on the ground and even in the air that are being used to hunt exoplanets. NASA has telescopes in space currently studying exoplanets – one observatory dedicated to discovering exoplanets (the Transiting Exoplanet Survey Satellite), and Hubble, a powerful, general-purpose observatory that conduct a wide range of astronomical observations, including exoplanet science. The James Webb Space Telescope is exploring exoplanet atmospheres. More than two dozen telescopes on the ground are being used to discover and characterize exoplanets, ranging from small robotic observatories to large telescopes like the Keck Observatories in Hawaii. Even SOFIA, NASA's infrared observatory built into a Boeing 747-SP airplane, conducted some exoplanet observations.
+
+Do any exoplanets have rings?
+Rings orbit all of the gas giant planets in our solar system. They range from being very dusty (Jupiter), to very icy (Saturn), to very carbon-rich (Uranus and Neptune). This hints that rings may be common around cold gas giant exoplanets orbiting other stars too. A very large ring system has been detected around one candidate exoplanet, J1407 b; however the rings cover tens of millions of miles. It may be a disk of material forming exomoons rather than ring system similar to Saturn's.
+
+Do exoplanets have water on them?
+Scientists have found water molecules in the atmospheres of several exoplanets, but some of those planets are very hot and probably not suitable for life as we know it. Scientists have yet to discover liquid water, like oceans or lakes. They are looking for exoplanets with liquid water in an area called the “habitable zone” around stars.
+
+What is the habitable zone or “Goldilocks zone”?
+The habitable zone is the area around a star where it is not too hot and not too cold for liquid water to exist on the surface of surrounding planets.
+
+What are exoplanets made of?
+The exoplanets for which astronomers are able to measure both their sizes (diameters) and masses, have densities that are suggestive of compositions ranging from very rocky (like Earth and Venus) to very gas-rich (like Jupiter and Saturn). Exoplanets are made up of elements similar to that of the planets in our solar system, but their mixes of those elements may differ. Some planets may be dominated by water or ice, while others are dominated by iron or carbon.
+
+Are there any exoplanets like Earth?
+Not yet. We haven’t found a planet that can support life like Earth. So far, our home is unique in the universe. We have found many Earth-sized rocky exoplanets, some of which are in the habitable zones of their stars. The next step in studying them is to analyze their atmospheres for “biosignature" molecules, which may be a sign of life.
+
+Are other solar systems like ours?
+Other solar systems, called planetary systems, come in many shapes and sizes. When scientists first started searching for planetary systems, they expected them to look like our solar system, with inner rocky planets and outer cold gas giants and ice planets. But some solar systems pack many planets into very compact orbits with short orbital periods, while others have only a few planets with orbits that last hundreds of years. Some planetary systems have Jupiter-like giants that orbit their star in a few hours, and are hot enough to melt metal. Some exoplanets even orbit multiple stars. So far astronomers have detected relatively few planetary systems with architectures like our solar system.
+
+Do exoplanets have stars like our Sun?
+Yes, some do. Kepler-452b is an example of a planet that orbits a star like our sun. Both our sun and Kepler-452 are G dwarf stars, which make up only 3 percent of the stars in the universe. More common are M dwarf stars– small red stars that make up 75 percent of all the stars we know.Other stars in our universe range from massive and hot O-type stars to the small and cool M dwarf stars like TRAPPIST-1 and Proxima Centauri. Scientists have found planets around five star types that range from red, to orange, to bluish-white. Some planets even orbit two or three stars at a time.(Note: “Dwarf” is actually the name for a regular-sized adult star, distinguishing them from giant stars. An example of a giant star is Rigel, the blue supergiant found in the constellation Orion).
+
+How do exoplanets get their names?
+Exoplanet names can look long and complicated at first, but they have a logic behind them that is important to scientists cataloging thousands of planets. Let’s use HD 189733 b (a blue-ish planet where it may rain glass sideways) as an example. The first part of the name is usually the telescope or survey that found it. In this case "HD" stands for the "Henry Draper Catalogue,” a widely-used star catalog. The number 189733 is the order in which the star was catalogued by position (the 189,733rd star added to the catalog). The lowercase letter "b" stands for the planet, in the order in which the planet was found. The first planet found is always named b, with ensuing planets named c, d, e, f and so on.
+
+What is a light-year?
+The distance light travels in one year. Light zips through space at 186,000 miles (300,000 kilometers) per second, or 5.88 trillion miles (9.46 trillion kilometers) a year.
+
+What is a Planet?
+A planet is a celestial body that is in orbit around a star; it has enough mass for its gravity to create a round shape; and it has cleared its neighborhood of smaller objects.
+
+Once planets form in disks, they are not going to stay in place. It is impossible to know what a system will look like once it matures just from looking at the baby planets.
+
+As planets grow and accrete mass, and the gas from the disk is absorbed by larger planets or dissipates into space, they move around and interact with other planets in the disk.
+
+Newly formed planets may orbit on collision courses with each other as the absence of gas makes moving around the star easier.
+
+Bigger planets may kick smaller bodies into the star or even out of the system. This is one possible explanation for how “rogue planets," or planets that do not orbit stars, come to exist.
+
+Nothing stays young forever; every planetary system eventually hits middle age, just like our own. In our own system we have defined what it means to be a planet. A planet is defined as a celestial body that (a) is in orbit around a star, (b) has enough mass for its gravity to create a round shape, and (c) has cleared its neighborhood of smaller objects.
+
+How do planets form?
+The dust around a star is critical to forming celestial objects around it. Dust around stars contains elements such as carbon and iron which can help form planetary systems.
+
+When a star is in its forming disk, otherwise known as the T Tauri phase, it is ejecting extremely hot winds dominated by positively charged particles called protons and neutral helium atoms. Although much of the material from the disk is still falling on the star, small groups of lucky dust particles are crashing into one another, clumping into larger objects.
+
+Dust clumps become pebbles, pebbles become larger rocks that grind together to expand. The presence of gas helps particles of solid material stick together. Some break apart, but others hold on. These are the building blocks of planets, sometimes called "planetesimals."
+Where the disk is colder, far enough from the star that water can freeze, tiny fragments of ice hitch a ride with dust. Dirty snowballs can amass into giant planetary cores. These colder regions also allow gas molecules to slow down enough to be drawn onto a planet. This is how Jupiter, Saturn, Uranus and Neptune, the gas giants of our solar system, are thought to have formed. Jupiter and Saturn are thought to have formed first and quickly within the first 10 million years of the solar system.
+
+In the warmer parts of the disk, closer to the star, rocky planets begin to form. After the icy giants form there’s not a lot of gas left for the terrestrial planets to accrete. Planets that are rocky like Mercury, Venus, Earth and Mars may take tens of millions of years to form after the birth of the star. The details of exactly where planets prefer to form in disks is still a mystery and an ongoing area of research.
+
+Once planets form around a star they are referred to as planetary systems, which are defined as sets of gravitationally bound objects that orbit a star. They can consist of one or more planets, but may also include dwarf planets, asteroids, natural satellites, meteoroids, and comets. The Sun and its planets, including Earth, is known as the solar system. The term "extrasolar" system and "exoplanet" system refer to planetary systems other than our own.

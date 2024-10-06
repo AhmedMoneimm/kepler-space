@@ -1,0 +1,407 @@
+[
+    {
+        "question": "What is an exoplanet?",
+        "options": ["A planet in our solar system", "A planet outside our solar system", "A moon of a planet", "An asteroid"],
+        "answer": "A planet outside our solar system"
+    },
+    {
+        "question": "What type of exoplanet is larger than Earth but smaller than Neptune?",
+        "options": ["Super-Earth", "Mini-Neptune", "Gas Giant", "Rocky Planet"],
+        "answer": "Super-Earth"
+    },
+    {
+        "question": "What type of exoplanet has a mass greater than that of Earth but less than that of Neptune?",
+        "options": ["Gas Giant", "Super-Earth", "Mini-Neptune", "Terrestrial Planet"],
+        "answer": "Super-Earth"
+    },
+    {
+        "question": "Which type of exoplanets are primarily composed of gases?",
+        "options": ["Rocky Planets", "Ice Giants", "Gas Giants", "Super-Earths"],
+        "answer": "Gas Giants"
+    },
+    {
+        "question": "Which of the following is a type of rocky exoplanet?",
+        "options": ["Super-Earth", "Gas Giant", "Hot Jupiter", "Ice Giant"],
+        "answer": "Super-Earth"
+    },
+    {
+        "question": "What are 'Hot Jupiters'?",
+        "options": ["Gas giants close to their stars", "Rocky planets far from their stars", "Ice giants", "Super-Earths"],
+        "answer": "Gas giants close to their stars"
+    },
+    {
+        "question": "Which type of planet is characterized by having a thick atmosphere primarily made of hydrogen and helium?",
+        "options": ["Rocky Planet", "Gas Giant", "Super-Earth", "Mini-Neptune"],
+        "answer": "Gas Giant"
+    },
+    {
+        "question": "What is a 'Mini-Neptune'?",
+        "options": ["A small gas giant", "A rocky planet", "A planet similar to Neptune but smaller", "A type of super-Earth"],
+        "answer": "A planet similar to Neptune but smaller"
+    },
+    {
+        "question": "What type of exoplanets are likely to have oceans of water?",
+        "options": ["Gas Giants", "Super-Earths", "Hot Jupiters", "Ice Giants"],
+        "answer": "Super-Earths"
+    },
+    {
+        "question": "Which of the following is NOT an exoplanet type?",
+        "options": ["Hot Jupiter", "Super-Earth", "Red Giant", "Mini-Neptune"],
+        "answer": "Red Giant"
+    },
+    {
+        "question": "What type of exoplanet is characterized by icy compositions?",
+        "options": ["Gas Giant", "Ice Giant", "Super-Earth", "Rocky Planet"],
+        "answer": "Ice Giant"
+    },
+    {
+        "question": "Which exoplanet type is often found very close to their host stars?",
+        "options": ["Super-Earths", "Hot Jupiters", "Ice Giants", "Rocky Planets"],
+        "answer": "Hot Jupiters"
+    },
+    {
+        "question": "Which of these types of planets might have a solid surface?",
+        "options": ["Gas Giant", "Super-Earth", "Ice Giant", "Hot Jupiter"],
+        "answer": "Super-Earth"
+    },
+    {
+        "question": "What is the main composition of gas giants?",
+        "options": ["Silicate", "Hydrogen and helium", "Iron and nickel", "Carbon and nitrogen"],
+        "answer": "Hydrogen and helium"
+    },
+    {
+        "question": "What defines an Ice Giant?",
+        "options": ["High density", "Presence of ices and rocks", "Small size", "Close to their star"],
+        "answer": "Presence of ices and rocks"
+    },
+    {
+        "question": "Which of the following planets is an example of an Ice Giant?",
+        "options": ["Uranus", "Mars", "Jupiter", "Venus"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What characteristic is typical of a terrestrial exoplanet?",
+        "options": ["Solid surface", "High temperatures", "Thick atmosphere", "Large size"],
+        "answer": "Solid surface"
+    },
+    {
+        "question": "What is one of the main methods used to classify exoplanets?",
+        "options": ["Mass and radius", "Color", "Distance from Earth", "Presence of moons"],
+        "answer": "Mass and radius"
+    },
+    {
+        "question": "Which exoplanet type is primarily composed of rock and metal?",
+        "options": ["Gas Giant", "Super-Earth", "Ice Giant", "Terrestrial Planet"],
+        "answer": "Terrestrial Planet"
+    },
+    {
+        "question": "What is the main difference between a super-Earth and a gas giant?",
+        "options": ["Mass", "Composition", "Size", "Temperature"],
+        "answer": "Composition"
+    },
+    {
+        "question": "Which type of exoplanet has a low density and is mostly gaseous?",
+        "options": ["Rocky Planet", "Gas Giant", "Super-Earth", "Mini-Neptune"],
+        "answer": "Gas Giant"
+    },
+    {
+        "question": "What type of planet is classified based on its orbital distance from its star?",
+        "options": ["Hot Jupiter", "Super-Earth", "Ice Giant", "Rocky Planet"],
+        "answer": "Hot Jupiter"
+    },
+    {
+        "question": "Which of the following is a characteristic of Super-Earths?",
+        "options": ["They are always habitable", "They have a lower mass than Earth", "They can have thick atmospheres", "They are gas giants"],
+        "answer": "They can have thick atmospheres"
+    },
+    {
+        "question": "What is the surface condition of a typical hot Jupiter?",
+        "options": ["Rocky", "Icy", "Gaseous", "Liquid"],
+        "answer": "Gaseous"
+    },
+    {
+        "question": "What is the main challenge in studying exoplanets?",
+        "options": ["They are too far away", "They are too small", "They are too hot", "They are too cold"],
+        "answer": "They are too far away"
+    },
+    {
+        "question": "What type of planet is Kepler-186f?",
+        "options": ["Super-Earth", "Gas Giant", "Mini-Neptune", "Rocky Planet"],
+        "answer": "Super-Earth"
+    },
+    {
+        "question": "Which type of exoplanet has the highest potential for hosting life?",
+        "options": ["Gas Giant", "Ice Giant", "Super-Earth", "Hot Jupiter"],
+        "answer": "Super-Earth"
+    },
+    {
+        "question": "What defines a terrestrial exoplanet?",
+        "options": ["Presence of liquid water", "Solid rocky surface", "Thick atmosphere", "High temperature"],
+        "answer": "Solid rocky surface"
+    },
+    {
+        "question": "What does the term 'hot super-Earth' refer to?",
+        "options": ["A super-Earth near its star", "A super-Earth with a thick atmosphere", "A gaseous super-Earth", "A rocky super-Earth"],
+        "answer": "A super-Earth near its star"
+    },
+    {
+        "question": "What is one of the primary characteristics of gas giants?",
+        "options": ["High density", "Thick atmosphere", "Solid surface", "High temperature"],
+        "answer": "Thick atmosphere"
+    },
+    {
+        "question": "What method is used to identify exoplanets through their transit?",
+        "options": ["Direct imaging", "Astrometry", "Radial velocity", "Transit photometry"],
+        "answer": "Transit photometry"
+    },
+    {
+        "question": "Which of the following is a common characteristic of mini-Neptunes?",
+        "options": ["Thick atmosphere", "Solid surface", "Presence of water", "High density"],
+        "answer": "Thick atmosphere"
+    },
+    {
+        "question": "What is one advantage of studying super-Earths?",
+        "options": ["They are far away", "They have potential for habitability", "They are gas giants", "They are less dense"],
+        "answer": "They have potential for habitability"
+    },
+    {
+        "question": "Which type of exoplanet can have a surface covered in oceans?",
+        "options": ["Rocky Planet", "Ice Giant", "Gas Giant", "Super-Earth"],
+        "answer": "Super-Earth"
+    },
+    {
+        "question": "Which of the following best describes gas giants?",
+        "options": ["Made up of rock and metal", "High temperatures", "Large with thick atmospheres", "Small and rocky"],
+        "answer": "Large with thick atmospheres"
+    },
+    {
+        "question": "What type of exoplanets are often found in the outer regions of their star systems?",
+        "options": ["Gas Giants", "Super-Earths", "Rocky Planets", "Ice Giants"],
+        "answer": "Ice Giants"
+    },
+    {
+        "question": "What defines a planet as being a super-Earth?",
+        "options": ["Mass greater than Earth's", "Solid surface", "Atmospheric pressure", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which type of planet is known for having rings?",
+        "options": ["Rocky Planets", "Gas Giants", "Super-Earths", "Ice Giants"],
+        "answer": "Gas Giants"
+    },
+    {
+        "question": "What method detects the wobble of stars due to orbiting planets?",
+        "options": ["Transit method", "Radial velocity", "Astrometry", "Direct imaging"],
+        "answer": "Radial velocity"
+    },
+    {
+        "question": "Which of these is the main ingredient in a gas giant's atmosphere?",
+        "options": ["Oxygen", "Hydrogen", "Silicon", "Iron"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "What are super-Earths expected to have more of than terrestrial planets?",
+        "options": ["Oceans", "Moons", "Gases", "Rocks"],
+        "answer": "Gases"
+    },
+    {
+        "question": "Which planet type is often a target for the search for extraterrestrial life?",
+        "options": ["Super-Earth", "Gas Giant", "Rocky Planet", "Mini-Neptune"],
+        "answer": "Super-Earth"
+    },
+    {
+        "question": "Which type of planet is expected to have the most diverse atmospheres?",
+        "options": ["Gas Giants", "Ice Giants", "Super-Earths", "Rocky Planets"],
+        "answer": "Super-Earths"
+    },
+    {
+        "question": "What is the typical atmosphere of a mini-Neptune?",
+        "options": ["Rocky", "Thick and gaseous", "Thin", "None"],
+        "answer": "Thick and gaseous"
+    },
+    {
+        "question": "What type of planets are usually found in the outer regions of a solar system?",
+        "options": ["Super-Earths", "Gas Giants", "Rocky Planets", "All of the above"],
+        "answer": "Gas Giants"
+    },
+    {
+        "question": "Which exoplanet type is typically much larger than Earth?",
+        "options": ["Super-Earth", "Rocky Planet", "Ice Giant", "All of the above"],
+        "answer": "Super-Earth"
+    },
+    {
+        "question": "What do scientists study in the atmospheres of exoplanets?",
+        "options": ["Composition", "Temperature", "Pressure", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which type of planet has been found to be the most abundant in our galaxy?",
+        "options": ["Rocky Planets", "Gas Giants", "Super-Earths", "Ice Giants"],
+        "answer": "Super-Earths"
+    },
+    {
+        "question": "What is a unique feature of gas giants in terms of their moons?",
+        "options": ["They have many moons", "They have no moons", "They have a single moon", "They have rings"],
+        "answer": "They have many moons"
+    },
+    {
+        "question": "Which type of planet has a solid surface and is similar in size to Earth?",
+        "options": ["Super-Earth", "Gas Giant", "Mini-Neptune", "Ice Giant"],
+        "answer": "Super-Earth"
+    },
+    {
+        "question": "Which method is commonly used to study the atmospheres of exoplanets?",
+        "options": ["Spectroscopy", "Microscopy", "Astronomy", "Meteorology"],
+        "answer": "Spectroscopy"
+    },
+    {
+        "question": "What is a common feature of super-Earths that may influence their potential for life?",
+        "options": ["They are rocky", "They have a thick atmosphere", "They are located in the habitable zone", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which type of exoplanet is likely to have a significant magnetic field?",
+        "options": ["Gas Giant", "Super-Earth", "Rocky Planet", "Ice Giant"],
+        "answer": "Gas Giant"
+    },
+    {
+        "question": "Which of the following exoplanet types has been discovered in the greatest numbers?",
+        "options": ["Super-Earths", "Gas Giants", "Ice Giants", "Rocky Planets"],
+        "answer": "Gas Giants"
+    },
+    {
+        "question": "What do scientists hope to find in the atmospheres of super-Earths?",
+        "options": ["Water vapor", "Ozone", "Oxygen", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which type of exoplanet has a potential for having multiple atmospheres?",
+        "options": ["Super-Earth", "Gas Giant", "Rocky Planet", "Ice Giant"],
+        "answer": "Super-Earth"
+    },
+    {
+        "question": "Which of the following is considered a super-Earth?",
+        "options": ["Kepler-186f", "Proxima Centauri b", "55 Cancri e", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is a significant characteristic of exoplanets in the habitable zone?",
+        "options": ["Presence of water", "Solid surface", "Moderate temperatures", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is a common characteristic of rocky planets?",
+        "options": ["Solid surfaces", "Gaseous atmospheres", "High densities", "Both A and C"],
+        "answer": "Both A and C"
+    },
+    {
+        "question": "Which type of exoplanet is least likely to support life?",
+        "options": ["Gas Giants", "Super-Earths", "Rocky Planets", "Ice Giants"],
+        "answer": "Gas Giants"
+    },
+    {
+        "question": "What do scientists analyze to learn about an exoplanet's composition?",
+        "options": ["Spectra", "Temperature", "Gravity", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which type of planet can potentially have liquid water on its surface?",
+        "options": ["Rocky Planets", "Gas Giants", "Ice Giants", "Super-Earths"],
+        "answer": "Super-Earths"
+    },
+    {
+        "question": "Which type of exoplanet is typically found in the outer regions of their solar system?",
+        "options": ["Gas Giants", "Rocky Planets", "Super-Earths", "All of the above"],
+        "answer": "Gas Giants"
+    },
+    {
+        "question": "What is the importance of the Kepler Space Telescope in exoplanet research?",
+        "options": ["It discovered thousands of exoplanets", "It studied the atmospheres of exoplanets", "It was the first to find a super-Earth", "None of the above"],
+        "answer": "It discovered thousands of exoplanets"
+    },
+    {
+        "question": "What do super-Earths and mini-Neptunes have in common?",
+        "options": ["Both have solid surfaces", "Both can have thick atmospheres", "Both are rocky", "Both are gas giants"],
+        "answer": "Both can have thick atmospheres"
+    },
+    {
+        "question": "Which type of planet can be described as 'hot super-Earth'?",
+        "options": ["Rocky Planet", "Gas Giant", "Super-Earth near its star", "Ice Giant"],
+        "answer": "Super-Earth near its star"
+    },
+    {
+        "question": "What aspect of exoplanets is particularly challenging for scientists to study?",
+        "options": ["Distance", "Size", "Composition", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is a factor that can determine the habitability of a planet?",
+        "options": ["Distance from the star", "Atmosphere", "Mass", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What type of planet is most likely to have moons?",
+        "options": ["Gas Giants", "Super-Earths", "Rocky Planets", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which type of exoplanet has been found to have multiple atmospheres?",
+        "options": ["Rocky Planet", "Super-Earth", "Gas Giant", "All of the above"],
+        "answer": "Gas Giant"
+    },
+    {
+        "question": "What is the expected fate of super-Earths that are too close to their stars?",
+        "options": ["They may lose their atmospheres", "They will gain mass", "They will become gas giants", "None of the above"],
+        "answer": "They may lose their atmospheres"
+    },
+    {
+        "question": "What role do super-Earths play in the study of planetary formation?",
+        "options": ["They are examples of planetary evolution", "They can indicate the presence of life", "They show how atmospheres can develop", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the significance of the radial velocity method in exoplanet detection?",
+        "options": ["It measures star's wobble due to orbiting planets", "It directly images exoplanets", "It measures distance to planets", "It detects light spectra"],
+        "answer": "It measures star's wobble due to orbiting planets"
+    },
+    {
+        "question": "What type of exoplanet is known for having high surface temperatures?",
+        "options": ["Gas Giants", "Super-Earths", "Hot Jupiters", "Rocky Planets"],
+        "answer": "Hot Jupiters"
+    },
+    {
+        "question": "Which of the following planets is known to have the most extensive studies on its atmosphere?",
+        "options": ["Proxima Centauri b", "GJ 1214 b", "55 Cancri e", "LHS 1140 b"],
+        "answer": "GJ 1214 b"
+    },
+    {
+        "question": "What is the expected atmospheric condition of super-Earths in the habitable zone?",
+        "options": ["Thin", "Dense", "Toxic", "Variable"],
+        "answer": "Dense"
+    },
+    {
+        "question": "Which exoplanet type is often targeted for habitability studies?",
+        "options": ["Super-Earth", "Ice Giant", "Gas Giant", "Mini-Neptune"],
+        "answer": "Super-Earth"
+    },
+    {
+        "question": "What is the relationship between super-Earths and habitable zones?",
+        "options": ["Super-Earths can exist outside of habitable zones", "They always exist within habitable zones", "They can help identify habitable zones", "None of the above"],
+        "answer": "They can help identify habitable zones"
+    },
+    {
+        "question": "Which of the following best describes the density of super-Earths?",
+        "options": ["Similar to Earth", "Higher than Earth", "Lower than Earth", "Uncertain"],
+        "answer": "Higher than Earth"
+    },
+    {
+        "question": "What is one of the main challenges in finding exoplanets?",
+        "options": ["Their distance", "Their size", "Their atmosphere", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which characteristic of a planet might indicate potential for hosting life?",
+        "options": ["Presence of water", "Distance from the star", "Solid surface", "All of the above"],
+        "answer": "All of the above"
+    }
+]
