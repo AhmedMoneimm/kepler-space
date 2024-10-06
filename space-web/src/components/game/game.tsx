@@ -2,7 +2,9 @@
 import React, { useEffect } from "react"; // Import useEffect
 import { motion } from "framer-motion";
 import Particles from "react-tsparticles"; // Ensure you have this library installed
-import spaceBackground from "../../assets/space-background.jpg"; // Ensure the file exists at this path
+import spaceBackground from "../../assets/space-background2.jpg"; // Ensure the file exists at this path
+import img1 from "../../assets/img1.jpeg"; // Import img1
+import img2 from "../../assets/img2.jpeg"; // Import img2
 
 const GamePage = () => {
     // Scroll to the top of the page on component mount
@@ -75,6 +77,27 @@ const GamePage = () => {
                 NASA super ship that allows you to navigate and explore over 5,000 
                 breathtaking exoplanets, each with its own story waiting to be unveiled.
             </motion.p>
+
+            {/* Add images here */}
+            <motion.img
+                src={img1}
+                alt="Image 1"
+                className="mb-8 rounded-lg shadow-lg z-10"
+                width="50%"
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                transition={{ duration: 0.8, delay: 0.6 }}
+            />
+
+            <motion.img
+                src={img2}
+                alt="Image 2"
+                className="mb-8 rounded-lg shadow-lg z-10"
+                width="50%"
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                transition={{ duration: 0.8, delay: 0.6 }}
+            />
 
             <motion.video 
                 className="mb-8 rounded-lg shadow-lg z-10"
