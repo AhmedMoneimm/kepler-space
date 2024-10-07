@@ -7,11 +7,19 @@ interface Message {
   sender: 'user' | 'bot';
 }
 
+const maintenance = 1; // Set to 1 to show the maintainance message
+
 const Chatbot: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
+  const initialMessages = [
+    { text: "👋 Hello my friend, I'm Astra, your fellow AI friend. Want me to help you with something?", sender: 'bot' },
+    { text: "👋 Hello my friend, I'm Astra, your fellow AI friend. Unfortunately, we're currently undergoing maintenance. We're upgrading right now and will return better and stronger! 🚧💪", sender: 'bot' }
+  ];
+
   const [messages, setMessages] = useState<Message[]>([
-    { text: "Hello my friend, I'm your fellow AI friend. Want me to help you with something?", sender: 'bot' }
+    initialMessages[maintenance] as Message
   ]);
+
   const [inputValue, setInputValue] = useState('');
   const [isBotTyping, setIsBotTyping] = useState(false);
 
@@ -25,14 +33,23 @@ const Chatbot: React.FC = () => {
     // Simulate bot typing with delay
     setIsBotTyping(true);
 
-    // Fetch the bot response from Hugging Face
-    const botResponse = await getBotResponse(inputValue);
+    if (maintenance) {
+      // Since the bot is in maintenance, we can skip fetching the response
+      setTimeout(() => {
+        const maintenanceMessage = "🔧 We are currently undergoing maintenance. Please try again later. 🙏";
+        const botMessage: Message = { text: maintenanceMessage, sender: 'bot' };
+        setMessages((prevMessages) => [...prevMessages, botMessage]);
+        setIsBotTyping(false); // Reset typing status
+      }, 1000); // Simulate delay for 1 second
+    } else {
+      // Fetch the bot response from Hugging Face
+      const botResponse = await getBotResponse(inputValue);
 
-    // Add bot's response
-    const botMessage: Message = { text: botResponse, sender: 'bot' };
-    setMessages((prevMessages) => [...prevMessages, botMessage]);
-
-    setIsBotTyping(false); // Reset typing status
+      // Add bot's response
+      const botMessage: Message = { text: botResponse, sender: 'bot' };
+      setMessages((prevMessages) => [...prevMessages, botMessage]);
+      setIsBotTyping(false); // Reset typing status
+    };
     setInputValue('');
   };
 
@@ -47,7 +64,7 @@ const Chatbot: React.FC = () => {
           },
         }
       );
-  
+
       if (response.data && response.data.results && response.data.results.length > 0) {
         return response.data.results[0];
       } else {
@@ -98,7 +115,7 @@ const Chatbot: React.FC = () => {
               type="text"
               value={inputValue}
               onChange={(e) => setInputValue(e.target.value)}
-              onKeyPress={handleKeyPress} 
+              onKeyPress={handleKeyPress}
               placeholder="Enter a message..."
             />
             <button onClick={handleSendMessage}>Send</button>
