@@ -106,7 +106,7 @@ const Chatbot: React.FC = () => {
         </div>
       )}
       <button className="floating-button" onClick={toggleChat}>
-        💬 {/* Emoji for the floating button */}
+       🤖 {/* Emoji for the floating button */}
       </button>
     </div>
   );
