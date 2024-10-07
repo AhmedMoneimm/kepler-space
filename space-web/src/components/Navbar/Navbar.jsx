@@ -68,7 +68,7 @@ const Navbar = () => {
                   Exoplanets
                 </button>
                 {openDropdown === "exoplanets" && (
-                  <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
+                  <ul className="absolute left-1/2 mt-2 bg-white text-black rounded-md shadow-lg z-10 min-w-max transform -translate-x-1/2"> {/* Centered dropdown */}
                     <li>
                       <Link
                         to="/exoplanet/overview"
@@ -107,6 +107,7 @@ const Navbar = () => {
                     </li>
                   </ul>
                 )}
+
               </li>
               <li className="relative">
                 <button
@@ -116,7 +117,7 @@ const Navbar = () => {
                   Exoplanets Types
                 </button>
                 {openDropdown === "exoplanets types" && (
-                  <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
+                  <ul className="absolute left-1/2 mt-2 bg-white text-black rounded-md shadow-lg z-10 min-w-max transform -translate-x-1/2"> {/* Centered dropdown */}
                     <li>
                       <Link
                         to="/exoplanet/types"
@@ -173,7 +174,7 @@ const Navbar = () => {
                   Stars
                 </button>
                 {openDropdown === "stars" && (
-                  <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
+                  <ul className="absolute left-1/2 mt-2 bg-white text-black rounded-md shadow-lg z-10 min-w-max transform -translate-x-1/2"> {/* Centered dropdown */}
                     <li>
                       <Link
                         to="/stars/overview"
@@ -213,6 +214,141 @@ const Navbar = () => {
                   </ul>
                 )}
               </li>
+              {/* Telescope Dropdown */}
+              <li className="relative">
+                <button
+                  onClick={() => toggleDropdown("telescope")}
+                  className="focus:outline-none hover:text-blue-500 transition-colors duration-200"
+                >
+                  Telescope
+                </button>
+                {openDropdown === "telescope" && (
+                  <ul className="absolute left-1/2 mt-2 bg-white text-black rounded-md shadow-lg z-10 min-w-max transform -translate-x-1/2"> {/* Centered dropdown */}
+                    <li>
+                      <Link
+                        to="/telescope/overview"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Telescope Overview
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/telescope/hubble"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Hubble Space Telescope
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/telescope/james-webb"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        James Webb Space Telescope
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/telescope/Kepler_K2"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Kepler & K2
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/telescope/Spitzer"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Spitzer Space Telescope
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/telescope/Tess"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        TESS
+                      </Link>
+                    </li>
+                  </ul>
+                )}
+              </li>
+              {/* Methods Dropdown */}
+              <li className="relative">
+                <button
+                  onClick={() => toggleDropdown("methods")}
+                  className="focus:outline-none hover:text-blue-500 transition-colors duration-200"
+                >
+                  Methods
+                </button>
+                {openDropdown === "methods" && (
+                  <ul className="absolute left-1/2 mt-2 bg-white text-black rounded-md shadow-lg z-10 min-w-max transform -translate-x-1/2"> {/* Centered dropdown */}
+                    <li>
+                      <Link
+                        to="/methods/overview"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Methods Overview
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/methods/transit"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Transit Method
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/methods/radial-velocity"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Radial Velocity Method
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/methods/direct-imaging"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Direct Imaging Method
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/methods/microlensing"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Microlensing Method
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/methods/astrometry"
+                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        onClick={closeDropdown}
+                      >
+                        Astrometry Method
+                      </Link>
+                    </li>
+                  </ul>
+                )}
+              </li>
+              {/* Game Button */}
               <li>
                 <Link
                   to="/game"

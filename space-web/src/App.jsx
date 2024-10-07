@@ -162,7 +162,7 @@ const App = () => {
           <Route path="/about" element={<About />} /> {/* Add Game route */}
         </Routes>
 
-        {/* <Chatbot /> */}
+        <Chatbot />
       </div>
       
     </Router>
