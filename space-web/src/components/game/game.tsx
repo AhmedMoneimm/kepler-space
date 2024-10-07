@@ -1,24 +1,17 @@
-// src/pages/game.tsx
-import React, { useEffect } from "react"; // Import useEffect
+import React, { useEffect } from "react";
 import { motion } from "framer-motion";
-import Particles from "react-tsparticles"; // Ensure you have this library installed
-import spaceBackground from "../../assets/space-background2.jpg"; // Ensure the file exists at this path
-import img2 from "../../assets/img1.jpeg"; // Import img1
-import img1 from "../../assets/img2.jpeg"; // Import img2
+import Particles from "react-tsparticles";
+import spaceBackground from "../../assets/space-background2.jpg";
+import img2 from "../../assets/img1.jpeg";
+import img1 from "../../assets/img2.jpeg";
 
 const GamePage = () => {
-    // Scroll to the top of the page on component mount
     useEffect(() => {
         window.scrollTo(0, 0);
     }, []);
 
     const handleDownload = () => {
-        // Replace 'YOUR_FILE_ID' with the actual file ID from Google Drive
         window.open("https://drive.google.com/drive/folders/1KAU_Qk5-IrRKzcVEo6e3SDkUwkcIUEmB", "_blank");
-    };
-
-    const handleVideoLink = () => {
-        window.open("https://drive.google.com/file/d/1wQ2E9Gj_tUK3uH0OfN5q82CaGu1IJR0b/view", "_blank");
     };
 
     return (
@@ -29,10 +22,9 @@ const GamePage = () => {
                 backgroundSize: "cover",
                 backgroundPosition: "center",
                 backgroundRepeat: "no-repeat",
-                padding: "4rem 1rem", // Adjust padding to reduce side spaces
+                padding: "4rem 1rem",
             }}
         >
-            {/* Background particle animation */}
             <Particles
                 id="tsparticles"
                 options={{
@@ -47,7 +39,7 @@ const GamePage = () => {
                         move: { speed: 1 },
                     },
                 }}
-                style={{ position: "absolute", width: "100%", height: "100%", top: 0, left: 0 }} // Ensure particles fill the container
+                style={{ position: "absolute", width: "100%", height: "100%", top: 0, left: 0 }}
             />
 
             <motion.h1 
@@ -77,12 +69,11 @@ const GamePage = () => {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, delay: 0.4 }}
             >
-                But that’s just the beginning! Uncover the secrets behind a top-secret 
+                But that's just the beginning! Uncover the secrets behind a top-secret 
                 NASA super ship that allows you to navigate and explore over 5,000 
                 breathtaking exoplanets, each with its own story waiting to be unveiled.
             </motion.p>
 
-            {/* Add images here */}
             <motion.img
                 src={img1}
                 alt="Image 1"
@@ -103,19 +94,37 @@ const GamePage = () => {
                 transition={{ duration: 0.8, delay: 0.6 }}
             />
 
-            <motion.div 
-                className="flex flex-col items-center z-10 mb-8"
+<motion.div 
+                className="flex flex-col items-center z-10 mb-8 w-full px-4 sm:px-6 md:px-8 lg:px-12"
                 initial={{ opacity: 0, scale: 0.5 }}
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ duration: 0.8, delay: 0.8 }}
             >
-                <motion.button 
-                    onClick={handleVideoLink}
-                    className="bg-blue-500 text-white font-bold py-2 px-4 rounded-full shadow-lg hover:bg-blue-400 transition duration-300"
-                    whileHover={{ scale: 1.05 }}
+                <motion.h2
+                    className="text-3xl md:text-4xl font-bold text-yellow-300 mb-4 text-center"
+                    initial={{ opacity: 0, y: -20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.8, delay: 0.6 }}
                 >
-                    Watch Gameplay Video
-                </motion.button>
+                    Unveil the Mysteries of Exoplanets: Watch Our Galactic Adventure Gameplay!
+                </motion.h2>
+                <motion.div
+                    className="video-container w-full max-w-5xl mx-auto"
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    transition={{ duration: 0.8, delay: 0.8 }}
+                >
+                    <div className="relative" style={{ paddingBottom: "56.25%" }}>
+                        <iframe
+                            className="absolute top-0 left-0 w-full h-full rounded-lg shadow-lg"
+                            src="https://www.youtube.com/embed/jLWAhl6ieg0"
+                            title="YouTube video player"
+                            frameBorder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowFullScreen
+                        ></iframe>
+                    </div>
+                </motion.div>
             </motion.div>
 
             <motion.div 
@@ -127,13 +136,6 @@ const GamePage = () => {
                 <p className="text-lg mb-4 text-white text-center">
                     **Disclaimer:** Due to the game's stunning graphics, we can't deploy it online. 
                 </p>
-                {/* <motion.button 
-                    onClick={handleDownload}
-                    className="bg-yellow-500 text-black font-bold py-2 px-4 rounded-full shadow-lg hover:bg-yellow-400 transition duration-300 z-10"
-                    whileHover={{ scale: 1.05 }}
-                >
-                    Download the Game
-                </motion.button> */}
             </motion.div>
 
             <footer className="mt-12 text-center z-10">
