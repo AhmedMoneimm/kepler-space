@@ -6,6 +6,7 @@ import Particles from "react-tsparticles";
 import quizAnimation from "../assets/quiz-animation.json"; // Replace with a fun quiz animation
 import spaceBackground from "../assets/space-background.jpg"; // Path to the space background image
 
+
 const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, topic, imageUrls }) => {
   const navigate = useNavigate();
   const [data, setData] = useState(null);
@@ -192,19 +193,19 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
                   {/* Text-to-Speech Controls */}
                   <div className="flex justify-center mt-4">
                     <button
-                      className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition duration-200 mx-2"
+                      className="bg-blue-800 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition duration-200 mx-2"
                       onClick={() => speakText(value)} // Trigger speak
                     >
                       Play
                     </button>
                     <button
-                      className="bg-yellow-500 text-white px-4 py-2 rounded-md hover:bg-yellow-600 transition duration-200 mx-2"
+                      className="bg-yellow-800 text-white px-4 py-2 rounded-md hover:bg-yellow-600 transition duration-200 mx-2"
                       onClick={pauseSpeech} // Trigger pause
                     >
                       Pause
                     </button>
                     <button
-                      className="bg-green-500 text-white px-4 py-2 rounded-md hover:bg-green-600 transition duration-200 mx-2"
+                      className="bg-green-800 text-white px-4 py-2 rounded-md hover:bg-green-600 transition duration-200 mx-2"
                       onClick={resumeSpeech} // Trigger resume
                     >
                       Resume
@@ -228,29 +229,29 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
           Loading data...
         </motion.p>
       )}
-        {URL && (
-          <div className="mt-8 flex flex-col justify-center items-center">
-            <motion.p
-          className="text-lg text-center text-gray-300 mb-4"
-          initial={{ opacity: 0, y: -20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.3 }}
-            >
-          Explore more about {topic} on NASA&apos;s Eyes on Exoplanets website.
-            </motion.p>
-            <motion.button
-          onClick={() => window.open(URL, "_blank")} // Open NASA's Eyes on Exoplanets website in a new tab or window
-          className="bg-blue-500 text-white px-6 py-2 rounded-md hover:bg-blue-600 transition duration-200 z-10"
-          initial={{ opacity: 0, y: 10 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.3 }}
-            >
-          Visit NASA
-            </motion.button>
-          </div>
-        )}
+      {URL && (
+        <div className="mt-8 flex flex-col justify-center items-center">
+          <motion.p
+            className="text-lg text-center text-gray-300 mb-4"
+            initial={{ opacity: 0, y: -20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.3 }}
+          >
+            Explore more about {topic} on NASA&apos;s Eyes on Exoplanets website.
+          </motion.p>
+          <motion.button
+            onClick={() => window.open(URL, "_blank")} // Open NASA's Eyes on Exoplanets website in a new tab or window
+            className="bg-blue-800 text-white px-6 py-2 rounded-md hover:bg-blue-600 transition duration-200 z-10"
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.3 }}
+          >
+            Visit NASA
+          </motion.button>
+        </div>
+      )}
 
-        {/* Quiz Time Section */}
+      {/* Quiz Time Section */}
       <div className="mt-8 flex flex-col justify-center items-center">
         <motion.h2
           className="text-2xl font-bold mb-4 text-center text-blue-400"
@@ -266,20 +267,23 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
 
         <motion.button
           onClick={handleQuizNavigation}
-          className="bg-blue-500 text-white px-6 py-2 rounded-md hover:bg-blue-600 transition duration-200 z-10"
+          className="bg-[#0B0C10] text-[#F0F8FF] px-6 py-2 rounded-md shadow-md hover:bg-[#1a1a40] transition duration-200 transform hover:scale-105 z-10"       
           initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.3 }}
         >
           Go to Quiz
         </motion.button>
+
+
+
       </div>
 
       {/* Navigation Buttons */}
       <div className="mt-8 flex space-x-4">
         <motion.button
           onClick={handlePreviousNavigation}
-          className="bg-gray-500 text-white px-4 py-2 rounded-md hover:bg-gray-600 transition duration-200"
+          className="bg-gray-600 text-white px-4 py-2 rounded-md hover:bg-gray-800 transition duration-200"
           initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.3 }}
@@ -288,7 +292,7 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
         </motion.button>
         <motion.button
           onClick={handleNextNavigation}
-          className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition duration-200"
+          className="bg-blue-800 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition duration-200"
           initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.3 }}
