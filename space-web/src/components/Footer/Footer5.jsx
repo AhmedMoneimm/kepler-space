@@ -1,111 +1,77 @@
 import React from "react";
 import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
-import { HiLocationMarker } from "react-icons/hi";
-import { MdCall, MdMessage } from "react-icons/md";
 
 const Footer = () => {
+  const citations = [
+    { url: "https://science.nasa.gov/mission/hubble/overview/about-hubble/", text: "Hubble Space Telescope" },
+    { url: "https://science.nasa.gov/resource/overview-of-kepler-mission/", text: "Kepler Mission Overview" },
+    { url: "https://science.nasa.gov/mission/tess", text: "TESS Mission" },
+    { url: "https://science.nasa.gov/mission/kepler", text: "Kepler Mission" },
+    { url: "https://science.nasa.gov/universe/exoplanets/10-things-all-about-trappist-1-2/", text: "TRAPPIST-1 System" },
+    { url: "https://jwst.nasa.gov/content/about/index.html", text: "James Webb Space Telescope" },
+    { url: "https://science.nasa.gov/exoplanets/facts/", text: "Exoplanet Facts" },
+    { url: "https://science.nasa.gov/exoplanets/gas-giant/", text: "Gas Giant Exoplanets" },
+    { url: "https://science.nasa.gov/exoplanets/stars/", text: "Stars and Exoplanets" },
+    { url: "https://science.nasa.gov/exoplanets/big-questions/", text: "Big Questions in Exoplanet Science" },
+    { url: "https://science.nasa.gov/exoplanets/glossary/", text: "Exoplanet Glossary" },
+    { url: "https://science.nasa.gov/exoplanets/planet-types/", text: "Exoplanet Types" },
+    { url: "https://science.nasa.gov/exoplanets/super-earth/", text: "Super-Earth Exoplanets" },
+    { url: "https://science.nasa.gov/universe/stars/types/", text: "Types of Stars" },
+    { url: "https://science.nasa.gov/exoplanets/neptune-like/", text: "Neptune-like Exoplanets" },
+    { url: "https://science.nasa.gov/universe/black-holes/", text: "Black Holes" },
+    { url: "https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/?intent=021", text: "Ways to Find a Planet" },
+    { url: "https://science.nasa.gov/exoplanets/search-for-life/", text: "Search for Life" },
+    { url: "https://science.nasa.gov/exoplanets/terrestrial/", text: "Terrestrial Exoplanets" },
+    { url: "https://science.nasa.gov/exoplanets/habitable-zone/", text: "Habitable Zone" },
+    { url: "https://science.nasa.gov/exoplanets/can-we-find-life/", text: "Can We Find Life?" },
+    { url: "https://science.nasa.gov/exoplanets/missions/", text: "Exoplanet Missions" },
+    { url: "https://science.nasa.gov/exoplanets/why-we-search", text: "Why We Search for Exoplanets" },
+  ];
+
   return (
-    <div className="bg-gray-800 ">
-      <section className="max-w-[1200px] mx-auto text-white">
-        <div className=" grid md:grid-cols-3 py-5">
-          {/* first column */}
-          <div className=" py-8 px-4 ">
-            <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3">
-              Be Ready To Grow
-            </h1>
-            <p className="text-gray-400">
-              Get exclusive{" "}
-              <span className=" text-white font-bold "> best update</span>{" "}
-              straight to your inbox.{" "}
-            </p>
-            <br />
-            <div className="flex items-center h-10">
-              <input
-                className="py-1 px-3 w-full h-[100%] inline-block focus:outline-none focus:border-sky-500 focus:ring-2 focus:ring-sky-500 bg-gray-800 border-gray-200 border-2 "
-                type="text"
-                placeholder="Email"
-              />
-              <button className="bg-orange-500 hover:bg-orange-500/75 h-full inline-block py-2 px-6 text-white">
-                Ok
-              </button>
-            </div>
+    <footer className="bg-gray-900 text-gray-300 py-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="col-span-1 md:col-span-2 lg:col-span-1">
+            <h2 className="text-2xl font-semibold text-white mb-4">Space Eagles Exoplanet Explorer</h2>
+            <p className="text-sm">Discover the wonders of exoplanets and the missions that help us explore them.</p>
           </div>
-          {/* Second column */}
-
-          <div className="grid grid-cols-2 sm:grid-cols-3 col-span-2 md:pl-10 ">
-            <div className="">
-              <div className="py-8 px-4 ">
-                <h1 className="sm:text-xl text-xl font-bold sm:text-left text-justify mb-3">
-                  Important Links
-                </h1>
-                <ul className={`flex flex-col gap-3 `}>
-                  <li className="cursor-pointer">Home</li>
-                  <li className="cursor-pointer">About</li>
-                  <li className="cursor-pointer">Services</li>
-                  <li className="cursor-pointer">Login</li>
-                </ul>
-              </div>
-            </div>
-            <div className="">
-              <div className="py-8 px-4 ">
-                <h1 className="sm:text-xl text-xl font-bold sm:text-left text-justify mb-3">
-                  Links
-                </h1>
-                <ul className="flex flex-col gap-3 ">
-                  <li className="cursor-pointer">Home</li>
-                  <li className="cursor-pointer">About</li>
-                  <li className="cursor-pointer">Services</li>
-                  <li className="cursor-pointer">Login</li>
-                </ul>
-              </div>
-            </div>
-            <div className="">
-              <div className="py-8 px-4 ">
-                <h1 className="sm:text-xl text-xl font-bold sm:text-left text-justify mb-3">
-                  Contact Us
-                </h1>
-                <div className="flex flex-col gap-3">
-                  <div className="flex items-center gap-3">
-                    <HiLocationMarker />
-                    <p>Alexandria, Egypt</p>
-                  </div>
-                  <div className="flex items-center gap-3 mt-3">
-                    <MdMessage />
-                    <p>abc@gmail.com</p>
-                  </div>
-                  <div className="flex items-center gap-3 mt-3">
-                    <MdCall />
-                    <p>+69 6969696969</p>
-                  </div>
-                </div>
-              </div>
+          <div className="col-span-1 md:col-span-2 lg:col-span-3">
+            <h3 className="text-lg font-semibold text-white mb-4">Exoplanet Resources</h3>
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2">
+              {citations.map((citation, index) => (
+                <a
+                  key={index}
+                  href={citation.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm hover:text-blue-400 transition-colors duration-300"
+                >
+                  {citation.text}
+                </a>
+              ))}
             </div>
           </div>
         </div>
-        <div className="hidden sm:block">
-          <div className="flex justify-between items-center text-center py-6 border-t-2 border-gray-300/40">
-            <div className="flex items-center justify-center gap-4 mb-4">
-              <a href="#">
-                <FaInstagram className="text-4xl" />
-              </a>
-              <a href="#">
-                <FaFacebook className="text-4xl" />
-              </a>
-              <a href="#">
-                <FaLinkedin className="text-4xl" />
-              </a>
-            </div>
-
-            <span className="text-sm text-gray-400 ">
-              <ul className="flex gap-3">
-                <li className="hover:text-white">Moneim Clutchat</li>
-                <li className="hover:text-white">Gamadan</li>
-              </ul>
-            </span>
+        <div className="mt-8 pt-8 border-t border-gray-700 flex flex-col sm:flex-row justify-between items-center">
+          <div className="flex space-x-6 mb-4 sm:mb-0">
+            <a href="#" className="text-gray-400 hover:text-white transition-colors duration-300">
+              {/* <FaFacebook className="h-6 w-6" /> */}
+            </a>
+            <a href="#" className="text-gray-400 hover:text-white transition-colors duration-300">
+              {/* <FaInstagram className="h-6 w-6" /> */}
+            </a>
+            <a href="#" className="text-gray-400 hover:text-white transition-colors duration-300">
+              {/* <FaLinkedin className="h-6 w-6" /> */}
+            </a>
+          </div>
+          <div className="text-sm text-gray-400">
+            <p>&copy; 2024 Exoplanet Explorer. All rights reserved.</p>
+            <p>Data sourced from NASA and various space agencies.</p>
           </div>
         </div>
-      </section>
-    </div>
+      </div>
+    </footer>
   );
 };
 

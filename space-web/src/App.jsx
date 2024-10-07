@@ -64,6 +64,7 @@ import Quizpla from "./components/Quiz/Stars/Quizpla.jsx";
 import Quizca from "./components/Quiz/Exoplanet/Quizca.jsx";
 import Quiznam from "./components/Quiz/Exoplanet/Quiznam.jsx";
 import Quizsea from "./components/Quiz/Exoplanet/Quizsea.jsx";
+import Footer from "./components/Footer/Footer5.jsx";
 
 const App = () => {
   React.useEffect(() => {
@@ -164,7 +165,7 @@ const App = () => {
 
         <Chatbot />
       </div>
-      
+      <Footer />
     </Router>
   );
 };
