@@ -1,18 +1,22 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom"; // Import Link for routing
+import { Link } from "react-router-dom";
 import Logo from "../../assets/logo.png";
 
 const Navbar = () => {
-  const [openDropdown, setOpenDropdown] = useState(null); // State to track which dropdown is open
+  const [openDropdown, setOpenDropdown] = useState(null);
+  const [menuOpen, setMenuOpen] = useState(false);
 
-  // Toggle dropdown visibility
   const toggleDropdown = (dropdown) => {
-    setOpenDropdown((prev) => (prev === dropdown ? null : dropdown)); // Open the clicked dropdown or close it if it's already open
+    setOpenDropdown((prev) => (prev === dropdown ? null : dropdown));
   };
 
-  // Close dropdown
   const closeDropdown = () => {
     setOpenDropdown(null);
+    setMenuOpen(false);
+  };
+
+  const toggleMenu = () => {
+    setMenuOpen((prev) => !prev);
   };
 
   return (
@@ -20,14 +24,24 @@ const Navbar = () => {
       data-aos="fade-down"
       className="fixed top-0 right-0 w-full z-50 bg-black/10 backdrop-blur-sm py-4 sm:py-0"
     >
-      <div className="container">
+      <div className="container mx-auto px-4">
         <div className="flex justify-between items-center">
           <div className="flex items-center gap-4 text-white font-bold text-2xl">
             <img src={Logo} alt="Logo" className="w-10" />
-            <span>Space Eagles</span>
+            <span className="hidden sm:block">Space Eagles</span>
           </div>
-          <div className="text-white hidden sm:block">
-            <ul className="flex items-center gap-6 text-xl py-4">
+          <button
+            onClick={toggleMenu}
+            className="sm:hidden text-white text-3xl focus:outline-none"
+          >
+            ☰
+          </button>
+          <div
+            className={`text-white sm:block ${
+              menuOpen ? "block" : "hidden"
+            } w-full sm:w-auto`}
+          >
+            <ul className="flex flex-col sm:flex-row items-center gap-6 text-xl py-4">
               <li>
                 <Link
                   to="/"
@@ -46,7 +60,6 @@ const Navbar = () => {
                   About
                 </Link>
               </li>
-              {/* Exoplanets Dropdown */}
               <li className="relative">
                 <button
                   onClick={() => toggleDropdown("exoplanets")}
@@ -96,13 +109,12 @@ const Navbar = () => {
                 )}
 
               </li>
-              {/* Exoplanets Dropdown */}
               <li className="relative">
                 <button
                   onClick={() => toggleDropdown("exoplanets types")}
                   className="focus:outline-none hover:text-blue-500 transition-colors duration-200"
                 >
-                  Exoplanets types
+                  Exoplanets Types
                 </button>
                 {openDropdown === "exoplanets types" && (
                   <ul className="absolute left-1/2 mt-2 bg-white text-black rounded-md shadow-lg z-10 min-w-max transform -translate-x-1/2"> {/* Centered dropdown */}
@@ -154,7 +166,6 @@ const Navbar = () => {
                   </ul>
                 )}
               </li>
-              {/* Stars Dropdown */}
               <li className="relative">
                 <button
                   onClick={() => toggleDropdown("stars")}
@@ -351,6 +362,56 @@ const Navbar = () => {
           </div>
         </div>
       </div>
+
+      <style jsx>{`
+        @media (max-width: 640px) {
+          .sm\\:hidden {
+            display: block;
+          }
+          .sm\\:block {
+            display: none;
+          }
+          nav {
+            position: relative;
+          }
+          .container {
+            padding: 0;
+          }
+          .flex {
+            flex-direction: column;
+            align-items: flex-start;
+          }
+          ul {
+            width: 100%;
+            padding-top: 1rem;
+          }
+          li {
+            width: 100%;
+            text-align: center;
+            padding: 0.5rem 0;
+          }
+          button.sm\\:hidden {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+          }
+          .hidden {
+            display: none;
+          }
+          .block {
+            display: block;
+          }
+        }
+        @media (max-width: 350px) {
+          .text-2xl {
+            font-size: 1rem;
+            line-height: 1.2rem;
+          }
+          img.w-10 {
+            width: 1.5rem;
+          }
+        }
+      `}</style>
     </nav>
   );
 };

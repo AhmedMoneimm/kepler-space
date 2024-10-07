@@ -3,8 +3,8 @@ import React, { useEffect } from "react"; // Import useEffect
 import { motion } from "framer-motion";
 import Particles from "react-tsparticles"; // Ensure you have this library installed
 import spaceBackground from "../../assets/space-background2.jpg"; // Ensure the file exists at this path
-import img1 from "../../assets/img1.jpeg"; // Import img1
-import img2 from "../../assets/img2.jpeg"; // Import img2
+import img2 from "../../assets/img1.jpeg"; // Import img1
+import img1 from "../../assets/img2.jpeg"; // Import img2
 
 const GamePage = () => {
     // Scroll to the top of the page on component mount
@@ -15,7 +15,11 @@ const GamePage = () => {
     const handleDownload = () => {
         // Replace 'YOUR_FILE_ID' with the actual file ID from Google Drive
         window.open("https://drive.google.com/drive/folders/1KAU_Qk5-IrRKzcVEo6e3SDkUwkcIUEmB", "_blank");
-    };       
+    };
+
+    const handleVideoLink = () => {
+        window.open("https://drive.google.com/file/d/1wQ2E9Gj_tUK3uH0OfN5q82CaGu1IJR0b/view", "_blank");
+    };
 
     return (
         <div
@@ -99,17 +103,20 @@ const GamePage = () => {
                 transition={{ duration: 0.8, delay: 0.6 }}
             />
 
-            <motion.video 
-                className="mb-8 rounded-lg shadow-lg z-10"
-                controls
-                width="80%"
-                src="/path/to/gameplay.mp4"
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                transition={{ duration: 0.8, delay: 0.6 }}
+            <motion.div 
+                className="flex flex-col items-center z-10 mb-8"
+                initial={{ opacity: 0, scale: 0.5 }}
+                animate={{ opacity: 1, scale: 1 }}
+                transition={{ duration: 0.8, delay: 0.8 }}
             >
-                Your browser does not support the video tag.
-            </motion.video>
+                <motion.button 
+                    onClick={handleVideoLink}
+                    className="bg-blue-500 text-white font-bold py-2 px-4 rounded-full shadow-lg hover:bg-blue-400 transition duration-300"
+                    whileHover={{ scale: 1.05 }}
+                >
+                    Watch Gameplay Video
+                </motion.button>
+            </motion.div>
 
             <motion.div 
                 className="flex flex-col items-center z-10"
@@ -119,15 +126,14 @@ const GamePage = () => {
             >
                 <p className="text-lg mb-4 text-white text-center">
                     **Disclaimer:** Due to the game's stunning graphics, we can't deploy it online. 
-                    Please download the game to experience the full adventure!
                 </p>
-                <motion.button 
+                {/* <motion.button 
                     onClick={handleDownload}
                     className="bg-yellow-500 text-black font-bold py-2 px-4 rounded-full shadow-lg hover:bg-yellow-400 transition duration-300 z-10"
                     whileHover={{ scale: 1.05 }}
                 >
                     Download the Game
-                </motion.button>
+                </motion.button> */}
             </motion.div>
 
             <footer className="mt-12 text-center z-10">
