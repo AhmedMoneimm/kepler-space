@@ -66,7 +66,7 @@ const Footer = () => {
             </a>
           </div>
           <div className="text-sm text-gray-400">
-            <p>&copy; 2024 Exoplanet Explorer. All rights reserved.</p>
+            <p>&copy; 2024  Space Eagles Exoplanet Explorer.</p>
             <p>Data sourced from NASA and various space agencies.</p>
           </div>
         </div>
