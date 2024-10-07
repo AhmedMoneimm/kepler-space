@@ -1,7 +1,7 @@
 import ReusableDiv from "../ReusableDiv";
 
 const Types = () => {
-  console.log("Current file path: ", new URL(import.meta.url).pathname);
+  console.log("Current directory: ", new URL(import.meta.url).pathname.replace(/\/[^\/]*$/, ''));
 
 
   return (
@@ -11,7 +11,7 @@ const Types = () => {
       quizPath="/quiztyp "
       nextPath="/exoplanet/gas-giants" // Next page path
       previousPath="/exoplanet/overview" // Previous page path
-      imageUrls={["space-web/src/components/Exoplanet_types/exoplanetstypes.png", "../src/assets/Exoplanets/gasgiant.png", "../src/assets/Exoplanets/neptunelike.png", "../src/assets/Exoplanets/super.png", "../src/assets/Exoplanets/rocky.png"]}
+      imageUrls={["./assets/Exoplanets/exoplanetstypes.png", "./assets/Exoplanets/gasgiant.png", "./Exoplanets/neptunelike.png", "../src/assets/Exoplanets/super.png", "../src/assets/Exoplanets/rocky.png"]}
     />
   );
 };
