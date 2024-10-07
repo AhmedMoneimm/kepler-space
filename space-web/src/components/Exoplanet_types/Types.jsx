@@ -4,7 +4,7 @@ const Types = () => {
  
   return (
     <ReusableDiv
-      title="Out-of-This-World: The Coolest Types of Exoplanets!"
+      title="of-This-World: The Coolest Types of Exoplanets!"
       dataPath="/data/Exoplanets_types/Exoplanets_types.json"
       quizPath="/quiztyp "
       nextPath="/exoplanet/gas-giants" // Next page path
