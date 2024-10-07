@@ -1,5 +1,5 @@
 import ReusableDiv from "../ReusableDiv";
-import habzoneImage from "../../assets/Exoplanets/habzone.png";
+import habzoneImage from "/data/Exoplanetsimages/habzone.png";
 
 // Define paths as constants
 const title = "The Search for Life Beyond Earth";
