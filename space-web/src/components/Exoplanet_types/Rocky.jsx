@@ -10,7 +10,7 @@ const Rocky = () => {
       nextPath="/" // Next page path (home)
       URL="https://eyes.nasa.gov/apps/exo/#/filter/Terrestrial"
       topic="Rocky"
-      imageUrls={["","","","./data/Exoplanetsimages/TRAPPIST.png", "/data/Exoplanetsimages/TRAPPIST2.png"]}
+      imageUrls={["","","","/data/Exoplanetsimages/TRAPPIST.png", "/data/Exoplanetsimages/TRAPPIST2.png"]}
       // order={[3,4]}
     />
   );
