@@ -1,7 +1,9 @@
 import ReusableDiv from "../ReusableDiv";
 
 const Types = () => {
- 
+  console.log("Current file path: ", new URL(import.meta.url).pathname);
+
+
   return (
     <ReusableDiv
       title="Out-of-This-World: The Coolest Types of Exoplanets!"
