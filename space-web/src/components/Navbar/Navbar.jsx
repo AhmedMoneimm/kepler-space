@@ -55,7 +55,7 @@ const Navbar = () => {
                   Exoplanets
                 </button>
                 {openDropdown === "exoplanets" && (
-                  <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
+                  <ul className="absolute left-1/2 mt-2 bg-white text-black rounded-md shadow-lg z-10 min-w-max transform -translate-x-1/2"> {/* Centered dropdown */}
                     <li>
                       <Link
                         to="/exoplanet/overview"
@@ -92,9 +92,9 @@ const Navbar = () => {
                         Search for Life
                       </Link>
                     </li>
-
                   </ul>
                 )}
+
               </li>
               {/* Exoplanets Dropdown */}
               <li className="relative">
@@ -105,7 +105,7 @@ const Navbar = () => {
                   Exoplanets types
                 </button>
                 {openDropdown === "exoplanets types" && (
-                  <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
+                  <ul className="absolute left-1/2 mt-2 bg-white text-black rounded-md shadow-lg z-10 min-w-max transform -translate-x-1/2"> {/* Centered dropdown */}
                     <li>
                       <Link
                         to="/exoplanet/types"
@@ -163,7 +163,7 @@ const Navbar = () => {
                   Stars
                 </button>
                 {openDropdown === "stars" && (
-                  <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
+                  <ul className="absolute left-1/2 mt-2 bg-white text-black rounded-md shadow-lg z-10 min-w-max transform -translate-x-1/2"> {/* Centered dropdown */}
                     <li>
                       <Link
                         to="/stars/overview"
@@ -212,7 +212,7 @@ const Navbar = () => {
                   Telescope
                 </button>
                 {openDropdown === "telescope" && (
-                  <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
+                  <ul className="absolute left-1/2 mt-2 bg-white text-black rounded-md shadow-lg z-10 min-w-max transform -translate-x-1/2"> {/* Centered dropdown */}
                     <li>
                       <Link
                         to="/telescope/overview"
@@ -279,7 +279,7 @@ const Navbar = () => {
                   Methods
                 </button>
                 {openDropdown === "methods" && (
-                  <ul className="absolute left-0 mt-2 bg-white text-black rounded-md shadow-lg z-10">
+                  <ul className="absolute left-1/2 mt-2 bg-white text-black rounded-md shadow-lg z-10 min-w-max transform -translate-x-1/2"> {/* Centered dropdown */}
                     <li>
                       <Link
                         to="/methods/overview"

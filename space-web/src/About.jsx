@@ -3,6 +3,9 @@ import { motion } from 'framer-motion';
 import Particles from 'react-tsparticles';
 import spaceBackground from './assets/space-background2.jpg';
 import teamworkImg from './assets/teamwork.jpg';
+import githubIcon from './assets/icons/github.svg';
+import linkedinIcon from './assets/icons/linkedin.svg';
+import Icon from "./Icon"; // Ensure this component is defined properly
 
 const About = () => {
   const [activeImage, setActiveImage] = useState(null);
@@ -46,10 +49,6 @@ const About = () => {
       linkedin: 'https://www.linkedin.com/in/ahmed-younis-835ab4282/',
     },
   ].sort((a, b) => a.alt.localeCompare(b.alt)); // Sort by names
-
-  const toggleDropdown = (index) => {
-    setActiveImage(activeImage === index ? null : index);
-  };
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -109,9 +108,7 @@ const About = () => {
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 items-center">
             <div data-aos="zoom-in">
               <img
-                src={teamworkImg
-                
-                }
+                src={teamworkImg}
                 alt="Satellite"
                 className="w-full sm:w-[80%] mx-auto max-h-[350px] object-cover rounded-lg"
               />
@@ -160,6 +157,7 @@ const About = () => {
           </div>
         </div>
       </section>
+
       {/* Team Members Title */}
       <motion.h1
         className="text-6xl font-extrabold text-blue-300 mb-8 z-10 shadow-md"
@@ -169,45 +167,37 @@ const About = () => {
       >
         Meet Our Team
       </motion.h1>
+
       {/* Team Member Images */}
       <div className="flex flex-wrap justify-center items-center gap-8 mb-30 pb-40 z-10"> {/* Increased mb and added pb */}
         {imageLinks.map((image, index) => (
           <motion.div
             key={index}
-            className="relative flex flex-col items-center"
+            className="relative flex flex-col items-center "
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: index * 0.1 }}
           >
-            <h3 className="text-3xl font-bold text-blue-400 mb-2">{image.alt}</h3>
+            <h3 className="text-3xl font-bold text-gray-600 mb-2">{image.alt}</h3>
             <motion.img
               src={image.src}
               alt={image.alt}
               className="w-48 h-48 object-cover cursor-pointer rounded-lg transition-transform transform hover:scale-105"
             />
-            {/* GitHub and LinkedIn buttons always visible */}
-            <div className="absolute top-[110%] mt-2 bg-gray-800 rounded-md shadow-lg p-2 z-10">
-              <a
-                href={image.github}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="block text-blue-400 hover:underline"
-              >
-                GitHub
+            {/* GitHub and LinkedIn buttons */}
+            <div className="absolute top-[110%] mt-2 bg-gray-800 rounded-md shadow-lg p-4 z-10 flex space-x-4">
+              <a href={image.linkedin} target="_blank" rel="noopener noreferrer">
+                <img src={linkedinIcon} alt="LinkedIn" className="w-12 h-12 transition-transform duration-200 hover:scale-110" />
               </a>
-              <a
-                href={image.linkedin}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="block text-blue-400 hover:underline"
-              >
-                LinkedIn
+              <a href={image.github} target="_blank" rel="noopener noreferrer">
+                <img src={githubIcon} alt="GitHub" className="w-12 h-12 transition-transform duration-200 hover:scale-110" />
               </a>
             </div>
+
+
           </motion.div>
         ))}
       </div>
-
     </div>
   );
 };
