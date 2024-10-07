@@ -33,15 +33,18 @@ const ReusableDiv = ({ title, dataPath, quizPath, nextPath, previousPath, URL, t
       speech.lang = "en-US";
       speech.volume = 1; // Set volume
 
+      // Prioritize preferred voices
       const voices = synth.getVoices();
-      if (voices.length > 0) {
-        speech.voice = voices[0]; // Set first available voice
-        console.log("Speaking:", text);
-        synth.speak(speech);
-      } else {
-        console.error("No voices available.");
+      let preferredVoice = voices.find(voice => voice.name === "Google US English") || voices.find(voice => voice.lang.startsWith("en"));
+
+      if (preferredVoice) {
+        speech.voice = preferredVoice;
       }
+
+      console.log("Speaking with voice:", speech.voice ? speech.voice.name : "Default voice");
+      synth.speak(speech);
     };
+
 
     // Check if voices are already loaded
     if (synth.getVoices().length > 0) {
