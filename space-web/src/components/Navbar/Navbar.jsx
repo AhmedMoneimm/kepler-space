@@ -72,7 +72,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/exoplanet/overview"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Exoplanet Overview
@@ -81,7 +81,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/exoplanet/naming"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Exoplanet Naming
@@ -90,7 +90,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/exoplanet/CandidateVSConfirmed"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Candidate VS Confirmed
@@ -99,7 +99,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/exoplanet/life"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Search for Life
@@ -121,7 +121,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/exoplanet/types"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Exoplanet Types
@@ -130,7 +130,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/exoplanet/gas-giants"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Gas Giants
@@ -139,7 +139,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/exoplanet/neptunian"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Neptunian
@@ -148,7 +148,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/exoplanet/super-earth"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Super Earth
@@ -157,7 +157,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/exoplanet/rocky"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Rocky
@@ -178,7 +178,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/stars/overview"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Stars Overview
@@ -187,7 +187,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/stars/color"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Stars Colors
@@ -196,7 +196,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/stars/life"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Stars Life Cycle
@@ -205,7 +205,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/stars/planetary-systems"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Planetary Systems
@@ -227,7 +227,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/telescope/overview"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Telescope Overview
@@ -236,7 +236,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/telescope/hubble"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Hubble Space Telescope
@@ -245,7 +245,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/telescope/james-webb"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         James Webb Space Telescope
@@ -254,7 +254,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/telescope/Kepler_K2"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Kepler & K2
@@ -263,7 +263,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/telescope/Spitzer"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Spitzer Space Telescope
@@ -272,7 +272,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/telescope/Tess"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         TESS
@@ -294,7 +294,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/methods/overview"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Methods Overview
@@ -303,7 +303,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/methods/transit"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Transit Method
@@ -312,7 +312,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/methods/radial-velocity"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Radial Velocity Method
@@ -321,7 +321,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/methods/direct-imaging"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Direct Imaging Method
@@ -330,7 +330,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/methods/microlensing"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Microlensing Method
@@ -339,7 +339,7 @@ const Navbar = () => {
                     <li>
                       <Link
                         to="/methods/astrometry"
-                        className="block px-4 py-2 hover:bg-gray-200 hover:text-blue-500 transition-colors duration-200"
+                        className="block bg-gray-700 px-4 py-2 hover:bg-gray-900 hover:text-blue-500 transition-colors duration-200"
                         onClick={closeDropdown}
                       >
                         Astrometry Method
