@@ -11,7 +11,7 @@ const Types = () => {
       quizPath="/quiztyp "
       nextPath="/exoplanet/gas-giants" // Next page path
       previousPath="/exoplanet/overview" // Previous page path
-      imageUrls={["/data/Exoplanetsimages/exoplanetstypes.png", "/data/Exoplanetsimages/gasgiant.png", "./Exoplanets/neptunelike.png", "../src/assets/Exoplanets/super.png", "../src/assets/Exoplanets/rocky.png"]}
+      imageUrls={["/data/Exoplanetsimages/exoplanetstypes.png", "/data/Exoplanetsimages/gasgiant.png", "/data/Exoplanetsimages/neptunelike.png", "/data/Exoplanetsimages/super.png", "/data/Exoplanetsimages/rocky.png"]}
     />
   );
 };
