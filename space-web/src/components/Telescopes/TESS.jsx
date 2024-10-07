@@ -11,7 +11,7 @@ const TESS = () => {
       nextPath="/" // Next page path
       URL="https://eyes.nasa.gov/apps/exo/#/spacecraft/sc_tess"
       topic="TESS"
-      imageUrls={["../src/assets/Telescope/tess.png"]}
+      imageUrls={["/data/Telescopeimage/tess.png"]}
     />
   );
 };

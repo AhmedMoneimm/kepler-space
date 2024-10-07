@@ -11,7 +11,7 @@ const Spitzer = () => {
       nextPath="/telescope/Tess" // Next page path
       URL="https://eyes.nasa.gov/apps/exo/#/spacecraft/sc_spitzer"
       topic="Spitzer" 
-      imageUrls={["../src/assets/Telescope/spitzer.png"]}
+      imageUrls={["/data/Telescopeimage/spitzer.png"]}
     />
   );
 };

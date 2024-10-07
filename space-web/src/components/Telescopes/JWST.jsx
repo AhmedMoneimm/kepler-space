@@ -11,7 +11,7 @@ const JWST = () => {
       nextPath="/telescope/Kepler_K2" // Next page path
       URL="https://eyes.nasa.gov/apps/exo/#/spacecraft/sc_jwst"
       topic="JWST"
-      imageUrls={["../src/assets/Telescope/jwst.png"]}
+      imageUrls={["/data/Telescopeimage/jwst.png"]}
     />
   );
 };

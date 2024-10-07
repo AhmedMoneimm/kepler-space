@@ -10,7 +10,7 @@ const Hubble = () => {
       nextPath="/telescope/james-webb" // Next page path
       URL="https://eyes.nasa.gov/apps/exo/#/spacecraft/sc_hubble_space_telescope"
       topic="Hubble"
-      imageUrls={["../src/assets/Telescope/hubble.png"]}
+      imageUrls={["/data/Telescopeimage/hubble.png"]}
     />
   );
 };

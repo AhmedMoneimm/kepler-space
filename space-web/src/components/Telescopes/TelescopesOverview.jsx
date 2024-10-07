@@ -9,7 +9,7 @@ const TelescopesOverview = () => {
       quizPath="/quiztel" // Adjust the quiz path if necessary
       previousPath="/telescope/hubble" // Previous page path
       nextPath="/telescope/james-webb" // Next page path
-      imageUrls={["../src/assets/Telescope/overview.png"]}
+      imageUrls={["/data/Telescopeimage/overview.png"]}
     />
   );
 };

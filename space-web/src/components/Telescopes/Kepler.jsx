@@ -11,7 +11,7 @@ const Kepler = () => {
       nextPath="/telescope/spitzer" // Next page path
       URL="https://eyes.nasa.gov/apps/exo/#/spacecraft/sc_kepler_space_telescope"
       topic="Kepler and K2" 
-      imageUrls={["../src/assets/Telescope/kepler.png"]}
+      imageUrls={["/data/Telescopeimage/kepler.png"]}
     />
   );
 };
