@@ -10,13 +10,10 @@ interface Message {
 const Chatbot: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [messages, setMessages] = useState<Message[]>([
-    { text: "👋 Hello my friend, I'm Astra, your fellow AI friend. Unfortunately, we're currently undergoing maintenance. We're upgrading right now and will return better and stronger! 🚧💪", sender: 'bot' }
+    { text: "Hello my friend, I'm your fellow AI friend. Want me to help you with something?", sender: 'bot' }
   ]);
   const [inputValue, setInputValue] = useState('');
   const [isBotTyping, setIsBotTyping] = useState(false);
-
-  // Toggle this variable to switch between normal mode and maintenance mode
-  const [isInMaintenance, setIsInMaintenance] = useState(false); // true for maintenance mode, false for normal chatbot
 
   const handleSendMessage = async () => {
     if (inputValue.trim() === '') return;
@@ -28,31 +25,21 @@ const Chatbot: React.FC = () => {
     // Simulate bot typing with delay
     setIsBotTyping(true);
 
-    if (isInMaintenance) {
-      // Maintenance message
-      setTimeout(() => {
-        const maintenanceMessage = "🔧 We are currently undergoing maintenance. Please try again later. 🙏";
-        const botMessage: Message = { text: maintenanceMessage, sender: 'bot' };
-        setMessages((prevMessages) => [...prevMessages, botMessage]);
-        setIsBotTyping(false); // Reset typing status
-      }, 1000); // Simulate delay
-    } else {
-      // Normal chatbot mode
-      const botResponse = await getBotResponse(inputValue); // Get response from the bot
+    // Fetch the bot response from Hugging Face
+    const botResponse = await getBotResponse(inputValue);
 
-      // Add bot's response
-      const botMessage: Message = { text: botResponse, sender: 'bot' };
-      setMessages((prevMessages) => [...prevMessages, botMessage]);
-      setIsBotTyping(false); // Reset typing status
-    }
+    // Add bot's response
+    const botMessage: Message = { text: botResponse, sender: 'bot' };
+    setMessages((prevMessages) => [...prevMessages, botMessage]);
 
-    setInputValue(''); // Reset input field
+    setIsBotTyping(false); // Reset typing status
+    setInputValue('');
   };
 
   const getBotResponse = async (userInput: string) => {
     try {
       const response = await axios.post(
-        'https://web-production-4cb5.up.railway.app/search', // Your API URL
+        'https://web-production-4cb5.up.railway.app/search',  // Your local Flask API URL
         { query: userInput },
         {
           headers: {
@@ -60,7 +47,7 @@ const Chatbot: React.FC = () => {
           },
         }
       );
-
+  
       if (response.data && response.data.results && response.data.results.length > 0) {
         return response.data.results[0];
       } else {
@@ -105,29 +92,21 @@ const Chatbot: React.FC = () => {
               </div>
             )}
           </div>
-          {!isInMaintenance && (  // Only show input if not in maintenance mode
-            <div className="input-container">
-              <input
-                id="chat-input"
-                type="text"
-                value={inputValue}
-                onChange={(e) => setInputValue(e.target.value)}
-                onKeyPress={handleKeyPress}
-                placeholder="Enter a message..."
-              />
-              <button onClick={handleSendMessage}>Send</button>
-            </div>
-          )}
+          <div className="input-container">
+            <input
+              id="chat-input"
+              type="text"
+              value={inputValue}
+              onChange={(e) => setInputValue(e.target.value)}
+              onKeyPress={handleKeyPress} 
+              placeholder="Enter a message..."
+            />
+            <button onClick={handleSendMessage}>Send</button>
+          </div>
         </div>
       )}
       <button className="floating-button" onClick={toggleChat}>
         🤖 {/* Emoji for the floating button */}
-      </button>
-      <button
-        className="toggle-mode-btn"
-        onClick={() => setIsInMaintenance(!isInMaintenance)} // Toggle maintenance mode
-      >
-        {isInMaintenance ? 'Switch to Chatbot' : 'Switch to Maintenance'}
       </button>
     </div>
   );
