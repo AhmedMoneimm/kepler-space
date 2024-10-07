@@ -1,15 +1,23 @@
 import ReusableDiv from "../ReusableDiv";
+import habzoneImage from "../src/assets/Exoplanets/habzone.png";
+
+// Define paths as constants
+const title = "The Search for Life Beyond Earth";
+const dataPath = "/data/Exoplanets/Exoplanet_life_search.json";
+const quizPath = "/quizsea";
+const previousPath = "/exoplanet/CandidateVSConfirmed";
+const nextPath = "/";
+const imageUrls = ["", "", habzoneImage, ""]; // Use the imported image
 
 const SearchForLife = () => {
   return (
     <ReusableDiv
-      title="The Search for Life Beyond Earth"
-      dataPath="/data/Exoplanets/Exoplanet_life_search.json"
-      quizPath="/quizsea"
-      previousPath="/exoplanet/CandidateVSConfirmed" // Previous page
-      nextPath="/" // Next page
-      imageUrls={["", "", "../src/assets/Exoplanets/habzone.png",""]}  // Third item is the actual image
-      // order={[2]}
+      title={title}
+      dataPath={dataPath}
+      quizPath={quizPath}
+      previousPath={previousPath}
+      nextPath={nextPath}
+      imageUrls={imageUrls}
     />
   );
 };
