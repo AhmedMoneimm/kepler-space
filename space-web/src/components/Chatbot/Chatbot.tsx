@@ -10,7 +10,7 @@ interface Message {
 const Chatbot: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [messages, setMessages] = useState<Message[]>([
-    { text: "Hello my friend, I'm Astra, your fellow AI friend. Want me to help you with something?", sender: 'bot' }
+    { text: "👋 Hello my friend, I'm Astra, your fellow AI friend. Unfortunately, we're currently undergoing maintenance. We're upgrading right now and will return better and stronger! 🚧💪", sender: 'bot' }
   ]);
   const [inputValue, setInputValue] = useState('');
   const [isBotTyping, setIsBotTyping] = useState(false);
@@ -25,38 +25,15 @@ const Chatbot: React.FC = () => {
     // Simulate bot typing with delay
     setIsBotTyping(true);
 
-    // Fetch the bot response from Hugging Face
-    const botResponse = await getBotResponse(inputValue);
+    // Since the bot is in maintenance, we can skip fetching the response
+    setTimeout(() => {
+      const maintenanceMessage = "🔧 We are currently undergoing maintenance. Please try again later. 🙏";
+      const botMessage: Message = { text: maintenanceMessage, sender: 'bot' };
+      setMessages((prevMessages) => [...prevMessages, botMessage]);
+      setIsBotTyping(false); // Reset typing status
+    }, 1000); // Simulate delay
 
-    // Add bot's response
-    const botMessage: Message = { text: botResponse, sender: 'bot' };
-    setMessages((prevMessages) => [...prevMessages, botMessage]);
-
-    setIsBotTyping(false); // Reset typing status
     setInputValue('');
-  };
-
-  const getBotResponse = async (userInput: string) => {
-    try {
-      const response = await axios.post(
-        'http://localhost:5000/search',  // Your local Flask API URL
-        { query: userInput },
-        {
-          headers: {
-            'Content-Type': 'application/json',
-          },
-        }
-      );
-  
-      if (response.data && response.data.results && response.data.results.length > 0) {
-        return response.data.results[0];
-      } else {
-        return "Sorry, I couldn't find any relevant information.";
-      }
-    } catch (error: any) {
-      console.error('Error fetching bot response:', error.message);
-      return 'Error connecting to the search service.';
-    }
   };
 
   const toggleChat = () => {
@@ -106,7 +83,7 @@ const Chatbot: React.FC = () => {
         </div>
       )}
       <button className="floating-button" onClick={toggleChat}>
-      🤖💬 {/* Emoji for the floating button */}
+        🤖 {/* Emoji for the floating button */}
       </button>
     </div>
   );
