@@ -193,8 +193,6 @@ const About = () => {
                 <img src={githubIcon} alt="GitHub" className="w-12 h-12 transition-transform duration-200 hover:scale-110" />
               </a>
             </div>
-
-
           </motion.div>
         ))}
       </div>
