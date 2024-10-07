@@ -9,7 +9,7 @@ const RadialVelocity = () => {
             quizPath="/quizrad"
             previousPath="/methods/transit"
             nextPath="/methods/direct-imaging"
-            imageUrls={["../src/assets/Methods/radialvelocity.gif"]}
+            imageUrls={["/data/Methods/radialvelocity.gif"]}
         />
     );
 };

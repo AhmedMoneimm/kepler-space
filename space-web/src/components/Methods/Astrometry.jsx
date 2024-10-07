@@ -9,7 +9,7 @@ const Astrometry = () => {
             quizPath="/quizast" // Assuming you might have a quiz path
             previousPath="/methods/microlensing" // Previous page path
             nextPath="/" // Next page home
-            imageUrls={["../src/assets/Methods/astometry.gif"]}
+            imageUrls={["/data/Methods/astometry.gif"]}
         />
     );
 };

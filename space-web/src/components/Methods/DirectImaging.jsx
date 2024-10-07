@@ -9,7 +9,7 @@ const DirectImaging = () => {
             quizPath="/quizdir"
             previousPath="/methods/radial-velocity"
             nextPath="/methods/microlensing"
-            imageUrls={["../src/assets/Methods/direct-imaging.gif"]}
+            imageUrls={["/data/Methods/direct-imaging.gif"]}
         />
     );
 };
