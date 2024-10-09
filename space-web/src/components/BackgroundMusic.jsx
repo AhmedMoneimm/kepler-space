@@ -1,4 +1,3 @@
-// src/components/BackgroundMusic.jsx
 import React, { useEffect, useRef } from 'react';
 
 const BackgroundMusic = () => {
@@ -10,13 +9,27 @@ const BackgroundMusic = () => {
     // Set the volume to a low level (0.1 means 10% volume)
     audio.volume = 0.1; // Adjust the volume to your preference
 
-    // Play the audio when the component mounts
-    audio.play();
+    // Function to play audio after user interaction
+    const playAudio = () => {
+      audio.play().catch(error => {
+        console.error("Audio playback failed due to browser restrictions:", error);
+      });
+    };
+
+    // Add event listeners for user interaction (click or key press)
+    window.addEventListener('click', playAudio, { once: true });
+    window.addEventListener('keydown', playAudio, { once: true });
 
     return () => {
+      // Cleanup event listeners on unmount
+      window.removeEventListener('click', playAudio);
+      window.removeEventListener('keydown', playAudio);
+
       // Pause the audio when the component unmounts
-      audio.pause();
-      audio.currentTime = 0; // Reset the audio to the beginning
+      if (audio) {
+        audio.pause();
+        audio.currentTime = 0; // Reset the audio to the beginning
+      }
     };
   }, []);
 
