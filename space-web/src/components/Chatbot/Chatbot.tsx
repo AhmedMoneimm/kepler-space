@@ -39,7 +39,7 @@ const Chatbot: React.FC = () => {
   const getBotResponse = async (userInput: string) => {
     try {
       const response = await axios.post(
-        'https://web-production-60910.up.railway.app/search',  // Your local Flask API URL
+        'https://123-otb1.vercel.app/searchh',  // Your local Flask API URL
         { query: userInput },
         {
           headers: {
