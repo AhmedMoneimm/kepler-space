@@ -17,6 +17,7 @@ const Chatbot: React.FC = () => {
 
   const handleSendMessage = async () => {
     if (inputValue.trim() === '') return;
+    setInputValue('');
 
     // Add user's message
     const userMessage: Message = { text: inputValue, sender: 'user' };
@@ -33,7 +34,6 @@ const Chatbot: React.FC = () => {
     setMessages((prevMessages) => [...prevMessages, botMessage]);
 
     setIsBotTyping(false); // Reset typing status
-    setInputValue('');
   };
 
   const getBotResponse = async (userInput: string) => {
