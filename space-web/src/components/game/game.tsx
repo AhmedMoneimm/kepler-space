@@ -137,11 +137,11 @@ const GamePage = () => {
                 </p>
             </motion.div>
 
-            <footer className="mt-12 text-center z-10">
+            {/* <footer className="mt-12 text-center z-10">
                 <p className="text-sm text-white">
                     © {new Date().getFullYear()} Space Eagles.
                 </p>
-            </footer>
+            </footer> */}
         </div>
     );
 };
