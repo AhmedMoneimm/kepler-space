@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios'; // Import axios for API calls
-import './Chatbot.css';
+import axios from 'axios';
+import './Chatbot.css'; // Assuming your CSS is in the same directory
 
 interface Message {
   text: string;
@@ -19,35 +19,27 @@ const Chatbot: React.FC = () => {
     if (inputValue.trim() === '') return;
     setInputValue('');
 
-    // Add user's message
     const userMessage: Message = { text: inputValue, sender: 'user' };
     setMessages((prevMessages) => [...prevMessages, userMessage]);
 
-    // Simulate bot typing with delay
     setIsBotTyping(true);
 
-    // Fetch the bot response from Hugging Face
     const botResponse = await getBotResponse(inputValue);
 
-    // Add bot's response
     const botMessage: Message = { text: botResponse, sender: 'bot' };
     setMessages((prevMessages) => [...prevMessages, botMessage]);
 
-    setIsBotTyping(false); // Reset typing status
+    setIsBotTyping(false);
   };
 
   const getBotResponse = async (userInput: string) => {
     try {
       const response = await axios.post(
-        'https://123-otb1.vercel.app/search',  // Your local Flask API URL
+        'https://123-otb1.vercel.app/search',
         { query: userInput },
-        {
-          headers: {
-            'Content-Type': 'application/json',
-          },
-        }
+        { headers: { 'Content-Type': 'application/json' } }
       );
-  
+
       if (response.data && response.data.results && response.data.results.length > 0) {
         return response.data.results[0];
       } else {
@@ -77,9 +69,13 @@ const Chatbot: React.FC = () => {
   }, [isOpen]);
 
   return (
-    <div className="chatbot-container">
+    <div className={`chatbot-container ${isOpen ? 'open' : ''}`}>
       {isOpen && (
         <div className="chat-window">
+          <div className="chat-header">
+            <span>Chat with Astra</span>
+            <button className="close-btn" onClick={toggleChat}>✖</button>
+          </div>
           <div className="chat-messages">
             {messages.map((msg, index) => (
               <div key={index} className={`chat-message ${msg.sender}-message`}>
@@ -88,7 +84,7 @@ const Chatbot: React.FC = () => {
             ))}
             {isBotTyping && (
               <div className="chat-message bot-message typing-indicator">
-                ...typing
+                ...Astra is typing
               </div>
             )}
           </div>
@@ -101,12 +97,12 @@ const Chatbot: React.FC = () => {
               onKeyPress={handleKeyPress} 
               placeholder="Enter a message..."
             />
-            <button onClick={handleSendMessage}>Send</button>
+            <button className="send-btn" onClick={handleSendMessage}>Send</button>
           </div>
         </div>
       )}
       <button className="floating-button" onClick={toggleChat}>
-       🤖 {/* Emoji for the floating button */}
+        <span role="img" aria-label="chat">🤖</span>
       </button>
     </div>
   );
