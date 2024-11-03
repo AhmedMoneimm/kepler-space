@@ -17,7 +17,7 @@ Space Eagles is a project created for NASA Space Apps 2024 Universal. It aims to
 Space Eagles was created to make the study of exoplanets accessible and engaging. By leveraging interactive technologies, we aim to spark curiosity and excitement about space exploration and astronomy in people of all ages.
 
 ### How
-We achieve this through an interactive website and a game developed with Unreal Engine 4. Our platform includes quizzes, personality tests, and 3D models, making the learning experience both immersive and educational. Additionally, we have integrated a chatbot powered by the best AI models available (using OpenAI) to assist users.
+We achieve this through an interactive website and a game developed with Unreal Engine 5. Our platform includes quizzes, personality tests, and 3D models, making the learning experience both immersive and educational. Additionally, we have integrated a chatbot powered by the best AI models available (using OpenAI) to assist users.
 
 ### What
 Space Eagles provides a rich learning environment where users can explore various aspects of exoplanets, stars, telescopes, and discovery methods. The project features interactive elements that make learning fun and engaging.
@@ -26,7 +26,7 @@ Space Eagles provides a rich learning environment where users can explore variou
 - Engaging Quizzes and Personality Tests: Interactive quizzes and tests to engage users and personalize their learning experience.
 - 3D Star Models: Walk through the stars and explore 3D models to visualize and understand celestial bodies better.
 - Educational Content: Detailed information about exoplanets, stars, telescopes, and methods of discovering exoplanets.
-- Unreal Engine 4: High-quality graphics and interactive elements powered by Unreal Engine 4.
+- Unreal Engine 5: High-quality graphics and interactive elements powered by Unreal Engine 5.
 - AI-Powered Chatbot: Integrated chatbot using OpenAI to assist users with their queries and enhance user interaction.
 
 ## Technology Stack
