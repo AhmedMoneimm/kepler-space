@@ -72,5 +72,3 @@ Contributions are welcome! To contribute to this project, please follow these st
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-You can view the current README files [here](https://github.com/AhmedMoneimm/kepler-space/blob/7b32ff34cc8c5216a6276b00572321a28e475415/README.md) and [here](https://github.com/AhmedMoneimm/kepler-space/blob/7b32ff34cc8c5216a6276b00572321a28e475415/space-web/README.md). 
