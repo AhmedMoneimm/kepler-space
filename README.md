@@ -1,6 +1,6 @@
 # Space Eagles
 
-Space Eagles is a project created for NASA Space Apps 2024 Universal. It aims to attract people to learn about exoplanets by creating an engaging website and game. The project uses Unreal Engine 4 to make learning about exoplanets, stars, telescopes, and methods of discovering exoplanets fun and exciting.
+Space Eagles is a project created for NASA Space Apps 2024 Universal. It aims to attract people to learn about exoplanets by creating an engaging website and game. The project uses Unreal Engine 5 to make learning about exoplanets, stars, telescopes, and methods of discovering exoplanets fun and exciting.
 
 ## Table of Contents
 - Introduction
